@@ -67,9 +67,12 @@ fun main() {
             properties
         }
         properties.forEach { (uuid, property) ->
-//            if (!knownProperties.containsKey(uuid)) {
+            if (!knownProperties.containsKey(uuid)) {
+                logger.info {
+                    "process=fetch-properties status=new-property operation=$operation url=${property.providerPropertyUrl}"
+                }
                 TelegramClient.notifyNewProperty(property,operation)
-//            }
+            }
         }
 
         PropertyRepository.save(properties, operation)
