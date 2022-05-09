@@ -10,8 +10,10 @@ import java.io.FileWriter
 import java.nio.file.Path
 import java.util.logging.Logger
 import kotlin.io.path.bufferedReader
+import kotlin.io.path.createDirectory
 import kotlin.io.path.createFile
 import kotlin.io.path.exists
+import kotlin.io.path.notExists
 import kotlin.io.path.writer
 import kotlin.system.exitProcess
 
@@ -79,8 +81,13 @@ fun main() {
 }
 
 object PropertyRepository {
+
+    private val outputDirectory = Path.of("output").also {
+        if(it.notExists()) it.createDirectory()
+    }
+
     fun load(operation: String): Map<String, Property> =
-        Path.of("output","$operation.json")
+        outputDirectory.resolve("$operation.json")
             .also { if (!it.exists()) it.createFile() }
             .bufferedReader().let<BufferedReader, Map<String, Property>?> {
                 with(it) {
@@ -89,7 +96,7 @@ object PropertyRepository {
             } ?: mapOf()
 
     fun save(properties: Map<String, Property>, operation: String) {
-        Path.of("output","$operation.json")
+        outputDirectory.resolve("$operation.json")
             .also { if (!it.exists()) it.createFile() }
             .writer()
             .also {
