@@ -22,7 +22,7 @@ fun main() {
     val city = "Barcelona"
     val latitude = 41.401291
     val longitude = 2.197971
-    val radius = 1000
+    val radius = 2000
     val itemsPerPage = 1000
     val operationTypeCode = arrayOf("sale", "rental")
     val apiClient = HousfyApiClient.build()
