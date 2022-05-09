@@ -67,9 +67,9 @@ fun main() {
             properties
         }
         properties.forEach { (uuid, property) ->
-            if (!knownProperties.containsKey(uuid)) {
+//            if (!knownProperties.containsKey(uuid)) {
                 TelegramClient.notifyNewProperty(property,operation)
-            }
+//            }
         }
 
         PropertyRepository.save(properties, operation)
