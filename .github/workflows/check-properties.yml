@@ -27,12 +27,12 @@ jobs:
       with:
         java-version: '11'
         distribution: 'temurin'
-    - name: Property cache
-      uses: actions/cache@v3
-      with:
-        path: |
-          ./output
-        key: ${{ runner.os }}-${{ hashFiles('**/output') }}
+#     - name: Property cache (consecutive runs)
+#       uses: actions/cache@v3
+#       with:
+#         path: |
+#           ./output
+#         key: ${{ runner.os }}-${{ hashFiles('**/output') }}
     - name: Run with gradle
       uses: gradle/gradle-build-action@fec4a42eb0c83154e5c9590748ba8337949c5701
       with:
@@ -40,3 +40,7 @@ jobs:
       env: 
         TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
         CHAT_ID: ${{ secrets.CHAT_ID }}
+    - name: Commit & Push changes
+      uses: actions-js/push@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
