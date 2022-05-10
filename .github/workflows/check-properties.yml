@@ -32,7 +32,7 @@ jobs:
       with:
         path: |
           ./output
-        key: ${{ runner.os }}
+        key: ${{ runner.os }}-${{ hashFiles('./output/**') }}
     - name: Run with gradle
       uses: gradle/gradle-build-action@fec4a42eb0c83154e5c9590748ba8337949c5701
       with:
