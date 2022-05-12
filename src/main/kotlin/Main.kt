@@ -94,7 +94,7 @@ object PropertyRepository {
             .also { if (!it.exists()) it.createFile() }
             .bufferedReader().let<BufferedReader, Map<String, Property>?> {
                 with(it) {
-                    Gson().fromJson(this, object : TypeToken<Map<String, Property>>() {}.type)
+                    gson.fromJson(this, object : TypeToken<Map<String, Property>>() {}.type)
                 }
             } ?: mapOf()
 
@@ -104,9 +104,16 @@ object PropertyRepository {
             .writer()
             .also {
                 with(it) {
-                    Gson().toJson(properties, this)
+                    gson
+                        .toJson(properties, this)
                 }
             }.flush()
+    }
+
+    private val gson by lazy {
+        GsonBuilder()
+            .setPrettyPrinting()
+            .create()
     }
 }
 
