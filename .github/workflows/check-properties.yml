@@ -7,6 +7,9 @@
 
 name: Check new properties
 
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: '0 * * * *'
