@@ -1059,69 +1059,6 @@
     "isReserved": false,
     "isSold": false
   },
-  "572a7891-fe21-411a-97e8-484ab3b5eb4d": {
-    "uuid": "572a7891-fe21-411a-97e8-484ab3b5eb4d",
-    "providerCode": "housfy",
-    "providerPropertyId": 548341,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-ramon-turro-548341",
-    "providerPropertyTitle": "Sensacional piso en Sant Martí",
-    "publishedDate": "2022-03-24T08:34:20Z",
-    "relevance": 200,
-    "typeId": 2,
-    "typeCode": "piso",
-    "locationId": 1796,
-    "sizes": {
-      "size": 79,
-      "sizeBuiltWithoutCommonElements": 79,
-      "sizeBuilt": 79,
-      "sizeUseful": 79
-    },
-    "size": 79,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/548341/548341-housfy-20220323-DD7N2PkKW9-420x280.jpg"
-    ],
-    "numberOfBedrooms": 3,
-    "numberOfBathrooms": 1,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "sale",
-    "isVisible": true,
-    "description": "Sensacional piso en Sant Martí\r\n\r\nHousfy: la agencia inmobiliaria online.\r\n\r\nSe vende piso  en Sant Martí, Barcelona, perfecto para familias o parejas que busquen un lugar cómodo para su día a día.\r\nEl piso fue construido en el año 1999 en La Vila Olímpica del Poblenou. Consta de 79 m2 muy bien distribuidos.\r\n\r\nDetalles del inmueble:\r\n\r\n- Estupendo piso de 79 m2 en La Vila Olímpica del Poblenou. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- La vivienda dispone de 3 habitaciones y 1 baño, muy bien acomodadas.\r\n- Confortable comedor que es un lugar perfecto para descansar tras una jornada de trabajo, siendo además, un espacio agradable estupendo para visitas de amigos y familiares.\r\n- Con una utilitaria cocina en buen estado.\r\n- Exterior.\r\n\r\nLa localización de este piso se sitúa en Barcelona (Barcelona). Una vivienda ideal para aquellos que quieran un cómodo espacio donde vivir con todo lo necesario del día a día a un paso de su casa.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
-    "tags": [
-      23,
-      26,
-      31
-    ],
-    "canScheduleVisits": true,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Sant Martí",
-    "neighborhoodLocationName": "La Vila Olímpica del Poblenou",
-    "streetName": "Carrer de Ramon Turró",
-    "streetNumber": "10 Escalera B",
-    "floor": "00",
-    "door": "02",
-    "floorDoorLabel": "",
-    "latitude": 41.39066315,
-    "longitude": 2.191185,
-    "price": {
-      "amount": 33900000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 429113,
-      "currency": "EUR"
-    },
-    "priceChangePercentage": "-5.83",
-    "isNew": false,
-    "isPriceUpdated": false,
-    "isReserved": false,
-    "isSold": false
-  },
   "df5bd3d1-63f0-4d40-ac74-7eb3c8e78faa": {
     "uuid": "df5bd3d1-63f0-4d40-ac74-7eb3c8e78faa",
     "providerCode": "housfy",
@@ -1306,6 +1243,69 @@
       "currency": "EUR"
     },
     "priceChangePercentage": "43.86",
+    "isNew": false,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
+  },
+  "572a7891-fe21-411a-97e8-484ab3b5eb4d": {
+    "uuid": "572a7891-fe21-411a-97e8-484ab3b5eb4d",
+    "providerCode": "housfy",
+    "providerPropertyId": 548341,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-ramon-turro-548341",
+    "providerPropertyTitle": "Sensacional piso en Sant Martí",
+    "publishedDate": "2022-03-24T08:34:20Z",
+    "relevance": 200,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1796,
+    "sizes": {
+      "size": 79,
+      "sizeBuiltWithoutCommonElements": 79,
+      "sizeBuilt": 79,
+      "sizeUseful": 79
+    },
+    "size": 79,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/548341/548341-housfy-20220323-DD7N2PkKW9-420x280.jpg"
+    ],
+    "numberOfBedrooms": 3,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "Sensacional piso en Sant Martí\r\n\r\nHousfy: la agencia inmobiliaria online.\r\n\r\nSe vende piso  en Sant Martí, Barcelona, perfecto para familias o parejas que busquen un lugar cómodo para su día a día.\r\nEl piso fue construido en el año 1999 en La Vila Olímpica del Poblenou. Consta de 79 m2 muy bien distribuidos.\r\n\r\nDetalles del inmueble:\r\n\r\n- Estupendo piso de 79 m2 en La Vila Olímpica del Poblenou. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- La vivienda dispone de 3 habitaciones y 1 baño, muy bien acomodadas.\r\n- Confortable comedor que es un lugar perfecto para descansar tras una jornada de trabajo, siendo además, un espacio agradable estupendo para visitas de amigos y familiares.\r\n- Con una utilitaria cocina en buen estado.\r\n- Exterior.\r\n\r\nLa localización de este piso se sitúa en Barcelona (Barcelona). Una vivienda ideal para aquellos que quieran un cómodo espacio donde vivir con todo lo necesario del día a día a un paso de su casa.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
+    "tags": [
+      23,
+      26,
+      31
+    ],
+    "canScheduleVisits": true,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Sant Martí",
+    "neighborhoodLocationName": "La Vila Olímpica del Poblenou",
+    "streetName": "Carrer de Ramon Turró",
+    "streetNumber": "10 Escalera B",
+    "floor": "00",
+    "door": "02",
+    "floorDoorLabel": "",
+    "latitude": 41.39066315,
+    "longitude": 2.191185,
+    "price": {
+      "amount": 33900000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 429113,
+      "currency": "EUR"
+    },
+    "priceChangePercentage": "-5.83",
     "isNew": false,
     "isPriceUpdated": false,
     "isReserved": false,
