@@ -932,68 +932,6 @@
     "isReserved": false,
     "isSold": false
   },
-  "f0bb30df-c059-4a36-8f86-5d16ec90c857": {
-    "uuid": "f0bb30df-c059-4a36-8f86-5d16ec90c857",
-    "providerCode": "housfy",
-    "providerPropertyId": 540858,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-napols-540858",
-    "providerPropertyTitle": "Acogedor piso en Sant Martí",
-    "publishedDate": "2022-02-28T08:21:57Z",
-    "relevance": 300,
-    "typeId": 2,
-    "typeCode": "piso",
-    "locationId": 1793,
-    "sizes": {
-      "size": 55,
-      "sizeBuiltWithoutCommonElements": 55,
-      "sizeBuilt": 55,
-      "sizeUseful": 55
-    },
-    "size": 55,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/540858/540858-housfy-20220225-CPpy2y3Cbj-420x280.jpg"
-    ],
-    "numberOfBedrooms": 2,
-    "numberOfBathrooms": 1,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "sale",
-    "isVisible": true,
-    "description": "Acogedor piso en Sant Martí\r\n\r\nCompraventa entre particulares con Housfy.\r\n\r\nSe vende piso directamente del propietario en Sant Martí, Barcelona, perfecto para familias o parejas que busquen un lugar cómodo para su día a día. Construido en 1939 en Barcelona. Con una distribución ideal para aprovechar al máximo sus 55 m2.\r\n\r\nCaracterísticas:\r\n\r\n- Admirable piso de 55 m2 en El Parc i la Llacuna del Poblenou. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- La vivienda dispone de 2 habitaciones y 1 baño.\r\n- Confortable salón con amplio espacio de luz natural, creando un precioso y único espacio.\r\n- Exterior.\r\n- Con una efectiva cocina en buen estado.\r\n- Con ascensor\r\n\r\nLa situación de este piso se encuentra en Barcelona, provincia de Barcelona. Con fácil acceso y servicios que facilitarán y mejorarán tu día a día.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
-    "tags": [
-      23,
-      26
-    ],
-    "canScheduleVisits": true,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Sant Martí",
-    "neighborhoodLocationName": "El Parc i la Llacuna del Poblenou",
-    "streetName": "Carrer de Nàpols",
-    "streetNumber": "2",
-    "floor": "PR",
-    "door": "1º2º",
-    "floorDoorLabel": "",
-    "latitude": 41.39088821,
-    "longitude": 2.18561125,
-    "price": {
-      "amount": 21500000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 390909,
-      "currency": "EUR"
-    },
-    "priceChangePercentage": "-1.83",
-    "isNew": false,
-    "isPriceUpdated": false,
-    "isReserved": false,
-    "isSold": false
-  },
   "9bb27dd0-5c0c-443f-85e8-87b6a504bca4": {
     "uuid": "9bb27dd0-5c0c-443f-85e8-87b6a504bca4",
     "providerCode": "housfy",
@@ -1051,6 +989,68 @@
       "amount": 386075,
       "currency": "EUR"
     },
+    "isNew": false,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
+  },
+  "f0bb30df-c059-4a36-8f86-5d16ec90c857": {
+    "uuid": "f0bb30df-c059-4a36-8f86-5d16ec90c857",
+    "providerCode": "housfy",
+    "providerPropertyId": 540858,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-napols-540858",
+    "providerPropertyTitle": "Acogedor piso en Sant Martí",
+    "publishedDate": "2022-02-28T08:21:57Z",
+    "relevance": 300,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1793,
+    "sizes": {
+      "size": 55,
+      "sizeBuiltWithoutCommonElements": 55,
+      "sizeBuilt": 55,
+      "sizeUseful": 55
+    },
+    "size": 55,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/540858/540858-housfy-20220225-CPpy2y3Cbj-420x280.jpg"
+    ],
+    "numberOfBedrooms": 2,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "Acogedor piso en Sant Martí\r\n\r\nCompraventa entre particulares con Housfy.\r\n\r\nSe vende piso directamente del propietario en Sant Martí, Barcelona, perfecto para familias o parejas que busquen un lugar cómodo para su día a día. Construido en 1939 en Barcelona. Con una distribución ideal para aprovechar al máximo sus 55 m2.\r\n\r\nCaracterísticas:\r\n\r\n- Admirable piso de 55 m2 en El Parc i la Llacuna del Poblenou. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- La vivienda dispone de 2 habitaciones y 1 baño.\r\n- Confortable salón con amplio espacio de luz natural, creando un precioso y único espacio.\r\n- Exterior.\r\n- Con una efectiva cocina en buen estado.\r\n- Con ascensor\r\n\r\nLa situación de este piso se encuentra en Barcelona, provincia de Barcelona. Con fácil acceso y servicios que facilitarán y mejorarán tu día a día.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
+    "tags": [
+      23,
+      26
+    ],
+    "canScheduleVisits": true,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Sant Martí",
+    "neighborhoodLocationName": "El Parc i la Llacuna del Poblenou",
+    "streetName": "Carrer de Nàpols",
+    "streetNumber": "2",
+    "floor": "PR",
+    "door": "1º2º",
+    "floorDoorLabel": "",
+    "latitude": 41.39088821,
+    "longitude": 2.18561125,
+    "price": {
+      "amount": 21500000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 390909,
+      "currency": "EUR"
+    },
+    "priceChangePercentage": "-1.83",
     "isNew": false,
     "isPriceUpdated": false,
     "isReserved": false,
