@@ -870,68 +870,6 @@
     "isReserved": false,
     "isSold": false
   },
-  "9bb27dd0-5c0c-443f-85e8-87b6a504bca4": {
-    "uuid": "9bb27dd0-5c0c-443f-85e8-87b6a504bca4",
-    "providerCode": "housfy",
-    "providerPropertyId": 504149,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/avinguda-diagonal-504149",
-    "providerPropertyTitle": "Admirable piso con ascensor en Sant Martí",
-    "publishedDate": "2021-12-20T11:51:31Z",
-    "relevance": 300,
-    "typeId": 2,
-    "typeCode": "piso",
-    "locationId": 1789,
-    "sizes": {
-      "size": 79,
-      "sizeBuiltWithoutCommonElements": 79,
-      "sizeBuilt": 79,
-      "sizeUseful": 79
-    },
-    "size": 79,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/504149/504149-housfy-20211215-99bi6ZtJIC-420x280.jpg"
-    ],
-    "numberOfBedrooms": 3,
-    "numberOfBathrooms": 1,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "sale",
-    "isVisible": true,
-    "description": "Admirable piso con ascensor en Sant Martí.\r\n\r\nCompra tu piso con Housfy.\r\n\r\nSe vende piso directamente del propietario en Sant Martí, Barcelona, una vivienda luminosa y ubicada en un entorno idóneo para disfrutarlo.\r\nEste genial piso fue construido en el año 1970. Con una distribución ideal para aprovechar al máximo sus 79 m2.\r\n\r\nDetalles del inmueble:\r\n\r\n- Acogedor piso de 79 m2 en Diagonal Mar i el Front Marítim del Poblenou. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Podemos disfrutar de 3 habitaciones y 1 baño, perfecto para una familia.\r\n- Cómodo comedor que te proporcionará el relax diario, un lugar perfecto para descansar en los ratos libres.\r\n- Una puerta blindada para garantizar su seguridad en todo momento.\r\n- Con una funcional cocina en buen estado y equipada con todo lo necesario.\r\n- Aire acondicionado y calefacción para todas las estaciones del año.\r\n- Exterior.\r\n- Ascensor.\r\n\r\nRespecto a la ubicación, se sitúa en Barcelona. Con fácil acceso y servicios que facilitarán y mejorarán tu día a día.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
-    "tags": [
-      23,
-      26,
-      31
-    ],
-    "canScheduleVisits": true,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Sant Martí",
-    "neighborhoodLocationName": "Diagonal Mar i el Front Marítim del Poblenou",
-    "streetName": "Avinguda Diagonal",
-    "streetNumber": "50",
-    "floor": "01",
-    "door": "02",
-    "floorDoorLabel": "",
-    "latitude": 41.40994644,
-    "longitude": 2.21169019,
-    "price": {
-      "amount": 30500000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 386075,
-      "currency": "EUR"
-    },
-    "isNew": false,
-    "isPriceUpdated": false,
-    "isReserved": false,
-    "isSold": false
-  },
   "0c19f529-c22a-4ce0-975e-a6e92cacab89": {
     "uuid": "0c19f529-c22a-4ce0-975e-a6e92cacab89",
     "providerCode": "housfy",
@@ -989,6 +927,68 @@
       "currency": "EUR"
     },
     "priceChangePercentage": "-4.44",
+    "isNew": false,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
+  },
+  "9bb27dd0-5c0c-443f-85e8-87b6a504bca4": {
+    "uuid": "9bb27dd0-5c0c-443f-85e8-87b6a504bca4",
+    "providerCode": "housfy",
+    "providerPropertyId": 504149,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/avinguda-diagonal-504149",
+    "providerPropertyTitle": "Admirable piso con ascensor en Sant Martí",
+    "publishedDate": "2021-12-20T11:51:31Z",
+    "relevance": 300,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1789,
+    "sizes": {
+      "size": 79,
+      "sizeBuiltWithoutCommonElements": 79,
+      "sizeBuilt": 79,
+      "sizeUseful": 79
+    },
+    "size": 79,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/504149/504149-housfy-20211215-99bi6ZtJIC-420x280.jpg"
+    ],
+    "numberOfBedrooms": 3,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "Admirable piso con ascensor en Sant Martí.\r\n\r\nCompra tu piso con Housfy.\r\n\r\nSe vende piso directamente del propietario en Sant Martí, Barcelona, una vivienda luminosa y ubicada en un entorno idóneo para disfrutarlo.\r\nEste genial piso fue construido en el año 1970. Con una distribución ideal para aprovechar al máximo sus 79 m2.\r\n\r\nDetalles del inmueble:\r\n\r\n- Acogedor piso de 79 m2 en Diagonal Mar i el Front Marítim del Poblenou. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Podemos disfrutar de 3 habitaciones y 1 baño, perfecto para una familia.\r\n- Cómodo comedor que te proporcionará el relax diario, un lugar perfecto para descansar en los ratos libres.\r\n- Una puerta blindada para garantizar su seguridad en todo momento.\r\n- Con una funcional cocina en buen estado y equipada con todo lo necesario.\r\n- Aire acondicionado y calefacción para todas las estaciones del año.\r\n- Exterior.\r\n- Ascensor.\r\n\r\nRespecto a la ubicación, se sitúa en Barcelona. Con fácil acceso y servicios que facilitarán y mejorarán tu día a día.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
+    "tags": [
+      23,
+      26,
+      31
+    ],
+    "canScheduleVisits": true,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Sant Martí",
+    "neighborhoodLocationName": "Diagonal Mar i el Front Marítim del Poblenou",
+    "streetName": "Avinguda Diagonal",
+    "streetNumber": "50",
+    "floor": "01",
+    "door": "02",
+    "floorDoorLabel": "",
+    "latitude": 41.40994644,
+    "longitude": 2.21169019,
+    "price": {
+      "amount": 30500000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 386075,
+      "currency": "EUR"
+    },
     "isNew": false,
     "isPriceUpdated": false,
     "isReserved": false,
@@ -1113,70 +1113,6 @@
       "amount": 384615,
       "currency": "EUR"
     },
-    "isNew": false,
-    "isPriceUpdated": false,
-    "isReserved": false,
-    "isSold": false
-  },
-  "976c87d0-7957-4889-a695-11c0577d570d": {
-    "uuid": "976c87d0-7957-4889-a695-11c0577d570d",
-    "providerCode": "housfy",
-    "providerPropertyId": 555835,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-del-clot-555835",
-    "providerPropertyTitle": "Estupendo piso en Sant Martí",
-    "publishedDate": "2022-03-23T09:59:04Z",
-    "relevance": 200,
-    "typeId": 2,
-    "typeCode": "piso",
-    "locationId": 1792,
-    "sizes": {
-      "size": 77,
-      "sizeBuiltWithoutCommonElements": 77,
-      "sizeBuilt": 77,
-      "sizeUseful": 77
-    },
-    "size": 77,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/555835/555835-housfy-20220323-K4WgvIR5Vv-420x280.jpg"
-    ],
-    "numberOfBedrooms": 3,
-    "numberOfBathrooms": 1,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "sale",
-    "isVisible": true,
-    "description": "Estupendo piso en Sant Martí.\r\n\r\nHousfy, compraventa entre particulares.\r\n\r\nHomy vende piso directamente del propietario en Sant Martí, Barcelona, un espacio para disfrutar en tu día a día.\r\nConstruido en el año 1975. Con una distribución ideal para aprovechar al máximo sus 77 m2.\r\n\r\nDetalles del inmueble:\r\n\r\n- Encantador piso de 77 m2 en El Clot. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- En este piso encontraremos 3 habitaciones y 1 baño, perfecto para una familia.\r\n- Práctico salón-comedor con amplio espacio de luz natural, un lugar perfecto para descansar en los ratos libres.\r\n- Con una ventajosa cocina en perfecto estado y equipada con todo lo necesario.\r\n- Exterior.\r\n\r\nSobre la localización, se sitúa en Barcelona. Una vivienda ideal para aquellos que quieran un cómodo espacio donde vivir con todo lo necesario del día a día a un paso de su casa.\r\n\r\n* Las imágenes que se muestran en el anuncio forman parte de un proyecto de reforma ya empezado y pueden diferir ligeramente del producto final. Se descontarán 3.000 € del precio de final en el caso de que se reserve el piso antes de que se finalice la reforma.\r\n\r\n* El inmueble se entrega sin amueblar.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
-    "tags": [
-      23,
-      25,
-      31,
-      32
-    ],
-    "canScheduleVisits": true,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Sant Martí",
-    "neighborhoodLocationName": "El Clot",
-    "streetName": "Carrer del Clot",
-    "streetNumber": "196",
-    "floor": "03",
-    "door": "06",
-    "floorDoorLabel": "",
-    "latitude": 41.4138298,
-    "longitude": 2.19064355,
-    "price": {
-      "amount": 27900000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 362337,
-      "currency": "EUR"
-    },
-    "priceChangePercentage": "-2.11",
     "isNew": false,
     "isPriceUpdated": false,
     "isReserved": false,
@@ -1366,6 +1302,70 @@
       "amount": 403614,
       "currency": "EUR"
     },
+    "isNew": false,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
+  },
+  "976c87d0-7957-4889-a695-11c0577d570d": {
+    "uuid": "976c87d0-7957-4889-a695-11c0577d570d",
+    "providerCode": "housfy",
+    "providerPropertyId": 555835,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-del-clot-555835",
+    "providerPropertyTitle": "Estupendo piso en Sant Martí",
+    "publishedDate": "2022-03-23T09:59:04Z",
+    "relevance": 200,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1792,
+    "sizes": {
+      "size": 77,
+      "sizeBuiltWithoutCommonElements": 77,
+      "sizeBuilt": 77,
+      "sizeUseful": 77
+    },
+    "size": 77,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/555835/555835-housfy-20220323-K4WgvIR5Vv-420x280.jpg"
+    ],
+    "numberOfBedrooms": 3,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "Estupendo piso en Sant Martí.\r\n\r\nHousfy, compraventa entre particulares.\r\n\r\nHomy vende piso directamente del propietario en Sant Martí, Barcelona, un espacio para disfrutar en tu día a día.\r\nConstruido en el año 1975. Con una distribución ideal para aprovechar al máximo sus 77 m2.\r\n\r\nDetalles del inmueble:\r\n\r\n- Encantador piso de 77 m2 en El Clot. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- En este piso encontraremos 3 habitaciones y 1 baño, perfecto para una familia.\r\n- Práctico salón-comedor con amplio espacio de luz natural, un lugar perfecto para descansar en los ratos libres.\r\n- Con una ventajosa cocina en perfecto estado y equipada con todo lo necesario.\r\n- Exterior.\r\n\r\nSobre la localización, se sitúa en Barcelona. Una vivienda ideal para aquellos que quieran un cómodo espacio donde vivir con todo lo necesario del día a día a un paso de su casa.\r\n\r\n* Las imágenes que se muestran en el anuncio forman parte de un proyecto de reforma ya empezado y pueden diferir ligeramente del producto final. Se descontarán 3.000 € del precio de final en el caso de que se reserve el piso antes de que se finalice la reforma.\r\n\r\n* El inmueble se entrega sin amueblar.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
+    "tags": [
+      23,
+      25,
+      31,
+      32
+    ],
+    "canScheduleVisits": true,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Sant Martí",
+    "neighborhoodLocationName": "El Clot",
+    "streetName": "Carrer del Clot",
+    "streetNumber": "196",
+    "floor": "03",
+    "door": "06",
+    "floorDoorLabel": "",
+    "latitude": 41.4138298,
+    "longitude": 2.19064355,
+    "price": {
+      "amount": 27900000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 362337,
+      "currency": "EUR"
+    },
+    "priceChangePercentage": "-2.11",
     "isNew": false,
     "isPriceUpdated": false,
     "isReserved": false,
