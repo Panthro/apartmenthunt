@@ -185,65 +185,6 @@
     "isReserved": false,
     "isSold": false
   },
-  "b54e1eca-c5dc-4521-9a6f-c00699088db3": {
-    "uuid": "b54e1eca-c5dc-4521-9a6f-c00699088db3",
-    "providerCode": "housfy",
-    "providerPropertyId": 520537,
-    "providerPropertyUrl": "https://housfy.com/comprar-bajo/barcelona/carrer-del-taulat-520537",
-    "providerPropertyTitle": "ESPECTAULAR LOFT CERCA DE LA PLAYA",
-    "publishedDate": "2022-03-10T13:14:48Z",
-    "relevance": 1651484480,
-    "typeId": 5,
-    "typeCode": "bajo",
-    "locationId": 1794,
-    "sizes": {
-      "size": 57,
-      "sizeBuiltWithoutCommonElements": 57,
-      "sizeBuilt": 62,
-      "sizeUseful": 62
-    },
-    "size": 57,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/520537/520537-housfy-20220310-oHV0QcPpyA-420x280.jpg"
-    ],
-    "numberOfBedrooms": 1,
-    "numberOfBathrooms": 1,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "sale",
-    "isVisible": true,
-    "description": "ESPECTAULAR LOFT CERCA DE LA PLAYA \r\n\r\n\r\nHousfy. vende bajo directamente del propietario en carrer Taulat, Barcelona, un loft con decoración muy actual y ubicada en un entorno idóneo para disfrutarlo. Construido en el año 1958 y reformado recientemente. \r\n\r\n\r\nHa sido diseñado y reformado con los mejores acabados, incorporando tecnología Smart Home de Legrand con control de voz, incluyendo iluminación directa e indirecta, Smart TV de 65’ conectada, Alexa, mecanismos eléctricos inteligentes Bticino (domótica), video-portero digital con control remoto. \r\nAbsolutamente habilitado para el teletrabajo con red interna de voz y datos, router wifi, fibra óptica instalada y en funcionamiento.\r\nEntrada: Jardín verde interior pavimentado en madera natural de pino, paredes de piedra original retro iluminadas, equipado con sillas y mesa de jardín y espacio para bicicletas, patinetes, tablas de surf, etc.\r\nZona relax: gran sofá de terciopelo con chaise longue, mesa de centro, TV.\r\nZona de trabajo: gran mesa de 3 m de largo que se divide en 2 mesas individuales, carril técnico con focos, lámparas y gran armario a medida.\r\nCocina abierta con mobiliario italiano totalmente equipada con lavavajillas, horno microondas, inducción, campana oculta, grifería extraíble, encimeras porcelánicas de alta calidad y resistencia, nevera vintage con congelador. \r\nLavadero separado con lavadora, termo y utensilios de limpieza.\r\nBaño completo: ducha con cromoterapia multicolor, mampara con vidrio de seguridad, revestimiento de paredes exclusivo combinado con ladrillo visto original, inodoro suspendido, mueble lavabo acabado en teca, espejo gran formato retro iluminado, ventana original de madera y techo con vigas de madera y bóveda catalana. \r\nSala anexa equipada con gran vestidor en L, zona de cama de 1,6 m y mesitas de mármol negro natural, cabezal a medida retro iluminado y zona de estudio con mesa a medida de 4,5m con instalaciones de voz y datos, iluminación directa e indirecta con lámparas de diseño, grandes ventanales con luz natural y ventilador en el techo.\r\nClimatización mediante aire acondicionado caliente y frío y radiadores.\r\nCarpinterías exteriores de aluminio con rotura térmica y vidrio de cámara 4/12/6. Aislamiento térmico y acústico acabo en ral texturado.\r\nPuerta exterior revestida con listones de pino macizo con tratamiento cuperizado para exteriores.  \r\n\r\nEste fantástico loft está muy bien situado, a dos calles de la playa de la Mar Bella, la zona se está convirtiendo en el nuevo centro de tecnología e innovación de Barcelona.\r\nEstá muy bien comunicado por transporte público, ya que se encuentra a pocos minutos a pie de la Avinguda Diagonal, la línea amarilla de metro, el centro comercial Glòries, la Rambla Poblenou y el Parque del Poblenou.\r\n\r\nSobre el 22@ - El Poblenou\r\nEste es el barrio que más se ha transformado desde principios de este siglo.\r\nHa pasado de ser una zona industrial a convertirse en un barrio de moda, es el centro de las empresas tecnológicas y una zona residencial con alta demanda.\r\nCon hoteles de 5 estrellas, campus universitarios y edificios residenciales. Además de estos edificios modernos lo que sorprende en el Poble Nou, es el contraste entre lo nuevo y lo antiguo. No es raro encontrar edificios y fábricas clásicas de principios del siglo XX fusionándose con nuevos iconos mundiales de la arquitectura. Es una zona ideal para vivir especialmente para familias jóvenes.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
-    "tags": [],
-    "canScheduleVisits": true,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Sant Martí",
-    "neighborhoodLocationName": "El Poblenou",
-    "streetName": "Carrer del Taulat",
-    "streetNumber": "131",
-    "floor": "local",
-    "door": "1",
-    "floorDoorLabel": "",
-    "latitude": 41.40015411,
-    "longitude": 2.2063942,
-    "price": {
-      "amount": 25900000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 454385,
-      "currency": "EUR"
-    },
-    "priceChangePercentage": "-4.07",
-    "isNew": false,
-    "isPriceUpdated": false,
-    "isReserved": false,
-    "isSold": false
-  },
   "c67b7f15-7d64-4279-97d4-30d83c6c0aeb": {
     "uuid": "c67b7f15-7d64-4279-97d4-30d83c6c0aeb",
     "providerCode": "housfy",
@@ -368,67 +309,6 @@
     "isReserved": false,
     "isSold": false
   },
-  "0fbca564-8e69-4b6b-a6a4-0dc4ac10a3ba": {
-    "uuid": "0fbca564-8e69-4b6b-a6a4-0dc4ac10a3ba",
-    "providerCode": "housfy",
-    "providerPropertyId": 551157,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-roc-boronat-551157",
-    "providerPropertyTitle": "Acogedor ático en Sant Martí",
-    "publishedDate": "2022-03-17T16:58:14Z",
-    "relevance": 800,
-    "typeId": 2,
-    "typeCode": "piso",
-    "locationId": 1794,
-    "sizes": {
-      "size": 46,
-      "sizeBuiltWithoutCommonElements": 46,
-      "sizeBuilt": 46,
-      "sizeUseful": 46
-    },
-    "size": 46,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/551157/551157-housfy-20220317-SdZtn9Hbmc-420x280.jpg"
-    ],
-    "numberOfBedrooms": 2,
-    "numberOfBathrooms": 1,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "sale",
-    "isVisible": true,
-    "description": "Acogedor ático en Sant Martí.\r\n\r\nCompra tu piso con Housfy.\r\n\r\nÁtico directamente del propietario en Sant Martí, Barcelona, perfecto para familias o parejas que busquen un lugar cómodo para su día a día.\r\nEl piso fue construido en el año 1954. Sus 46 m2 están perfectamente distribuidos, creando un amplio y abierto espacio con mucha luz y con un diseño muy especial.\r\n\r\nCaracterísticas:\r\n\r\n- Encantador piso de 46 m2 en El Poblenou. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Esta vivienda cuenta con 1 habitación y 1 baño.\r\n- Práctico salón amplio y luminoso, siendo además, un espacio agradable y estupendo para visitas de amigos y familiares.\r\n- Con una apropiada cocina en buen estado y equipada con todo lo necesario.\r\n- Exterior.\r\n- Aire acondicionado bomba frio/calor. \r\n- Ascensor.\r\n\r\nSobre la localización, está localizado en Barcelona. Con fácil acceso y servicios que facilitarán y mejorarán tu día a día.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
-    "tags": [
-      23,
-      26
-    ],
-    "canScheduleVisits": true,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Sant Martí",
-    "neighborhoodLocationName": "El Poblenou",
-    "streetName": "Carrer de Roc Boronat",
-    "streetNumber": "5",
-    "floor": "ático",
-    "door": "05",
-    "floorDoorLabel": "",
-    "latitude": 41.39693832,
-    "longitude": 2.20203924,
-    "price": {
-      "amount": 28000000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 608695,
-      "currency": "EUR"
-    },
-    "isNew": false,
-    "isPriceUpdated": false,
-    "isReserved": false,
-    "isSold": false
-  },
   "e98bdeb5-74d8-4d24-b63c-af12f9ec87f0": {
     "uuid": "e98bdeb5-74d8-4d24-b63c-af12f9ec87f0",
     "providerCode": "housfy",
@@ -548,6 +428,67 @@
       "currency": "EUR"
     },
     "priceChangePercentage": "-11.43",
+    "isNew": false,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
+  },
+  "0fbca564-8e69-4b6b-a6a4-0dc4ac10a3ba": {
+    "uuid": "0fbca564-8e69-4b6b-a6a4-0dc4ac10a3ba",
+    "providerCode": "housfy",
+    "providerPropertyId": 551157,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-roc-boronat-551157",
+    "providerPropertyTitle": "Acogedor ático en Sant Martí",
+    "publishedDate": "2022-03-17T16:58:14Z",
+    "relevance": 600,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1794,
+    "sizes": {
+      "size": 46,
+      "sizeBuiltWithoutCommonElements": 46,
+      "sizeBuilt": 46,
+      "sizeUseful": 46
+    },
+    "size": 46,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/551157/551157-housfy-20220317-SdZtn9Hbmc-420x280.jpg"
+    ],
+    "numberOfBedrooms": 2,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "Acogedor ático en Sant Martí.\r\n\r\nCompra tu piso con Housfy.\r\n\r\nÁtico directamente del propietario en Sant Martí, Barcelona, perfecto para familias o parejas que busquen un lugar cómodo para su día a día.\r\nEl piso fue construido en el año 1954. Sus 46 m2 están perfectamente distribuidos, creando un amplio y abierto espacio con mucha luz y con un diseño muy especial.\r\n\r\nCaracterísticas:\r\n\r\n- Encantador piso de 46 m2 en El Poblenou. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Esta vivienda cuenta con 1 habitación y 1 baño.\r\n- Práctico salón amplio y luminoso, siendo además, un espacio agradable y estupendo para visitas de amigos y familiares.\r\n- Con una apropiada cocina en buen estado y equipada con todo lo necesario.\r\n- Exterior.\r\n- Aire acondicionado bomba frio/calor. \r\n- Ascensor.\r\n\r\nSobre la localización, está localizado en Barcelona. Con fácil acceso y servicios que facilitarán y mejorarán tu día a día.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
+    "tags": [
+      23,
+      26
+    ],
+    "canScheduleVisits": true,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Sant Martí",
+    "neighborhoodLocationName": "El Poblenou",
+    "streetName": "Carrer de Roc Boronat",
+    "streetNumber": "5",
+    "floor": "ático",
+    "door": "05",
+    "floorDoorLabel": "",
+    "latitude": 41.39693832,
+    "longitude": 2.20203924,
+    "price": {
+      "amount": 28000000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 608695,
+      "currency": "EUR"
+    },
     "isNew": false,
     "isPriceUpdated": false,
     "isReserved": false,
@@ -932,6 +873,65 @@
     "isReserved": false,
     "isSold": false
   },
+  "b54e1eca-c5dc-4521-9a6f-c00699088db3": {
+    "uuid": "b54e1eca-c5dc-4521-9a6f-c00699088db3",
+    "providerCode": "housfy",
+    "providerPropertyId": 520537,
+    "providerPropertyUrl": "https://housfy.com/comprar-bajo/barcelona/carrer-del-taulat-520537",
+    "providerPropertyTitle": "ESPECTAULAR LOFT CERCA DE LA PLAYA",
+    "publishedDate": "2022-03-10T13:14:48Z",
+    "relevance": 300,
+    "typeId": 5,
+    "typeCode": "bajo",
+    "locationId": 1794,
+    "sizes": {
+      "size": 57,
+      "sizeBuiltWithoutCommonElements": 57,
+      "sizeBuilt": 62,
+      "sizeUseful": 62
+    },
+    "size": 57,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/520537/520537-housfy-20220310-oHV0QcPpyA-420x280.jpg"
+    ],
+    "numberOfBedrooms": 1,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "ESPECTAULAR LOFT CERCA DE LA PLAYA \r\n\r\n\r\nHousfy. vende bajo directamente del propietario en carrer Taulat, Barcelona, un loft con decoración muy actual y ubicada en un entorno idóneo para disfrutarlo. Construido en el año 1958 y reformado recientemente. \r\n\r\n\r\nHa sido diseñado y reformado con los mejores acabados, incorporando tecnología Smart Home de Legrand con control de voz, incluyendo iluminación directa e indirecta, Smart TV de 65’ conectada, Alexa, mecanismos eléctricos inteligentes Bticino (domótica), video-portero digital con control remoto. \r\nAbsolutamente habilitado para el teletrabajo con red interna de voz y datos, router wifi, fibra óptica instalada y en funcionamiento.\r\nEntrada: Jardín verde interior pavimentado en madera natural de pino, paredes de piedra original retro iluminadas, equipado con sillas y mesa de jardín y espacio para bicicletas, patinetes, tablas de surf, etc.\r\nZona relax: gran sofá de terciopelo con chaise longue, mesa de centro, TV.\r\nZona de trabajo: gran mesa de 3 m de largo que se divide en 2 mesas individuales, carril técnico con focos, lámparas y gran armario a medida.\r\nCocina abierta con mobiliario italiano totalmente equipada con lavavajillas, horno microondas, inducción, campana oculta, grifería extraíble, encimeras porcelánicas de alta calidad y resistencia, nevera vintage con congelador. \r\nLavadero separado con lavadora, termo y utensilios de limpieza.\r\nBaño completo: ducha con cromoterapia multicolor, mampara con vidrio de seguridad, revestimiento de paredes exclusivo combinado con ladrillo visto original, inodoro suspendido, mueble lavabo acabado en teca, espejo gran formato retro iluminado, ventana original de madera y techo con vigas de madera y bóveda catalana. \r\nSala anexa equipada con gran vestidor en L, zona de cama de 1,6 m y mesitas de mármol negro natural, cabezal a medida retro iluminado y zona de estudio con mesa a medida de 4,5m con instalaciones de voz y datos, iluminación directa e indirecta con lámparas de diseño, grandes ventanales con luz natural y ventilador en el techo.\r\nClimatización mediante aire acondicionado caliente y frío y radiadores.\r\nCarpinterías exteriores de aluminio con rotura térmica y vidrio de cámara 4/12/6. Aislamiento térmico y acústico acabo en ral texturado.\r\nPuerta exterior revestida con listones de pino macizo con tratamiento cuperizado para exteriores.  \r\n\r\nEste fantástico loft está muy bien situado, a dos calles de la playa de la Mar Bella, la zona se está convirtiendo en el nuevo centro de tecnología e innovación de Barcelona.\r\nEstá muy bien comunicado por transporte público, ya que se encuentra a pocos minutos a pie de la Avinguda Diagonal, la línea amarilla de metro, el centro comercial Glòries, la Rambla Poblenou y el Parque del Poblenou.\r\n\r\nSobre el 22@ - El Poblenou\r\nEste es el barrio que más se ha transformado desde principios de este siglo.\r\nHa pasado de ser una zona industrial a convertirse en un barrio de moda, es el centro de las empresas tecnológicas y una zona residencial con alta demanda.\r\nCon hoteles de 5 estrellas, campus universitarios y edificios residenciales. Además de estos edificios modernos lo que sorprende en el Poble Nou, es el contraste entre lo nuevo y lo antiguo. No es raro encontrar edificios y fábricas clásicas de principios del siglo XX fusionándose con nuevos iconos mundiales de la arquitectura. Es una zona ideal para vivir especialmente para familias jóvenes.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
+    "tags": [],
+    "canScheduleVisits": true,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Sant Martí",
+    "neighborhoodLocationName": "El Poblenou",
+    "streetName": "Carrer del Taulat",
+    "streetNumber": "131",
+    "floor": "local",
+    "door": "1",
+    "floorDoorLabel": "",
+    "latitude": 41.40015411,
+    "longitude": 2.2063942,
+    "price": {
+      "amount": 25900000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 454385,
+      "currency": "EUR"
+    },
+    "priceChangePercentage": "-4.07",
+    "isNew": false,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
+  },
   "9bb27dd0-5c0c-443f-85e8-87b6a504bca4": {
     "uuid": "9bb27dd0-5c0c-443f-85e8-87b6a504bca4",
     "providerCode": "housfy",
@@ -989,68 +989,6 @@
       "amount": 386075,
       "currency": "EUR"
     },
-    "isNew": false,
-    "isPriceUpdated": false,
-    "isReserved": false,
-    "isSold": false
-  },
-  "f0bb30df-c059-4a36-8f86-5d16ec90c857": {
-    "uuid": "f0bb30df-c059-4a36-8f86-5d16ec90c857",
-    "providerCode": "housfy",
-    "providerPropertyId": 540858,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-napols-540858",
-    "providerPropertyTitle": "Acogedor piso en Sant Martí",
-    "publishedDate": "2022-02-28T08:21:57Z",
-    "relevance": 300,
-    "typeId": 2,
-    "typeCode": "piso",
-    "locationId": 1793,
-    "sizes": {
-      "size": 55,
-      "sizeBuiltWithoutCommonElements": 55,
-      "sizeBuilt": 55,
-      "sizeUseful": 55
-    },
-    "size": 55,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/540858/540858-housfy-20220225-CPpy2y3Cbj-420x280.jpg"
-    ],
-    "numberOfBedrooms": 2,
-    "numberOfBathrooms": 1,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "sale",
-    "isVisible": true,
-    "description": "Acogedor piso en Sant Martí\r\n\r\nCompraventa entre particulares con Housfy.\r\n\r\nSe vende piso directamente del propietario en Sant Martí, Barcelona, perfecto para familias o parejas que busquen un lugar cómodo para su día a día. Construido en 1939 en Barcelona. Con una distribución ideal para aprovechar al máximo sus 55 m2.\r\n\r\nCaracterísticas:\r\n\r\n- Admirable piso de 55 m2 en El Parc i la Llacuna del Poblenou. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- La vivienda dispone de 2 habitaciones y 1 baño.\r\n- Confortable salón con amplio espacio de luz natural, creando un precioso y único espacio.\r\n- Exterior.\r\n- Con una efectiva cocina en buen estado.\r\n- Con ascensor\r\n\r\nLa situación de este piso se encuentra en Barcelona, provincia de Barcelona. Con fácil acceso y servicios que facilitarán y mejorarán tu día a día.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
-    "tags": [
-      23,
-      26
-    ],
-    "canScheduleVisits": true,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Sant Martí",
-    "neighborhoodLocationName": "El Parc i la Llacuna del Poblenou",
-    "streetName": "Carrer de Nàpols",
-    "streetNumber": "2",
-    "floor": "PR",
-    "door": "1º2º",
-    "floorDoorLabel": "",
-    "latitude": 41.39088821,
-    "longitude": 2.18561125,
-    "price": {
-      "amount": 21500000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 390909,
-      "currency": "EUR"
-    },
-    "priceChangePercentage": "-1.83",
     "isNew": false,
     "isPriceUpdated": false,
     "isReserved": false,
