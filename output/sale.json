@@ -622,70 +622,6 @@
     "isReserved": false,
     "isSold": false
   },
-  "7f9e7eab-8596-4c5b-9645-a150011493ca": {
-    "uuid": "7f9e7eab-8596-4c5b-9645-a150011493ca",
-    "providerCode": "housfy",
-    "providerPropertyId": 349342,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-pallars-349342",
-    "providerPropertyTitle": "Fabuloso piso en Sant Martí",
-    "publishedDate": "2022-02-22T09:30:12Z",
-    "relevance": 300,
-    "typeId": 2,
-    "typeCode": "piso",
-    "locationId": 1794,
-    "sizes": {
-      "size": 63,
-      "sizeBuiltWithoutCommonElements": 63,
-      "sizeBuilt": 63,
-      "sizeUseful": 63
-    },
-    "size": 63,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/349342/349342-housfy-20210407-mwjBIx1LPx-420x280.jpg"
-    ],
-    "numberOfBedrooms": 3,
-    "numberOfBathrooms": 1,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "sale",
-    "isVisible": true,
-    "description": "fabuloso piso en sant martí\r\nse vende  piso directamente del propietario en sant martí, barcelona, una vivienda luminosa y ubicada en un entorno idóneo para disfrutarlo.\r\neste fenomenal piso fue construido en el año 1968 en barcelona. este encantador piso está formado por 63 m² construidos.\r\n\r\ndetalles del inmueble:\r\n\r\n- encantador piso muy luminoso de 63 m² en el poblenou. (los metros cuadrados están verificados con la dirección general de catastro)\r\n- se distribuye en salón - comedor, cocina de 9 m² con  lavadero, tres dormitorios, uno de ellos doble, y un baño.\r\n- dispone de aire acondicionado por conductos, calefacción en todas las estancias, luces empotradas tipo ojo de buey \"led\", carpintería de aluminio doble vidrio con llave de seguridad, puertas correderas empotradas en la pared en cocina y baño, hilo musical en comedor y pasillo.\r\n- puerta de entrada de seguridad blindada.\r\n- ascensor.\r\n- amueblado si se desea, casi todos los muebles están hechos a medida.\r\n\r\nsobre la localización, se sitúa en barcelona, en el barrio de poblenou, próximo al metro l4, autobuses, con todos los servicios que puedas necesitar para facilitar tus días en todo momento.\r\n\r\nsobre nosotros:\r\n\r\nhousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta.  para más información, visítenos en housfy.com. aicat número: 7922",
-    "tags": [
-      23,
-      26,
-      31,
-      33
-    ],
-    "canScheduleVisits": true,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Sant Martí",
-    "neighborhoodLocationName": "El Poblenou",
-    "streetName": "Carrer de Pallars",
-    "streetNumber": "326",
-    "floor": "03",
-    "door": "02",
-    "floorDoorLabel": "",
-    "latitude": 41.40631485,
-    "longitude": 2.2048769,
-    "price": {
-      "amount": 31900000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 506349,
-      "currency": "EUR"
-    },
-    "priceChangePercentage": "-3.04",
-    "isNew": false,
-    "isPriceUpdated": false,
-    "isReserved": false,
-    "isSold": false
-  },
   "708db677-5e0a-4c54-81b2-0e2b8ea4356b": {
     "uuid": "708db677-5e0a-4c54-81b2-0e2b8ea4356b",
     "providerCode": "housfy",
@@ -1121,6 +1057,70 @@
     "isReserved": false,
     "isSold": false
   },
+  "7f9e7eab-8596-4c5b-9645-a150011493ca": {
+    "uuid": "7f9e7eab-8596-4c5b-9645-a150011493ca",
+    "providerCode": "housfy",
+    "providerPropertyId": 349342,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-pallars-349342",
+    "providerPropertyTitle": "Fabuloso piso en Sant Martí",
+    "publishedDate": "2022-02-22T09:30:12Z",
+    "relevance": 300,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1794,
+    "sizes": {
+      "size": 63,
+      "sizeBuiltWithoutCommonElements": 63,
+      "sizeBuilt": 63,
+      "sizeUseful": 63
+    },
+    "size": 63,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/349342/349342-housfy-20210407-mwjBIx1LPx-420x280.jpg"
+    ],
+    "numberOfBedrooms": 3,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "fabuloso piso en sant martí\r\nse vende  piso directamente del propietario en sant martí, barcelona, una vivienda luminosa y ubicada en un entorno idóneo para disfrutarlo.\r\neste fenomenal piso fue construido en el año 1968 en barcelona. este encantador piso está formado por 63 m² construidos.\r\n\r\ndetalles del inmueble:\r\n\r\n- encantador piso muy luminoso de 63 m² en el poblenou. (los metros cuadrados están verificados con la dirección general de catastro)\r\n- se distribuye en salón - comedor, cocina de 9 m² con  lavadero, tres dormitorios, uno de ellos doble, y un baño.\r\n- dispone de aire acondicionado por conductos, calefacción en todas las estancias, luces empotradas tipo ojo de buey \"led\", carpintería de aluminio doble vidrio con llave de seguridad, puertas correderas empotradas en la pared en cocina y baño, hilo musical en comedor y pasillo.\r\n- puerta de entrada de seguridad blindada.\r\n- ascensor.\r\n- amueblado si se desea, casi todos los muebles están hechos a medida.\r\n\r\nsobre la localización, se sitúa en barcelona, en el barrio de poblenou, próximo al metro l4, autobuses, con todos los servicios que puedas necesitar para facilitar tus días en todo momento.\r\n\r\nsobre nosotros:\r\n\r\nhousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta.  para más información, visítenos en housfy.com. aicat número: 7922",
+    "tags": [
+      23,
+      26,
+      31,
+      33
+    ],
+    "canScheduleVisits": true,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Sant Martí",
+    "neighborhoodLocationName": "El Poblenou",
+    "streetName": "Carrer de Pallars",
+    "streetNumber": "326",
+    "floor": "03",
+    "door": "02",
+    "floorDoorLabel": "",
+    "latitude": 41.40631485,
+    "longitude": 2.2048769,
+    "price": {
+      "amount": 31900000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 506349,
+      "currency": "EUR"
+    },
+    "priceChangePercentage": "-3.04",
+    "isNew": false,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
+  },
   "572a7891-fe21-411a-97e8-484ab3b5eb4d": {
     "uuid": "572a7891-fe21-411a-97e8-484ab3b5eb4d",
     "providerCode": "housfy",
@@ -1179,70 +1179,6 @@
       "currency": "EUR"
     },
     "priceChangePercentage": "-5.83",
-    "isNew": false,
-    "isPriceUpdated": false,
-    "isReserved": false,
-    "isSold": false
-  },
-  "24ec8c07-fc4d-460a-84f1-b52c78ef8430": {
-    "uuid": "24ec8c07-fc4d-460a-84f1-b52c78ef8430",
-    "providerCode": "housfy",
-    "providerPropertyId": 568586,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-ramon-turro-568586",
-    "providerPropertyTitle": "Fabuloso piso en Sant Martí",
-    "publishedDate": "2022-04-13T10:38:00Z",
-    "relevance": 200,
-    "typeId": 2,
-    "typeCode": "piso",
-    "locationId": 1794,
-    "sizes": {
-      "size": 78,
-      "sizeBuiltWithoutCommonElements": 78,
-      "sizeBuilt": 78,
-      "sizeUseful": 78
-    },
-    "size": 78,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/568586/568586-housfy-20220413-xyWTboc7Q4-420x280.jpg"
-    ],
-    "numberOfBedrooms": 2,
-    "numberOfBathrooms": 1,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "sale",
-    "isVisible": true,
-    "description": "Fabuloso piso en Poblenou\r\n\r\nHousfy, compraventa entre particulares. \r\n\r\nDe particular a particular en Poblenou Barcelona, un espacio para disfrutar en tu día a día.\r\nConstruido en el año 1890. Consta de 78 m2.\r\n\r\nCaracterísticas:\r\n\r\n- Fenomenal piso de 78 m2 en El Poblenou, techos altos con vigas de madera y obra vista.\r\n- La vivienda dispone de 2 habitaciones, una doble exterior con balcón y con vestidor amplio, y la segunda es amplia con espacio para escritorio.\r\n- Cálido salón-comedor amplio y luminoso, donde conecta con una cocina equipada ubicada frente a galería y gran ventanal con orientación este, donde tienes mucha luz y sol directo. \r\n- La distribución del piso aprovecha de la mejor forma los espacios, también dándole amplitud ya que es exterior a calle y a patio amplio típico del mismo barrio.  \r\n\r\n* Las imágenes que se muestran en el anuncio forman parte de un proyecto de reforma ya empezado. \r\n\r\n* El inmueble se entrega sin amueblar.\r\n\r\nRespecto a la ubicación, se encuentra en Barcelona. Con fácil acceso y servicios que facilitarán y mejorarán tu día a día.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
-    "tags": [
-      23,
-      25,
-      26,
-      33
-    ],
-    "canScheduleVisits": true,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Sant Martí",
-    "neighborhoodLocationName": "El Poblenou",
-    "streetName": "Carrer de Ramon Turró",
-    "streetNumber": "142",
-    "floor": "02",
-    "door": "01",
-    "floorDoorLabel": "",
-    "latitude": 41.39651871,
-    "longitude": 2.1987114,
-    "price": {
-      "amount": 32800000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 420512,
-      "currency": "EUR"
-    },
-    "priceChangePercentage": "43.86",
     "isNew": false,
     "isPriceUpdated": false,
     "isReserved": false,
@@ -1366,6 +1302,70 @@
       "amount": 384615,
       "currency": "EUR"
     },
+    "isNew": false,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
+  },
+  "24ec8c07-fc4d-460a-84f1-b52c78ef8430": {
+    "uuid": "24ec8c07-fc4d-460a-84f1-b52c78ef8430",
+    "providerCode": "housfy",
+    "providerPropertyId": 568586,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-ramon-turro-568586",
+    "providerPropertyTitle": "Fabuloso piso en Sant Martí",
+    "publishedDate": "2022-04-13T10:38:00Z",
+    "relevance": 200,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1794,
+    "sizes": {
+      "size": 78,
+      "sizeBuiltWithoutCommonElements": 78,
+      "sizeBuilt": 78,
+      "sizeUseful": 78
+    },
+    "size": 78,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/568586/568586-housfy-20220413-xyWTboc7Q4-420x280.jpg"
+    ],
+    "numberOfBedrooms": 2,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "Fabuloso piso en Poblenou\r\n\r\nHousfy, compraventa entre particulares. \r\n\r\nDe particular a particular en Poblenou Barcelona, un espacio para disfrutar en tu día a día.\r\nConstruido en el año 1890. Consta de 78 m2.\r\n\r\nCaracterísticas:\r\n\r\n- Fenomenal piso de 78 m2 en El Poblenou, techos altos con vigas de madera y obra vista.\r\n- La vivienda dispone de 2 habitaciones, una doble exterior con balcón y con vestidor amplio, y la segunda es amplia con espacio para escritorio.\r\n- Cálido salón-comedor amplio y luminoso, donde conecta con una cocina equipada ubicada frente a galería y gran ventanal con orientación este, donde tienes mucha luz y sol directo. \r\n- La distribución del piso aprovecha de la mejor forma los espacios, también dándole amplitud ya que es exterior a calle y a patio amplio típico del mismo barrio.  \r\n\r\n* Las imágenes que se muestran en el anuncio forman parte de un proyecto de reforma ya empezado. \r\n\r\n* El inmueble se entrega sin amueblar.\r\n\r\nRespecto a la ubicación, se encuentra en Barcelona. Con fácil acceso y servicios que facilitarán y mejorarán tu día a día.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
+    "tags": [
+      23,
+      25,
+      26,
+      33
+    ],
+    "canScheduleVisits": true,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Sant Martí",
+    "neighborhoodLocationName": "El Poblenou",
+    "streetName": "Carrer de Ramon Turró",
+    "streetNumber": "142",
+    "floor": "02",
+    "door": "01",
+    "floorDoorLabel": "",
+    "latitude": 41.39651871,
+    "longitude": 2.1987114,
+    "price": {
+      "amount": 32800000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 420512,
+      "currency": "EUR"
+    },
+    "priceChangePercentage": "43.86",
     "isNew": false,
     "isPriceUpdated": false,
     "isReserved": false,
