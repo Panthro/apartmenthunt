@@ -437,68 +437,6 @@
     "isReserved": false,
     "isSold": false
   },
-  "c67b7f15-7d64-4279-97d4-30d83c6c0aeb": {
-    "uuid": "c67b7f15-7d64-4279-97d4-30d83c6c0aeb",
-    "providerCode": "housfy",
-    "providerPropertyId": 470999,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-la-diputacio-470999",
-    "providerPropertyTitle": "Fabuloso piso en l\u0027Eixample",
-    "publishedDate": "2021-12-13T16:43:09Z",
-    "relevance": 900,
-    "typeId": 2,
-    "typeCode": "piso",
-    "locationId": 1744,
-    "sizes": {
-      "size": 71,
-      "sizeBuiltWithoutCommonElements": 71,
-      "sizeBuilt": 71,
-      "sizeUseful": 65
-    },
-    "size": 71,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/470999/470999-housfy-20211211-TEOmUHLTv3-420x280.jpg"
-    ],
-    "numberOfBedrooms": 3,
-    "numberOfBathrooms": 1,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "sale",
-    "isVisible": true,
-    "description": "Fabuloso piso en l\u0027Eixample.\r\n\r\nDe particular a particular con Housfy.\r\n\r\nvende piso de particular a particular en Eixample, Barcelona, perfecto para familias o parejas que busquen un lugar cómodo para su día a día.\r\nEste encantador piso fue construido en el 1925. Sus 71 m2 están perfectamente distribuidos, creando un espacio cómodo para el día a día.\r\n\r\nDetalles del inmueble:\r\n\r\n- Genial piso de 71 m2 en El Fort Pienc. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Contamos con todas las comodidades posibles de 3 habitaciones y 1 baño, perfecto para una familia.\r\n- Cómodo salón-comedor amplio y luminoso, siendo además, un espacio agradable y estupendo para visitas de amigos y familiares.\r\n- Con una efectiva cocina en buen estado.\r\n- Exterior.\r\n- Ascensor. \r\n\r\nLa localización de el piso se sitúa en Barcelona. Con todos los servicios que puedas necesitar para facilitar tus días en todo momento.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
-    "tags": [
-      23,
-      26
-    ],
-    "canScheduleVisits": true,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Eixample",
-    "neighborhoodLocationName": "El Fort Pienc",
-    "streetName": "Carrer de la Diputació",
-    "streetNumber": "424",
-    "floor": "04",
-    "door": "04",
-    "floorDoorLabel": "",
-    "latitude": 41.39957809,
-    "longitude": 2.17950439,
-    "price": {
-      "amount": 29500000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 415492,
-      "currency": "EUR"
-    },
-    "priceChangePercentage": "-3.28",
-    "isNew": false,
-    "isPriceUpdated": false,
-    "isReserved": false,
-    "isSold": false
-  },
   "9205c943-0566-45df-9f32-e01b23aa0480": {
     "uuid": "9205c943-0566-45df-9f32-e01b23aa0480",
     "providerCode": "housfy",
@@ -617,6 +555,68 @@
       "amount": 608695,
       "currency": "EUR"
     },
+    "isNew": false,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
+  },
+  "c67b7f15-7d64-4279-97d4-30d83c6c0aeb": {
+    "uuid": "c67b7f15-7d64-4279-97d4-30d83c6c0aeb",
+    "providerCode": "housfy",
+    "providerPropertyId": 470999,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-la-diputacio-470999",
+    "providerPropertyTitle": "Fabuloso piso en l\u0027Eixample",
+    "publishedDate": "2021-12-13T16:43:09Z",
+    "relevance": 900,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1744,
+    "sizes": {
+      "size": 71,
+      "sizeBuiltWithoutCommonElements": 71,
+      "sizeBuilt": 71,
+      "sizeUseful": 65
+    },
+    "size": 71,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/470999/470999-housfy-20211211-TEOmUHLTv3-420x280.jpg"
+    ],
+    "numberOfBedrooms": 3,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "Fabuloso piso en l\u0027Eixample.\r\n\r\nDe particular a particular con Housfy.\r\n\r\nvende piso de particular a particular en Eixample, Barcelona, perfecto para familias o parejas que busquen un lugar cómodo para su día a día.\r\nEste encantador piso fue construido en el 1925. Sus 71 m2 están perfectamente distribuidos, creando un espacio cómodo para el día a día.\r\n\r\nDetalles del inmueble:\r\n\r\n- Genial piso de 71 m2 en El Fort Pienc. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Contamos con todas las comodidades posibles de 3 habitaciones y 1 baño, perfecto para una familia.\r\n- Cómodo salón-comedor amplio y luminoso, siendo además, un espacio agradable y estupendo para visitas de amigos y familiares.\r\n- Con una efectiva cocina en buen estado.\r\n- Exterior.\r\n- Ascensor. \r\n\r\nLa localización de el piso se sitúa en Barcelona. Con todos los servicios que puedas necesitar para facilitar tus días en todo momento.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
+    "tags": [
+      23,
+      26
+    ],
+    "canScheduleVisits": true,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Eixample",
+    "neighborhoodLocationName": "El Fort Pienc",
+    "streetName": "Carrer de la Diputació",
+    "streetNumber": "424",
+    "floor": "04",
+    "door": "04",
+    "floorDoorLabel": "",
+    "latitude": 41.39957809,
+    "longitude": 2.17950439,
+    "price": {
+      "amount": 29500000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 415492,
+      "currency": "EUR"
+    },
+    "priceChangePercentage": "-3.28",
     "isNew": false,
     "isPriceUpdated": false,
     "isReserved": false,
