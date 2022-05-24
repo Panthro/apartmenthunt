@@ -61,68 +61,6 @@
     "isReserved": false,
     "isSold": false
   },
-  "2eb28cf2-84e5-4ee1-8775-ac60fb26e210": {
-    "uuid": "2eb28cf2-84e5-4ee1-8775-ac60fb26e210",
-    "providerCode": "housfy",
-    "providerPropertyId": 589914,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/rambla-de-guipuscoa-589914",
-    "providerPropertyTitle": "Espléndido piso en Sant Martí",
-    "publishedDate": "2022-05-19T09:50:46Z",
-    "relevance": 1653295830,
-    "typeId": 2,
-    "typeCode": "piso",
-    "locationId": 1795,
-    "sizes": {
-      "size": 120,
-      "sizeBuiltWithoutCommonElements": 120,
-      "sizeBuilt": 120,
-      "sizeUseful": 120
-    },
-    "size": 120,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/589914/589914-housfy-20220519-QYcyUlpnTb-420x280.jpg"
-    ],
-    "numberOfBedrooms": 3,
-    "numberOfBathrooms": 2,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "sale",
-    "isVisible": true,
-    "description": "Espléndido piso en Sant Martí\r\n\r\n\r\nCompraventa entre particulares con Housfy.\r\n\r\nHomy vende piso de particular a particular en Sant Martí, Barcelona, una vivienda luminosa y ubicada en un entorno idóneo para disfrutarlo.\r\nEl fantástico piso fue construido en el año 1983 en Barcelona. Consta de 120 m2.\r\n\r\nCaracterísticas:\r\n- Admirable piso de 120 m2 (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Cuenta con todas las comodidades posibles de 3 habitaciones y 2 baños, perfecto para una familia.\r\n- Coqueto salón que es un lugar perfecto para descansar tras una jornada de trabajo, creando un precioso y único espacio.\r\n- Parquet.\r\n- Con una ventajosa cocina en excelente estado, equipada con lo necesario para el día a día.\r\n- Balcón.\r\n- Ascensor.\r\n- Exterior.\r\n\r\nUNICO POR PRECIO Y ZONA Y TIPO DE REFORMA \r\nEDIFICIO DE OBRA VISTA\r\n\r\nSobre la situación de el piso se encuentra en Barcelona, en la localidad de Barcelona.\r\nCon fácil acceso y servicios que facilitarán y mejorarán tu día a día.\r\n\r\nSobre nosotros:\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
-    "tags": [
-      23,
-      25
-    ],
-    "canScheduleVisits": true,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Sant Martí",
-    "neighborhoodLocationName": "La Verneda i la Pau",
-    "streetName": "Rambla de Guipúscoa",
-    "streetNumber": "111",
-    "floor": "04",
-    "door": "03",
-    "floorDoorLabel": "",
-    "latitude": 41.41799545,
-    "longitude": 2.19776201,
-    "price": {
-      "amount": 35000000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 291666,
-      "currency": "EUR"
-    },
-    "priceChangePercentage": "-5.15",
-    "isNew": true,
-    "isPriceUpdated": true,
-    "isReserved": false,
-    "isSold": false
-  },
   "bf430203-2bf6-4351-ad67-670e13800b7a": {
     "uuid": "bf430203-2bf6-4351-ad67-670e13800b7a",
     "providerCode": "housfy",
