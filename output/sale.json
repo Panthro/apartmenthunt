@@ -1495,5 +1495,66 @@
     "isPriceUpdated": false,
     "isReserved": false,
     "isSold": false
+  },
+  "7f220653-35cc-4145-ad49-2f508b22a253": {
+    "uuid": "7f220653-35cc-4145-ad49-2f508b22a253",
+    "providerCode": "housfy",
+    "providerPropertyId": 571677,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/avinguda-meridiana-571677",
+    "providerPropertyTitle": "Estupendo piso en Sant Martí",
+    "publishedDate": "2022-05-25T14:11:05Z",
+    "relevance": 2,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1793,
+    "sizes": {
+      "size": 78,
+      "sizeBuiltWithoutCommonElements": 78,
+      "sizeBuilt": 85,
+      "sizeUseful": 85
+    },
+    "size": 78,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/571677/571677-housfy-20220525-TMcMqIQcX9-420x280.jpg"
+    ],
+    "numberOfBedrooms": 3,
+    "numberOfBathrooms": 2,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "Estupendo piso en Sant Martí\r\n\r\n\r\nHousfy, compraventa entre particulares.\r\n\r\nJordi vende piso de particular a particular en Sant Martí, Barcelona, perfecto para familias o parejas que busquen un lugar cómodo para su día a día.\r\nEl fenomenal piso fue construido en el año 1969 en Barcelona. El maravilloso piso está formado por 85 m2.\r\n\r\nCaracterísticas:\r\n- Fantástico piso de 85 m2 en El Parc i la Llacuna del Poblenou. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Cuenta con todas las comodidades posibles de 3 habitaciones y 2 baños, perfecto para una familia.\r\n- Práctico salón amplio y luminoso, un lugar perfecto para descansar en los ratos libres.\r\n- Exterior.\r\n- Con una útil cocina buen estado.\r\n\r\nLa situación de este piso se sitúa en Barcelona, municipio de Barcelona.\r\nCon fácil acceso y servicios que facilitarán y mejorarán tu día a día.\r\n\r\nSobre nosotros:\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
+    "tags": [
+      23,
+      26
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Sant Martí",
+    "neighborhoodLocationName": "El Parc i la Llacuna del Poblenou",
+    "streetName": "Avinguda Meridiana",
+    "streetNumber": "34",
+    "floor": "01",
+    "door": "02",
+    "floorDoorLabel": "",
+    "latitude": 41.39551544,
+    "longitude": 2.1871922,
+    "price": {
+      "amount": 32900000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 421794,
+      "currency": "EUR"
+    },
+    "isNew": true,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
   }
 }
