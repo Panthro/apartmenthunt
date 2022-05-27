@@ -1492,5 +1492,66 @@
     "isPriceUpdated": false,
     "isReserved": false,
     "isSold": false
+  },
+  "78db94e8-bd34-4194-99e3-74c4800e7177": {
+    "uuid": "78db94e8-bd34-4194-99e3-74c4800e7177",
+    "providerCode": "housfy",
+    "providerPropertyId": 556607,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-la-marina-556607",
+    "providerPropertyTitle": "Espléndido piso en Sant Martí",
+    "publishedDate": "2022-05-27T10:31:10Z",
+    "relevance": 2,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1793,
+    "sizes": {
+      "size": 64,
+      "sizeBuiltWithoutCommonElements": 64,
+      "sizeBuilt": 74,
+      "sizeUseful": 74
+    },
+    "size": 64,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/556607/556607-housfy-20220526-N2iUHn1I3J-420x280.jpg"
+    ],
+    "numberOfBedrooms": 2,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "Espléndido piso en Sant Martí\r\n\r\n\r\nCompra tu piso con Housfy.\r\n\r\nMyriam vende piso directamente del propietario en Sant Martí, Barcelona, perfecto para familias o parejas que busquen un lugar cómodo para su día a día.\r\nEste piso fue construido en el año 1970 en El Parc i la Llacuna del Poblenou. Consta de 74 m2 muy bien distribuidos.\r\n\r\nCaracterísticas:\r\n- Admirable piso de 74 m2 en El Parc i la Llacuna del Poblenou. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Esta vivienda cuenta con 2 habitaciones y 1 baño, muy bien acomodadas.\r\n- Cálido salón que te proporcionará el relax diario, donde disfrutar de tu familia.\r\n- Exterior.\r\n- Con una ventajosa cocina en buen estado.\r\n\r\nLa situación de este piso se sitúa en Barcelona.\r\nCon fácil acceso y servicios que facilitarán y mejorarán tu día a día.\r\n\r\nSobre nosotros:\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
+    "tags": [
+      23,
+      26
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Sant Martí",
+    "neighborhoodLocationName": "El Parc i la Llacuna del Poblenou",
+    "streetName": "Carrer de la Marina",
+    "streetNumber": "114",
+    "floor": "01",
+    "door": "D",
+    "floorDoorLabel": "",
+    "latitude": 41.3948822,
+    "longitude": 2.18734288,
+    "price": {
+      "amount": 31000000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 484375,
+      "currency": "EUR"
+    },
+    "isNew": true,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
   }
 }
