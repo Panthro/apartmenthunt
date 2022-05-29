@@ -1182,68 +1182,6 @@
     "isReserved": false,
     "isSold": false
   },
-  "0c19f529-c22a-4ce0-975e-a6e92cacab89": {
-    "uuid": "0c19f529-c22a-4ce0-975e-a6e92cacab89",
-    "providerCode": "housfy",
-    "providerPropertyId": 509031,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-besalu-509031",
-    "providerPropertyTitle": "Perfecto piso con balcón en Sant Martí",
-    "publishedDate": "2022-01-11T09:11:22Z",
-    "relevance": 300,
-    "typeId": 2,
-    "typeCode": "piso",
-    "locationId": 1791,
-    "sizes": {
-      "size": 78,
-      "sizeBuiltWithoutCommonElements": 78,
-      "sizeBuilt": 78,
-      "sizeUseful": 78
-    },
-    "size": 78,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/509031/509031-housfy-20220110-ZQlk6xrCBw-420x280.jpg"
-    ],
-    "numberOfBedrooms": 3,
-    "numberOfBathrooms": 1,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "sale",
-    "isVisible": true,
-    "description": "Perfecto piso con balcón en Sant Martí SIN ASCENSOR\r\n\r\nDe particular a particular con Housfy.\r\n\r\nRaquel vende piso directamente del propietario en Sant Martí, Barcelona, una vivienda luminosa y ubicada en un entorno idóneo para disfrutarlo.\r\nEste piso fue construido en el año 1966 en Barcelona. Sus 78 m2 están perfectamente distribuidos, creando un espacio cómodo para el día a día.\r\n\r\nDetalles del inmueble:\r\n\r\n- Genial piso de 78 m2 en El Camp de l\u0027Arpa del Clot. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- En el piso encontraremos 3 habitaciones y 1 baño, perfecto para una familia.\r\n- Cómodo comedor perfecto para descansar tras una jornada de trabajo, donde disfrutar de tu familia.\r\n- Con una práctica cocina en buen estado y equipada con todo lo necesario.\r\n- Exterior.\r\n- Sin ascensor.\r\n\r\nSobre la ubicación, se encuentra en Barcelona. Una vivienda ideal para aquellos que quieran un cómodo espacio donde vivir con todo lo necesario del día a día a un paso de su casa.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
-    "tags": [
-      23,
-      26
-    ],
-    "canScheduleVisits": true,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Sant Martí",
-    "neighborhoodLocationName": "El Camp de l\u0027Arpa del Clot",
-    "streetName": "Carrer de Besalú",
-    "streetNumber": "107",
-    "floor": "02",
-    "door": "01",
-    "floorDoorLabel": "",
-    "latitude": 41.41614151,
-    "longitude": 2.18529201,
-    "price": {
-      "amount": 21500000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 275641,
-      "currency": "EUR"
-    },
-    "priceChangePercentage": "-4.44",
-    "isNew": false,
-    "isPriceUpdated": false,
-    "isReserved": false,
-    "isSold": false
-  },
   "9bb27dd0-5c0c-443f-85e8-87b6a504bca4": {
     "uuid": "9bb27dd0-5c0c-443f-85e8-87b6a504bca4",
     "providerCode": "housfy",
@@ -1301,6 +1239,68 @@
       "amount": 386075,
       "currency": "EUR"
     },
+    "isNew": false,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
+  },
+  "0c19f529-c22a-4ce0-975e-a6e92cacab89": {
+    "uuid": "0c19f529-c22a-4ce0-975e-a6e92cacab89",
+    "providerCode": "housfy",
+    "providerPropertyId": 509031,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-besalu-509031",
+    "providerPropertyTitle": "Perfecto piso con balcón en Sant Martí",
+    "publishedDate": "2022-01-11T09:11:22Z",
+    "relevance": 300,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1791,
+    "sizes": {
+      "size": 78,
+      "sizeBuiltWithoutCommonElements": 78,
+      "sizeBuilt": 78,
+      "sizeUseful": 78
+    },
+    "size": 78,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/509031/509031-housfy-20220110-ZQlk6xrCBw-420x280.jpg"
+    ],
+    "numberOfBedrooms": 3,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "Perfecto piso con balcón en Sant Martí SIN ASCENSOR\r\n\r\nDe particular a particular con Housfy.\r\n\r\nRaquel vende piso directamente del propietario en Sant Martí, Barcelona, una vivienda luminosa y ubicada en un entorno idóneo para disfrutarlo.\r\nEste piso fue construido en el año 1966 en Barcelona. Sus 78 m2 están perfectamente distribuidos, creando un espacio cómodo para el día a día.\r\n\r\nDetalles del inmueble:\r\n\r\n- Genial piso de 78 m2 en El Camp de l\u0027Arpa del Clot. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- En el piso encontraremos 3 habitaciones y 1 baño, perfecto para una familia.\r\n- Cómodo comedor perfecto para descansar tras una jornada de trabajo, donde disfrutar de tu familia.\r\n- Con una práctica cocina en buen estado y equipada con todo lo necesario.\r\n- Exterior.\r\n- Sin ascensor.\r\n\r\nSobre la ubicación, se encuentra en Barcelona. Una vivienda ideal para aquellos que quieran un cómodo espacio donde vivir con todo lo necesario del día a día a un paso de su casa.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
+    "tags": [
+      23,
+      26
+    ],
+    "canScheduleVisits": true,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Sant Martí",
+    "neighborhoodLocationName": "El Camp de l\u0027Arpa del Clot",
+    "streetName": "Carrer de Besalú",
+    "streetNumber": "107",
+    "floor": "02",
+    "door": "01",
+    "floorDoorLabel": "",
+    "latitude": 41.41614151,
+    "longitude": 2.18529201,
+    "price": {
+      "amount": 21500000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 275641,
+      "currency": "EUR"
+    },
+    "priceChangePercentage": "-4.44",
     "isNew": false,
     "isPriceUpdated": false,
     "isReserved": false,
