@@ -1056,70 +1056,6 @@
     "isReserved": false,
     "isSold": false
   },
-  "14bf3fc6-e1e4-4e1f-a369-6543016991e9": {
-    "uuid": "14bf3fc6-e1e4-4e1f-a369-6543016991e9",
-    "providerCode": "housfy",
-    "providerPropertyId": 546449,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/gran-via-de-les-corts-catalanes-546449",
-    "providerPropertyTitle": "Admirable piso en Sant Martí",
-    "publishedDate": "2022-03-07T09:18:58Z",
-    "relevance": 300,
-    "typeId": 2,
-    "typeCode": "piso",
-    "locationId": 1792,
-    "sizes": {
-      "size": 69,
-      "sizeBuiltWithoutCommonElements": 69,
-      "sizeBuilt": 69,
-      "sizeUseful": 69
-    },
-    "size": 69,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/546449/546449-housfy-20220307-07PKzGGMFb-420x280.jpg"
-    ],
-    "numberOfBedrooms": 3,
-    "numberOfBathrooms": 1,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "sale",
-    "isVisible": true,
-    "description": "Admirable piso en Sant Martí\r\n\r\nHousfy la agencia inmobiliaria con las mejores condiciones hipotecarias.\r\n\r\nAna María vende piso de particular a particular en Sant Martí, El Clot, Barcelona. Piso de 72 m² útiles y 80 m² csontruidos  perfecto para parejas o familias. \r\n\r\nCaracterísticas:\r\n\r\n- Fabuloso piso de 80 m² construidos reales en El Clot.\r\n- En el piso encontraremos 3 habitaciones completamente amuebladas y 1 baño, perfecto para una familia.\r\n- Acogedor comedor unido a la sala de estar que proporciona un espacio de relax ideal para parejas así como perfecto de juego para niños. \r\n- Con una práctica cocina con todo lo necesario.\r\n- El confort está garantizado ya que dispone de aire acondicionado y calefacción..\r\n- Posibilidad de incluir los muebles.\r\n- Puerta de entrada de seguridad blindada.\r\n- Dispone de suelos de parquet, ventanas de aluminio doble vidrio tipo climalit, iluminación con ojos de buey.\r\n- Ascensor.\r\n- Sexto piso, exterior.\r\n\r\nLa ubicación del piso es inmejorable: cercano a colegios, parques y todos los servicios necesarios a menos de 5 minutos. Sus bonitas vistas te enamorará, ven a verlo.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
-    "tags": [
-      23,
-      26,
-      31,
-      33
-    ],
-    "canScheduleVisits": true,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Sant Martí",
-    "neighborhoodLocationName": "El Clot",
-    "streetName": "Gran Via de les Corts Catalanes",
-    "streetNumber": "863",
-    "floor": "06",
-    "door": "03",
-    "floorDoorLabel": "",
-    "latitude": 41.40745926,
-    "longitude": 2.19149947,
-    "price": {
-      "amount": 26900000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 389855,
-      "currency": "EUR"
-    },
-    "priceChangePercentage": "-3.58",
-    "isNew": false,
-    "isPriceUpdated": false,
-    "isReserved": false,
-    "isSold": false
-  },
   "11196a1a-b97d-405d-9b6d-f7ab1e625c4a": {
     "uuid": "11196a1a-b97d-405d-9b6d-f7ab1e625c4a",
     "providerCode": "housfy",
@@ -1242,26 +1178,26 @@
     "isReserved": false,
     "isSold": false
   },
-  "77c01ad1-17fc-48dd-a24a-676d5fe11cba": {
-    "uuid": "77c01ad1-17fc-48dd-a24a-676d5fe11cba",
+  "14bf3fc6-e1e4-4e1f-a369-6543016991e9": {
+    "uuid": "14bf3fc6-e1e4-4e1f-a369-6543016991e9",
     "providerCode": "housfy",
-    "providerPropertyId": 571633,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-roc-boronat-571633",
-    "providerPropertyTitle": "Estupendo piso en Sant Martí",
-    "publishedDate": "2022-05-04T15:18:06Z",
-    "relevance": 200,
+    "providerPropertyId": 546449,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/gran-via-de-les-corts-catalanes-546449",
+    "providerPropertyTitle": "Admirable piso en Sant Martí",
+    "publishedDate": "2022-03-07T09:18:58Z",
+    "relevance": 300,
     "typeId": 2,
     "typeCode": "piso",
-    "locationId": 1794,
+    "locationId": 1792,
     "sizes": {
-      "size": 58,
-      "sizeBuiltWithoutCommonElements": 58,
-      "sizeBuilt": 58,
-      "sizeUseful": 58
+      "size": 69,
+      "sizeBuiltWithoutCommonElements": 69,
+      "sizeBuilt": 69,
+      "sizeUseful": 69
     },
-    "size": 58,
+    "size": 69,
     "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/571633/571633-housfy-20220503-PA4lJ6ILqi-420x280.jpg"
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/546449/546449-housfy-20220307-07PKzGGMFb-420x280.jpg"
     ],
     "numberOfBedrooms": 3,
     "numberOfBathrooms": 1,
@@ -1273,7 +1209,7 @@
     },
     "operationTypeCode": "sale",
     "isVisible": true,
-    "description": "Estupendo piso en Sant Martí.\r\n\r\nHousfy: la agencia inmobiliaria online.\r\n\r\nSe vende piso  en Sant Martí, Barcelona, perfecto para familias o parejas que busquen un lugar cómodo para su día a día.\r\nConstruido en el año 1930. Consta de 61 m2 muy bien distribuidos.\r\n\r\nCaracterísticas:\r\n\r\n- Genial piso de 58 m2 en El Poblenou. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- La vivienda dispone de 3 habitaciones y 1 baño.\r\n- Acogedor salón con amplio espacio de luz natural, creando un precioso y único espacio.\r\n- Cocina con todo lo necesario.\r\n- Amueblado.\r\n- Dispone de calefacción en todas las estancias, aire acondicionado, ventanas de aluminio doble vidrio, lavadero.\r\n- Balcón a calle desde comedor y dormitorio principal.\r\n- Exterior.\r\n- Finca con ascensor.\r\n\r\nSobre la ubicación, se encuentra en Barcelona. Una vivienda ideal para aquellos que quieran un cómodo espacio donde vivir con todo lo necesario del día a día a un paso de su casa.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
+    "description": "Admirable piso en Sant Martí\r\n\r\nHousfy la agencia inmobiliaria con las mejores condiciones hipotecarias.\r\n\r\nAna María vende piso de particular a particular en Sant Martí, El Clot, Barcelona. Piso de 72 m² útiles y 80 m² csontruidos  perfecto para parejas o familias. \r\n\r\nCaracterísticas:\r\n\r\n- Fabuloso piso de 80 m² construidos reales en El Clot.\r\n- En el piso encontraremos 3 habitaciones completamente amuebladas y 1 baño, perfecto para una familia.\r\n- Acogedor comedor unido a la sala de estar que proporciona un espacio de relax ideal para parejas así como perfecto de juego para niños. \r\n- Con una práctica cocina con todo lo necesario.\r\n- El confort está garantizado ya que dispone de aire acondicionado y calefacción..\r\n- Posibilidad de incluir los muebles.\r\n- Puerta de entrada de seguridad blindada.\r\n- Dispone de suelos de parquet, ventanas de aluminio doble vidrio tipo climalit, iluminación con ojos de buey.\r\n- Ascensor.\r\n- Sexto piso, exterior.\r\n\r\nLa ubicación del piso es inmejorable: cercano a colegios, parques y todos los servicios necesarios a menos de 5 minutos. Sus bonitas vistas te enamorará, ven a verlo.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
     "tags": [
       23,
       26,
@@ -1284,23 +1220,23 @@
     "stateLocationName": "Barcelona",
     "cityLocationName": "Barcelona",
     "districtLocationName": "Sant Martí",
-    "neighborhoodLocationName": "El Poblenou",
-    "streetName": "Carrer de Roc Boronat",
-    "streetNumber": "73",
-    "floor": "01",
-    "door": "04",
+    "neighborhoodLocationName": "El Clot",
+    "streetName": "Gran Via de les Corts Catalanes",
+    "streetNumber": "863",
+    "floor": "06",
+    "door": "03",
     "floorDoorLabel": "",
-    "latitude": 41.400177,
-    "longitude": 2.1975975,
+    "latitude": 41.40745926,
+    "longitude": 2.19149947,
     "price": {
-      "amount": 26000000,
+      "amount": 26900000,
       "currency": "EUR"
     },
     "priceSize": {
-      "amount": 448275,
+      "amount": 389855,
       "currency": "EUR"
     },
-    "priceChangePercentage": "-9.91",
+    "priceChangePercentage": "-3.58",
     "isNew": false,
     "isPriceUpdated": false,
     "isReserved": false,
@@ -1365,6 +1301,70 @@
       "currency": "EUR"
     },
     "priceChangePercentage": "-3.51",
+    "isNew": false,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
+  },
+  "77c01ad1-17fc-48dd-a24a-676d5fe11cba": {
+    "uuid": "77c01ad1-17fc-48dd-a24a-676d5fe11cba",
+    "providerCode": "housfy",
+    "providerPropertyId": 571633,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-roc-boronat-571633",
+    "providerPropertyTitle": "Estupendo piso en Sant Martí",
+    "publishedDate": "2022-05-04T15:18:06Z",
+    "relevance": 200,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1794,
+    "sizes": {
+      "size": 58,
+      "sizeBuiltWithoutCommonElements": 58,
+      "sizeBuilt": 58,
+      "sizeUseful": 58
+    },
+    "size": 58,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/571633/571633-housfy-20220503-PA4lJ6ILqi-420x280.jpg"
+    ],
+    "numberOfBedrooms": 3,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "Estupendo piso en Sant Martí.\r\n\r\nHousfy: la agencia inmobiliaria online.\r\n\r\nSe vende piso  en Sant Martí, Barcelona, perfecto para familias o parejas que busquen un lugar cómodo para su día a día.\r\nConstruido en el año 1930. Consta de 61 m2 muy bien distribuidos.\r\n\r\nCaracterísticas:\r\n\r\n- Genial piso de 58 m2 en El Poblenou. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- La vivienda dispone de 3 habitaciones y 1 baño.\r\n- Acogedor salón con amplio espacio de luz natural, creando un precioso y único espacio.\r\n- Cocina con todo lo necesario.\r\n- Amueblado.\r\n- Dispone de calefacción en todas las estancias, aire acondicionado, ventanas de aluminio doble vidrio, lavadero.\r\n- Balcón a calle desde comedor y dormitorio principal.\r\n- Exterior.\r\n- Finca con ascensor.\r\n\r\nSobre la ubicación, se encuentra en Barcelona. Una vivienda ideal para aquellos que quieran un cómodo espacio donde vivir con todo lo necesario del día a día a un paso de su casa.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
+    "tags": [
+      23,
+      26,
+      31,
+      33
+    ],
+    "canScheduleVisits": true,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Sant Martí",
+    "neighborhoodLocationName": "El Poblenou",
+    "streetName": "Carrer de Roc Boronat",
+    "streetNumber": "73",
+    "floor": "01",
+    "door": "04",
+    "floorDoorLabel": "",
+    "latitude": 41.400177,
+    "longitude": 2.1975975,
+    "price": {
+      "amount": 26000000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 448275,
+      "currency": "EUR"
+    },
+    "priceChangePercentage": "-9.91",
     "isNew": false,
     "isPriceUpdated": false,
     "isReserved": false,
