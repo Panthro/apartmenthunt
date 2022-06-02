@@ -554,7 +554,7 @@
       "amount": 416417,
       "currency": "EUR"
     },
-    "isNew": true,
+    "isNew": false,
     "isPriceUpdated": false,
     "isReserved": false,
     "isSold": false
@@ -1246,65 +1246,6 @@
     "isReserved": false,
     "isSold": false
   },
-  "b54e1eca-c5dc-4521-9a6f-c00699088db3": {
-    "uuid": "b54e1eca-c5dc-4521-9a6f-c00699088db3",
-    "providerCode": "housfy",
-    "providerPropertyId": 520537,
-    "providerPropertyUrl": "https://housfy.com/comprar-bajo/barcelona/carrer-del-taulat-520537",
-    "providerPropertyTitle": "ESPECTAULAR LOFT CERCA DE LA PLAYA",
-    "publishedDate": "2022-03-10T13:14:48Z",
-    "relevance": 300,
-    "typeId": 5,
-    "typeCode": "bajo",
-    "locationId": 1794,
-    "sizes": {
-      "size": 57,
-      "sizeBuiltWithoutCommonElements": 57,
-      "sizeBuilt": 62,
-      "sizeUseful": 62
-    },
-    "size": 57,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/520537/520537-housfy-20220310-oHV0QcPpyA-420x280.jpg"
-    ],
-    "numberOfBedrooms": 1,
-    "numberOfBathrooms": 1,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "sale",
-    "isVisible": true,
-    "description": "ESPECTAULAR LOFT CERCA DE LA PLAYA \r\n\r\n\r\nHousfy. vende bajo directamente del propietario en carrer Taulat, Barcelona, un loft con decoración muy actual y ubicada en un entorno idóneo para disfrutarlo. Construido en el año 1958 y reformado recientemente. \r\n\r\n\r\nHa sido diseñado y reformado con los mejores acabados, incorporando tecnología Smart Home de Legrand con control de voz, incluyendo iluminación directa e indirecta, Smart TV de 65’ conectada, Alexa, mecanismos eléctricos inteligentes Bticino (domótica), video-portero digital con control remoto. \r\nAbsolutamente habilitado para el teletrabajo con red interna de voz y datos, router wifi, fibra óptica instalada y en funcionamiento.\r\nEntrada: Jardín verde interior pavimentado en madera natural de pino, paredes de piedra original retro iluminadas, equipado con sillas y mesa de jardín y espacio para bicicletas, patinetes, tablas de surf, etc.\r\nZona relax: gran sofá de terciopelo con chaise longue, mesa de centro, TV.\r\nZona de trabajo: gran mesa de 3 m de largo que se divide en 2 mesas individuales, carril técnico con focos, lámparas y gran armario a medida.\r\nCocina abierta con mobiliario italiano totalmente equipada con lavavajillas, horno microondas, inducción, campana oculta, grifería extraíble, encimeras porcelánicas de alta calidad y resistencia, nevera vintage con congelador. \r\nLavadero separado con lavadora, termo y utensilios de limpieza.\r\nBaño completo: ducha con cromoterapia multicolor, mampara con vidrio de seguridad, revestimiento de paredes exclusivo combinado con ladrillo visto original, inodoro suspendido, mueble lavabo acabado en teca, espejo gran formato retro iluminado, ventana original de madera y techo con vigas de madera y bóveda catalana. \r\nSala anexa equipada con gran vestidor en L, zona de cama de 1,6 m y mesitas de mármol negro natural, cabezal a medida retro iluminado y zona de estudio con mesa a medida de 4,5m con instalaciones de voz y datos, iluminación directa e indirecta con lámparas de diseño, grandes ventanales con luz natural y ventilador en el techo.\r\nClimatización mediante aire acondicionado caliente y frío y radiadores.\r\nCarpinterías exteriores de aluminio con rotura térmica y vidrio de cámara 4/12/6. Aislamiento térmico y acústico acabo en ral texturado.\r\nPuerta exterior revestida con listones de pino macizo con tratamiento cuperizado para exteriores.  \r\n\r\nEste fantástico loft está muy bien situado, a dos calles de la playa de la Mar Bella, la zona se está convirtiendo en el nuevo centro de tecnología e innovación de Barcelona.\r\nEstá muy bien comunicado por transporte público, ya que se encuentra a pocos minutos a pie de la Avinguda Diagonal, la línea amarilla de metro, el centro comercial Glòries, la Rambla Poblenou y el Parque del Poblenou.\r\n\r\nSobre el 22@ - El Poblenou\r\nEste es el barrio que más se ha transformado desde principios de este siglo.\r\nHa pasado de ser una zona industrial a convertirse en un barrio de moda, es el centro de las empresas tecnológicas y una zona residencial con alta demanda.\r\nCon hoteles de 5 estrellas, campus universitarios y edificios residenciales. Además de estos edificios modernos lo que sorprende en el Poble Nou, es el contraste entre lo nuevo y lo antiguo. No es raro encontrar edificios y fábricas clásicas de principios del siglo XX fusionándose con nuevos iconos mundiales de la arquitectura. Es una zona ideal para vivir especialmente para familias jóvenes.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
-    "tags": [],
-    "canScheduleVisits": true,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Sant Martí",
-    "neighborhoodLocationName": "El Poblenou",
-    "streetName": "Carrer del Taulat",
-    "streetNumber": "131",
-    "floor": "local",
-    "door": "1",
-    "floorDoorLabel": "",
-    "latitude": 41.40015411,
-    "longitude": 2.2063942,
-    "price": {
-      "amount": 25900000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 454385,
-      "currency": "EUR"
-    },
-    "priceChangePercentage": "-4.07",
-    "isNew": false,
-    "isPriceUpdated": false,
-    "isReserved": false,
-    "isSold": false
-  },
   "14bf3fc6-e1e4-4e1f-a369-6543016991e9": {
     "uuid": "14bf3fc6-e1e4-4e1f-a369-6543016991e9",
     "providerCode": "housfy",
@@ -1364,6 +1305,65 @@
       "currency": "EUR"
     },
     "priceChangePercentage": "-3.58",
+    "isNew": false,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
+  },
+  "b54e1eca-c5dc-4521-9a6f-c00699088db3": {
+    "uuid": "b54e1eca-c5dc-4521-9a6f-c00699088db3",
+    "providerCode": "housfy",
+    "providerPropertyId": 520537,
+    "providerPropertyUrl": "https://housfy.com/comprar-bajo/barcelona/carrer-del-taulat-520537",
+    "providerPropertyTitle": "ESPECTAULAR LOFT CERCA DE LA PLAYA",
+    "publishedDate": "2022-03-10T13:14:48Z",
+    "relevance": 300,
+    "typeId": 5,
+    "typeCode": "bajo",
+    "locationId": 1794,
+    "sizes": {
+      "size": 57,
+      "sizeBuiltWithoutCommonElements": 57,
+      "sizeBuilt": 62,
+      "sizeUseful": 62
+    },
+    "size": 57,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/520537/520537-housfy-20220310-oHV0QcPpyA-420x280.jpg"
+    ],
+    "numberOfBedrooms": 1,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "ESPECTAULAR LOFT CERCA DE LA PLAYA \r\n\r\n\r\nHousfy. vende bajo directamente del propietario en carrer Taulat, Barcelona, un loft con decoración muy actual y ubicada en un entorno idóneo para disfrutarlo. Construido en el año 1958 y reformado recientemente. \r\n\r\n\r\nHa sido diseñado y reformado con los mejores acabados, incorporando tecnología Smart Home de Legrand con control de voz, incluyendo iluminación directa e indirecta, Smart TV de 65’ conectada, Alexa, mecanismos eléctricos inteligentes Bticino (domótica), video-portero digital con control remoto. \r\nAbsolutamente habilitado para el teletrabajo con red interna de voz y datos, router wifi, fibra óptica instalada y en funcionamiento.\r\nEntrada: Jardín verde interior pavimentado en madera natural de pino, paredes de piedra original retro iluminadas, equipado con sillas y mesa de jardín y espacio para bicicletas, patinetes, tablas de surf, etc.\r\nZona relax: gran sofá de terciopelo con chaise longue, mesa de centro, TV.\r\nZona de trabajo: gran mesa de 3 m de largo que se divide en 2 mesas individuales, carril técnico con focos, lámparas y gran armario a medida.\r\nCocina abierta con mobiliario italiano totalmente equipada con lavavajillas, horno microondas, inducción, campana oculta, grifería extraíble, encimeras porcelánicas de alta calidad y resistencia, nevera vintage con congelador. \r\nLavadero separado con lavadora, termo y utensilios de limpieza.\r\nBaño completo: ducha con cromoterapia multicolor, mampara con vidrio de seguridad, revestimiento de paredes exclusivo combinado con ladrillo visto original, inodoro suspendido, mueble lavabo acabado en teca, espejo gran formato retro iluminado, ventana original de madera y techo con vigas de madera y bóveda catalana. \r\nSala anexa equipada con gran vestidor en L, zona de cama de 1,6 m y mesitas de mármol negro natural, cabezal a medida retro iluminado y zona de estudio con mesa a medida de 4,5m con instalaciones de voz y datos, iluminación directa e indirecta con lámparas de diseño, grandes ventanales con luz natural y ventilador en el techo.\r\nClimatización mediante aire acondicionado caliente y frío y radiadores.\r\nCarpinterías exteriores de aluminio con rotura térmica y vidrio de cámara 4/12/6. Aislamiento térmico y acústico acabo en ral texturado.\r\nPuerta exterior revestida con listones de pino macizo con tratamiento cuperizado para exteriores.  \r\n\r\nEste fantástico loft está muy bien situado, a dos calles de la playa de la Mar Bella, la zona se está convirtiendo en el nuevo centro de tecnología e innovación de Barcelona.\r\nEstá muy bien comunicado por transporte público, ya que se encuentra a pocos minutos a pie de la Avinguda Diagonal, la línea amarilla de metro, el centro comercial Glòries, la Rambla Poblenou y el Parque del Poblenou.\r\n\r\nSobre el 22@ - El Poblenou\r\nEste es el barrio que más se ha transformado desde principios de este siglo.\r\nHa pasado de ser una zona industrial a convertirse en un barrio de moda, es el centro de las empresas tecnológicas y una zona residencial con alta demanda.\r\nCon hoteles de 5 estrellas, campus universitarios y edificios residenciales. Además de estos edificios modernos lo que sorprende en el Poble Nou, es el contraste entre lo nuevo y lo antiguo. No es raro encontrar edificios y fábricas clásicas de principios del siglo XX fusionándose con nuevos iconos mundiales de la arquitectura. Es una zona ideal para vivir especialmente para familias jóvenes.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
+    "tags": [],
+    "canScheduleVisits": true,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Sant Martí",
+    "neighborhoodLocationName": "El Poblenou",
+    "streetName": "Carrer del Taulat",
+    "streetNumber": "131",
+    "floor": "local",
+    "door": "1",
+    "floorDoorLabel": "",
+    "latitude": 41.40015411,
+    "longitude": 2.2063942,
+    "price": {
+      "amount": 25900000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 454385,
+      "currency": "EUR"
+    },
+    "priceChangePercentage": "-4.07",
     "isNew": false,
     "isPriceUpdated": false,
     "isReserved": false,
