@@ -1,4 +1,63 @@
 {
+  "bf430203-2bf6-4351-ad67-670e13800b7a": {
+    "uuid": "bf430203-2bf6-4351-ad67-670e13800b7a",
+    "providerCode": "housfy",
+    "providerPropertyId": 586762,
+    "providerPropertyUrl": "https://housfy.com/comprar-bajo/barcelona/carrer-de-lagricultura-586762",
+    "providerPropertyTitle": "Fenomenal bajo en Sant Martí",
+    "publishedDate": "2022-05-13T15:47:21Z",
+    "relevance": 1654604342,
+    "typeId": 5,
+    "typeCode": "bajo",
+    "locationId": 1797,
+    "sizes": {
+      "size": 40,
+      "sizeBuiltWithoutCommonElements": 40,
+      "sizeBuilt": 40,
+      "sizeUseful": 40
+    },
+    "size": 40,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/586762/586762-housfy-20220513-iGWQqqeAA0-420x280.jpg"
+    ],
+    "numberOfBedrooms": 2,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "Fenomenal bajo en Sant Martí.\r\n\r\nDe particular a particular con Housfy.\r\n\r\nHomy vende bajo directamente del propietario en Sant Martí, Barcelona, perfecto para familias o parejas que busquen un lugar cómodo para su día a día.\r\nEl bajo fue construido en el año 1920 en Provençals del Poblenou. El perfecto bajo está formado por 40 m2 construidos.\r\n\r\nCaracterísticas:\r\n\r\n- Encantador bajo de 40 m2. \r\n- La vivienda dispone de 2 habitaciones y 1 baño.\r\n- Coqueto salón perfecto para descansar tras una jornada de trabajo, donde disfrutar de tu familia.\r\n- Con una funcional cocina en buen estado y equipada con todo lo necesario.\r\n- Exterior.\r\n\r\nSobre la ubicación, se encuentra en Barcelona. Una vivienda ideal para aquellos que quieran un cómodo espacio donde vivir con todo lo necesario del día a día a un paso de su casa.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
+    "tags": [],
+    "canScheduleVisits": true,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Sant Martí",
+    "neighborhoodLocationName": "Provençals del Poblenou",
+    "streetName": "Carrer de l\u0027Agricultura",
+    "streetNumber": "141",
+    "floor": "BJ",
+    "door": "1ª",
+    "floorDoorLabel": "",
+    "latitude": 41.41381836,
+    "longitude": 2.20678282,
+    "price": {
+      "amount": 16000000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 400000,
+      "currency": "EUR"
+    },
+    "priceChangePercentage": "-3.03",
+    "isNew": false,
+    "isPriceUpdated": true,
+    "isReserved": false,
+    "isSold": false
+  },
   "a253c2d2-31a6-4700-abd3-7e9217d05037": {
     "uuid": "a253c2d2-31a6-4700-abd3-7e9217d05037",
     "providerCode": "housfy",
@@ -58,65 +117,6 @@
     },
     "isNew": true,
     "isPriceUpdated": false,
-    "isReserved": false,
-    "isSold": false
-  },
-  "bf430203-2bf6-4351-ad67-670e13800b7a": {
-    "uuid": "bf430203-2bf6-4351-ad67-670e13800b7a",
-    "providerCode": "housfy",
-    "providerPropertyId": 586762,
-    "providerPropertyUrl": "https://housfy.com/comprar-bajo/barcelona/carrer-de-lagricultura-586762",
-    "providerPropertyTitle": "Fenomenal bajo en Sant Martí",
-    "publishedDate": "2022-05-13T15:47:21Z",
-    "relevance": 1653641563,
-    "typeId": 5,
-    "typeCode": "bajo",
-    "locationId": 1797,
-    "sizes": {
-      "size": 40,
-      "sizeBuiltWithoutCommonElements": 40,
-      "sizeBuilt": 40,
-      "sizeUseful": 40
-    },
-    "size": 40,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/586762/586762-housfy-20220513-iGWQqqeAA0-420x280.jpg"
-    ],
-    "numberOfBedrooms": 2,
-    "numberOfBathrooms": 1,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "sale",
-    "isVisible": true,
-    "description": "Fenomenal bajo en Sant Martí.\r\n\r\nDe particular a particular con Housfy.\r\n\r\nHomy vende bajo directamente del propietario en Sant Martí, Barcelona, perfecto para familias o parejas que busquen un lugar cómodo para su día a día.\r\nEl bajo fue construido en el año 1920 en Provençals del Poblenou. El perfecto bajo está formado por 40 m2 construidos.\r\n\r\nCaracterísticas:\r\n\r\n- Encantador bajo de 40 m2. \r\n- La vivienda dispone de 2 habitaciones y 1 baño.\r\n- Coqueto salón perfecto para descansar tras una jornada de trabajo, donde disfrutar de tu familia.\r\n- Con una funcional cocina en buen estado y equipada con todo lo necesario.\r\n- Exterior.\r\n\r\nSobre la ubicación, se encuentra en Barcelona. Una vivienda ideal para aquellos que quieran un cómodo espacio donde vivir con todo lo necesario del día a día a un paso de su casa.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
-    "tags": [],
-    "canScheduleVisits": true,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Sant Martí",
-    "neighborhoodLocationName": "Provençals del Poblenou",
-    "streetName": "Carrer de l\u0027Agricultura",
-    "streetNumber": "141",
-    "floor": "BJ",
-    "door": "1ª",
-    "floorDoorLabel": "",
-    "latitude": 41.41381836,
-    "longitude": 2.20678282,
-    "price": {
-      "amount": 16500000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 412500,
-      "currency": "EUR"
-    },
-    "priceChangePercentage": "-2.94",
-    "isNew": false,
-    "isPriceUpdated": true,
     "isReserved": false,
     "isSold": false
   },
@@ -1244,70 +1244,6 @@
     "isReserved": false,
     "isSold": false
   },
-  "77c01ad1-17fc-48dd-a24a-676d5fe11cba": {
-    "uuid": "77c01ad1-17fc-48dd-a24a-676d5fe11cba",
-    "providerCode": "housfy",
-    "providerPropertyId": 571633,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-roc-boronat-571633",
-    "providerPropertyTitle": "Estupendo piso en Sant Martí",
-    "publishedDate": "2022-05-04T15:18:06Z",
-    "relevance": 200,
-    "typeId": 2,
-    "typeCode": "piso",
-    "locationId": 1794,
-    "sizes": {
-      "size": 58,
-      "sizeBuiltWithoutCommonElements": 58,
-      "sizeBuilt": 58,
-      "sizeUseful": 58
-    },
-    "size": 58,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/571633/571633-housfy-20220503-PA4lJ6ILqi-420x280.jpg"
-    ],
-    "numberOfBedrooms": 3,
-    "numberOfBathrooms": 1,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "sale",
-    "isVisible": true,
-    "description": "Estupendo piso en Sant Martí.\r\n\r\nHousfy: la agencia inmobiliaria online.\r\n\r\nSe vende piso  en Sant Martí, Barcelona, perfecto para familias o parejas que busquen un lugar cómodo para su día a día.\r\nConstruido en el año 1930. Consta de 61 m2 muy bien distribuidos.\r\n\r\nCaracterísticas:\r\n\r\n- Genial piso de 58 m2 en El Poblenou. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- La vivienda dispone de 3 habitaciones y 1 baño.\r\n- Acogedor salón con amplio espacio de luz natural, creando un precioso y único espacio.\r\n- Cocina con todo lo necesario.\r\n- Amueblado.\r\n- Dispone de calefacción en todas las estancias, aire acondicionado, ventanas de aluminio doble vidrio, lavadero.\r\n- Balcón a calle desde comedor y dormitorio principal.\r\n- Exterior.\r\n- Finca con ascensor.\r\n\r\nSobre la ubicación, se encuentra en Barcelona. Una vivienda ideal para aquellos que quieran un cómodo espacio donde vivir con todo lo necesario del día a día a un paso de su casa.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
-    "tags": [
-      23,
-      26,
-      31,
-      33
-    ],
-    "canScheduleVisits": true,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Sant Martí",
-    "neighborhoodLocationName": "El Poblenou",
-    "streetName": "Carrer de Roc Boronat",
-    "streetNumber": "73",
-    "floor": "01",
-    "door": "04",
-    "floorDoorLabel": "",
-    "latitude": 41.400177,
-    "longitude": 2.1975975,
-    "price": {
-      "amount": 26000000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 448275,
-      "currency": "EUR"
-    },
-    "priceChangePercentage": "-9.91",
-    "isNew": false,
-    "isPriceUpdated": false,
-    "isReserved": false,
-    "isSold": false
-  },
   "cb0adf59-5e78-415d-9fbf-e04af340842d": {
     "uuid": "cb0adf59-5e78-415d-9fbf-e04af340842d",
     "providerCode": "housfy",
@@ -1428,6 +1364,70 @@
       "amount": 416417,
       "currency": "EUR"
     },
+    "isNew": false,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
+  },
+  "77c01ad1-17fc-48dd-a24a-676d5fe11cba": {
+    "uuid": "77c01ad1-17fc-48dd-a24a-676d5fe11cba",
+    "providerCode": "housfy",
+    "providerPropertyId": 571633,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-roc-boronat-571633",
+    "providerPropertyTitle": "Estupendo piso en Sant Martí",
+    "publishedDate": "2022-05-04T15:18:06Z",
+    "relevance": 200,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1794,
+    "sizes": {
+      "size": 58,
+      "sizeBuiltWithoutCommonElements": 58,
+      "sizeBuilt": 58,
+      "sizeUseful": 58
+    },
+    "size": 58,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/571633/571633-housfy-20220503-PA4lJ6ILqi-420x280.jpg"
+    ],
+    "numberOfBedrooms": 3,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "Estupendo piso en Sant Martí.\r\n\r\nHousfy: la agencia inmobiliaria online.\r\n\r\nSe vende piso  en Sant Martí, Barcelona, perfecto para familias o parejas que busquen un lugar cómodo para su día a día.\r\nConstruido en el año 1930. Consta de 61 m2 muy bien distribuidos.\r\n\r\nCaracterísticas:\r\n\r\n- Genial piso de 58 m2 en El Poblenou. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- La vivienda dispone de 3 habitaciones y 1 baño.\r\n- Acogedor salón con amplio espacio de luz natural, creando un precioso y único espacio.\r\n- Cocina con todo lo necesario.\r\n- Amueblado.\r\n- Dispone de calefacción en todas las estancias, aire acondicionado, ventanas de aluminio doble vidrio, lavadero.\r\n- Balcón a calle desde comedor y dormitorio principal.\r\n- Exterior.\r\n- Finca con ascensor.\r\n\r\nSobre la ubicación, se encuentra en Barcelona. Una vivienda ideal para aquellos que quieran un cómodo espacio donde vivir con todo lo necesario del día a día a un paso de su casa.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
+    "tags": [
+      23,
+      26,
+      31,
+      33
+    ],
+    "canScheduleVisits": true,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Sant Martí",
+    "neighborhoodLocationName": "El Poblenou",
+    "streetName": "Carrer de Roc Boronat",
+    "streetNumber": "73",
+    "floor": "01",
+    "door": "04",
+    "floorDoorLabel": "",
+    "latitude": 41.400177,
+    "longitude": 2.1975975,
+    "price": {
+      "amount": 26000000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 448275,
+      "currency": "EUR"
+    },
+    "priceChangePercentage": "-9.91",
     "isNew": false,
     "isPriceUpdated": false,
     "isReserved": false,
