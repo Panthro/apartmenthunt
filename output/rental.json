@@ -1,4 +1,65 @@
 {
+  "2a42c051-839a-4d39-bb52-18f813327d43": {
+    "uuid": "2a42c051-839a-4d39-bb52-18f813327d43",
+    "providerCode": "housfy",
+    "providerPropertyId": 588657,
+    "providerPropertyUrl": "https://housfy.com/alquilar-piso/barcelona/carrer-del-rec-comtal-588657",
+    "providerPropertyTitle": "Admirable piso en Ciutat Vella",
+    "publishedDate": "2022-05-31T10:17:49Z",
+    "relevance": 1653992269,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1742,
+    "sizes": {
+      "size": 65,
+      "sizeBuiltWithoutCommonElements": 65,
+      "sizeBuilt": 65,
+      "sizeUseful": 59
+    },
+    "size": 65,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/588657/588657-housfy-20220530-aHIvu2IOT5-420x280.jpg"
+    ],
+    "numberOfBedrooms": 2,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "rental",
+    "isVisible": true,
+    "description": "Admirable piso en Ciutat Vella.\r\n\r\nHousfy Alquileres, alquila tu piso con los mejores expertos.\r\n\r\nSe alquila piso en Ciutat Vella, Barcelona, un espacio para disfrutar en tu día a día.\r\nEste fabuloso piso fue construido en el 1900 en Sant Pere - Santa Caterina i la Ribera. Consta de 65 m2 muy bien distribuidos.\r\n\r\nDetalles del inmueble:\r\n\r\n- Genial piso de 65 m2 en Sant Pere - Santa Caterina i la Ribera. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Contamos con todas las comodidades posibles de 2 habitaciones y 1 baño, muy bien acomodadas.\r\n- Coqueto salón con amplio espacio de luz natural, siendo además, un espacio agradable y estupendo para visitas de amigos y familiares.\r\n- Con una ventajosa cocina en buen estado y equipada con todo lo necesario.\r\n- Exterior.\r\n- Dos meses de fianza más honorarios de agencia.\r\n\r\nLa situación de este piso se encuentra en Barcelona. Con fácil acceso y servicios que facilitarán y mejorarán tu día a día.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda alquilar la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922.",
+    "tags": [
+      23,
+      26
+    ],
+    "canScheduleVisits": true,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Ciutat Vella",
+    "neighborhoodLocationName": "Sant Pere - Santa Caterina i la Ribera",
+    "streetName": "Carrer del Rec Comtal",
+    "streetNumber": "13",
+    "floor": "2º",
+    "door": "2ª",
+    "floorDoorLabel": "",
+    "latitude": 41.38991547,
+    "longitude": 2.17973995,
+    "price": {
+      "amount": 98000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 1507,
+      "currency": "EUR"
+    },
+    "isNew": true,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
+  },
   "b53e2823-bfbc-4f9b-ab5d-e82d44d61337": {
     "uuid": "b53e2823-bfbc-4f9b-ab5d-e82d44d61337",
     "providerCode": "housfy",
