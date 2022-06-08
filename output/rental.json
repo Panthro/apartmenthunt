@@ -60,6 +60,68 @@
     "isReserved": false,
     "isSold": false
   },
+  "32d5110b-0c3e-4103-b06d-dd2857366e1b": {
+    "uuid": "32d5110b-0c3e-4103-b06d-dd2857366e1b",
+    "providerCode": "housfy",
+    "providerPropertyId": 591893,
+    "providerPropertyUrl": "https://housfy.com/alquilar-piso/barcelona/carrer-de-pallars-591893",
+    "providerPropertyTitle": "Acogedor piso en Sant Martí",
+    "publishedDate": "2022-05-30T07:44:54Z",
+    "relevance": 1653896694,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1794,
+    "sizes": {
+      "size": 47,
+      "sizeBuiltWithoutCommonElements": 47,
+      "sizeBuilt": 47,
+      "sizeUseful": 47
+    },
+    "size": 47,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/591893/591893-housfy-20220527-81YrhumSWS-420x280.jpg"
+    ],
+    "numberOfBedrooms": 2,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "rental",
+    "isVisible": true,
+    "description": "Acogedor piso en Sant Martí\r\n\r\n\r\nHousfy Alquileres, alquila tu piso con los mejores expertos.\r\n\r\nSe alquila piso en Sant Martí, Barcelona, perfecto para familias o parejas que busquen un lugar cómodo para su día a día.\r\nEste piso fue construido en el año 1936 años en El Poblenou. Consta de 47 m2 muy bien distribuidos.\r\n\r\nDetalles del inmueble:\r\n- Admirable piso de 47 m2 en El Poblenou. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Cuenta con todas las comodidades posibles de 2 habitaciones y 1 baño, muy bien acomodadas.\r\n- Reformada en el año 2016.\r\n- Coqueto salón amplio y luminoso, siendo además, un espacio agradable estupendo para visitas de amigos y familiares.\r\n- Exterior.\r\n- Con una magnifica cocina en muy buen estado, con todo lo necesario para el día a día. \r\n- Dos meses de fianza más honorarios de agencia.\r\n- Proximidad a todo tipo de servicios.\r\n\r\nLa localización de este piso está en Barcelona (Barcelona), en la zona de Poble Nou, a tres calles de la rambla de poble nou, tenemos tres minutos hasta la estación de metro Llacuna (Linea 4), ubicado a 10 minutos de la playa y en pleno distrito 22@\r\nUna vivienda ideal para aquellos que quieran un cómodo espacio donde vivir con todo lo necesario del día a día a un paso de su casa.\r\n\r\nSobre nosotros: Housfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda alquilar la propiedad por su cuenta. Para más información, visítenos en housfy. com. AICAT número: 7922.",
+    "tags": [
+      23,
+      26,
+      32
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Sant Martí",
+    "neighborhoodLocationName": "El Poblenou",
+    "streetName": "Carrer de Pallars",
+    "streetNumber": "164",
+    "floor": "4º",
+    "door": "2ª",
+    "floorDoorLabel": "",
+    "latitude": 41.39946747,
+    "longitude": 2.19586897,
+    "price": {
+      "amount": 90000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 1914,
+      "currency": "EUR"
+    },
+    "isNew": true,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
+  },
   "b53e2823-bfbc-4f9b-ab5d-e82d44d61337": {
     "uuid": "b53e2823-bfbc-4f9b-ab5d-e82d44d61337",
     "providerCode": "housfy",
