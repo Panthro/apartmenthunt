@@ -159,7 +159,7 @@
       26,
       32
     ],
-    "canScheduleVisits": false,
+    "canScheduleVisits": true,
     "stateLocationName": "Barcelona",
     "cityLocationName": "Barcelona",
     "districtLocationName": "Sant Martí",
