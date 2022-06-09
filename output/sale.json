@@ -1245,69 +1245,6 @@
     "isReserved": false,
     "isSold": false
   },
-  "cb0adf59-5e78-415d-9fbf-e04af340842d": {
-    "uuid": "cb0adf59-5e78-415d-9fbf-e04af340842d",
-    "providerCode": "housfy",
-    "providerPropertyId": 581964,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-del-concili-de-trento-581964",
-    "providerPropertyTitle": "Espléndido piso con local anexo en Sant Martí",
-    "publishedDate": "2022-05-19T08:58:35Z",
-    "relevance": 200,
-    "typeId": 2,
-    "typeCode": "piso",
-    "locationId": 1798,
-    "sizes": {
-      "size": 98,
-      "sizeBuiltWithoutCommonElements": 98,
-      "sizeBuilt": 98,
-      "sizeUseful": 98
-    },
-    "size": 98,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/581964/581964-housfy-20220519-WvJYoGgsHh-420x280.jpg"
-    ],
-    "numberOfBedrooms": 3,
-    "numberOfBathrooms": 1,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "sale",
-    "isVisible": true,
-    "description": "Espléndido piso con local anexo en Sant Martí\r\n\r\n\r\nHousfy, compraventa entre particulares.\r\n\r\nSe vende piso en Sant Martí, Barcelona, una vivienda luminosa y ubicada en un entorno idóneo para disfrutarlo, con una amplia zona comunitaria con zonas de descanso y de recreo para los más pequeños de la casa.\r\nEste piso fue construido en el año 1957 en Sant Martí. El inmueble una vivienda y un local diáfano de 20 m2 anexo a la vivienda y que puede añadirse a la misma como una estancia más, o mantener dividido ya sea para su uso como despacho independiente, trastero u otros fines.\r\n\r\nCaracterísticas:\r\n- Acogedor piso de en Sant Martí de Provençals, divididos entre una vivienda y un local anexo a la misma de 20m2.\r\n- En el piso encontraremos 3 habitaciones y 1 baño, perfecto para una familia.\r\n- Cálido salón que es un lugar perfecto para descansar tras una jornada de trabajo, creando un precioso y único espacio.\r\n- Puerta de entrada de seguridad blindada.\r\n- Con una efectiva cocina en muy buen estado, equipada con lo necesario para el día a día.\r\n- Ascensor.\r\n- Aire acondicionado y calefacción para todas las estaciones del año.\r\n- Exterior.\r\n- Mobiliario a negociar con el propietario.\r\n\r\nLa situación de este piso se encuentra en Barcelona, provincia de Barcelona.\r\nCon fácil acceso y servicios que facilitarán y mejorarán tu día a día.\r\n\r\nSobre nosotros:\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
-    "tags": [
-      23,
-      26,
-      31,
-      33
-    ],
-    "canScheduleVisits": true,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Sant Martí",
-    "neighborhoodLocationName": "Sant Martí de Provençals",
-    "streetName": "Carrer del Concili de Trento",
-    "streetNumber": "175-177",
-    "floor": "BJS",
-    "door": "02",
-    "floorDoorLabel": "",
-    "latitude": 41.41763687,
-    "longitude": 2.20076799,
-    "price": {
-      "amount": 23500000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 239795,
-      "currency": "EUR"
-    },
-    "isNew": false,
-    "isPriceUpdated": false,
-    "isReserved": false,
-    "isSold": false
-  },
   "77c01ad1-17fc-48dd-a24a-676d5fe11cba": {
     "uuid": "77c01ad1-17fc-48dd-a24a-676d5fe11cba",
     "providerCode": "housfy",
@@ -1427,6 +1364,69 @@
     },
     "priceSize": {
       "amount": 387058,
+      "currency": "EUR"
+    },
+    "isNew": false,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
+  },
+  "cb0adf59-5e78-415d-9fbf-e04af340842d": {
+    "uuid": "cb0adf59-5e78-415d-9fbf-e04af340842d",
+    "providerCode": "housfy",
+    "providerPropertyId": 581964,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-del-concili-de-trento-581964",
+    "providerPropertyTitle": "Espléndido piso con local anexo en Sant Martí",
+    "publishedDate": "2022-05-19T08:58:35Z",
+    "relevance": 200,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1798,
+    "sizes": {
+      "size": 98,
+      "sizeBuiltWithoutCommonElements": 98,
+      "sizeBuilt": 98,
+      "sizeUseful": 98
+    },
+    "size": 98,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/581964/581964-housfy-20220519-WvJYoGgsHh-420x280.jpg"
+    ],
+    "numberOfBedrooms": 3,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "Espléndido piso con local anexo en Sant Martí\r\n\r\n\r\nHousfy, compraventa entre particulares.\r\n\r\nSe vende piso en Sant Martí, Barcelona, una vivienda luminosa y ubicada en un entorno idóneo para disfrutarlo, con una amplia zona comunitaria con zonas de descanso y de recreo para los más pequeños de la casa.\r\nEste piso fue construido en el año 1957 en Sant Martí. El inmueble una vivienda y un local diáfano de 20 m2 anexo a la vivienda y que puede añadirse a la misma como una estancia más, o mantener dividido ya sea para su uso como despacho independiente, trastero u otros fines.\r\n\r\nCaracterísticas:\r\n- Acogedor piso de en Sant Martí de Provençals, divididos entre una vivienda y un local anexo a la misma de 20m2.\r\n- En el piso encontraremos 3 habitaciones y 1 baño, perfecto para una familia.\r\n- Cálido salón que es un lugar perfecto para descansar tras una jornada de trabajo, creando un precioso y único espacio.\r\n- Puerta de entrada de seguridad blindada.\r\n- Con una efectiva cocina en muy buen estado, equipada con lo necesario para el día a día.\r\n- Ascensor.\r\n- Aire acondicionado y calefacción para todas las estaciones del año.\r\n- Exterior.\r\n- Mobiliario a negociar con el propietario.\r\n\r\nLa situación de este piso se encuentra en Barcelona, provincia de Barcelona.\r\nCon fácil acceso y servicios que facilitarán y mejorarán tu día a día.\r\n\r\nSobre nosotros:\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
+    "tags": [
+      23,
+      26,
+      31,
+      33
+    ],
+    "canScheduleVisits": true,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Sant Martí",
+    "neighborhoodLocationName": "Sant Martí de Provençals",
+    "streetName": "Carrer del Concili de Trento",
+    "streetNumber": "175-177",
+    "floor": "BJS",
+    "door": "02",
+    "floorDoorLabel": "",
+    "latitude": 41.41763687,
+    "longitude": 2.20076799,
+    "price": {
+      "amount": 23500000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 239795,
       "currency": "EUR"
     },
     "isNew": false,
