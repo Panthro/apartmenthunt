@@ -1619,5 +1619,66 @@
     "isPriceUpdated": false,
     "isReserved": false,
     "isSold": false
+  },
+  "78c04ed2-a8bd-494e-b9ee-9791c0b0d25d": {
+    "uuid": "78c04ed2-a8bd-494e-b9ee-9791c0b0d25d",
+    "providerCode": "housfy",
+    "providerPropertyId": 601814,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-despronceda-601814",
+    "providerPropertyTitle": "Perfecto piso en Sant Martí",
+    "publishedDate": "2022-06-10T15:10:41Z",
+    "relevance": 2,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1792,
+    "sizes": {
+      "size": 85,
+      "sizeBuiltWithoutCommonElements": 85,
+      "sizeBuilt": 93,
+      "sizeUseful": 93
+    },
+    "size": 85,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/601814/601814-housfy-20220610-idIYajc6XA-420x280.jpg"
+    ],
+    "numberOfBedrooms": 4,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "Perfecto piso en Sant Martí\r\n\r\n\r\nHousfy: la agencia inmobiliaria online.\r\n\r\nHomy vende piso directamente del propietario en Sant Martí, Barcelona, una vivienda luminosa y ubicada en un entorno idóneo para disfrutarlo.\r\nEl piso fue construido en el año 1967 en Barcelona. Consta de 93 m2.\r\n\r\nCaracterísticas:\r\n- Admirable piso de 93 m2 en El Clot. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- En el piso encontraremos 4 habitaciones y 1 baño, ideal para familias. \r\n- Agradable salón que te proporcionará el relax diario, donde disfrutar de tu familia.\r\n- Exterior.\r\n- Con una adecuada cocina en perfecto estado, con todo lo necesario para el día a día. \r\n\r\nRespecto a la ubicación, está localizado en Barcelona, provincia de Barcelona.\r\nCon todos los servicios que puedas necesitar para facilitar tus días en todo momento.\r\n\r\nSobre nosotros:\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
+    "tags": [
+      23,
+      25
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Sant Martí",
+    "neighborhoodLocationName": "El Clot",
+    "streetName": "Carrer d\u0027Espronceda",
+    "streetNumber": "297",
+    "floor": "03",
+    "door": "03",
+    "floorDoorLabel": "",
+    "latitude": 41.41396332,
+    "longitude": 2.19277143,
+    "price": {
+      "amount": 34900000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 410588,
+      "currency": "EUR"
+    },
+    "isNew": true,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
   }
 }
