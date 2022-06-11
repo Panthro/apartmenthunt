@@ -249,7 +249,7 @@
     },
     "priceChangePercentage": "-3.57",
     "isNew": false,
-    "isPriceUpdated": true,
+    "isPriceUpdated": false,
     "isReserved": false,
     "isSold": false
   },
