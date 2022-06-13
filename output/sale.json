@@ -123,65 +123,6 @@
     "isReserved": false,
     "isSold": false
   },
-  "bf430203-2bf6-4351-ad67-670e13800b7a": {
-    "uuid": "bf430203-2bf6-4351-ad67-670e13800b7a",
-    "providerCode": "housfy",
-    "providerPropertyId": 586762,
-    "providerPropertyUrl": "https://housfy.com/comprar-bajo/barcelona/carrer-de-lagricultura-586762",
-    "providerPropertyTitle": "Fenomenal bajo en Sant Martí",
-    "publishedDate": "2022-05-13T15:47:21Z",
-    "relevance": 1654604342,
-    "typeId": 5,
-    "typeCode": "bajo",
-    "locationId": 1797,
-    "sizes": {
-      "size": 40,
-      "sizeBuiltWithoutCommonElements": 40,
-      "sizeBuilt": 40,
-      "sizeUseful": 40
-    },
-    "size": 40,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/586762/586762-housfy-20220513-iGWQqqeAA0-420x280.jpg"
-    ],
-    "numberOfBedrooms": 2,
-    "numberOfBathrooms": 1,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "sale",
-    "isVisible": true,
-    "description": "Fenomenal bajo en Sant Martí.\r\n\r\nDe particular a particular con Housfy.\r\n\r\nHomy vende bajo directamente del propietario en Sant Martí, Barcelona, perfecto para familias o parejas que busquen un lugar cómodo para su día a día.\r\nEl bajo fue construido en el año 1920 en Provençals del Poblenou. El perfecto bajo está formado por 40 m2 construidos.\r\n\r\nCaracterísticas:\r\n\r\n- Encantador bajo de 40 m2. \r\n- La vivienda dispone de 2 habitaciones y 1 baño.\r\n- Coqueto salón perfecto para descansar tras una jornada de trabajo, donde disfrutar de tu familia.\r\n- Con una funcional cocina en buen estado y equipada con todo lo necesario.\r\n- Exterior.\r\n\r\nSobre la ubicación, se encuentra en Barcelona. Una vivienda ideal para aquellos que quieran un cómodo espacio donde vivir con todo lo necesario del día a día a un paso de su casa.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
-    "tags": [],
-    "canScheduleVisits": true,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Sant Martí",
-    "neighborhoodLocationName": "Provençals del Poblenou",
-    "streetName": "Carrer de l\u0027Agricultura",
-    "streetNumber": "141",
-    "floor": "BJ",
-    "door": "1ª",
-    "floorDoorLabel": "",
-    "latitude": 41.41381836,
-    "longitude": 2.20678282,
-    "price": {
-      "amount": 16000000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 400000,
-      "currency": "EUR"
-    },
-    "priceChangePercentage": "-3.03",
-    "isNew": false,
-    "isPriceUpdated": true,
-    "isReserved": false,
-    "isSold": false
-  },
   "a253c2d2-31a6-4700-abd3-7e9217d05037": {
     "uuid": "a253c2d2-31a6-4700-abd3-7e9217d05037",
     "providerCode": "housfy",
