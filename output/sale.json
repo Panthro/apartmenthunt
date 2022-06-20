@@ -377,67 +377,6 @@
     "isReserved": false,
     "isSold": false
   },
-  "0fbca564-8e69-4b6b-a6a4-0dc4ac10a3ba": {
-    "uuid": "0fbca564-8e69-4b6b-a6a4-0dc4ac10a3ba",
-    "providerCode": "housfy",
-    "providerPropertyId": 551157,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-roc-boronat-551157",
-    "providerPropertyTitle": "Acogedor ático en Sant Martí",
-    "publishedDate": "2022-03-17T16:58:14Z",
-    "relevance": 900,
-    "typeId": 2,
-    "typeCode": "piso",
-    "locationId": 1794,
-    "sizes": {
-      "size": 46,
-      "sizeBuiltWithoutCommonElements": 46,
-      "sizeBuilt": 46,
-      "sizeUseful": 46
-    },
-    "size": 46,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/551157/551157-housfy-20220317-SdZtn9Hbmc-420x280.jpg"
-    ],
-    "numberOfBedrooms": 2,
-    "numberOfBathrooms": 1,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "sale",
-    "isVisible": true,
-    "description": "Acogedor ático en Sant Martí.\r\n\r\nCompra tu piso con Housfy.\r\n\r\nÁtico directamente del propietario en Sant Martí, Barcelona, perfecto para familias o parejas que busquen un lugar cómodo para su día a día.\r\nEl piso fue construido en el año 1954. Sus 46 m2 están perfectamente distribuidos, creando un amplio y abierto espacio con mucha luz y con un diseño muy especial.\r\n\r\nCaracterísticas:\r\n\r\n- Encantador piso de 46 m2 en El Poblenou. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Esta vivienda cuenta con 1 habitación y 1 baño.\r\n- Práctico salón amplio y luminoso, siendo además, un espacio agradable y estupendo para visitas de amigos y familiares.\r\n- Con una apropiada cocina en buen estado y equipada con todo lo necesario.\r\n- Exterior.\r\n- Aire acondicionado bomba frio/calor. \r\n- Ascensor.\r\n\r\nSobre la localización, está localizado en Barcelona. Con fácil acceso y servicios que facilitarán y mejorarán tu día a día.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
-    "tags": [
-      23,
-      26
-    ],
-    "canScheduleVisits": true,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Sant Martí",
-    "neighborhoodLocationName": "El Poblenou",
-    "streetName": "Carrer de Roc Boronat",
-    "streetNumber": "5",
-    "floor": "ático",
-    "door": "05",
-    "floorDoorLabel": "",
-    "latitude": 41.39693832,
-    "longitude": 2.20203924,
-    "price": {
-      "amount": 28000000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 608695,
-      "currency": "EUR"
-    },
-    "isNew": false,
-    "isPriceUpdated": false,
-    "isReserved": false,
-    "isSold": false
-  },
   "9bb27dd0-5c0c-443f-85e8-87b6a504bca4": {
     "uuid": "9bb27dd0-5c0c-443f-85e8-87b6a504bca4",
     "providerCode": "housfy",
