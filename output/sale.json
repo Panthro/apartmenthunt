@@ -1378,68 +1378,6 @@
     "isReserved": false,
     "isSold": false
   },
-  "e695e50e-564a-4cba-bd4e-7c1d5ef19aa9": {
-    "uuid": "e695e50e-564a-4cba-bd4e-7c1d5ef19aa9",
-    "providerCode": "housfy",
-    "providerPropertyId": 460796,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/rambla-de-guipuscoa-460796",
-    "providerPropertyTitle": "Espléndido piso en Sant Martí",
-    "publishedDate": "2021-09-30T08:05:21Z",
-    "relevance": 100,
-    "typeId": 2,
-    "typeCode": "piso",
-    "locationId": 1798,
-    "sizes": {
-      "size": 104,
-      "sizeBuiltWithoutCommonElements": 104,
-      "sizeBuilt": 104,
-      "sizeUseful": 104
-    },
-    "size": 104,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/460796/460796-housfy-20210929-eNjDSjgABx-420x280.jpg"
-    ],
-    "numberOfBedrooms": 4,
-    "numberOfBathrooms": 1,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "sale",
-    "isVisible": true,
-    "description": "espléndido piso en sant martí\r\n\r\ncesar vende piso directamente del propietario en sant martí, barcelona, perfecto para familias o parejas que busquen un lugar cómodo para su día a día.\r\nconstruido en 1957 en barcelona. consta de 104 m2 muy bien distribuidos.\r\n\r\ncaracterísticas:\r\n- espléndido piso de 104 m2 en sant martí de provençals. (los metros cuadrados están verificados con la dirección general de catastro)\r\n- contamos con todas las comodidades posibles de 4 habitaciones y 1 baño, muy bien acomodadas.\r\n- acogedor salón que es un lugar perfecto para descansar tras una jornada de trabajo, siendo además, un espacio agradable estupendo para visitas de amigos y familiares.\r\n- exterior.\r\n- ascensor. \r\n- balcón. \r\n- con una efectiva cocina, en buen estado.\r\n- zona ajardinada con parque infantil dentro del recinto de edificio. \r\n\r\nrespecto a la ubicación, está localizado en barcelona (barcelona)\r\ncon todos los servicios que puedas necesitar para facilitar tus días en todo momento.\r\n\r\nsobre nosotros:\r\nhousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta.  para más información, visítenos en housfy.com. aicat número: 7922",
-    "tags": [
-      23,
-      26
-    ],
-    "canScheduleVisits": true,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Sant Martí",
-    "neighborhoodLocationName": "Sant Martí de Provençals",
-    "streetName": "Rambla de Guipúscoa",
-    "streetNumber": "92 esc Izq",
-    "floor": "01",
-    "door": "01",
-    "floorDoorLabel": "",
-    "latitude": 41.41818619,
-    "longitude": 2.20009327,
-    "price": {
-      "amount": 28000000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 269230,
-      "currency": "EUR"
-    },
-    "priceChangePercentage": "-6.35",
-    "isNew": false,
-    "isPriceUpdated": false,
-    "isReserved": false,
-    "isSold": false
-  },
   "c67b7f15-7d64-4279-97d4-30d83c6c0aeb": {
     "uuid": "c67b7f15-7d64-4279-97d4-30d83c6c0aeb",
     "providerCode": "housfy",
@@ -1497,6 +1435,68 @@
       "currency": "EUR"
     },
     "priceChangePercentage": "-3.28",
+    "isNew": false,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
+  },
+  "e695e50e-564a-4cba-bd4e-7c1d5ef19aa9": {
+    "uuid": "e695e50e-564a-4cba-bd4e-7c1d5ef19aa9",
+    "providerCode": "housfy",
+    "providerPropertyId": 460796,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/rambla-de-guipuscoa-460796",
+    "providerPropertyTitle": "Espléndido piso en Sant Martí",
+    "publishedDate": "2021-09-30T08:05:21Z",
+    "relevance": 100,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1798,
+    "sizes": {
+      "size": 104,
+      "sizeBuiltWithoutCommonElements": 104,
+      "sizeBuilt": 104,
+      "sizeUseful": 104
+    },
+    "size": 104,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/460796/460796-housfy-20210929-eNjDSjgABx-420x280.jpg"
+    ],
+    "numberOfBedrooms": 4,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "espléndido piso en sant martí\r\n\r\ncesar vende piso directamente del propietario en sant martí, barcelona, perfecto para familias o parejas que busquen un lugar cómodo para su día a día.\r\nconstruido en 1957 en barcelona. consta de 104 m2 muy bien distribuidos.\r\n\r\ncaracterísticas:\r\n- espléndido piso de 104 m2 en sant martí de provençals. (los metros cuadrados están verificados con la dirección general de catastro)\r\n- contamos con todas las comodidades posibles de 4 habitaciones y 1 baño, muy bien acomodadas.\r\n- acogedor salón que es un lugar perfecto para descansar tras una jornada de trabajo, siendo además, un espacio agradable estupendo para visitas de amigos y familiares.\r\n- exterior.\r\n- ascensor. \r\n- balcón. \r\n- con una efectiva cocina, en buen estado.\r\n- zona ajardinada con parque infantil dentro del recinto de edificio. \r\n\r\nrespecto a la ubicación, está localizado en barcelona (barcelona)\r\ncon todos los servicios que puedas necesitar para facilitar tus días en todo momento.\r\n\r\nsobre nosotros:\r\nhousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta.  para más información, visítenos en housfy.com. aicat número: 7922",
+    "tags": [
+      23,
+      26
+    ],
+    "canScheduleVisits": true,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Sant Martí",
+    "neighborhoodLocationName": "Sant Martí de Provençals",
+    "streetName": "Rambla de Guipúscoa",
+    "streetNumber": "92 esc Izq",
+    "floor": "01",
+    "door": "01",
+    "floorDoorLabel": "",
+    "latitude": 41.41818619,
+    "longitude": 2.20009327,
+    "price": {
+      "amount": 28000000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 269230,
+      "currency": "EUR"
+    },
+    "priceChangePercentage": "-6.35",
     "isNew": false,
     "isPriceUpdated": false,
     "isReserved": false,
