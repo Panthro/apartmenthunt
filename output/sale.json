@@ -6,7 +6,7 @@
     "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-palencia-605303",
     "providerPropertyTitle": "Admirable piso con ascensor en Sant Andreu",
     "publishedDate": "2022-06-20T16:00:43Z",
-    "relevance": 1655740843,
+    "relevance": 1655761584,
     "typeId": 2,
     "typeCode": "piso",
     "locationId": 1786,
@@ -30,7 +30,7 @@
     },
     "operationTypeCode": "sale",
     "isVisible": true,
-    "description": "Admirable piso con ascensor en Sant Andreu.\r\n\r\nCompraventa entre particulares con Housfy.\r\n\r\nSe vende piso de particular a particular en Sant Andreu, Barcelona, un espacio para disfrutar en tu día a día.\r\nConstruido en 1963. El acogedor piso está formado por 70 m2 construidos.\r\n\r\nCaracterísticas:\r\n\r\n- Reforma total.\r\n- Fabuloso piso de 70 m2 en Navas. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Esta vivienda cuenta con 2 habitaciones y 1 baño, muy bien acomodadas.\r\n- Confortable salón amplio y luminoso, donde disfrutar de tu familia.\r\n- Con una apropiada cocina americana equipada con lo necesario para el día a día.\r\n- Parquet.\r\n- Ascensor.\r\n- Exterior.\r\n\r\nRespecto a la ubicación, se encuentra en Barcelona. Con todos los servicios que puedas necesitar para facilitar tus días en todo momento.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
+    "description": "Admirable piso con ascensor en Clot\r\n\r\nCompraventa entre particulares con Housfy.\r\n\r\nSe vende piso de particular a particular en Clot, Barcelona, un espacio para disfrutar en tu día a día.\r\nEl acogedor piso está formado por 70 m2 construidos.\r\n\r\nCaracterísticas:\r\n\r\n- Reforma total.\r\n- Fabuloso piso de 70 m2 en Navas. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Esta vivienda cuenta con 2 habitaciones y 1 baño, muy bien acomodadas.\r\n- Confortable salón amplio y luminoso, donde disfrutar de tu familia.\r\n- Con una apropiada cocina americana equipada con lo necesario para el día a día.\r\n- Parquet.\r\n- Ascensor.\r\n- Exterior.\r\n\r\nRespecto a la ubicación, se encuentra en Barcelona. Con todos los servicios que puedas necesitar para facilitar tus días en todo momento.\r\n\r\nUNICO EN LA ZONA POR PRECIO Y REFORMADO\r\nPRECIO INCUYE REFORMA\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
     "tags": [
       23,
       25
@@ -48,15 +48,16 @@
     "latitude": 41.4158783,
     "longitude": 2.18771863,
     "price": {
-      "amount": 23500000,
+      "amount": 22900000,
       "currency": "EUR"
     },
     "priceSize": {
-      "amount": 335714,
+      "amount": 327142,
       "currency": "EUR"
     },
+    "priceChangePercentage": "-2.55",
     "isNew": true,
-    "isPriceUpdated": false,
+    "isPriceUpdated": true,
     "isReserved": false,
     "isSold": false
   },
@@ -1188,68 +1189,6 @@
     "isReserved": false,
     "isSold": false
   },
-  "df5bd3d1-63f0-4d40-ac74-7eb3c8e78faa": {
-    "uuid": "df5bd3d1-63f0-4d40-ac74-7eb3c8e78faa",
-    "providerCode": "housfy",
-    "providerPropertyId": 546346,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-darago-546346",
-    "providerPropertyTitle": "Maravilloso piso en Sant Martí",
-    "publishedDate": "2022-04-28T15:17:49Z",
-    "relevance": 200,
-    "typeId": 2,
-    "typeCode": "piso",
-    "locationId": 1791,
-    "sizes": {
-      "size": 52,
-      "sizeBuiltWithoutCommonElements": 52,
-      "sizeBuilt": 52,
-      "sizeUseful": 52
-    },
-    "size": 52,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/546346/546346-housfy-20220427-jRF8WNPpZt-420x280.jpg"
-    ],
-    "numberOfBedrooms": 3,
-    "numberOfBathrooms": 1,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "sale",
-    "isVisible": true,
-    "description": "Maravilloso piso en Sant Martí\r\n\r\n\r\nHousfy sin intermediarios.\r\n\r\nOportunidad de adquirir magnífico piso en Sant Martí, Barcelona. Una vivienda luminosa y ubicada en un entorno idóneo para disfrutarlo.\r\nConstruido en 1900 en Sant Martí. Sus 52 m2 ofrecen un espacio moderno y de concepto abierto, con múltiples opciones de reforma, sin paredes maestras.\r\n\r\nCaracterísticas:\r\n- Maravilloso piso de 52 m2 en El Camp de l\u0027Arpa del Clot. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- En el piso encontraremos 3 habitaciones y 1 baño, perfecto para una familia.\r\n- Agradable salón que te proporcionará el relax diario, un lugar perfecto para descansar en los ratos libres.\r\n- Con una ventajosa cocina en buen estado.\r\n- Exterior.\r\n\r\nSobre la ubicación, está localizado en Barcelona, provincia de Barcelona.\r\nCon todos los servicios que puedas necesitar para facilitar tus días en todo momento.\r\n\r\nSobre nosotros:\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
-    "tags": [
-      23,
-      26
-    ],
-    "canScheduleVisits": true,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Sant Martí",
-    "neighborhoodLocationName": "El Camp de l\u0027Arpa del Clot",
-    "streetName": "Carrer d\u0027Aragó",
-    "streetNumber": "537",
-    "floor": "01",
-    "door": "02",
-    "floorDoorLabel": "",
-    "latitude": 41.40653992,
-    "longitude": 2.18381,
-    "price": {
-      "amount": 18500000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 355769,
-      "currency": "EUR"
-    },
-    "priceChangePercentage": "-7.5",
-    "isNew": false,
-    "isPriceUpdated": false,
-    "isReserved": false,
-    "isSold": false
-  },
   "61915a19-1799-4cda-95d2-db9ad676a8c9": {
     "uuid": "61915a19-1799-4cda-95d2-db9ad676a8c9",
     "providerCode": "housfy",
@@ -1434,6 +1373,68 @@
       "amount": 293333,
       "currency": "EUR"
     },
+    "isNew": false,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
+  },
+  "df5bd3d1-63f0-4d40-ac74-7eb3c8e78faa": {
+    "uuid": "df5bd3d1-63f0-4d40-ac74-7eb3c8e78faa",
+    "providerCode": "housfy",
+    "providerPropertyId": 546346,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-darago-546346",
+    "providerPropertyTitle": "Maravilloso piso en Sant Martí",
+    "publishedDate": "2022-04-28T15:17:49Z",
+    "relevance": 200,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1791,
+    "sizes": {
+      "size": 52,
+      "sizeBuiltWithoutCommonElements": 52,
+      "sizeBuilt": 52,
+      "sizeUseful": 52
+    },
+    "size": 52,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/546346/546346-housfy-20220427-jRF8WNPpZt-420x280.jpg"
+    ],
+    "numberOfBedrooms": 3,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "Maravilloso piso en Sant Martí\r\n\r\n\r\nHousfy sin intermediarios.\r\n\r\nOportunidad de adquirir magnífico piso en Sant Martí, Barcelona. Una vivienda luminosa y ubicada en un entorno idóneo para disfrutarlo.\r\nConstruido en 1900 en Sant Martí. Sus 52 m2 ofrecen un espacio moderno y de concepto abierto, con múltiples opciones de reforma, sin paredes maestras.\r\n\r\nCaracterísticas:\r\n- Maravilloso piso de 52 m2 en El Camp de l\u0027Arpa del Clot. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- En el piso encontraremos 3 habitaciones y 1 baño, perfecto para una familia.\r\n- Agradable salón que te proporcionará el relax diario, un lugar perfecto para descansar en los ratos libres.\r\n- Con una ventajosa cocina en buen estado.\r\n- Exterior.\r\n\r\nSobre la ubicación, está localizado en Barcelona, provincia de Barcelona.\r\nCon todos los servicios que puedas necesitar para facilitar tus días en todo momento.\r\n\r\nSobre nosotros:\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
+    "tags": [
+      23,
+      26
+    ],
+    "canScheduleVisits": true,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Sant Martí",
+    "neighborhoodLocationName": "El Camp de l\u0027Arpa del Clot",
+    "streetName": "Carrer d\u0027Aragó",
+    "streetNumber": "537",
+    "floor": "01",
+    "door": "02",
+    "floorDoorLabel": "",
+    "latitude": 41.40653992,
+    "longitude": 2.18381,
+    "price": {
+      "amount": 18500000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 355769,
+      "currency": "EUR"
+    },
+    "priceChangePercentage": "-7.5",
     "isNew": false,
     "isPriceUpdated": false,
     "isReserved": false,
