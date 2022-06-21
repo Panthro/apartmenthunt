@@ -6,7 +6,7 @@
     "providerPropertyUrl": "https://housfy.com/alquilar-piso/barcelona/carrer-del-rec-comtal-588657",
     "providerPropertyTitle": "Admirable piso en Ciutat Vella",
     "publishedDate": "2022-05-31T10:17:49Z",
-    "relevance": 200,
+    "relevance": 1655810048,
     "typeId": 2,
     "typeCode": "piso",
     "locationId": 1742,
@@ -48,15 +48,16 @@
     "latitude": 41.38991547,
     "longitude": 2.17973995,
     "price": {
-      "amount": 98000,
+      "amount": 94900,
       "currency": "EUR"
     },
     "priceSize": {
-      "amount": 1781,
+      "amount": 1725,
       "currency": "EUR"
     },
+    "priceChangePercentage": "-3.16",
     "isNew": false,
-    "isPriceUpdated": false,
+    "isPriceUpdated": true,
     "isReserved": false,
     "isSold": false
   },
