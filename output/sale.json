@@ -941,65 +941,6 @@
     "isReserved": false,
     "isSold": false
   },
-  "b54e1eca-c5dc-4521-9a6f-c00699088db3": {
-    "uuid": "b54e1eca-c5dc-4521-9a6f-c00699088db3",
-    "providerCode": "housfy",
-    "providerPropertyId": 520537,
-    "providerPropertyUrl": "https://housfy.com/comprar-bajo/barcelona/carrer-del-taulat-520537",
-    "providerPropertyTitle": "ESPECTAULAR LOFT CERCA DE LA PLAYA",
-    "publishedDate": "2022-03-10T13:14:48Z",
-    "relevance": 300,
-    "typeId": 5,
-    "typeCode": "bajo",
-    "locationId": 1794,
-    "sizes": {
-      "size": 57,
-      "sizeBuiltWithoutCommonElements": 57,
-      "sizeBuilt": 62,
-      "sizeUseful": 62
-    },
-    "size": 57,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/520537/520537-housfy-20220310-oHV0QcPpyA-420x280.jpg"
-    ],
-    "numberOfBedrooms": 1,
-    "numberOfBathrooms": 1,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "sale",
-    "isVisible": true,
-    "description": "ESPECTAULAR LOFT CERCA DE LA PLAYA \r\n\r\n\r\nHousfy. vende bajo directamente del propietario en carrer Taulat, Barcelona, un loft con decoración muy actual y ubicada en un entorno idóneo para disfrutarlo. Construido en el año 1958 y reformado recientemente. \r\n\r\n\r\nHa sido diseñado y reformado con los mejores acabados, incorporando tecnología Smart Home de Legrand con control de voz, incluyendo iluminación directa e indirecta, Smart TV de 65’ conectada, Alexa, mecanismos eléctricos inteligentes Bticino (domótica), video-portero digital con control remoto. \r\nAbsolutamente habilitado para el teletrabajo con red interna de voz y datos, router wifi, fibra óptica instalada y en funcionamiento.\r\nEntrada: Jardín verde interior pavimentado en madera natural de pino, paredes de piedra original retro iluminadas, equipado con sillas y mesa de jardín y espacio para bicicletas, patinetes, tablas de surf, etc.\r\nZona relax: gran sofá de terciopelo con chaise longue, mesa de centro, TV.\r\nZona de trabajo: gran mesa de 3 m de largo que se divide en 2 mesas individuales, carril técnico con focos, lámparas y gran armario a medida.\r\nCocina abierta con mobiliario italiano totalmente equipada con lavavajillas, horno microondas, inducción, campana oculta, grifería extraíble, encimeras porcelánicas de alta calidad y resistencia, nevera vintage con congelador. \r\nLavadero separado con lavadora, termo y utensilios de limpieza.\r\nBaño completo: ducha con cromoterapia multicolor, mampara con vidrio de seguridad, revestimiento de paredes exclusivo combinado con ladrillo visto original, inodoro suspendido, mueble lavabo acabado en teca, espejo gran formato retro iluminado, ventana original de madera y techo con vigas de madera y bóveda catalana. \r\nSala anexa equipada con gran vestidor en L, zona de cama de 1,6 m y mesitas de mármol negro natural, cabezal a medida retro iluminado y zona de estudio con mesa a medida de 4,5m con instalaciones de voz y datos, iluminación directa e indirecta con lámparas de diseño, grandes ventanales con luz natural y ventilador en el techo.\r\nClimatización mediante aire acondicionado caliente y frío y radiadores.\r\nCarpinterías exteriores de aluminio con rotura térmica y vidrio de cámara 4/12/6. Aislamiento térmico y acústico acabo en ral texturado.\r\nPuerta exterior revestida con listones de pino macizo con tratamiento cuperizado para exteriores.  \r\n\r\nEste fantástico loft está muy bien situado, a dos calles de la playa de la Mar Bella, la zona se está convirtiendo en el nuevo centro de tecnología e innovación de Barcelona.\r\nEstá muy bien comunicado por transporte público, ya que se encuentra a pocos minutos a pie de la Avinguda Diagonal, la línea amarilla de metro, el centro comercial Glòries, la Rambla Poblenou y el Parque del Poblenou.\r\n\r\nSobre el 22@ - El Poblenou\r\nEste es el barrio que más se ha transformado desde principios de este siglo.\r\nHa pasado de ser una zona industrial a convertirse en un barrio de moda, es el centro de las empresas tecnológicas y una zona residencial con alta demanda.\r\nCon hoteles de 5 estrellas, campus universitarios y edificios residenciales. Además de estos edificios modernos lo que sorprende en el Poble Nou, es el contraste entre lo nuevo y lo antiguo. No es raro encontrar edificios y fábricas clásicas de principios del siglo XX fusionándose con nuevos iconos mundiales de la arquitectura. Es una zona ideal para vivir especialmente para familias jóvenes.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
-    "tags": [],
-    "canScheduleVisits": false,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Sant Martí",
-    "neighborhoodLocationName": "El Poblenou",
-    "streetName": "Carrer del Taulat",
-    "streetNumber": "131",
-    "floor": "local",
-    "door": "1",
-    "floorDoorLabel": "",
-    "latitude": 41.40015411,
-    "longitude": 2.2063942,
-    "price": {
-      "amount": 25900000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 454385,
-      "currency": "EUR"
-    },
-    "priceChangePercentage": "-4.07",
-    "isNew": false,
-    "isPriceUpdated": false,
-    "isReserved": false,
-    "isSold": false
-  },
   "d77db3ca-a320-4b6c-82f0-5cffb9a12ad1": {
     "uuid": "d77db3ca-a320-4b6c-82f0-5cffb9a12ad1",
     "providerCode": "housfy",
@@ -1120,6 +1061,65 @@
       "currency": "EUR"
     },
     "priceChangePercentage": "-4.44",
+    "isNew": false,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
+  },
+  "b54e1eca-c5dc-4521-9a6f-c00699088db3": {
+    "uuid": "b54e1eca-c5dc-4521-9a6f-c00699088db3",
+    "providerCode": "housfy",
+    "providerPropertyId": 520537,
+    "providerPropertyUrl": "https://housfy.com/comprar-bajo/barcelona/carrer-del-taulat-520537",
+    "providerPropertyTitle": "ESPECTAULAR LOFT CERCA DE LA PLAYA",
+    "publishedDate": "2022-03-10T13:14:48Z",
+    "relevance": 300,
+    "typeId": 5,
+    "typeCode": "bajo",
+    "locationId": 1794,
+    "sizes": {
+      "size": 57,
+      "sizeBuiltWithoutCommonElements": 57,
+      "sizeBuilt": 62,
+      "sizeUseful": 62
+    },
+    "size": 57,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/520537/520537-housfy-20220310-oHV0QcPpyA-420x280.jpg"
+    ],
+    "numberOfBedrooms": 1,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "ESPECTAULAR LOFT CERCA DE LA PLAYA \r\n\r\n\r\nHousfy. vende bajo directamente del propietario en carrer Taulat, Barcelona, un loft con decoración muy actual y ubicada en un entorno idóneo para disfrutarlo. Construido en el año 1958 y reformado recientemente. \r\n\r\n\r\nHa sido diseñado y reformado con los mejores acabados, incorporando tecnología Smart Home de Legrand con control de voz, incluyendo iluminación directa e indirecta, Smart TV de 65’ conectada, Alexa, mecanismos eléctricos inteligentes Bticino (domótica), video-portero digital con control remoto. \r\nAbsolutamente habilitado para el teletrabajo con red interna de voz y datos, router wifi, fibra óptica instalada y en funcionamiento.\r\nEntrada: Jardín verde interior pavimentado en madera natural de pino, paredes de piedra original retro iluminadas, equipado con sillas y mesa de jardín y espacio para bicicletas, patinetes, tablas de surf, etc.\r\nZona relax: gran sofá de terciopelo con chaise longue, mesa de centro, TV.\r\nZona de trabajo: gran mesa de 3 m de largo que se divide en 2 mesas individuales, carril técnico con focos, lámparas y gran armario a medida.\r\nCocina abierta con mobiliario italiano totalmente equipada con lavavajillas, horno microondas, inducción, campana oculta, grifería extraíble, encimeras porcelánicas de alta calidad y resistencia, nevera vintage con congelador. \r\nLavadero separado con lavadora, termo y utensilios de limpieza.\r\nBaño completo: ducha con cromoterapia multicolor, mampara con vidrio de seguridad, revestimiento de paredes exclusivo combinado con ladrillo visto original, inodoro suspendido, mueble lavabo acabado en teca, espejo gran formato retro iluminado, ventana original de madera y techo con vigas de madera y bóveda catalana. \r\nSala anexa equipada con gran vestidor en L, zona de cama de 1,6 m y mesitas de mármol negro natural, cabezal a medida retro iluminado y zona de estudio con mesa a medida de 4,5m con instalaciones de voz y datos, iluminación directa e indirecta con lámparas de diseño, grandes ventanales con luz natural y ventilador en el techo.\r\nClimatización mediante aire acondicionado caliente y frío y radiadores.\r\nCarpinterías exteriores de aluminio con rotura térmica y vidrio de cámara 4/12/6. Aislamiento térmico y acústico acabo en ral texturado.\r\nPuerta exterior revestida con listones de pino macizo con tratamiento cuperizado para exteriores.  \r\n\r\nEste fantástico loft está muy bien situado, a dos calles de la playa de la Mar Bella, la zona se está convirtiendo en el nuevo centro de tecnología e innovación de Barcelona.\r\nEstá muy bien comunicado por transporte público, ya que se encuentra a pocos minutos a pie de la Avinguda Diagonal, la línea amarilla de metro, el centro comercial Glòries, la Rambla Poblenou y el Parque del Poblenou.\r\n\r\nSobre el 22@ - El Poblenou\r\nEste es el barrio que más se ha transformado desde principios de este siglo.\r\nHa pasado de ser una zona industrial a convertirse en un barrio de moda, es el centro de las empresas tecnológicas y una zona residencial con alta demanda.\r\nCon hoteles de 5 estrellas, campus universitarios y edificios residenciales. Además de estos edificios modernos lo que sorprende en el Poble Nou, es el contraste entre lo nuevo y lo antiguo. No es raro encontrar edificios y fábricas clásicas de principios del siglo XX fusionándose con nuevos iconos mundiales de la arquitectura. Es una zona ideal para vivir especialmente para familias jóvenes.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
+    "tags": [],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Sant Martí",
+    "neighborhoodLocationName": "El Poblenou",
+    "streetName": "Carrer del Taulat",
+    "streetNumber": "131",
+    "floor": "local",
+    "door": "1",
+    "floorDoorLabel": "",
+    "latitude": 41.40015411,
+    "longitude": 2.2063942,
+    "price": {
+      "amount": 25900000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 454385,
+      "currency": "EUR"
+    },
+    "priceChangePercentage": "-3.57",
     "isNew": false,
     "isPriceUpdated": false,
     "isReserved": false,
@@ -1254,68 +1254,6 @@
     "isReserved": false,
     "isSold": false
   },
-  "a253c2d2-31a6-4700-abd3-7e9217d05037": {
-    "uuid": "a253c2d2-31a6-4700-abd3-7e9217d05037",
-    "providerCode": "housfy",
-    "providerPropertyId": 592389,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-pujades-592389",
-    "providerPropertyTitle": "Perfecto piso en Sant Martí",
-    "publishedDate": "2022-05-31T14:16:58Z",
-    "relevance": 200,
-    "typeId": 2,
-    "typeCode": "piso",
-    "locationId": 1790,
-    "sizes": {
-      "size": 75,
-      "sizeBuiltWithoutCommonElements": 75,
-      "sizeBuilt": 75,
-      "sizeUseful": 75
-    },
-    "size": 75,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/592389/592389-housfy-20220530-vM2HEOrClv-420x280.jpg"
-    ],
-    "numberOfBedrooms": 3,
-    "numberOfBathrooms": 1,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "sale",
-    "isVisible": true,
-    "description": "Perfecto piso en Sant Martí\r\n\r\n\r\nHousfy: la agencia inmobiliaria online.\r\n\r\nSe vende piso directamente del propietario en Sant Martí, Barcelona, perfecto para familias o parejas que busquen un lugar cómodo para su día a día.\r\nEste admirable piso fue construido en el año 1960 en Barcelona. Sus 75 m2 están perfectamente distribuidos, creando un amplio y abierto espacio con mucha luz y con un diseño muy especial.\r\n\r\nDetalles del inmueble:\r\n- Perfecto piso de 75 m2 en El Besòs. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Esta vivienda cuenta con 3 habitaciones y 1 baño, perfecto para una familia.\r\n- Coqueto salón que te proporcionará el relax diario, siendo además, un espacio agradable estupendo para visitas de amigos y familiares.\r\n- Con una conveniente cocina independiente en buen estado.\r\n- Sistema de calefacción y aire acondicionado.\r\n- Exterior y muy luminoso en todas las estancias.\r\n- Ascensor.\r\n- El piso cuenta también con un funcional trastero.\r\n\r\nLa situación de el piso se sitúa en Barcelona, municipio de Barcelona.\r\nUna vivienda ideal para aquellos que quieran un cómodo espacio donde vivir con todo lo necesario del día a día a un paso de su casa.\r\n\r\nSobre nosotros:\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
-    "tags": [
-      23,
-      26,
-      31
-    ],
-    "canScheduleVisits": false,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Sant Martí",
-    "neighborhoodLocationName": "El Besòs",
-    "streetName": "Carrer de Pujades",
-    "streetNumber": "460",
-    "floor": "01",
-    "door": "04",
-    "floorDoorLabel": "",
-    "latitude": 41.41292191,
-    "longitude": 2.2158668,
-    "price": {
-      "amount": 22000000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 293333,
-      "currency": "EUR"
-    },
-    "isNew": false,
-    "isPriceUpdated": false,
-    "isReserved": false,
-    "isSold": false
-  },
   "df5bd3d1-63f0-4d40-ac74-7eb3c8e78faa": {
     "uuid": "df5bd3d1-63f0-4d40-ac74-7eb3c8e78faa",
     "providerCode": "housfy",
@@ -1373,6 +1311,68 @@
       "currency": "EUR"
     },
     "priceChangePercentage": "-7.5",
+    "isNew": false,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
+  },
+  "a253c2d2-31a6-4700-abd3-7e9217d05037": {
+    "uuid": "a253c2d2-31a6-4700-abd3-7e9217d05037",
+    "providerCode": "housfy",
+    "providerPropertyId": 592389,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-pujades-592389",
+    "providerPropertyTitle": "Perfecto piso en Sant Martí",
+    "publishedDate": "2022-05-31T14:16:58Z",
+    "relevance": 200,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1790,
+    "sizes": {
+      "size": 75,
+      "sizeBuiltWithoutCommonElements": 75,
+      "sizeBuilt": 75,
+      "sizeUseful": 75
+    },
+    "size": 75,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/592389/592389-housfy-20220530-vM2HEOrClv-420x280.jpg"
+    ],
+    "numberOfBedrooms": 3,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "Perfecto piso en Sant Martí\r\n\r\n\r\nHousfy: la agencia inmobiliaria online.\r\n\r\nSe vende piso directamente del propietario en Sant Martí, Barcelona, perfecto para familias o parejas que busquen un lugar cómodo para su día a día.\r\nEste admirable piso fue construido en el año 1960 en Barcelona. Sus 75 m2 están perfectamente distribuidos, creando un amplio y abierto espacio con mucha luz y con un diseño muy especial.\r\n\r\nDetalles del inmueble:\r\n- Perfecto piso de 75 m2 en El Besòs. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Esta vivienda cuenta con 3 habitaciones y 1 baño, perfecto para una familia.\r\n- Coqueto salón que te proporcionará el relax diario, siendo además, un espacio agradable estupendo para visitas de amigos y familiares.\r\n- Con una conveniente cocina independiente en buen estado.\r\n- Sistema de calefacción y aire acondicionado.\r\n- Exterior y muy luminoso en todas las estancias.\r\n- Ascensor.\r\n- El piso cuenta también con un funcional trastero.\r\n\r\nLa situación de el piso se sitúa en Barcelona, municipio de Barcelona.\r\nUna vivienda ideal para aquellos que quieran un cómodo espacio donde vivir con todo lo necesario del día a día a un paso de su casa.\r\n\r\nSobre nosotros:\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
+    "tags": [
+      23,
+      26,
+      31
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Sant Martí",
+    "neighborhoodLocationName": "El Besòs",
+    "streetName": "Carrer de Pujades",
+    "streetNumber": "460",
+    "floor": "01",
+    "door": "04",
+    "floorDoorLabel": "",
+    "latitude": 41.41292191,
+    "longitude": 2.2158668,
+    "price": {
+      "amount": 22000000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 293333,
+      "currency": "EUR"
+    },
     "isNew": false,
     "isPriceUpdated": false,
     "isReserved": false,
