@@ -124,6 +124,70 @@
     "isReserved": false,
     "isSold": false
   },
+  "77c01ad1-17fc-48dd-a24a-676d5fe11cba": {
+    "uuid": "77c01ad1-17fc-48dd-a24a-676d5fe11cba",
+    "providerCode": "housfy",
+    "providerPropertyId": 571633,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-roc-boronat-571633",
+    "providerPropertyTitle": "Estupendo piso en Sant Martí",
+    "publishedDate": "2022-05-04T15:18:06Z",
+    "relevance": 1655192634,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1794,
+    "sizes": {
+      "size": 58,
+      "sizeBuiltWithoutCommonElements": 58,
+      "sizeBuilt": 58,
+      "sizeUseful": 58
+    },
+    "size": 58,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/571633/571633-housfy-20220503-PA4lJ6ILqi-420x280.jpg"
+    ],
+    "numberOfBedrooms": 3,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "Estupendo piso en Sant Martí.\r\n\r\nHousfy: la agencia inmobiliaria online.\r\n\r\nSe vende piso  en Sant Martí, Barcelona, perfecto para familias o parejas que busquen un lugar cómodo para su día a día.\r\nConstruido en el año 1930. Consta de 61 m2 muy bien distribuidos.\r\n\r\nCaracterísticas:\r\n\r\n- Genial piso de 58 m2 en El Poblenou. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- La vivienda dispone de 3 habitaciones y 1 baño.\r\n- Acogedor salón con amplio espacio de luz natural, creando un precioso y único espacio.\r\n- Cocina con todo lo necesario.\r\n- Amueblado.\r\n- Dispone de calefacción en todas las estancias, aire acondicionado, ventanas de aluminio doble vidrio, lavadero.\r\n- Balcón a calle desde comedor y dormitorio principal.\r\n- Exterior.\r\n- Finca con ascensor.\r\n\r\nSobre la ubicación, se encuentra en Barcelona. Una vivienda ideal para aquellos que quieran un cómodo espacio donde vivir con todo lo necesario del día a día a un paso de su casa.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
+    "tags": [
+      23,
+      26,
+      31,
+      33
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Sant Martí",
+    "neighborhoodLocationName": "El Poblenou",
+    "streetName": "Carrer de Roc Boronat",
+    "streetNumber": "73",
+    "floor": "01",
+    "door": "04",
+    "floorDoorLabel": "",
+    "latitude": 41.400177,
+    "longitude": 2.1975975,
+    "price": {
+      "amount": 25000000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 431034,
+      "currency": "EUR"
+    },
+    "priceChangePercentage": "-3.85",
+    "isNew": false,
+    "isPriceUpdated": true,
+    "isReserved": false,
+    "isSold": false
+  },
   "ffa839ae-97a9-4a43-9c42-815e72d093ad": {
     "uuid": "ffa839ae-97a9-4a43-9c42-815e72d093ad",
     "providerCode": "housfy",
@@ -1121,70 +1185,6 @@
       "currency": "EUR"
     },
     "priceChangePercentage": "-7.5",
-    "isNew": false,
-    "isPriceUpdated": false,
-    "isReserved": false,
-    "isSold": false
-  },
-  "77c01ad1-17fc-48dd-a24a-676d5fe11cba": {
-    "uuid": "77c01ad1-17fc-48dd-a24a-676d5fe11cba",
-    "providerCode": "housfy",
-    "providerPropertyId": 571633,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-roc-boronat-571633",
-    "providerPropertyTitle": "Estupendo piso en Sant Martí",
-    "publishedDate": "2022-05-04T15:18:06Z",
-    "relevance": 200,
-    "typeId": 2,
-    "typeCode": "piso",
-    "locationId": 1794,
-    "sizes": {
-      "size": 58,
-      "sizeBuiltWithoutCommonElements": 58,
-      "sizeBuilt": 58,
-      "sizeUseful": 58
-    },
-    "size": 58,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/571633/571633-housfy-20220503-PA4lJ6ILqi-420x280.jpg"
-    ],
-    "numberOfBedrooms": 3,
-    "numberOfBathrooms": 1,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "sale",
-    "isVisible": true,
-    "description": "Estupendo piso en Sant Martí.\r\n\r\nHousfy: la agencia inmobiliaria online.\r\n\r\nSe vende piso  en Sant Martí, Barcelona, perfecto para familias o parejas que busquen un lugar cómodo para su día a día.\r\nConstruido en el año 1930. Consta de 61 m2 muy bien distribuidos.\r\n\r\nCaracterísticas:\r\n\r\n- Genial piso de 58 m2 en El Poblenou. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- La vivienda dispone de 3 habitaciones y 1 baño.\r\n- Acogedor salón con amplio espacio de luz natural, creando un precioso y único espacio.\r\n- Cocina con todo lo necesario.\r\n- Amueblado.\r\n- Dispone de calefacción en todas las estancias, aire acondicionado, ventanas de aluminio doble vidrio, lavadero.\r\n- Balcón a calle desde comedor y dormitorio principal.\r\n- Exterior.\r\n- Finca con ascensor.\r\n\r\nSobre la ubicación, se encuentra en Barcelona. Una vivienda ideal para aquellos que quieran un cómodo espacio donde vivir con todo lo necesario del día a día a un paso de su casa.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
-    "tags": [
-      23,
-      26,
-      31,
-      33
-    ],
-    "canScheduleVisits": false,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Sant Martí",
-    "neighborhoodLocationName": "El Poblenou",
-    "streetName": "Carrer de Roc Boronat",
-    "streetNumber": "73",
-    "floor": "01",
-    "door": "04",
-    "floorDoorLabel": "",
-    "latitude": 41.400177,
-    "longitude": 2.1975975,
-    "price": {
-      "amount": 25000000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 431034,
-      "currency": "EUR"
-    },
-    "priceChangePercentage": "-9.91",
     "isNew": false,
     "isPriceUpdated": false,
     "isReserved": false,
