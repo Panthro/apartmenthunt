@@ -936,69 +936,6 @@
     "isReserved": false,
     "isSold": false
   },
-  "ffa839ae-97a9-4a43-9c42-815e72d093ad": {
-    "uuid": "ffa839ae-97a9-4a43-9c42-815e72d093ad",
-    "providerCode": "housfy",
-    "providerPropertyId": 584273,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/gran-via-de-les-corts-catalanes-584273",
-    "providerPropertyTitle": "Sensacional piso en Sant Martí",
-    "publishedDate": "2022-05-18T10:33:43Z",
-    "relevance": 200,
-    "typeId": 2,
-    "typeCode": "piso",
-    "locationId": 1797,
-    "sizes": {
-      "size": 67,
-      "sizeBuiltWithoutCommonElements": 67,
-      "sizeBuilt": 72,
-      "sizeUseful": 72
-    },
-    "size": 67,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/584273/584273-housfy-20220518-oxp9Dclj8i-420x280.jpg"
-    ],
-    "numberOfBedrooms": 3,
-    "numberOfBathrooms": 2,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "sale",
-    "isVisible": true,
-    "description": "Sensacional piso en Sant Martí\r\n\r\n\r\nHousfy, de particular a particular.\r\n\r\nMaria del Carmen vende piso de particular a particular en Sant Martí, Barcelona, una vivienda luminosa y ubicada en un entorno idóneo para disfrutarlo.\r\nEste piso fue construido en el año 1970 en Provençals del Poblenou. El perfecto piso está formado por 72 m2 construidos.\r\n\r\nCaracterísticas:\r\n- Admirable piso de 72 m2 en Provençals del Poblenou. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Cuenta con todas las comodidades posibles de 3 habitaciones y 2 baños, perfecto para una familia.\r\n- Práctico salón que te proporcionará el relax diario, creando un precioso y único espacio.\r\n- Terraza.\r\n- Exterior.\r\n- Con una práctica cocina en buen estado.\r\n\r\nSobre la localización, se sitúa en Barcelona.\r\nCon todos los servicios que puedas necesitar para facilitar tus días en todo momento.\r\n\r\nSobre nosotros:\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
-    "tags": [
-      23,
-      26,
-      32
-    ],
-    "canScheduleVisits": false,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Sant Martí",
-    "neighborhoodLocationName": "Provençals del Poblenou",
-    "streetName": "Gran Via de les Corts Catalanes",
-    "streetNumber": "986",
-    "floor": "07",
-    "door": "04",
-    "floorDoorLabel": "",
-    "latitude": 41.41077042,
-    "longitude": 2.19794321,
-    "price": {
-      "amount": 25900000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 386567,
-      "currency": "EUR"
-    },
-    "priceChangePercentage": "-7.17",
-    "isNew": false,
-    "isPriceUpdated": false,
-    "isReserved": false,
-    "isSold": false
-  },
   "61915a19-1799-4cda-95d2-db9ad676a8c9": {
     "uuid": "61915a19-1799-4cda-95d2-db9ad676a8c9",
     "providerCode": "housfy",
@@ -1059,6 +996,69 @@
       "amount": 416417,
       "currency": "EUR"
     },
+    "isNew": false,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
+  },
+  "ffa839ae-97a9-4a43-9c42-815e72d093ad": {
+    "uuid": "ffa839ae-97a9-4a43-9c42-815e72d093ad",
+    "providerCode": "housfy",
+    "providerPropertyId": 584273,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/gran-via-de-les-corts-catalanes-584273",
+    "providerPropertyTitle": "Sensacional piso en Sant Martí",
+    "publishedDate": "2022-05-18T10:33:43Z",
+    "relevance": 200,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1797,
+    "sizes": {
+      "size": 67,
+      "sizeBuiltWithoutCommonElements": 67,
+      "sizeBuilt": 72,
+      "sizeUseful": 72
+    },
+    "size": 67,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/584273/584273-housfy-20220518-oxp9Dclj8i-420x280.jpg"
+    ],
+    "numberOfBedrooms": 3,
+    "numberOfBathrooms": 2,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "Sensacional piso en Sant Martí\r\n\r\n\r\nHousfy, de particular a particular.\r\n\r\nMaria del Carmen vende piso de particular a particular en Sant Martí, Barcelona, una vivienda luminosa y ubicada en un entorno idóneo para disfrutarlo.\r\nEste piso fue construido en el año 1970 en Provençals del Poblenou. El perfecto piso está formado por 72 m2 construidos.\r\n\r\nCaracterísticas:\r\n- Admirable piso de 72 m2 en Provençals del Poblenou. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Cuenta con todas las comodidades posibles de 3 habitaciones y 2 baños, perfecto para una familia.\r\n- Práctico salón que te proporcionará el relax diario, creando un precioso y único espacio.\r\n- Terraza.\r\n- Exterior.\r\n- Con una práctica cocina en buen estado.\r\n\r\nSobre la localización, se sitúa en Barcelona.\r\nCon todos los servicios que puedas necesitar para facilitar tus días en todo momento.\r\n\r\nSobre nosotros:\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
+    "tags": [
+      23,
+      26,
+      32
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Sant Martí",
+    "neighborhoodLocationName": "Provençals del Poblenou",
+    "streetName": "Gran Via de les Corts Catalanes",
+    "streetNumber": "986",
+    "floor": "07",
+    "door": "04",
+    "floorDoorLabel": "",
+    "latitude": 41.41077042,
+    "longitude": 2.19794321,
+    "price": {
+      "amount": 25900000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 386567,
+      "currency": "EUR"
+    },
+    "priceChangePercentage": "-7.17",
     "isNew": false,
     "isPriceUpdated": false,
     "isReserved": false,
