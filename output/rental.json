@@ -1,4 +1,66 @@
 {
+  "23bdbab6-ea9c-4d99-962b-a3a268d1c57d": {
+    "uuid": "23bdbab6-ea9c-4d99-962b-a3a268d1c57d",
+    "providerCode": "housfy",
+    "providerPropertyId": 607517,
+    "providerPropertyUrl": "https://housfy.com/alquilar-piso/barcelona/carrer-del-maresme-607517",
+    "providerPropertyTitle": "Maravilloso piso con ascensor en Sant Martí",
+    "publishedDate": "2022-06-28T07:32:37Z",
+    "relevance": 1656424087,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1790,
+    "sizes": {
+      "size": 57,
+      "sizeBuiltWithoutCommonElements": 57,
+      "sizeBuilt": 61,
+      "sizeUseful": 57
+    },
+    "size": 57,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/607517/607517-housfy-20220628-9Vj8jCDGoZ-420x280.jpg"
+    ],
+    "numberOfBedrooms": 3,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "rental",
+    "isVisible": true,
+    "description": "Maravilloso piso con ascensor en Sant Martí.\r\n\r\nAlquila tu piso sin complicaciones con Housfy.\r\n\r\nSe alquila piso en Sant Martí, Barcelona, un espacio para disfrutar en tu día a día.\r\nEste encantador piso fue construido en el año 1963. Consta de 61 m2.\r\n\r\nCaracterísticas:\r\n\r\n- Genial piso de 61 m2 en El Besòs. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Esta vivienda cuenta con 3 habitaciones y 1 baño, perfecto para una familia.\r\n- Cómodo salón que te proporcionará el relax diario, creando un precioso y único espacio.\r\n- Además dispone de armario empotrado.\r\n- Con una funcional cocina en buen estado y equipada con todo lo necesario.\r\n- Ascensor.\r\n- Exterior.\r\n- Puerta blindada.\r\n- Dos meses de fianza más honorarios de agencia.\r\n\r\nRespecto a la ubicación, está localizado en Barcelona. Una vivienda ideal para aquellos que quieran un cómodo espacio donde vivir con todo lo necesario del día a día a un paso de su casa.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda alquilar la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922.",
+    "tags": [
+      23,
+      26
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Sant Martí",
+    "neighborhoodLocationName": "El Besòs",
+    "streetName": "Carrer del Maresme",
+    "streetNumber": "118",
+    "floor": "5",
+    "door": "3",
+    "floorDoorLabel": "",
+    "latitude": 41.41566467,
+    "longitude": 2.2114768,
+    "price": {
+      "amount": 80000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 1403,
+      "currency": "EUR"
+    },
+    "priceChangePercentage": "-15.79",
+    "isNew": true,
+    "isPriceUpdated": true,
+    "isReserved": false,
+    "isSold": false
+  },
   "a9336379-470f-42d4-855e-05b492ff37be": {
     "uuid": "a9336379-470f-42d4-855e-05b492ff37be",
     "providerCode": "housfy",
