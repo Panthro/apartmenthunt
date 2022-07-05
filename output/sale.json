@@ -1,4 +1,66 @@
 {
+  "8859d55c-5c8c-4074-8bda-1cfe4e186145": {
+    "uuid": "8859d55c-5c8c-4074-8bda-1cfe4e186145",
+    "providerCode": "housfy",
+    "providerPropertyId": 609408,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-roger-de-flor-609408",
+    "providerPropertyTitle": "Estupendo piso con balcón en Ciutat Vella",
+    "publishedDate": "2022-07-05T07:49:55Z",
+    "relevance": 1657036298,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1742,
+    "sizes": {
+      "size": 60,
+      "sizeBuiltWithoutCommonElements": 60,
+      "sizeBuilt": 60,
+      "sizeUseful": 60
+    },
+    "size": 60,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/609408/609408-housfy-20220704-hnGtJ8uBfw-420x280.jpg"
+    ],
+    "numberOfBedrooms": 3,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "Estupendo piso con balcón en Ciutat Vella.\r\n\r\nHousfy sin intermediarios.\r\n\r\nOportunidad de adquirir magnifica vivienda en planta alta a actualizar en Roger de Flor, Ciutat Vella, Barcelon. Un espacio para disfrutar en tu día a día.\r\nEl espléndido piso fue construido en el año 1970.\r\n\r\nCaracterísticas:\r\n\r\n- Maravilloso piso de 60 m2 en Sant Pere - Santa Caterina i la Ribera. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Podemos disfrutar de 3 habitaciones y 1 baño, perfecto para una familia.\r\n- Funcional salón amplio y luminoso, un lugar perfecto para descansar en los ratos libres.\r\n- Con una apropiada cocina con salida directa a lavadero.\r\n- Balcón.\r\n- Ascensor.\r\n- Exterior.\r\n\r\nRespecto a la ubicación, está localizado en Barcelona (Barcelona). Con todos los servicios que puedas necesitar para facilitar tus días en todo momento.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
+    "tags": [
+      23,
+      26
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Ciutat Vella",
+    "neighborhoodLocationName": "Sant Pere - Santa Caterina i la Ribera",
+    "streetName": "Carrer de Roger de Flor",
+    "streetNumber": "9",
+    "floor": "07",
+    "door": "03",
+    "floorDoorLabel": "",
+    "latitude": 41.39017868,
+    "longitude": 2.18357992,
+    "price": {
+      "amount": 23000000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 383333,
+      "currency": "EUR"
+    },
+    "priceChangePercentage": "-7.26",
+    "isNew": true,
+    "isPriceUpdated": true,
+    "isReserved": false,
+    "isSold": false
+  },
   "6e31d0c3-1702-4f75-ab38-dd7e60e6f3a4": {
     "uuid": "6e31d0c3-1702-4f75-ab38-dd7e60e6f3a4",
     "providerCode": "housfy",
