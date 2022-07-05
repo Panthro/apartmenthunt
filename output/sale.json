@@ -753,68 +753,6 @@
     "isReserved": false,
     "isSold": false
   },
-  "0c19f529-c22a-4ce0-975e-a6e92cacab89": {
-    "uuid": "0c19f529-c22a-4ce0-975e-a6e92cacab89",
-    "providerCode": "housfy",
-    "providerPropertyId": 509031,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-besalu-509031",
-    "providerPropertyTitle": "Perfecto piso con balcón en Sant Martí",
-    "publishedDate": "2022-01-11T09:11:22Z",
-    "relevance": 300,
-    "typeId": 2,
-    "typeCode": "piso",
-    "locationId": 1791,
-    "sizes": {
-      "size": 78,
-      "sizeBuiltWithoutCommonElements": 78,
-      "sizeBuilt": 78,
-      "sizeUseful": 78
-    },
-    "size": 78,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/509031/509031-housfy-20220110-ZQlk6xrCBw-420x280.jpg"
-    ],
-    "numberOfBedrooms": 3,
-    "numberOfBathrooms": 1,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "sale",
-    "isVisible": true,
-    "description": "Perfecto piso con balcón en Sant Martí SIN ASCENSOR\r\n\r\nDe particular a particular con Housfy.\r\n\r\nRaquel vende piso directamente del propietario en Sant Martí, Barcelona, una vivienda luminosa y ubicada en un entorno idóneo para disfrutarlo.\r\nEste piso fue construido en el año 1966 en Barcelona. Sus 78 m2 están perfectamente distribuidos, creando un espacio cómodo para el día a día.\r\n\r\nDetalles del inmueble:\r\n\r\n- Genial piso de 78 m2 en El Camp de l\u0027Arpa del Clot. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- En el piso encontraremos 3 habitaciones y 1 baño, perfecto para una familia.\r\n- Cómodo comedor perfecto para descansar tras una jornada de trabajo, donde disfrutar de tu familia.\r\n- Con una práctica cocina en buen estado y equipada con todo lo necesario.\r\n- Exterior.\r\n- Sin ascensor.\r\n\r\nSobre la ubicación, se encuentra en Barcelona. Una vivienda ideal para aquellos que quieran un cómodo espacio donde vivir con todo lo necesario del día a día a un paso de su casa.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
-    "tags": [
-      23,
-      26
-    ],
-    "canScheduleVisits": false,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Sant Martí",
-    "neighborhoodLocationName": "El Camp de l\u0027Arpa del Clot",
-    "streetName": "Carrer de Besalú",
-    "streetNumber": "107",
-    "floor": "02",
-    "door": "01",
-    "floorDoorLabel": "",
-    "latitude": 41.41614151,
-    "longitude": 2.18529201,
-    "price": {
-      "amount": 21500000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 275641,
-      "currency": "EUR"
-    },
-    "priceChangePercentage": "-4.44",
-    "isNew": false,
-    "isPriceUpdated": false,
-    "isReserved": false,
-    "isSold": false
-  },
   "df5bd3d1-63f0-4d40-ac74-7eb3c8e78faa": {
     "uuid": "df5bd3d1-63f0-4d40-ac74-7eb3c8e78faa",
     "providerCode": "housfy",
@@ -877,26 +815,26 @@
     "isReserved": false,
     "isSold": false
   },
-  "ffa839ae-97a9-4a43-9c42-815e72d093ad": {
-    "uuid": "ffa839ae-97a9-4a43-9c42-815e72d093ad",
+  "0c19f529-c22a-4ce0-975e-a6e92cacab89": {
+    "uuid": "0c19f529-c22a-4ce0-975e-a6e92cacab89",
     "providerCode": "housfy",
-    "providerPropertyId": 584273,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/gran-via-de-les-corts-catalanes-584273",
-    "providerPropertyTitle": "Sensacional piso en Sant Martí",
-    "publishedDate": "2022-05-18T10:33:43Z",
-    "relevance": 200,
+    "providerPropertyId": 509031,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-besalu-509031",
+    "providerPropertyTitle": "Perfecto piso con balcón en Sant Martí",
+    "publishedDate": "2022-01-11T09:11:22Z",
+    "relevance": 300,
     "typeId": 2,
     "typeCode": "piso",
-    "locationId": 1797,
+    "locationId": 1791,
     "sizes": {
-      "size": 67,
-      "sizeBuiltWithoutCommonElements": 67,
-      "sizeBuilt": 72,
-      "sizeUseful": 72
+      "size": 78,
+      "sizeBuiltWithoutCommonElements": 78,
+      "sizeBuilt": 78,
+      "sizeUseful": 78
     },
-    "size": 67,
+    "size": 78,
     "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/584273/584273-housfy-20220518-oxp9Dclj8i-420x280.jpg"
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/509031/509031-housfy-20220110-ZQlk6xrCBw-420x280.jpg"
     ],
     "numberOfBedrooms": 3,
     "numberOfBathrooms": 1,
@@ -908,33 +846,32 @@
     },
     "operationTypeCode": "sale",
     "isVisible": true,
-    "description": "Sensacional piso en Sant Martí\r\n\r\n\r\nHousfy, de particular a particular.\r\n\r\nMaria del Carmen vende piso de particular a particular en Sant Martí, Barcelona, una vivienda luminosa y ubicada en un entorno idóneo para disfrutarlo.\r\nEste piso fue construido en el año 1970 en Provençals del Poblenou. El perfecto piso está formado por 72 m2 construidos.\r\n\r\nCaracterísticas:\r\n- Admirable piso de 72 m2 en Provençals del Poblenou. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Cuenta con todas las comodidades posibles de 3 habitaciones y 2 baños, perfecto para una familia.\r\n- Práctico salón que te proporcionará el relax diario, creando un precioso y único espacio.\r\n- Terraza.\r\n- Exterior.\r\n- Con una práctica cocina en buen estado.\r\n\r\nSobre la localización, se sitúa en Barcelona.\r\nCon todos los servicios que puedas necesitar para facilitar tus días en todo momento.\r\n\r\nSobre nosotros:\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
+    "description": "Perfecto piso con balcón en Sant Martí SIN ASCENSOR\r\n\r\nDe particular a particular con Housfy.\r\n\r\nRaquel vende piso directamente del propietario en Sant Martí, Barcelona, una vivienda luminosa y ubicada en un entorno idóneo para disfrutarlo.\r\nEste piso fue construido en el año 1966 en Barcelona. Sus 78 m2 están perfectamente distribuidos, creando un espacio cómodo para el día a día.\r\n\r\nDetalles del inmueble:\r\n\r\n- Genial piso de 78 m2 en El Camp de l\u0027Arpa del Clot. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- En el piso encontraremos 3 habitaciones y 1 baño, perfecto para una familia.\r\n- Cómodo comedor perfecto para descansar tras una jornada de trabajo, donde disfrutar de tu familia.\r\n- Con una práctica cocina en buen estado y equipada con todo lo necesario.\r\n- Exterior.\r\n- Sin ascensor.\r\n\r\nSobre la ubicación, se encuentra en Barcelona. Una vivienda ideal para aquellos que quieran un cómodo espacio donde vivir con todo lo necesario del día a día a un paso de su casa.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
     "tags": [
       23,
-      26,
-      32
+      26
     ],
     "canScheduleVisits": false,
     "stateLocationName": "Barcelona",
     "cityLocationName": "Barcelona",
     "districtLocationName": "Sant Martí",
-    "neighborhoodLocationName": "Provençals del Poblenou",
-    "streetName": "Gran Via de les Corts Catalanes",
-    "streetNumber": "986",
-    "floor": "07",
-    "door": "04",
+    "neighborhoodLocationName": "El Camp de l\u0027Arpa del Clot",
+    "streetName": "Carrer de Besalú",
+    "streetNumber": "107",
+    "floor": "02",
+    "door": "01",
     "floorDoorLabel": "",
-    "latitude": 41.41077042,
-    "longitude": 2.19794321,
+    "latitude": 41.41614151,
+    "longitude": 2.18529201,
     "price": {
-      "amount": 25900000,
+      "amount": 21500000,
       "currency": "EUR"
     },
     "priceSize": {
-      "amount": 386567,
+      "amount": 275641,
       "currency": "EUR"
     },
-    "priceChangePercentage": "-7.17",
+    "priceChangePercentage": "-4.44",
     "isNew": false,
     "isPriceUpdated": false,
     "isReserved": false,
@@ -1000,6 +937,69 @@
       "amount": 416417,
       "currency": "EUR"
     },
+    "isNew": false,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
+  },
+  "ffa839ae-97a9-4a43-9c42-815e72d093ad": {
+    "uuid": "ffa839ae-97a9-4a43-9c42-815e72d093ad",
+    "providerCode": "housfy",
+    "providerPropertyId": 584273,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/gran-via-de-les-corts-catalanes-584273",
+    "providerPropertyTitle": "Sensacional piso en Sant Martí",
+    "publishedDate": "2022-05-18T10:33:43Z",
+    "relevance": 200,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1797,
+    "sizes": {
+      "size": 67,
+      "sizeBuiltWithoutCommonElements": 67,
+      "sizeBuilt": 72,
+      "sizeUseful": 72
+    },
+    "size": 67,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/584273/584273-housfy-20220518-oxp9Dclj8i-420x280.jpg"
+    ],
+    "numberOfBedrooms": 3,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "Sensacional piso en Sant Martí\r\n\r\n\r\nHousfy, de particular a particular.\r\n\r\nMaria del Carmen vende piso de particular a particular en Sant Martí, Barcelona, una vivienda luminosa y ubicada en un entorno idóneo para disfrutarlo.\r\nEste piso fue construido en el año 1970 en Provençals del Poblenou. El perfecto piso está formado por 72 m2 construidos.\r\n\r\nCaracterísticas:\r\n- Admirable piso de 72 m2 en Provençals del Poblenou. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Cuenta con todas las comodidades posibles de 3 habitaciones y 2 baños, perfecto para una familia.\r\n- Práctico salón que te proporcionará el relax diario, creando un precioso y único espacio.\r\n- Terraza.\r\n- Exterior.\r\n- Con una práctica cocina en buen estado.\r\n\r\nSobre la localización, se sitúa en Barcelona.\r\nCon todos los servicios que puedas necesitar para facilitar tus días en todo momento.\r\n\r\nSobre nosotros:\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
+    "tags": [
+      23,
+      26,
+      32
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Sant Martí",
+    "neighborhoodLocationName": "Provençals del Poblenou",
+    "streetName": "Gran Via de les Corts Catalanes",
+    "streetNumber": "986",
+    "floor": "07",
+    "door": "04",
+    "floorDoorLabel": "",
+    "latitude": 41.41077042,
+    "longitude": 2.19794321,
+    "price": {
+      "amount": 25900000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 386567,
+      "currency": "EUR"
+    },
+    "priceChangePercentage": "-7.17",
     "isNew": false,
     "isPriceUpdated": false,
     "isReserved": false,
