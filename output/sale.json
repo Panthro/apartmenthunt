@@ -1,4 +1,66 @@
 {
+  "6e31d0c3-1702-4f75-ab38-dd7e60e6f3a4": {
+    "uuid": "6e31d0c3-1702-4f75-ab38-dd7e60e6f3a4",
+    "providerCode": "housfy",
+    "providerPropertyId": 605303,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-palencia-605303",
+    "providerPropertyTitle": "Admirable piso con ascensor en Sant Andreu",
+    "publishedDate": "2022-06-20T16:00:43Z",
+    "relevance": 1657136162,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1786,
+    "sizes": {
+      "size": 70,
+      "sizeBuiltWithoutCommonElements": 70,
+      "sizeBuilt": 70,
+      "sizeUseful": 70
+    },
+    "size": 70,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/605303/605303-housfy-20220620-zexO8FPLhu-420x280.jpg"
+    ],
+    "numberOfBedrooms": 2,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "Admirable piso con ascensor en Clot\r\n\r\nCompraventa entre particulares con Housfy.\r\n\r\nSe vende piso de particular a particular en Clot, Barcelona, un espacio para disfrutar en tu día a día.\r\nEl acogedor piso está formado por 70 m2 construidos.\r\n\r\nCaracterísticas:\r\n\r\n- Reforma total.\r\n- Fabuloso piso de 70 m2 en Navas. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Esta vivienda cuenta con 2 habitaciones y 1 baño, muy bien acomodadas.\r\n- Confortable salón amplio y luminoso, donde disfrutar de tu familia.\r\n- Con una apropiada cocina americana equipada con lo necesario para el día a día.\r\n- Parquet.\r\n- Ascensor.\r\n- Exterior.\r\n\r\nRespecto a la ubicación, se encuentra en Barcelona. Con todos los servicios que puedas necesitar para facilitar tus días en todo momento.\r\n\r\nUNICO EN LA ZONA POR PRECIO Y REFORMADO\r\nPRECIO INCUYE REFORMA\r\nRENTABILIDAD POR ENCIMA DEL 4%\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
+    "tags": [
+      23,
+      25
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Sant Andreu",
+    "neighborhoodLocationName": "Navas",
+    "streetName": "Carrer de Palència",
+    "streetNumber": "10",
+    "floor": "01",
+    "door": "03",
+    "floorDoorLabel": "",
+    "latitude": 41.4158783,
+    "longitude": 2.18771863,
+    "price": {
+      "amount": 23000000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 328571,
+      "currency": "EUR"
+    },
+    "priceChangePercentage": "-2.13",
+    "isNew": false,
+    "isPriceUpdated": true,
+    "isReserved": false,
+    "isSold": false
+  },
   "8859d55c-5c8c-4074-8bda-1cfe4e186145": {
     "uuid": "8859d55c-5c8c-4074-8bda-1cfe4e186145",
     "providerCode": "housfy",
@@ -120,68 +182,6 @@
     },
     "priceChangePercentage": "-3.96",
     "isNew": true,
-    "isPriceUpdated": true,
-    "isReserved": false,
-    "isSold": false
-  },
-  "6e31d0c3-1702-4f75-ab38-dd7e60e6f3a4": {
-    "uuid": "6e31d0c3-1702-4f75-ab38-dd7e60e6f3a4",
-    "providerCode": "housfy",
-    "providerPropertyId": 605303,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-palencia-605303",
-    "providerPropertyTitle": "Admirable piso con ascensor en Sant Andreu",
-    "publishedDate": "2022-06-20T16:00:43Z",
-    "relevance": 1656881686,
-    "typeId": 2,
-    "typeCode": "piso",
-    "locationId": 1786,
-    "sizes": {
-      "size": 70,
-      "sizeBuiltWithoutCommonElements": 70,
-      "sizeBuilt": 70,
-      "sizeUseful": 70
-    },
-    "size": 70,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/605303/605303-housfy-20220620-zexO8FPLhu-420x280.jpg"
-    ],
-    "numberOfBedrooms": 2,
-    "numberOfBathrooms": 1,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "sale",
-    "isVisible": true,
-    "description": "Admirable piso con ascensor en Clot\r\n\r\nCompraventa entre particulares con Housfy.\r\n\r\nSe vende piso de particular a particular en Clot, Barcelona, un espacio para disfrutar en tu día a día.\r\nEl acogedor piso está formado por 70 m2 construidos.\r\n\r\nCaracterísticas:\r\n\r\n- Reforma total.\r\n- Fabuloso piso de 70 m2 en Navas. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Esta vivienda cuenta con 2 habitaciones y 1 baño, muy bien acomodadas.\r\n- Confortable salón amplio y luminoso, donde disfrutar de tu familia.\r\n- Con una apropiada cocina americana equipada con lo necesario para el día a día.\r\n- Parquet.\r\n- Ascensor.\r\n- Exterior.\r\n\r\nRespecto a la ubicación, se encuentra en Barcelona. Con todos los servicios que puedas necesitar para facilitar tus días en todo momento.\r\n\r\nUNICO EN LA ZONA POR PRECIO Y REFORMADO\r\nPRECIO INCUYE REFORMA\r\nRENTABILIDAD POR ENCIMA DEL 4%\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
-    "tags": [
-      23,
-      25
-    ],
-    "canScheduleVisits": false,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Sant Andreu",
-    "neighborhoodLocationName": "Navas",
-    "streetName": "Carrer de Palència",
-    "streetNumber": "10",
-    "floor": "01",
-    "door": "03",
-    "floorDoorLabel": "",
-    "latitude": 41.4158783,
-    "longitude": 2.18771863,
-    "price": {
-      "amount": 23500000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 335714,
-      "currency": "EUR"
-    },
-    "priceChangePercentage": "-1.67",
-    "isNew": false,
     "isPriceUpdated": true,
     "isReserved": false,
     "isSold": false
