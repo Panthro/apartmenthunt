@@ -815,69 +815,6 @@
     "isReserved": false,
     "isSold": false
   },
-  "d77db3ca-a320-4b6c-82f0-5cffb9a12ad1": {
-    "uuid": "d77db3ca-a320-4b6c-82f0-5cffb9a12ad1",
-    "providerCode": "housfy",
-    "providerPropertyId": 566406,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-badajoz-566406",
-    "providerPropertyTitle": "Estupendo piso en Sant Martí",
-    "publishedDate": "2022-04-13T14:00:22Z",
-    "relevance": 300,
-    "typeId": 2,
-    "typeCode": "piso",
-    "locationId": 1794,
-    "sizes": {
-      "size": 83,
-      "sizeBuiltWithoutCommonElements": 83,
-      "sizeBuilt": 86,
-      "sizeUseful": 75
-    },
-    "size": 83,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/566406/566406-housfy-20220413-DW2gpUiSCR-420x280.jpg"
-    ],
-    "numberOfBedrooms": 3,
-    "numberOfBathrooms": 2,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "sale",
-    "isVisible": true,
-    "description": "Estupendo piso en Sant Martí\r\n\r\n\r\nCompra tu piso con Housfy.\r\n\r\nHousfy vende piso de particular a particular en Sant Martí, Barcelona, perfecto para familias o parejas que busquen un lugar cómodo para su día a día.\r\nEl piso fue construido en el año 1886 en El Poblenou. El admirable piso está formado por 87 m2 construidos.\r\n\r\nDetalles del inmueble:\r\n- Fabuloso piso de 75 m2 útiles en El Poblenou. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Sin paredes maestras, ideal para poder redistribuir si se quiere hacer reforma integral. \r\n- Instalación eléctrica según legislación vigente.\r\n- La vivienda dispone de 3 habitaciones, una doble y dos individuales. \r\n- Un baño completo y un aseo, perfecto para una familia.\r\n- Cómodo salón amplio y luminoso, creando un precioso y único espacio, con salida a balcón.\r\n- Con una adecuada cocina en buen estado.\r\n- Carpintería de aluminio Climalit para un mayor aislamiento tanto térmico como acústico. \r\n- Techos altos. \r\n- Con vistas al mar.\r\n- Exterior.\r\n- Finca sin ascensor. \r\n\r\nSobre la localización, está localizado en Barcelona.\r\nUna vivienda ideal para aquellos que quieran un cómodo espacio donde vivir con todo lo necesario del día a día a un paso de su casa.\r\n\r\nSobre nosotros:\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
-    "tags": [
-      23,
-      26,
-      39
-    ],
-    "canScheduleVisits": false,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Sant Martí",
-    "neighborhoodLocationName": "El Poblenou",
-    "streetName": "Carrer de Badajoz",
-    "streetNumber": "34",
-    "floor": "03",
-    "door": "01",
-    "floorDoorLabel": "",
-    "latitude": 41.39597702,
-    "longitude": 2.19912052,
-    "price": {
-      "amount": 32900000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 396385,
-      "currency": "EUR"
-    },
-    "priceChangePercentage": "-1.79",
-    "isNew": false,
-    "isPriceUpdated": false,
-    "isReserved": false,
-    "isSold": false
-  },
   "0c19f529-c22a-4ce0-975e-a6e92cacab89": {
     "uuid": "0c19f529-c22a-4ce0-975e-a6e92cacab89",
     "providerCode": "housfy",
@@ -997,6 +934,69 @@
       "currency": "EUR"
     },
     "priceChangePercentage": "-7.5",
+    "isNew": false,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
+  },
+  "d77db3ca-a320-4b6c-82f0-5cffb9a12ad1": {
+    "uuid": "d77db3ca-a320-4b6c-82f0-5cffb9a12ad1",
+    "providerCode": "housfy",
+    "providerPropertyId": 566406,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-badajoz-566406",
+    "providerPropertyTitle": "Estupendo piso en Sant Martí",
+    "publishedDate": "2022-04-13T14:00:22Z",
+    "relevance": 300,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1794,
+    "sizes": {
+      "size": 83,
+      "sizeBuiltWithoutCommonElements": 83,
+      "sizeBuilt": 86,
+      "sizeUseful": 75
+    },
+    "size": 83,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/566406/566406-housfy-20220413-DW2gpUiSCR-420x280.jpg"
+    ],
+    "numberOfBedrooms": 3,
+    "numberOfBathrooms": 2,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "Estupendo piso en Sant Martí\r\n\r\n\r\nCompra tu piso con Housfy.\r\n\r\nHousfy vende piso de particular a particular en Sant Martí, Barcelona, perfecto para familias o parejas que busquen un lugar cómodo para su día a día.\r\nEl piso fue construido en el año 1886 en El Poblenou. El admirable piso está formado por 87 m2 construidos.\r\n\r\nDetalles del inmueble:\r\n- Fabuloso piso de 75 m2 útiles en El Poblenou. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Sin paredes maestras, ideal para poder redistribuir si se quiere hacer reforma integral. \r\n- Instalación eléctrica según legislación vigente.\r\n- La vivienda dispone de 3 habitaciones, una doble y dos individuales. \r\n- Un baño completo y un aseo, perfecto para una familia.\r\n- Cómodo salón amplio y luminoso, creando un precioso y único espacio, con salida a balcón.\r\n- Con una adecuada cocina en buen estado.\r\n- Carpintería de aluminio Climalit para un mayor aislamiento tanto térmico como acústico. \r\n- Techos altos. \r\n- Con vistas al mar.\r\n- Exterior.\r\n- Finca sin ascensor. \r\n\r\nSobre la localización, está localizado en Barcelona.\r\nUna vivienda ideal para aquellos que quieran un cómodo espacio donde vivir con todo lo necesario del día a día a un paso de su casa.\r\n\r\nSobre nosotros:\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
+    "tags": [
+      23,
+      26,
+      39
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Sant Martí",
+    "neighborhoodLocationName": "El Poblenou",
+    "streetName": "Carrer de Badajoz",
+    "streetNumber": "34",
+    "floor": "03",
+    "door": "01",
+    "floorDoorLabel": "",
+    "latitude": 41.39597702,
+    "longitude": 2.19912052,
+    "price": {
+      "amount": 32900000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 396385,
+      "currency": "EUR"
+    },
+    "priceChangePercentage": "-1.79",
     "isNew": false,
     "isPriceUpdated": false,
     "isReserved": false,
@@ -1130,68 +1130,6 @@
     "isReserved": false,
     "isSold": false
   },
-  "c67b7f15-7d64-4279-97d4-30d83c6c0aeb": {
-    "uuid": "c67b7f15-7d64-4279-97d4-30d83c6c0aeb",
-    "providerCode": "housfy",
-    "providerPropertyId": 470999,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-la-diputacio-470999",
-    "providerPropertyTitle": "Fabuloso piso en l\u0027Eixample",
-    "publishedDate": "2021-12-13T16:43:09Z",
-    "relevance": 100,
-    "typeId": 2,
-    "typeCode": "piso",
-    "locationId": 1744,
-    "sizes": {
-      "size": 71,
-      "sizeBuiltWithoutCommonElements": 71,
-      "sizeBuilt": 71,
-      "sizeUseful": 65
-    },
-    "size": 71,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/470999/470999-housfy-20211211-TEOmUHLTv3-420x280.jpg"
-    ],
-    "numberOfBedrooms": 3,
-    "numberOfBathrooms": 1,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "sale",
-    "isVisible": true,
-    "description": "Fabuloso piso en l\u0027Eixample.\r\n\r\nDe particular a particular con Housfy.\r\n\r\nvende piso de particular a particular en Eixample, Barcelona, perfecto para familias o parejas que busquen un lugar cómodo para su día a día.\r\nEste encantador piso fue construido en el 1925. Sus 71 m2 están perfectamente distribuidos, creando un espacio cómodo para el día a día.\r\n\r\nDetalles del inmueble:\r\n\r\n- Genial piso de 71 m2 en El Fort Pienc. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Contamos con todas las comodidades posibles de 3 habitaciones y 1 baño, perfecto para una familia.\r\n- Cómodo salón-comedor amplio y luminoso, siendo además, un espacio agradable y estupendo para visitas de amigos y familiares.\r\n- Con una efectiva cocina en buen estado.\r\n- Exterior.\r\n- Ascensor. \r\n\r\nLa localización de el piso se sitúa en Barcelona. Con todos los servicios que puedas necesitar para facilitar tus días en todo momento.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
-    "tags": [
-      23,
-      26
-    ],
-    "canScheduleVisits": false,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Eixample",
-    "neighborhoodLocationName": "El Fort Pienc",
-    "streetName": "Carrer de la Diputació",
-    "streetNumber": "424",
-    "floor": "04",
-    "door": "04",
-    "floorDoorLabel": "",
-    "latitude": 41.39957809,
-    "longitude": 2.17950439,
-    "price": {
-      "amount": 29500000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 415492,
-      "currency": "EUR"
-    },
-    "priceChangePercentage": "-3.28",
-    "isNew": false,
-    "isPriceUpdated": false,
-    "isReserved": false,
-    "isSold": false
-  },
   "e695e50e-564a-4cba-bd4e-7c1d5ef19aa9": {
     "uuid": "e695e50e-564a-4cba-bd4e-7c1d5ef19aa9",
     "providerCode": "housfy",
@@ -1249,6 +1187,68 @@
       "currency": "EUR"
     },
     "priceChangePercentage": "-6.35",
+    "isNew": false,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
+  },
+  "c67b7f15-7d64-4279-97d4-30d83c6c0aeb": {
+    "uuid": "c67b7f15-7d64-4279-97d4-30d83c6c0aeb",
+    "providerCode": "housfy",
+    "providerPropertyId": 470999,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-la-diputacio-470999",
+    "providerPropertyTitle": "Fabuloso piso en l\u0027Eixample",
+    "publishedDate": "2021-12-13T16:43:09Z",
+    "relevance": 100,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1744,
+    "sizes": {
+      "size": 71,
+      "sizeBuiltWithoutCommonElements": 71,
+      "sizeBuilt": 71,
+      "sizeUseful": 65
+    },
+    "size": 71,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/470999/470999-housfy-20211211-TEOmUHLTv3-420x280.jpg"
+    ],
+    "numberOfBedrooms": 3,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "Fabuloso piso en l\u0027Eixample.\r\n\r\nDe particular a particular con Housfy.\r\n\r\nvende piso de particular a particular en Eixample, Barcelona, perfecto para familias o parejas que busquen un lugar cómodo para su día a día.\r\nEste encantador piso fue construido en el 1925. Sus 71 m2 están perfectamente distribuidos, creando un espacio cómodo para el día a día.\r\n\r\nDetalles del inmueble:\r\n\r\n- Genial piso de 71 m2 en El Fort Pienc. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Contamos con todas las comodidades posibles de 3 habitaciones y 1 baño, perfecto para una familia.\r\n- Cómodo salón-comedor amplio y luminoso, siendo además, un espacio agradable y estupendo para visitas de amigos y familiares.\r\n- Con una efectiva cocina en buen estado.\r\n- Exterior.\r\n- Ascensor. \r\n\r\nLa localización de el piso se sitúa en Barcelona. Con todos los servicios que puedas necesitar para facilitar tus días en todo momento.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
+    "tags": [
+      23,
+      26
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Eixample",
+    "neighborhoodLocationName": "El Fort Pienc",
+    "streetName": "Carrer de la Diputació",
+    "streetNumber": "424",
+    "floor": "04",
+    "door": "04",
+    "floorDoorLabel": "",
+    "latitude": 41.39957809,
+    "longitude": 2.17950439,
+    "price": {
+      "amount": 29500000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 415492,
+      "currency": "EUR"
+    },
+    "priceChangePercentage": "-3.28",
     "isNew": false,
     "isPriceUpdated": false,
     "isReserved": false,
