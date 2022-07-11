@@ -124,70 +124,6 @@
     "isReserved": false,
     "isSold": false
   },
-  "e57bd0b9-c398-4c17-9122-a91a353ad9b9": {
-    "uuid": "e57bd0b9-c398-4c17-9122-a91a353ad9b9",
-    "providerCode": "housfy",
-    "providerPropertyId": 460871,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-corsega-460871",
-    "providerPropertyTitle": "Sensacional piso  en l\u0027Eixample Dret",
-    "publishedDate": "2021-10-13T15:13:06Z",
-    "relevance": 1655882634,
-    "typeId": 2,
-    "typeCode": "piso",
-    "locationId": 1791,
-    "sizes": {
-      "size": 47,
-      "sizeBuiltWithoutCommonElements": 47,
-      "sizeBuilt": 47,
-      "sizeUseful": 47
-    },
-    "size": 47,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/460871/460871-housfy-20211011-ulSBD6JZ3O-420x280.jpg"
-    ],
-    "numberOfBedrooms": 2,
-    "numberOfBathrooms": 1,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "sale",
-    "isVisible": true,
-    "description": "Sensacional piso  en l\u0027Eixample Dret\r\n\r\nCompra tu piso con Housfy.\r\n\r\nSe vende piso de particular a particular en  L\u0027Eixample Dret (  Barcelona ) una vivienda luminosa y ubicada en un entorno idóneo para disfrutarlo.\r\nEl piso fue construido en el año 1966.. Consta de 47 m2.\r\n\r\nDetalles del inmueble:\r\n\r\n- Sensacional piso de 47 m2. (Los metros cuadrados están verificados con la Dirección General de Catastro) y 43 m2 según Nota Simple\r\n- Podemos disfrutar de 2 habitaciones y 1 baño.\r\n- Agradable salón que te proporcionará el relax diario, donde disfrutar de tu familia.\r\n- Con una utilitaria cocina en muy buen estado y equipada con lo necesario para el día a día.\r\n- El confort está garantizado ya que dispone de aire acondicionado y calefacción eléctrica, toda la iluminación es LED y clasificación  A++\r\n- Ascensor.\r\n- Exterior.\r\n- Puerta de entrada de seguridad blindada.\r\n- Balcón.\r\n- Instalación nueva de electricidad, calentador eléctrico y cocina nueva.\r\n\r\n\r\nLa situación de el piso se sitúa en Barcelona (Barcelona). Con todos los servicios que puedas necesitar para facilitar tus días en todo momento. Escuela Escolapies Sant Martí, Parada de Metro linía azul Hospital St. Pau, salida dos de Mayo.Centro Comercial Les Glories.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta.  Para más información, visítenos en housfy.com. AICAT número: 7922",
-    "tags": [
-      23,
-      25,
-      26,
-      31
-    ],
-    "canScheduleVisits": false,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Sant Martí",
-    "neighborhoodLocationName": "El Camp de l\u0027Arpa del Clot",
-    "streetName": "Carrer de Còrsega",
-    "streetNumber": "666",
-    "floor": "01",
-    "door": "02",
-    "floorDoorLabel": "",
-    "latitude": 41.41150284,
-    "longitude": 2.1795876,
-    "price": {
-      "amount": 22500000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 478723,
-      "currency": "EUR"
-    },
-    "priceChangePercentage": "-2.13",
-    "isNew": false,
-    "isPriceUpdated": false,
-    "isReserved": false,
-    "isSold": false
-  },
   "9205c943-0566-45df-9f32-e01b23aa0480": {
     "uuid": "9205c943-0566-45df-9f32-e01b23aa0480",
     "providerCode": "housfy",
@@ -621,6 +557,70 @@
       "currency": "EUR"
     },
     "priceChangePercentage": "-4.35",
+    "isNew": false,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
+  },
+  "e57bd0b9-c398-4c17-9122-a91a353ad9b9": {
+    "uuid": "e57bd0b9-c398-4c17-9122-a91a353ad9b9",
+    "providerCode": "housfy",
+    "providerPropertyId": 460871,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-corsega-460871",
+    "providerPropertyTitle": "Sensacional piso  en l\u0027Eixample Dret",
+    "publishedDate": "2021-10-13T15:13:06Z",
+    "relevance": 400,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1791,
+    "sizes": {
+      "size": 47,
+      "sizeBuiltWithoutCommonElements": 47,
+      "sizeBuilt": 47,
+      "sizeUseful": 47
+    },
+    "size": 47,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/460871/460871-housfy-20211011-ulSBD6JZ3O-420x280.jpg"
+    ],
+    "numberOfBedrooms": 2,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "Sensacional piso  en l\u0027Eixample Dret\r\n\r\nCompra tu piso con Housfy.\r\n\r\nSe vende piso de particular a particular en  L\u0027Eixample Dret (  Barcelona ) una vivienda luminosa y ubicada en un entorno idóneo para disfrutarlo.\r\nEl piso fue construido en el año 1966.. Consta de 47 m2.\r\n\r\nDetalles del inmueble:\r\n\r\n- Sensacional piso de 47 m2. (Los metros cuadrados están verificados con la Dirección General de Catastro) y 43 m2 según Nota Simple\r\n- Podemos disfrutar de 2 habitaciones y 1 baño.\r\n- Agradable salón que te proporcionará el relax diario, donde disfrutar de tu familia.\r\n- Con una utilitaria cocina en muy buen estado y equipada con lo necesario para el día a día.\r\n- El confort está garantizado ya que dispone de aire acondicionado y calefacción eléctrica, toda la iluminación es LED y clasificación  A++\r\n- Ascensor.\r\n- Exterior.\r\n- Puerta de entrada de seguridad blindada.\r\n- Balcón.\r\n- Instalación nueva de electricidad, calentador eléctrico y cocina nueva.\r\n\r\n\r\nLa situación de el piso se sitúa en Barcelona (Barcelona). Con todos los servicios que puedas necesitar para facilitar tus días en todo momento. Escuela Escolapies Sant Martí, Parada de Metro linía azul Hospital St. Pau, salida dos de Mayo.Centro Comercial Les Glories.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta.  Para más información, visítenos en housfy.com. AICAT número: 7922",
+    "tags": [
+      23,
+      25,
+      26,
+      31
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Sant Martí",
+    "neighborhoodLocationName": "El Camp de l\u0027Arpa del Clot",
+    "streetName": "Carrer de Còrsega",
+    "streetNumber": "666",
+    "floor": "01",
+    "door": "02",
+    "floorDoorLabel": "",
+    "latitude": 41.41150284,
+    "longitude": 2.1795876,
+    "price": {
+      "amount": 22500000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 478723,
+      "currency": "EUR"
+    },
+    "priceChangePercentage": "-2.13",
     "isNew": false,
     "isPriceUpdated": false,
     "isReserved": false,
