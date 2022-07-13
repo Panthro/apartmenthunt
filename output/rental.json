@@ -64,6 +64,69 @@
     "isReserved": false,
     "isSold": false
   },
+  "a9336379-470f-42d4-855e-05b492ff37be": {
+    "uuid": "a9336379-470f-42d4-855e-05b492ff37be",
+    "providerCode": "housfy",
+    "providerPropertyId": 606161,
+    "providerPropertyUrl": "https://housfy.com/alquilar-piso/barcelona/carrer-del-consell-de-cent-606161",
+    "providerPropertyTitle": "Fantástico piso en L\u0027Eixample",
+    "publishedDate": "2022-06-23T07:52:53Z",
+    "relevance": 200,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1748,
+    "sizes": {
+      "size": 74,
+      "sizeBuiltWithoutCommonElements": 74,
+      "sizeBuilt": 74,
+      "sizeUseful": 74
+    },
+    "size": 74,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/606161/606161-housfy-20220622-2cUshlgx2Q-420x280.jpg"
+    ],
+    "numberOfBedrooms": 1,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "rental",
+    "isVisible": true,
+    "description": "Fantástico piso en L\u0027Eixample.\r\n\r\nHousfy Alquileres, la mejor solución para alquilar tu piso en España.\r\n\r\nSe alquila piso en Eixample, Barcelona, una vivienda luminosa y ubicada en un entorno idóneo para disfrutarlo.\r\nEste genial piso fue construido en el 1957 en La Sagrada Família. Consta de 74 m2.\r\n\r\nDetalles del inmueble:\r\n\r\n- Sensacional piso de 74 m2. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Reformado en 2020.\r\n- Esta vivienda cuenta con 1 habitación y 1 baño.\r\n- Acogedor salón amplio y luminoso, donde disfrutar de tu familia.\r\n- El confort está garantizado ya que dispone de aire acondicionado y calefacción.\r\n- Con una práctica cocina en buen estado y equipada con lo necesario para el día a día.\r\n- Exterior.\r\n- Puerta blindada.\r\n- Además dispone de armario empotrado.\r\n- Ascensor.\r\n- Dos meses de fianza más honorarios de agencia.\r\n\r\nSobre la ubicación, está localizado en Barcelona. Una vivienda ideal para aquellos que quieran un cómodo espacio donde vivir con todo lo necesario del día a día a un paso de su casa.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda alquilar la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922.",
+    "tags": [
+      23,
+      26,
+      31
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Eixample",
+    "neighborhoodLocationName": "La Sagrada Família",
+    "streetName": "Carrer del Consell de Cent",
+    "streetNumber": "534, Escalera 2",
+    "floor": "Bajos",
+    "door": "A",
+    "floorDoorLabel": "",
+    "latitude": 41.40259171,
+    "longitude": 2.18177509,
+    "price": {
+      "amount": 120000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 1621,
+      "currency": "EUR"
+    },
+    "priceChangePercentage": "-7.69",
+    "isNew": false,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
+  },
   "be62f542-a055-4065-a788-b9ca35198e4e": {
     "uuid": "be62f542-a055-4065-a788-b9ca35198e4e",
     "providerCode": "housfy",
@@ -123,69 +186,6 @@
       "currency": "EUR"
     },
     "priceChangePercentage": "15.79",
-    "isNew": false,
-    "isPriceUpdated": false,
-    "isReserved": false,
-    "isSold": false
-  },
-  "a9336379-470f-42d4-855e-05b492ff37be": {
-    "uuid": "a9336379-470f-42d4-855e-05b492ff37be",
-    "providerCode": "housfy",
-    "providerPropertyId": 606161,
-    "providerPropertyUrl": "https://housfy.com/alquilar-piso/barcelona/carrer-del-consell-de-cent-606161",
-    "providerPropertyTitle": "Fantástico piso en L\u0027Eixample",
-    "publishedDate": "2022-06-23T07:52:53Z",
-    "relevance": 200,
-    "typeId": 2,
-    "typeCode": "piso",
-    "locationId": 1748,
-    "sizes": {
-      "size": 74,
-      "sizeBuiltWithoutCommonElements": 74,
-      "sizeBuilt": 74,
-      "sizeUseful": 74
-    },
-    "size": 74,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/606161/606161-housfy-20220622-2cUshlgx2Q-420x280.jpg"
-    ],
-    "numberOfBedrooms": 1,
-    "numberOfBathrooms": 1,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "rental",
-    "isVisible": true,
-    "description": "Fantástico piso en L\u0027Eixample.\r\n\r\nHousfy Alquileres, la mejor solución para alquilar tu piso en España.\r\n\r\nSe alquila piso en Eixample, Barcelona, una vivienda luminosa y ubicada en un entorno idóneo para disfrutarlo.\r\nEste genial piso fue construido en el 1957 en La Sagrada Família. Consta de 74 m2.\r\n\r\nDetalles del inmueble:\r\n\r\n- Sensacional piso de 74 m2. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Reformado en 2020.\r\n- Esta vivienda cuenta con 1 habitación y 1 baño.\r\n- Acogedor salón amplio y luminoso, donde disfrutar de tu familia.\r\n- El confort está garantizado ya que dispone de aire acondicionado y calefacción.\r\n- Con una práctica cocina en buen estado y equipada con lo necesario para el día a día.\r\n- Exterior.\r\n- Puerta blindada.\r\n- Además dispone de armario empotrado.\r\n- Ascensor.\r\n- Dos meses de fianza más honorarios de agencia.\r\n\r\nSobre la ubicación, está localizado en Barcelona. Una vivienda ideal para aquellos que quieran un cómodo espacio donde vivir con todo lo necesario del día a día a un paso de su casa.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda alquilar la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922.",
-    "tags": [
-      23,
-      26,
-      31
-    ],
-    "canScheduleVisits": false,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Eixample",
-    "neighborhoodLocationName": "La Sagrada Família",
-    "streetName": "Carrer del Consell de Cent",
-    "streetNumber": "534, Escalera 2",
-    "floor": "Bajos",
-    "door": "A",
-    "floorDoorLabel": "",
-    "latitude": 41.40259171,
-    "longitude": 2.18177509,
-    "price": {
-      "amount": 120000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 1621,
-      "currency": "EUR"
-    },
-    "priceChangePercentage": "-7.69",
     "isNew": false,
     "isPriceUpdated": false,
     "isReserved": false,
