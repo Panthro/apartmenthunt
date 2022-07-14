@@ -376,68 +376,6 @@
     "isReserved": false,
     "isSold": false
   },
-  "bc3926fe-1000-4e61-94d4-aa6def2914e3": {
-    "uuid": "bc3926fe-1000-4e61-94d4-aa6def2914e3",
-    "providerCode": "housfy",
-    "providerPropertyId": 506240,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-coll-i-vehi-506240",
-    "providerPropertyTitle": "Sensacional bajo en Sant Martí",
-    "publishedDate": "2022-01-17T11:24:14Z",
-    "relevance": 600,
-    "typeId": 2,
-    "typeCode": "piso",
-    "locationId": 1791,
-    "sizes": {
-      "size": 58,
-      "sizeBuiltWithoutCommonElements": 58,
-      "sizeBuilt": 58,
-      "sizeUseful": 58
-    },
-    "size": 58,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/506240/506240-housfy-20220116-747VpBhCqf-420x280.jpg"
-    ],
-    "numberOfBedrooms": 1,
-    "numberOfBathrooms": 1,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "sale",
-    "isVisible": true,
-    "description": "Sensacional bajo con cédula en Sant Martí.\r\n\r\nHousfy, compraventa entre particulares.\r\n\r\nOportunidad de adquirir magnífico bajo a reformar con cédula, directamente del propietario en Sant Martí, Barcelona. Una vivienda luminosa y ubicada en un entorno idóneo para disfrutarlo.\r\nEste perfecto local/vivienda fue construido en el año 1965 en El Camp de l\u0027Arpa del Clot. Consta de 58 m2.\r\n\r\nDetalles del inmueble:\r\n\r\n- Espléndido local/vivienda con cédula de 58 m2. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Necesita reformar integral pero no necesita cambio de uso.\r\n- Esta vivienda cuenta con 1 habitación y 1 baño.\r\n- Cómodo salón amplio y luminoso, donde disfrutar de tu familia.\r\n- Exterior.\r\n\r\nLa localización de el piso está localizado en Sant Martí, Barcelona. Con todos los servicios que puedas necesitar para facilitar tus días en todo momento.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
-    "tags": [
-      23,
-      26
-    ],
-    "canScheduleVisits": false,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Sant Martí",
-    "neighborhoodLocationName": "El Camp de l\u0027Arpa del Clot",
-    "streetName": "Carrer de Coll i Vehí",
-    "streetNumber": "118",
-    "floor": "00",
-    "door": "01",
-    "floorDoorLabel": "",
-    "latitude": 41.41604233,
-    "longitude": 2.18439579,
-    "price": {
-      "amount": 14900000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 256896,
-      "currency": "EUR"
-    },
-    "priceChangePercentage": "-3.87",
-    "isNew": false,
-    "isPriceUpdated": false,
-    "isReserved": false,
-    "isSold": false
-  },
   "708db677-5e0a-4c54-81b2-0e2b8ea4356b": {
     "uuid": "708db677-5e0a-4c54-81b2-0e2b8ea4356b",
     "providerCode": "housfy",
