@@ -60,7 +60,7 @@
     },
     "priceChangePercentage": "3.85",
     "isNew": false,
-    "isPriceUpdated": true,
+    "isPriceUpdated": false,
     "isReserved": false,
     "isSold": false
   },
@@ -122,70 +122,6 @@
       "currency": "EUR"
     },
     "priceChangePercentage": "-7.69",
-    "isNew": false,
-    "isPriceUpdated": false,
-    "isReserved": false,
-    "isSold": false
-  },
-  "be62f542-a055-4065-a788-b9ca35198e4e": {
-    "uuid": "be62f542-a055-4065-a788-b9ca35198e4e",
-    "providerCode": "housfy",
-    "providerPropertyId": 420285,
-    "providerPropertyUrl": "https://housfy.com/alquilar-piso/barcelona/carrer-del-rec-comtal-420285",
-    "providerPropertyTitle": "Encantador piso con ascensor en Ciutat Vella",
-    "publishedDate": "2022-06-14T08:23:51Z",
-    "relevance": 200,
-    "typeId": 2,
-    "typeCode": "piso",
-    "locationId": 1742,
-    "sizes": {
-      "size": 61,
-      "sizeBuiltWithoutCommonElements": 61,
-      "sizeBuilt": 67,
-      "sizeUseful": 55
-    },
-    "size": 61,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/420285/420285-housfy-20210729-q76uUadipC-420x280.jpg"
-    ],
-    "numberOfBedrooms": 2,
-    "numberOfBathrooms": 2,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "rental",
-    "isVisible": true,
-    "description": "Encantador piso con ascensor en Ciutat Vella.  \r\n\r\nAlquila tu piso sin complicaciones con Housfy.\r\n\r\nSe alquila piso en Ciutat Vella, Barcelona. Es un espacio perfecto para disfrutar en tu día a día.\r\nConstruido en el año 1900 en Barcelona. Sus 67 m2 están perfectamente distribuidos, creando un espacio cómodo para el día a día.\r\n\r\nDISPONIBLE A PARTIR DEL 15 DE JULIO \r\n\r\nCaracterísticas:\r\n\r\n- Perfecto piso de 67 m2 en Sant Pere - Santa Caterina i la Ribera. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- En este piso encontraremos 2 habitaciones y 2 baños (la Suite con baño), perfecto para una familia o pareja.\r\n- Acogedor salón con amplio espacio de luz natural, donde disfrutar de tu familia.\r\n- Con una ventajosa cocina en perfecto estado y equipada con todo lo necesario.\r\n- Exterior.\r\n- se alquila amueblado.\r\n- Piso en pleno centro de Barcelona, cercano a plaza Urquinaona, al lado del Arco de Triunfo. Extremadamente tranquilo y soleado.\r\n- Ascensor.\r\n- Dos meses de fianza más honorarios de agencia.\r\n\r\nRespecto a la ubicación, se sitúa en Barcelona, municipio de Barcelona. Una vivienda ideal para aquellos que quieran un cómodo espacio donde vivir con todo lo necesario del día a día a un paso de su casa.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda alquilar la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922.",
-    "tags": [
-      25,
-      26,
-      29,
-      33
-    ],
-    "canScheduleVisits": false,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Ciutat Vella",
-    "neighborhoodLocationName": "Sant Pere - Santa Caterina i la Ribera",
-    "streetName": "Carrer del Rec Comtal",
-    "streetNumber": "13",
-    "floor": "2º",
-    "door": "1ª",
-    "floorDoorLabel": "",
-    "latitude": 41.39065552,
-    "longitude": 2.18024397,
-    "price": {
-      "amount": 110000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 1803,
-      "currency": "EUR"
-    },
-    "priceChangePercentage": "15.79",
     "isNew": false,
     "isPriceUpdated": false,
     "isReserved": false,
