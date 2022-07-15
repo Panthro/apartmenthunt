@@ -376,68 +376,6 @@
     "isReserved": false,
     "isSold": false
   },
-  "708db677-5e0a-4c54-81b2-0e2b8ea4356b": {
-    "uuid": "708db677-5e0a-4c54-81b2-0e2b8ea4356b",
-    "providerCode": "housfy",
-    "providerPropertyId": 502768,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-las-navas-de-tolosa-502768",
-    "providerPropertyTitle": "Perfecto en Finca Regia piso con balcón",
-    "publishedDate": "2021-12-15T09:01:28Z",
-    "relevance": 400,
-    "typeId": 2,
-    "typeCode": "piso",
-    "locationId": 1792,
-    "sizes": {
-      "size": 50,
-      "sizeBuiltWithoutCommonElements": 50,
-      "sizeBuilt": 54,
-      "sizeUseful": 49
-    },
-    "size": 50,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/502768/502768-housfy-20211214-t5rfszwrZ8-420x280.jpg"
-    ],
-    "numberOfBedrooms": 3,
-    "numberOfBathrooms": 1,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "sale",
-    "isVisible": true,
-    "description": "Perfecto piso en Finca Regia con balcón en Sant Martí.\r\n\r\nHousfy  vende piso directamente del propietario en Sant Martí, Barcelona, una vivienda luminosa y ubicada en un entorno idóneo para disfrutarlo.\r\nConstruido en 1930. Consta de 54 m2 muy bien distribuidos y muy luminoso en todas las estancias.\r\n\r\nCaracterísticas:\r\n\r\n- Sensacional piso de 50 m2 en El Clot. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- En este piso encontraremos 3 habitaciones y 1 baño, dos de ellas exteriores y con acceso al balcón\r\n- Funcional salón perfecto para descansar tras una jornada de trabajo, con una ventajosa cocina americana en muy buen estado y equipada con todo lo necesario, un lugar perfecto para descansar en los ratos libres.\r\n- Fenomenal baño de tres piezas con plato de ducha y mampara.\r\n- Exterior y con balcón\r\n- Altillo en los pasillos para aprovechar al máximo el espacio de almacenamiento.\r\n- Finca Regia de 1930 conservando puertas y ventanales de origen\r\n\r\nSobre la ubicación, se sitúa en Barcelona. Con todos los servicios que puedas necesitar para facilitar tus días en todo momento. Muy cercano a la estación de metro y renfe de Clot y Bac de Roda, y a diez minutos en bicicleta de la playa. Se encuentra además a pocos minutos de la Sagrera y próxima estación de AVE actualmente en construcción, y a 15 minutos caminando de 22@ y Glorias.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
-    "tags": [
-      23,
-      26
-    ],
-    "canScheduleVisits": false,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Sant Martí",
-    "neighborhoodLocationName": "El Clot",
-    "streetName": "Carrer de las Navas de Tolosa",
-    "streetNumber": "238",
-    "floor": "03",
-    "door": "03",
-    "floorDoorLabel": "",
-    "latitude": 41.413414,
-    "longitude": 2.189574,
-    "price": {
-      "amount": 21990000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 439800,
-      "currency": "EUR"
-    },
-    "priceChangePercentage": "-4.35",
-    "isNew": false,
-    "isPriceUpdated": false,
-    "isReserved": false,
-    "isSold": false
-  },
   "e57bd0b9-c398-4c17-9122-a91a353ad9b9": {
     "uuid": "e57bd0b9-c398-4c17-9122-a91a353ad9b9",
     "providerCode": "housfy",
