@@ -64,68 +64,6 @@
     "isReserved": false,
     "isSold": false
   },
-  "c4db4351-c7c5-4648-931a-800a0e4c8c66": {
-    "uuid": "c4db4351-c7c5-4648-931a-800a0e4c8c66",
-    "providerCode": "housfy",
-    "providerPropertyId": 601824,
-    "providerPropertyUrl": "https://housfy.com/alquilar-piso/barcelona/carrer-de-llull-601824",
-    "providerPropertyTitle": "Encantador piso en Sant Martí",
-    "publishedDate": "2022-06-15T08:16:40Z",
-    "relevance": 800,
-    "typeId": 2,
-    "typeCode": "piso",
-    "locationId": 1794,
-    "sizes": {
-      "size": 82,
-      "sizeBuiltWithoutCommonElements": 82,
-      "sizeBuilt": 82,
-      "sizeUseful": 82
-    },
-    "size": 82,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/601824/601824-housfy-20220614-68Oc2Lj0qs-420x280.jpg"
-    ],
-    "numberOfBedrooms": 3,
-    "numberOfBathrooms": 2,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "rental",
-    "isVisible": true,
-    "description": "Encantador piso en Sant Martí\r\n\r\n\r\nHousfy Alquileres, alquila tu piso con los mejores expertos.\r\n\r\nSergio alquila piso en Sant Martí, Barcelona, una vivienda luminosa y ubicada en un entorno idóneo para disfrutarlo.\r\nEl sensacional piso fue construido en el año 1975 en Barcelona. Sus 82 m2 están perfectamente distribuidos, creando un amplio y abierto espacio con mucha luz y con un diseño muy especial.\r\n\r\nDetalles del inmueble:\r\n- Fenomenal piso de 82 m2 en El Poblenou. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Esta vivienda cuenta con 3 habitaciones y 2 baños, perfecto para una familia.\r\n- Agradable salón-comedor que es un lugar perfecto para descansar tras una jornada de trabajo, creando un precioso y único espacio.\r\n- Ascensor.\r\n- Mobiliario a negociar con el propietario.\r\n- Balcón.\r\n- Exterior.\r\n- Con una funcional cocina en muy buen estado, con todo lo necesario para el día a día. \r\n- Dos meses de fianza más honorarios de agencia.\r\n\r\nLa localización de este piso se encuentra en Barcelona, provincia de Barcelona.\r\nCon todos los servicios que puedas necesitar para facilitar tus días en todo momento.\r\n\r\nSobre nosotros: Housfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda alquilar la propiedad por su cuenta. Para más información, visítenos en housfy. com. AICAT número: 7922.",
-    "tags": [
-      23,
-      26,
-      33
-    ],
-    "canScheduleVisits": false,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Sant Martí",
-    "neighborhoodLocationName": "El Poblenou",
-    "streetName": "Carrer de Llull",
-    "streetNumber": "229 Esc B",
-    "floor": "1º",
-    "door": "2º",
-    "floorDoorLabel": "",
-    "latitude": 41.40288925,
-    "longitude": 2.20446801,
-    "price": {
-      "amount": 140000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 1707,
-      "currency": "EUR"
-    },
-    "isNew": false,
-    "isPriceUpdated": false,
-    "isReserved": false,
-    "isSold": false
-  },
   "a9336379-470f-42d4-855e-05b492ff37be": {
     "uuid": "a9336379-470f-42d4-855e-05b492ff37be",
     "providerCode": "housfy",
@@ -184,6 +122,68 @@
       "currency": "EUR"
     },
     "priceChangePercentage": "-7.69",
+    "isNew": false,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
+  },
+  "c4db4351-c7c5-4648-931a-800a0e4c8c66": {
+    "uuid": "c4db4351-c7c5-4648-931a-800a0e4c8c66",
+    "providerCode": "housfy",
+    "providerPropertyId": 601824,
+    "providerPropertyUrl": "https://housfy.com/alquilar-piso/barcelona/carrer-de-llull-601824",
+    "providerPropertyTitle": "Encantador piso en Sant Martí",
+    "publishedDate": "2022-06-15T08:16:40Z",
+    "relevance": 200,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1794,
+    "sizes": {
+      "size": 82,
+      "sizeBuiltWithoutCommonElements": 82,
+      "sizeBuilt": 82,
+      "sizeUseful": 82
+    },
+    "size": 82,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/601824/601824-housfy-20220614-68Oc2Lj0qs-420x280.jpg"
+    ],
+    "numberOfBedrooms": 3,
+    "numberOfBathrooms": 2,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "rental",
+    "isVisible": true,
+    "description": "Encantador piso en Sant Martí\r\n\r\n\r\nHousfy Alquileres, alquila tu piso con los mejores expertos.\r\n\r\nSergio alquila piso en Sant Martí, Barcelona, una vivienda luminosa y ubicada en un entorno idóneo para disfrutarlo.\r\nEl sensacional piso fue construido en el año 1975 en Barcelona. Sus 82 m2 están perfectamente distribuidos, creando un amplio y abierto espacio con mucha luz y con un diseño muy especial.\r\n\r\nDetalles del inmueble:\r\n- Fenomenal piso de 82 m2 en El Poblenou. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Esta vivienda cuenta con 3 habitaciones y 2 baños, perfecto para una familia.\r\n- Agradable salón-comedor que es un lugar perfecto para descansar tras una jornada de trabajo, creando un precioso y único espacio.\r\n- Ascensor.\r\n- Mobiliario a negociar con el propietario.\r\n- Balcón.\r\n- Exterior.\r\n- Con una funcional cocina en muy buen estado, con todo lo necesario para el día a día. \r\n- Dos meses de fianza más honorarios de agencia.\r\n\r\nLa localización de este piso se encuentra en Barcelona, provincia de Barcelona.\r\nCon todos los servicios que puedas necesitar para facilitar tus días en todo momento.\r\n\r\nSobre nosotros: Housfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda alquilar la propiedad por su cuenta. Para más información, visítenos en housfy. com. AICAT número: 7922.",
+    "tags": [
+      23,
+      26,
+      33
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Sant Martí",
+    "neighborhoodLocationName": "El Poblenou",
+    "streetName": "Carrer de Llull",
+    "streetNumber": "229 Esc B",
+    "floor": "1º",
+    "door": "2º",
+    "floorDoorLabel": "",
+    "latitude": 41.40288925,
+    "longitude": 2.20446801,
+    "price": {
+      "amount": 140000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 1707,
+      "currency": "EUR"
+    },
     "isNew": false,
     "isPriceUpdated": false,
     "isReserved": false,
