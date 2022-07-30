@@ -62,6 +62,71 @@
     "isReserved": false,
     "isSold": false
   },
+  "13efb8b4-1cd5-4ed0-8778-f715926dfc91": {
+    "uuid": "13efb8b4-1cd5-4ed0-8778-f715926dfc91",
+    "providerCode": "housfy",
+    "providerPropertyId": 347205,
+    "providerPropertyUrl": "https://housfy.com/alquilar-piso/barcelona/carrer-de-sardenya-347205",
+    "providerPropertyTitle": "Fantástico piso con terraza en Eixample",
+    "publishedDate": "2022-06-29T15:29:50Z",
+    "relevance": 200,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1744,
+    "sizes": {
+      "size": 88,
+      "sizeBuiltWithoutCommonElements": 88,
+      "sizeBuilt": 88,
+      "sizeUseful": 88
+    },
+    "size": 88,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/347205/347205-housfy-20210415-Q9lZPEaFNI-420x280.jpg"
+    ],
+    "numberOfBedrooms": 4,
+    "numberOfBathrooms": 2,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "rental",
+    "isVisible": true,
+    "description": "Fantástico piso con terraza en Eixample\r\n\r\nCarles alquila su piso en Eixample, Barcelona, perfecto para familias o parejas que busquen un lugar cómodo para su día a día.\r\nEste piso fue construido en el año 1985 en Barcelona. Consta de 88 m2.\r\n\r\nDetalles del inmueble:\r\n\r\n- Encantador piso de 88 m2 en El Fort Pienc. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Podemos disfrutar de 4 habitaciones y 2 baños, para familias completas.\r\n- Cálido salón amplio y luminoso, siendo además, un espacio estupendo para visitas de amigos y familiares.\r\n- Posibilidad de retirar muebles.\r\n- Sistema de calefacción y aire acondicionado.\r\n- Exterior.\r\n- Dos ascensores.\r\n- Disfruta de la opción de armario empotrado.\r\n- Puerta blindada.\r\n- Terraza.\r\n- Con una utilitaria cocina en buen estado. Muy completa. Con lavadero.\r\n- Con plaza de garaje incluida en la misma finca.\r\n- Dos meses de fianza más honorarios de agencia.\r\n\r\nSobre la ubicación, se encuentra en Barcelona, municipio de Barcelona.\r\nUna vivienda ideal para aquellos que quieran un cómodo espacio donde vivir con todo lo necesario del día a día a un paso de su casa.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda alquilar la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
+    "tags": [
+      23,
+      26,
+      31,
+      32,
+      33
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Eixample",
+    "neighborhoodLocationName": "El Fort Pienc",
+    "streetName": "Carrer de Sardenya",
+    "streetNumber": "181",
+    "floor": "4º",
+    "door": "6ª",
+    "floorDoorLabel": "",
+    "latitude": 41.39788818,
+    "longitude": 2.18043232,
+    "price": {
+      "amount": 135000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 1534,
+      "currency": "EUR"
+    },
+    "priceChangePercentage": "3.85",
+    "isNew": false,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
+  },
   "b53e2823-bfbc-4f9b-ab5d-e82d44d61337": {
     "uuid": "b53e2823-bfbc-4f9b-ab5d-e82d44d61337",
     "providerCode": "housfy",
