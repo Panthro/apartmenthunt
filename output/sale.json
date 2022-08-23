@@ -692,6 +692,69 @@
     "isReserved": false,
     "isSold": false
   },
+  "e9d31b36-464e-434c-9e20-887179ddf26a": {
+    "uuid": "e9d31b36-464e-434c-9e20-887179ddf26a",
+    "providerCode": "housfy",
+    "providerPropertyId": 539843,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-la-selva-de-mar-539843",
+    "providerPropertyTitle": "Maravilloso piso en Sant Martí",
+    "publishedDate": "2022-06-29T15:28:53Z",
+    "relevance": 200,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1798,
+    "sizes": {
+      "size": 62,
+      "sizeBuiltWithoutCommonElements": 62,
+      "sizeBuilt": 62,
+      "sizeUseful": 53
+    },
+    "size": 62,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/539843/539843-housfy-20220629-D8qXvEjD8p-420x280.jpg"
+    ],
+    "numberOfBedrooms": 2,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "Maravilloso piso en Sant Martí.\r\n\r\nCompra tu piso con Housfy.\r\n\r\nSe vende piso directamente del propietario en Sant Martí, Barcelona, una vivienda luminosa y ubicada en un entorno idóneo para disfrutarlo.\r\nEl estupendo piso fue construido en el año 1965.\r\n\r\nCaracterísticas:\r\n\r\n- Sus 62 m2 están perfectamente distribuidos, creando un amplio y abierto espacio con mucha luz y con un diseño muy especial.. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- En este piso encontraremos 2 habitaciones y 1 baño, muy bien acomodadas.\r\n- Confortable comedor que te proporcionará el relax diario, donde disfrutar de tu familia.\r\n- Con una efectiva cocina en buen estado y equipada con todo lo necesario.\r\n- Ascensor. \r\n- Exterior.\r\n\r\nLa situación de el piso se encuentra en Barcelona. Con todos los servicios que puedas necesitar para facilitar tus días en todo momento.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
+    "tags": [
+      23,
+      26,
+      31
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Sant Martí",
+    "neighborhoodLocationName": "Sant Martí de Provençals",
+    "streetName": "Carrer de la Selva de Mar",
+    "streetNumber": "234",
+    "floor": "08",
+    "door": "02",
+    "floorDoorLabel": "",
+    "latitude": 41.41760635,
+    "longitude": 2.19784808,
+    "price": {
+      "amount": 19400000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 312903,
+      "currency": "EUR"
+    },
+    "priceChangePercentage": "-3.96",
+    "isNew": false,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
+  },
   "40abba62-c93b-4d3a-9212-cc3415dee1de": {
     "uuid": "40abba62-c93b-4d3a-9212-cc3415dee1de",
     "providerCode": "housfy",
@@ -751,69 +814,6 @@
       "currency": "EUR"
     },
     "priceChangePercentage": "-5.45",
-    "isNew": false,
-    "isPriceUpdated": false,
-    "isReserved": false,
-    "isSold": false
-  },
-  "e9d31b36-464e-434c-9e20-887179ddf26a": {
-    "uuid": "e9d31b36-464e-434c-9e20-887179ddf26a",
-    "providerCode": "housfy",
-    "providerPropertyId": 539843,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-la-selva-de-mar-539843",
-    "providerPropertyTitle": "Maravilloso piso en Sant Martí",
-    "publishedDate": "2022-06-29T15:28:53Z",
-    "relevance": 200,
-    "typeId": 2,
-    "typeCode": "piso",
-    "locationId": 1798,
-    "sizes": {
-      "size": 62,
-      "sizeBuiltWithoutCommonElements": 62,
-      "sizeBuilt": 62,
-      "sizeUseful": 53
-    },
-    "size": 62,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/539843/539843-housfy-20220629-D8qXvEjD8p-420x280.jpg"
-    ],
-    "numberOfBedrooms": 2,
-    "numberOfBathrooms": 1,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "sale",
-    "isVisible": true,
-    "description": "Maravilloso piso en Sant Martí.\r\n\r\nCompra tu piso con Housfy.\r\n\r\nSe vende piso directamente del propietario en Sant Martí, Barcelona, una vivienda luminosa y ubicada en un entorno idóneo para disfrutarlo.\r\nEl estupendo piso fue construido en el año 1965.\r\n\r\nCaracterísticas:\r\n\r\n- Sus 62 m2 están perfectamente distribuidos, creando un amplio y abierto espacio con mucha luz y con un diseño muy especial.. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- En este piso encontraremos 2 habitaciones y 1 baño, muy bien acomodadas.\r\n- Confortable comedor que te proporcionará el relax diario, donde disfrutar de tu familia.\r\n- Con una efectiva cocina en buen estado y equipada con todo lo necesario.\r\n- Ascensor. \r\n- Exterior.\r\n\r\nLa situación de el piso se encuentra en Barcelona. Con todos los servicios que puedas necesitar para facilitar tus días en todo momento.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
-    "tags": [
-      23,
-      26,
-      31
-    ],
-    "canScheduleVisits": false,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Sant Martí",
-    "neighborhoodLocationName": "Sant Martí de Provençals",
-    "streetName": "Carrer de la Selva de Mar",
-    "streetNumber": "234",
-    "floor": "08",
-    "door": "02",
-    "floorDoorLabel": "",
-    "latitude": 41.41760635,
-    "longitude": 2.19784808,
-    "price": {
-      "amount": 19400000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 312903,
-      "currency": "EUR"
-    },
-    "priceChangePercentage": "-3.96",
     "isNew": false,
     "isPriceUpdated": false,
     "isReserved": false,
