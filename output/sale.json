@@ -693,68 +693,6 @@
     "isReserved": false,
     "isSold": false
   },
-  "1a918439-3a64-43d0-9f82-c8673b042910": {
-    "uuid": "1a918439-3a64-43d0-9f82-c8673b042910",
-    "providerCode": "housfy",
-    "providerPropertyId": 615942,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-la-llacuna-615942",
-    "providerPropertyTitle": "Maravilloso piso en Sant Martí",
-    "publishedDate": "2022-07-21T07:40:23Z",
-    "relevance": 200,
-    "typeId": 2,
-    "typeCode": "piso",
-    "locationId": 1792,
-    "sizes": {
-      "size": 78,
-      "sizeBuiltWithoutCommonElements": 78,
-      "sizeBuilt": 78,
-      "sizeUseful": 78
-    },
-    "size": 78,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/615942/615942-housfy-20220721-9Zt8WlWsFK-420x280.jpg"
-    ],
-    "numberOfBedrooms": 3,
-    "numberOfBathrooms": 2,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "sale",
-    "isVisible": true,
-    "description": "Maravilloso piso en Sant Martí.\r\n\r\nCompraventa entre particulares con Housfy.\r\n\r\nSe vende piso de particular a particular en Sant Martí, Barcelona, perfecto para familias o parejas que busquen un lugar cómodo para su día a día.\r\nEste piso fue construido en el año 1982 en Barcelona.\r\n\r\nDetalles del inmueble:\r\n\r\n- Sus 78 m2 están perfectamente distribuidos, creando un amplio y abierto espacio con mucha luz y con un diseño muy especial. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Contamos con todas las comodidades posibles de 3 habitaciones y 2 baños, perfecto para una familia.\r\n- Práctico salón-comedor que te proporcionará el relax diario, creando un precioso y único espacio.\r\n- Con una utilitaria cocina en buen estado y equipada con todo lo necesario.\r\n- Exterior.\r\n\r\nRespecto a la ubicación, se sitúa en Barcelona. Con fácil acceso y servicios que facilitarán y mejorarán tu día a día.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
-    "tags": [
-      23,
-      26,
-      31
-    ],
-    "canScheduleVisits": false,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Sant Martí",
-    "neighborhoodLocationName": "El Clot",
-    "streetName": "Carrer de la Llacuna",
-    "streetNumber": "165 (ESC. A)",
-    "floor": "01",
-    "door": "03",
-    "floorDoorLabel": "",
-    "latitude": 41.40705872,
-    "longitude": 2.19070792,
-    "price": {
-      "amount": 27500000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 352564,
-      "currency": "EUR"
-    },
-    "isNew": false,
-    "isPriceUpdated": false,
-    "isReserved": false,
-    "isSold": false
-  },
   "98cda9cd-63bf-4ed0-b43d-f386d37a2fa0": {
     "uuid": "98cda9cd-63bf-4ed0-b43d-f386d37a2fa0",
     "providerCode": "housfy",
@@ -819,29 +757,29 @@
     "isReserved": false,
     "isSold": false
   },
-  "e695e50e-564a-4cba-bd4e-7c1d5ef19aa9": {
-    "uuid": "e695e50e-564a-4cba-bd4e-7c1d5ef19aa9",
+  "1a918439-3a64-43d0-9f82-c8673b042910": {
+    "uuid": "1a918439-3a64-43d0-9f82-c8673b042910",
     "providerCode": "housfy",
-    "providerPropertyId": 460796,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/rambla-de-guipuscoa-460796",
-    "providerPropertyTitle": "Espléndido piso en Sant Martí",
-    "publishedDate": "2021-09-30T08:05:21Z",
-    "relevance": 100,
+    "providerPropertyId": 615942,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-la-llacuna-615942",
+    "providerPropertyTitle": "Maravilloso piso en Sant Martí",
+    "publishedDate": "2022-07-21T07:40:23Z",
+    "relevance": 200,
     "typeId": 2,
     "typeCode": "piso",
-    "locationId": 1798,
+    "locationId": 1792,
     "sizes": {
-      "size": 104,
-      "sizeBuiltWithoutCommonElements": 104,
-      "sizeBuilt": 104,
-      "sizeUseful": 104
+      "size": 78,
+      "sizeBuiltWithoutCommonElements": 78,
+      "sizeBuilt": 78,
+      "sizeUseful": 78
     },
-    "size": 104,
+    "size": 78,
     "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/460796/460796-housfy-20210929-eNjDSjgABx-420x280.jpg"
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/615942/615942-housfy-20220721-9Zt8WlWsFK-420x280.jpg"
     ],
-    "numberOfBedrooms": 4,
-    "numberOfBathrooms": 1,
+    "numberOfBedrooms": 3,
+    "numberOfBathrooms": 2,
     "userName": "Housfy Real Estate",
     "userPhone": {
       "countryCode": "+34",
@@ -850,32 +788,32 @@
     },
     "operationTypeCode": "sale",
     "isVisible": true,
-    "description": "espléndido piso en sant martí\r\n\r\ncesar vende piso directamente del propietario en sant martí, barcelona, perfecto para familias o parejas que busquen un lugar cómodo para su día a día.\r\nconstruido en 1957 en barcelona. consta de 104 m2 muy bien distribuidos.\r\n\r\ncaracterísticas:\r\n- espléndido piso de 104 m2 en sant martí de provençals. (los metros cuadrados están verificados con la dirección general de catastro)\r\n- contamos con todas las comodidades posibles de 4 habitaciones y 1 baño, muy bien acomodadas.\r\n- acogedor salón que es un lugar perfecto para descansar tras una jornada de trabajo, siendo además, un espacio agradable estupendo para visitas de amigos y familiares.\r\n- exterior.\r\n- ascensor. \r\n- balcón. \r\n- con una efectiva cocina, en buen estado.\r\n- zona ajardinada con parque infantil dentro del recinto de edificio. \r\n\r\nrespecto a la ubicación, está localizado en barcelona (barcelona)\r\ncon todos los servicios que puedas necesitar para facilitar tus días en todo momento.\r\n\r\nsobre nosotros:\r\nhousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta.  para más información, visítenos en housfy.com. aicat número: 7922",
+    "description": "Maravilloso piso en Sant Martí.\r\n\r\nCompraventa entre particulares con Housfy.\r\n\r\nSe vende piso de particular a particular en Sant Martí, Barcelona, perfecto para familias o parejas que busquen un lugar cómodo para su día a día.\r\nEste piso fue construido en el año 1982 en Barcelona.\r\n\r\nDetalles del inmueble:\r\n\r\n- Sus 78 m2 están perfectamente distribuidos, creando un amplio y abierto espacio con mucha luz y con un diseño muy especial. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Contamos con todas las comodidades posibles de 3 habitaciones y 2 baños, perfecto para una familia.\r\n- Práctico salón-comedor que te proporcionará el relax diario, creando un precioso y único espacio.\r\n- Con una utilitaria cocina en buen estado y equipada con todo lo necesario.\r\n- Exterior.\r\n\r\nRespecto a la ubicación, se sitúa en Barcelona. Con fácil acceso y servicios que facilitarán y mejorarán tu día a día.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
     "tags": [
       23,
-      26
+      26,
+      31
     ],
     "canScheduleVisits": false,
     "stateLocationName": "Barcelona",
     "cityLocationName": "Barcelona",
     "districtLocationName": "Sant Martí",
-    "neighborhoodLocationName": "Sant Martí de Provençals",
-    "streetName": "Rambla de Guipúscoa",
-    "streetNumber": "92 esc Izq",
+    "neighborhoodLocationName": "El Clot",
+    "streetName": "Carrer de la Llacuna",
+    "streetNumber": "165 (ESC. A)",
     "floor": "01",
-    "door": "01",
+    "door": "03",
     "floorDoorLabel": "",
-    "latitude": 41.41818619,
-    "longitude": 2.20009327,
+    "latitude": 41.40705872,
+    "longitude": 2.19070792,
     "price": {
-      "amount": 28000000,
+      "amount": 27500000,
       "currency": "EUR"
     },
     "priceSize": {
-      "amount": 269230,
+      "amount": 352564,
       "currency": "EUR"
     },
-    "priceChangePercentage": "-6.35",
     "isNew": false,
     "isPriceUpdated": false,
     "isReserved": false,
@@ -938,6 +876,68 @@
       "currency": "EUR"
     },
     "priceChangePercentage": "-1.83",
+    "isNew": false,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
+  },
+  "e695e50e-564a-4cba-bd4e-7c1d5ef19aa9": {
+    "uuid": "e695e50e-564a-4cba-bd4e-7c1d5ef19aa9",
+    "providerCode": "housfy",
+    "providerPropertyId": 460796,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/rambla-de-guipuscoa-460796",
+    "providerPropertyTitle": "Espléndido piso en Sant Martí",
+    "publishedDate": "2021-09-30T08:05:21Z",
+    "relevance": 100,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1798,
+    "sizes": {
+      "size": 104,
+      "sizeBuiltWithoutCommonElements": 104,
+      "sizeBuilt": 104,
+      "sizeUseful": 104
+    },
+    "size": 104,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/460796/460796-housfy-20210929-eNjDSjgABx-420x280.jpg"
+    ],
+    "numberOfBedrooms": 4,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "espléndido piso en sant martí\r\n\r\ncesar vende piso directamente del propietario en sant martí, barcelona, perfecto para familias o parejas que busquen un lugar cómodo para su día a día.\r\nconstruido en 1957 en barcelona. consta de 104 m2 muy bien distribuidos.\r\n\r\ncaracterísticas:\r\n- espléndido piso de 104 m2 en sant martí de provençals. (los metros cuadrados están verificados con la dirección general de catastro)\r\n- contamos con todas las comodidades posibles de 4 habitaciones y 1 baño, muy bien acomodadas.\r\n- acogedor salón que es un lugar perfecto para descansar tras una jornada de trabajo, siendo además, un espacio agradable estupendo para visitas de amigos y familiares.\r\n- exterior.\r\n- ascensor. \r\n- balcón. \r\n- con una efectiva cocina, en buen estado.\r\n- zona ajardinada con parque infantil dentro del recinto de edificio. \r\n\r\nrespecto a la ubicación, está localizado en barcelona (barcelona)\r\ncon todos los servicios que puedas necesitar para facilitar tus días en todo momento.\r\n\r\nsobre nosotros:\r\nhousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta.  para más información, visítenos en housfy.com. aicat número: 7922",
+    "tags": [
+      23,
+      26
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Sant Martí",
+    "neighborhoodLocationName": "Sant Martí de Provençals",
+    "streetName": "Rambla de Guipúscoa",
+    "streetNumber": "92 esc Izq",
+    "floor": "01",
+    "door": "01",
+    "floorDoorLabel": "",
+    "latitude": 41.41818619,
+    "longitude": 2.20009327,
+    "price": {
+      "amount": 28000000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 269230,
+      "currency": "EUR"
+    },
+    "priceChangePercentage": "-6.35",
     "isNew": false,
     "isPriceUpdated": false,
     "isReserved": false,
