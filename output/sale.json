@@ -819,68 +819,6 @@
     "isReserved": false,
     "isSold": false
   },
-  "9205c943-0566-45df-9f32-e01b23aa0480": {
-    "uuid": "9205c943-0566-45df-9f32-e01b23aa0480",
-    "providerCode": "housfy",
-    "providerPropertyId": 542672,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/calle-concili-de-trento-542672",
-    "providerPropertyTitle": "Sensacional piso con ascensor en Sant Martí",
-    "publishedDate": "2022-02-25T12:41:00Z",
-    "relevance": 100,
-    "typeId": 2,
-    "typeCode": "piso",
-    "locationId": 1798,
-    "sizes": {
-      "size": 68,
-      "sizeBuiltWithoutCommonElements": 68,
-      "sizeBuilt": 56,
-      "sizeUseful": 56
-    },
-    "size": 68,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/542672/542672-housfy-20220225-eOS9BCg0m8-420x280.jpg"
-    ],
-    "numberOfBedrooms": 3,
-    "numberOfBathrooms": 1,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "sale",
-    "isVisible": true,
-    "description": "Sensacional piso con ascensor en Sant Martí.\r\n\r\nCompraventa entre particulares con Housfy.\r\n\r\nInversión en Activos Bancarios vende piso de particular a particular en Sant Martí, Barcelona, una vivienda luminosa y ubicada en un entorno idóneo para disfrutarlo.\r\nEl fabuloso piso fue construido en el año 1964. El maravilloso piso está formado por 56 m2 construidos.\r\n\r\nCaracterísticas:\r\n\r\n- Fantástico piso de 56 m2 en Sant Martí de Provençals. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- En el piso encontraremos 3 habitaciones y 1 baño, perfecto para una familia.\r\n- Acogedor comedor perfecto para descansar tras una jornada de trabajo, un lugar perfecto para descansar en los ratos libres.\r\n- Con una conveniente cocina en buen estado y equipada con todo lo necesario.\r\n- Ascensor.\r\n- Exterior.\r\n\r\nSobre la situación de este piso está localizado en Barcelona. Con fácil acceso y servicios que facilitarán y mejorarán tu día a día.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
-    "tags": [
-      23,
-      26
-    ],
-    "canScheduleVisits": false,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Sant Martí",
-    "neighborhoodLocationName": "Sant Martí de Provençals",
-    "streetName": "Calle Concili de Trento",
-    "streetNumber": "142",
-    "floor": "4",
-    "door": "3",
-    "floorDoorLabel": "",
-    "latitude": 41.41558075,
-    "longitude": 2.19807911,
-    "price": {
-      "amount": 21500000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 316176,
-      "currency": "EUR"
-    },
-    "priceChangePercentage": "-1.83",
-    "isNew": false,
-    "isPriceUpdated": false,
-    "isReserved": false,
-    "isSold": false
-  },
   "e695e50e-564a-4cba-bd4e-7c1d5ef19aa9": {
     "uuid": "e695e50e-564a-4cba-bd4e-7c1d5ef19aa9",
     "providerCode": "housfy",
@@ -938,6 +876,68 @@
       "currency": "EUR"
     },
     "priceChangePercentage": "-6.35",
+    "isNew": false,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
+  },
+  "9205c943-0566-45df-9f32-e01b23aa0480": {
+    "uuid": "9205c943-0566-45df-9f32-e01b23aa0480",
+    "providerCode": "housfy",
+    "providerPropertyId": 542672,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/calle-concili-de-trento-542672",
+    "providerPropertyTitle": "Sensacional piso con ascensor en Sant Martí",
+    "publishedDate": "2022-02-25T12:41:00Z",
+    "relevance": 100,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1798,
+    "sizes": {
+      "size": 68,
+      "sizeBuiltWithoutCommonElements": 68,
+      "sizeBuilt": 56,
+      "sizeUseful": 56
+    },
+    "size": 68,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/542672/542672-housfy-20220225-eOS9BCg0m8-420x280.jpg"
+    ],
+    "numberOfBedrooms": 3,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "Sensacional piso con ascensor en Sant Martí.\r\n\r\nCompraventa entre particulares con Housfy.\r\n\r\nInversión en Activos Bancarios vende piso de particular a particular en Sant Martí, Barcelona, una vivienda luminosa y ubicada en un entorno idóneo para disfrutarlo.\r\nEl fabuloso piso fue construido en el año 1964. El maravilloso piso está formado por 56 m2 construidos.\r\n\r\nCaracterísticas:\r\n\r\n- Fantástico piso de 56 m2 en Sant Martí de Provençals. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- En el piso encontraremos 3 habitaciones y 1 baño, perfecto para una familia.\r\n- Acogedor comedor perfecto para descansar tras una jornada de trabajo, un lugar perfecto para descansar en los ratos libres.\r\n- Con una conveniente cocina en buen estado y equipada con todo lo necesario.\r\n- Ascensor.\r\n- Exterior.\r\n\r\nSobre la situación de este piso está localizado en Barcelona. Con fácil acceso y servicios que facilitarán y mejorarán tu día a día.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
+    "tags": [
+      23,
+      26
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Sant Martí",
+    "neighborhoodLocationName": "Sant Martí de Provençals",
+    "streetName": "Calle Concili de Trento",
+    "streetNumber": "142",
+    "floor": "4",
+    "door": "3",
+    "floorDoorLabel": "",
+    "latitude": 41.41558075,
+    "longitude": 2.19807911,
+    "price": {
+      "amount": 21500000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 316176,
+      "currency": "EUR"
+    },
+    "priceChangePercentage": "-1.83",
     "isNew": false,
     "isPriceUpdated": false,
     "isReserved": false,
