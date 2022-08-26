@@ -190,6 +190,70 @@
     "isReserved": false,
     "isSold": false
   },
+  "a929d205-9c3c-4f97-a730-080940fcba07": {
+    "uuid": "a929d205-9c3c-4f97-a730-080940fcba07",
+    "providerCode": "housfy",
+    "providerPropertyId": 612605,
+    "providerPropertyUrl": "https://housfy.com/alquilar-piso/barcelona/carrer-de-pujades-612605",
+    "providerPropertyTitle": "Encantador piso con terraza en Sant Martí",
+    "publishedDate": "2022-08-05T08:06:11Z",
+    "relevance": 200,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1794,
+    "sizes": {
+      "size": 86,
+      "sizeBuiltWithoutCommonElements": 86,
+      "sizeBuilt": 86,
+      "sizeUseful": 77
+    },
+    "size": 86,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/612605/612605-housfy-20220805-VFDAmpQcBL-420x280.jpg"
+    ],
+    "numberOfBedrooms": 4,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "rental",
+    "isVisible": true,
+    "description": "Encantador piso con terraza en Sant Martí.\r\n\r\nAlquila tu piso sin complicaciones con Housfy.\r\n\r\nSe alquila piso de 4 habitaciones en el corazón del barrio del Poblenou (distrito de Sant Martí, Barcelona) perfecto para familias o parejas que busquen un lugar cómodo para su día a día.\r\n\r\n\r\nDetalles del inmueble:\r\n\r\n- Fabuloso piso exterior de 86 m2 construidos en El Poblenou (77 m2 útiles). (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Finca construída en 1969.\r\n- El piso dispone de terraza exterior, comedor, cuatro habitaciones (una doble), cocina, galería, recibidor y distribuidor.  \r\n- Luminoso y agradable comedor, perfecto para descansar tras una jornada de trabajo o para recibir visitas.\r\n- Sistema de calefacción por caldera y radiadores, y aire acondicionado.\r\n- Puerta blindada con alarma, mirilla electrónica y vídeo-portero para garantizar su seguridad.\r\n- Cocina reformada y totalmente equipada con campana extractora, vitrocerámica (Balay), horno combinado de aire forzado y microondas (Electrolux), lavaplatos (Bosch), nevera combi, lavadora-secadora (Bosch).\r\n- Baño reformado en 2022 a estrenar.\r\n- Segunda planta exterior con terraza, orientación sur-este y ascensor.\r\n- Semi-amueblado con un dormitorio doble con camas pareadas motorizadas y armarios de calidad, un dormitorio individual, un despacho y una cuarta habitación a definir.\r\n- Se entrega recién pintado.\r\n- No se admiten mascotas ni plantas de interior.\r\n- Disponible para entrar.\r\n- Dos meses de fianza más honorarios de agencia (1 mes).\r\n\r\nEl piso se encuentra en el centro del barrio del Poblenou, bien comunicado y con fácil acceso a servicios que le facilitarán su día a día:\r\n- A 1 minuto de la estación de metro de Poblenou (Línea 4).\r\n- A una calle del Centre Esportiu Municipal (CEM) Can Felipa.\r\n- A cuatro calles de la playa.\r\n- A dos calles de la biblioteca Manuel Arranz.\r\n- A dos calles de la Rambla del Poblenou con sus terrazas.\r\n- Muchos supermercados y tiendas en las cercanías.\r\n- Zona en alza con varias opciones de colegios, institutos y facultades universitarias en las proximidades.\r\n- Con opciones de parking en edificios aledaños.\r\n- En el distrito tecnológico de Barcelona 22@.\r\n\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda alquilar la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922.",
+    "tags": [
+      23,
+      25,
+      31,
+      32,
+      33
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Sant Martí",
+    "neighborhoodLocationName": "El Poblenou",
+    "streetName": "Carrer de Pujades",
+    "streetNumber": "207",
+    "floor": "2",
+    "door": "1",
+    "floorDoorLabel": "",
+    "latitude": 41.40317535,
+    "longitude": 2.20238829,
+    "price": {
+      "amount": 135000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 1569,
+      "currency": "EUR"
+    },
+    "isNew": false,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
+  },
   "c6dd8fcc-8059-440e-aa39-904d9dc61ec2": {
     "uuid": "c6dd8fcc-8059-440e-aa39-904d9dc61ec2",
     "providerCode": "housfy",
