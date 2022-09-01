@@ -440,70 +440,6 @@
     "isReserved": false,
     "isSold": false
   },
-  "98cda9cd-63bf-4ed0-b43d-f386d37a2fa0": {
-    "uuid": "98cda9cd-63bf-4ed0-b43d-f386d37a2fa0",
-    "providerCode": "housfy",
-    "providerPropertyId": 621681,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-dandrade-621681",
-    "providerPropertyTitle": "Encantador piso con balcón en Sant Martí",
-    "publishedDate": "2022-08-04T16:06:25Z",
-    "relevance": 200,
-    "typeId": 2,
-    "typeCode": "piso",
-    "locationId": 1798,
-    "sizes": {
-      "size": 83,
-      "sizeBuiltWithoutCommonElements": 83,
-      "sizeBuilt": 83,
-      "sizeUseful": 83
-    },
-    "size": 83,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/621681/621681-housfy-20220803-f5sIqzjkBO-420x280.jpg"
-    ],
-    "numberOfBedrooms": 3,
-    "numberOfBathrooms": 1,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "sale",
-    "isVisible": true,
-    "description": "Encantador piso con balcón en Sant Martí.\r\n\r\n\r\nSe vende piso en Sant Martí, Barcelona, un espacio para disfrutar en tu día a día.\r\nConstruido en 1969 en Sant Martí de Provençals. \r\n\r\nDetalles del inmueble:\r\n\r\n- Fabuloso piso de 83 m² muy bien distribuidos. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Contamos con todas las comodidades posibles de 3 habitaciones todas exteriores y 1 baño, perfecto para una familia.\r\n- Cálido comedor amplio y luminoso, donde disfrutar de tu familia.\r\n- Con una funcional cocina REFORMADA y equipada con lo necesario para el día a día.\r\n- Dispone de aire acondicionado y calefacción, suelo de parquet natural en comedor, ventanas de aluminio doble vidrio, armario empotrado, galería, puerta de seguridad blindada.\r\n- Balcón.\r\n- Exterior.\r\n- Con plaza de garaje por 18.000 € adicionales en la finca de enfrente CON LA COMPRA DEL PISO.\r\n- Ascensor.\r\n- Mobiliario a negociar con el propietario.\r\n\r\nSobre la situación de este piso está localizado en Barcelona.\r\nUna vivienda ideal para aquellos que quieran un cómodo espacio donde vivir con todo lo necesario del día a día a un paso de su casa.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
-    "tags": [
-      23,
-      26,
-      31,
-      33
-    ],
-    "canScheduleVisits": false,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Sant Martí",
-    "neighborhoodLocationName": "Sant Martí de Provençals",
-    "streetName": "Carrer d\u0027Andrade",
-    "streetNumber": "79",
-    "floor": "5",
-    "door": "1",
-    "floorDoorLabel": "",
-    "latitude": 41.41336441,
-    "longitude": 2.19739676,
-    "price": {
-      "amount": 24000000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 289156,
-      "currency": "EUR"
-    },
-    "priceChangePercentage": "-4",
-    "isNew": false,
-    "isPriceUpdated": false,
-    "isReserved": false,
-    "isSold": false
-  },
   "40abba62-c93b-4d3a-9212-cc3415dee1de": {
     "uuid": "40abba62-c93b-4d3a-9212-cc3415dee1de",
     "providerCode": "housfy",
@@ -625,6 +561,70 @@
       "amount": 352564,
       "currency": "EUR"
     },
+    "isNew": false,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
+  },
+  "98cda9cd-63bf-4ed0-b43d-f386d37a2fa0": {
+    "uuid": "98cda9cd-63bf-4ed0-b43d-f386d37a2fa0",
+    "providerCode": "housfy",
+    "providerPropertyId": 621681,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-dandrade-621681",
+    "providerPropertyTitle": "Encantador piso con balcón en Sant Martí",
+    "publishedDate": "2022-08-04T16:06:25Z",
+    "relevance": 200,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1798,
+    "sizes": {
+      "size": 83,
+      "sizeBuiltWithoutCommonElements": 83,
+      "sizeBuilt": 83,
+      "sizeUseful": 83
+    },
+    "size": 83,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/621681/621681-housfy-20220803-f5sIqzjkBO-420x280.jpg"
+    ],
+    "numberOfBedrooms": 3,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "Encantador piso con balcón en Sant Martí.\r\n\r\n\r\nSe vende piso en Sant Martí, Barcelona, un espacio para disfrutar en tu día a día.\r\nConstruido en 1969 en Sant Martí de Provençals. \r\n\r\nDetalles del inmueble:\r\n\r\n- Fabuloso piso de 83 m² muy bien distribuidos. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Contamos con todas las comodidades posibles de 3 habitaciones todas exteriores y 1 baño, perfecto para una familia.\r\n- Cálido comedor amplio y luminoso, donde disfrutar de tu familia.\r\n- Con una funcional cocina REFORMADA y equipada con lo necesario para el día a día.\r\n- Dispone de aire acondicionado y calefacción, suelo de parquet natural en comedor, ventanas de aluminio doble vidrio, armario empotrado, galería, puerta de seguridad blindada.\r\n- Balcón.\r\n- Exterior.\r\n- Con plaza de garaje por 18.000 € adicionales en la finca de enfrente CON LA COMPRA DEL PISO.\r\n- Ascensor.\r\n- Mobiliario a negociar con el propietario.\r\n\r\nSobre la situación de este piso está localizado en Barcelona.\r\nUna vivienda ideal para aquellos que quieran un cómodo espacio donde vivir con todo lo necesario del día a día a un paso de su casa.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
+    "tags": [
+      23,
+      26,
+      31,
+      33
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Sant Martí",
+    "neighborhoodLocationName": "Sant Martí de Provençals",
+    "streetName": "Carrer d\u0027Andrade",
+    "streetNumber": "79",
+    "floor": "5",
+    "door": "1",
+    "floorDoorLabel": "",
+    "latitude": 41.41336441,
+    "longitude": 2.19739676,
+    "price": {
+      "amount": 24000000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 289156,
+      "currency": "EUR"
+    },
+    "priceChangePercentage": "-4",
     "isNew": false,
     "isPriceUpdated": false,
     "isReserved": false,
