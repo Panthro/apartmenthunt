@@ -377,70 +377,6 @@
     "isReserved": false,
     "isSold": false
   },
-  "40abba62-c93b-4d3a-9212-cc3415dee1de": {
-    "uuid": "40abba62-c93b-4d3a-9212-cc3415dee1de",
-    "providerCode": "housfy",
-    "providerPropertyId": 604638,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-del-rossello-604638",
-    "providerPropertyTitle": "Espléndido piso con terraza en l\u0027Eixample",
-    "publishedDate": "2022-07-21T08:17:30Z",
-    "relevance": 200,
-    "typeId": 2,
-    "typeCode": "piso",
-    "locationId": 1748,
-    "sizes": {
-      "size": 61,
-      "sizeBuiltWithoutCommonElements": 61,
-      "sizeBuilt": 61,
-      "sizeUseful": 61
-    },
-    "size": 61,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/604638/604638-housfy-20220720-GloKqRnDsj-420x280.jpg"
-    ],
-    "numberOfBedrooms": 2,
-    "numberOfBathrooms": 1,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "sale",
-    "isVisible": true,
-    "description": "Espléndido piso con terraza en l\u0027Eixample.\r\n\r\nSe vende piso en l\u0027Eixample, Barcelona, un espacio para disfrutar en tu día a día.\r\nEste estupendo piso fue construido en el 1945.\r\n\r\nDetalles del inmueble:\r\n\r\n- Encantador piso de 61 m2 en La Sagrada Família. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Contamos con todas las comodidades posibles de 2 habitaciones, una de ellas dobles y 1 baño.\r\n- Agradable salón-comedor perfecto para descansar tras una jornada de trabajo, creando un precioso y único espacio.\r\n- Con una efectiva cocina en muy buen estado y equipada con todo lo necesario.\r\n- Dispone de calefacción en todas las estancias, aire acondicionado, parte de la carpintería exterior es de aluminio, suelos de gres.\r\n- Exterior.\r\n- Terraza de 5 m²\r\n\r\nSobre la localización, se sitúa en Barcelona. Con fácil acceso y servicios que facilitarán y mejorarán tu día a día.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
-    "tags": [
-      23,
-      26,
-      31,
-      32
-    ],
-    "canScheduleVisits": false,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Eixample",
-    "neighborhoodLocationName": "La Sagrada Família",
-    "streetName": "Carrer del Rosselló",
-    "streetNumber": "470",
-    "floor": "EN",
-    "door": "01",
-    "floorDoorLabel": "",
-    "latitude": 41.40813446,
-    "longitude": 2.17742991,
-    "price": {
-      "amount": 26000000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 426229,
-      "currency": "EUR"
-    },
-    "priceChangePercentage": "-5.45",
-    "isNew": false,
-    "isPriceUpdated": false,
-    "isReserved": false,
-    "isSold": false
-  },
   "1a918439-3a64-43d0-9f82-c8673b042910": {
     "uuid": "1a918439-3a64-43d0-9f82-c8673b042910",
     "providerCode": "housfy",
@@ -562,6 +498,70 @@
       "currency": "EUR"
     },
     "priceChangePercentage": "-4",
+    "isNew": false,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
+  },
+  "40abba62-c93b-4d3a-9212-cc3415dee1de": {
+    "uuid": "40abba62-c93b-4d3a-9212-cc3415dee1de",
+    "providerCode": "housfy",
+    "providerPropertyId": 604638,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-del-rossello-604638",
+    "providerPropertyTitle": "Espléndido piso con terraza en l\u0027Eixample",
+    "publishedDate": "2022-07-21T08:17:30Z",
+    "relevance": 200,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1748,
+    "sizes": {
+      "size": 61,
+      "sizeBuiltWithoutCommonElements": 61,
+      "sizeBuilt": 61,
+      "sizeUseful": 61
+    },
+    "size": 61,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/604638/604638-housfy-20220720-GloKqRnDsj-420x280.jpg"
+    ],
+    "numberOfBedrooms": 2,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "Espléndido piso con terraza en l\u0027Eixample.\r\n\r\nSe vende piso en l\u0027Eixample, Barcelona, un espacio para disfrutar en tu día a día.\r\nEste estupendo piso fue construido en el 1945.\r\n\r\nDetalles del inmueble:\r\n\r\n- Encantador piso de 61 m2 en La Sagrada Família. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Contamos con todas las comodidades posibles de 2 habitaciones, una de ellas dobles y 1 baño.\r\n- Agradable salón-comedor perfecto para descansar tras una jornada de trabajo, creando un precioso y único espacio.\r\n- Con una efectiva cocina en muy buen estado y equipada con todo lo necesario.\r\n- Dispone de calefacción en todas las estancias, aire acondicionado, parte de la carpintería exterior es de aluminio, suelos de gres.\r\n- Exterior.\r\n- Terraza de 5 m²\r\n\r\nSobre la localización, se sitúa en Barcelona. Con fácil acceso y servicios que facilitarán y mejorarán tu día a día.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
+    "tags": [
+      23,
+      26,
+      31,
+      32
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Eixample",
+    "neighborhoodLocationName": "La Sagrada Família",
+    "streetName": "Carrer del Rosselló",
+    "streetNumber": "470",
+    "floor": "EN",
+    "door": "01",
+    "floorDoorLabel": "",
+    "latitude": 41.40813446,
+    "longitude": 2.17742991,
+    "price": {
+      "amount": 26000000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 426229,
+      "currency": "EUR"
+    },
+    "priceChangePercentage": "-5.45",
     "isNew": false,
     "isPriceUpdated": false,
     "isReserved": false,
