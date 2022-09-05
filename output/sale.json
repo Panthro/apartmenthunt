@@ -1,4 +1,65 @@
 {
+  "db479f52-815e-4410-a3e1-783d9bc99a52": {
+    "uuid": "db479f52-815e-4410-a3e1-783d9bc99a52",
+    "providerCode": "housfy",
+    "providerPropertyId": 627069,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/cl-provencals-270-627069",
+    "providerPropertyTitle": "Sensacional piso en Sant Martí",
+    "publishedDate": "2022-09-05T13:33:28Z",
+    "relevance": 1662384808,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1798,
+    "sizes": {
+      "size": 74,
+      "sizeBuiltWithoutCommonElements": 74,
+      "sizeBuilt": 74,
+      "sizeUseful": 74
+    },
+    "size": 74,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/627069/627069-housfy-20220905-g4bjs0jRFk-420x280.jpg"
+    ],
+    "numberOfBedrooms": 2,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "Sensacional piso en Barcelona.\r\n\r\n\r\nSe vende piso en Sant Martí, Barcelona, un espacio para disfrutar en tu día a día.\r\nConstruido en 1960 en Sant Martí de Provençals. Consta de 74m2 muy bien distribuidos.\r\n\r\nCaracterísticas:\r\n\r\n- Sus 74 m2 ofrecen un espacio moderno y de concepto abierto. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Reformado totalmente.\r\n- Esta vivienda cuenta con 2 habitaciones y 1 baño.\r\n- Cómodo salón con amplio espacio de luz natural, un lugar perfecto para descansar en los ratos libres.\r\n- Con una ventajosa cocina en perfecto estado y equipada con todo lo necesario.\r\n- Exterior.\r\n\r\nDescubre nuestro piso en exclusiva y cómodamente desde tu casa con el paseo virtual. Posibilidad de financiación al 100%. Pregúntanos sin compromiso.\r\n\r\nNota: Las imágenes del anuncio son renders que muestran cómo quedará la reforma completada. En el precio de venta no se incluye el mobiliario.\r\n\r\n\r\nNo pierdas la oportunidad y contacta con nosotros.",
+    "tags": [
+      23,
+      25
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Sant Martí",
+    "neighborhoodLocationName": "Sant Martí de Provençals",
+    "streetName": "CL PROVENÇALS, 270",
+    "streetNumber": "270",
+    "floor": "06",
+    "door": "02",
+    "floorDoorLabel": "",
+    "latitude": 41.41708374,
+    "longitude": 2.19619465,
+    "price": {
+      "amount": 28500000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 385135,
+      "currency": "EUR"
+    },
+    "isNew": true,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
+  },
   "11196a1a-b97d-405d-9b6d-f7ab1e625c4a": {
     "uuid": "11196a1a-b97d-405d-9b6d-f7ab1e625c4a",
     "providerCode": "housfy",
