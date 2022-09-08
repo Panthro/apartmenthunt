@@ -624,68 +624,6 @@
     "isReserved": false,
     "isSold": false
   },
-  "3aa7f1e2-6534-410a-ac44-16be8cc88b29": {
-    "uuid": "3aa7f1e2-6534-410a-ac44-16be8cc88b29",
-    "providerCode": "housfy",
-    "providerPropertyId": 611454,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-valencia-611454",
-    "providerPropertyTitle": "Perfecto piso céntrico con balcón en Eixample",
-    "publishedDate": "2022-07-26T09:36:36Z",
-    "relevance": 200,
-    "typeId": 2,
-    "typeCode": "piso",
-    "locationId": 1748,
-    "sizes": {
-      "size": 60,
-      "sizeBuiltWithoutCommonElements": 60,
-      "sizeBuilt": 63,
-      "sizeUseful": 60
-    },
-    "size": 60,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/611454/611454-housfy-20220726-kIJ6cGbfwY-420x280.jpg"
-    ],
-    "numberOfBedrooms": 2,
-    "numberOfBathrooms": 1,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "sale",
-    "isVisible": true,
-    "description": "Perfecto piso céntrico con balcón en Eixample\r\n\r\nHousfy, de particular a particular.\r\n\r\nSe vende piso directamente del propietario en Eixample, Barcelona, un espacio para disfrutar en tu día a día.\r\nEste piso fue construido en el año 1940 en Eixample. \r\n\r\nCaracterísticas:\r\n\r\n- Con una distribución ideal para aprovechar al máximo sus 60 m2 útiles, segundo de altura real .(Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Vivienda con reforma integral en 2002, con instalación eléctrica y bajantes actualizados según normativa vigente. \r\n- En este piso encontraremos 2 habitaciones, una doble muy amplia y una individual.\r\n- Un baño completo con salida a galería, muy bien acomodadas.\r\n- Agradable salón con amplio espacio de luz natural, creando un precioso y único espacio.\r\n- Con una práctica cocina en buen estado.\r\n- Balcón con acceso desde el comedor.\r\n- Calefacción por radiadores en todas las estancias. \r\n- Aire acondicionado en salón. \r\n- Carpintería de aluminio Climalit doble cristal. \r\n- Suelo de parquet. \r\n- Iluminación LED.\r\n- Azoteo de uso y disfruto de los vecinos, con vistas a la Sagrada Familia. \r\n\r\nLa situación de este piso está localizado en Barcelona (Barcelona)\r\nCon fácil acceso y servicios que facilitarán y mejorarán tu día a día.\r\n\r\nSobre nosotros:\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
-    "tags": [
-      23,
-      26,
-      31
-    ],
-    "canScheduleVisits": false,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Eixample",
-    "neighborhoodLocationName": "La Sagrada Família",
-    "streetName": "Carrer de València",
-    "streetNumber": "412",
-    "floor": "01",
-    "door": "01",
-    "floorDoorLabel": "",
-    "latitude": 41.40143204,
-    "longitude": 2.17528224,
-    "price": {
-      "amount": 30000000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 500000,
-      "currency": "EUR"
-    },
-    "isNew": false,
-    "isPriceUpdated": false,
-    "isReserved": false,
-    "isSold": false
-  },
   "98cda9cd-63bf-4ed0-b43d-f386d37a2fa0": {
     "uuid": "98cda9cd-63bf-4ed0-b43d-f386d37a2fa0",
     "providerCode": "housfy",
@@ -809,6 +747,68 @@
       "currency": "EUR"
     },
     "priceChangePercentage": "-5.45",
+    "isNew": false,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
+  },
+  "3aa7f1e2-6534-410a-ac44-16be8cc88b29": {
+    "uuid": "3aa7f1e2-6534-410a-ac44-16be8cc88b29",
+    "providerCode": "housfy",
+    "providerPropertyId": 611454,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-valencia-611454",
+    "providerPropertyTitle": "Perfecto piso céntrico con balcón en Eixample",
+    "publishedDate": "2022-07-26T09:36:36Z",
+    "relevance": 200,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1748,
+    "sizes": {
+      "size": 60,
+      "sizeBuiltWithoutCommonElements": 60,
+      "sizeBuilt": 63,
+      "sizeUseful": 60
+    },
+    "size": 60,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/611454/611454-housfy-20220726-kIJ6cGbfwY-420x280.jpg"
+    ],
+    "numberOfBedrooms": 2,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "Perfecto piso céntrico con balcón en Eixample\r\n\r\nHousfy, de particular a particular.\r\n\r\nSe vende piso directamente del propietario en Eixample, Barcelona, un espacio para disfrutar en tu día a día.\r\nEste piso fue construido en el año 1940 en Eixample. \r\n\r\nCaracterísticas:\r\n\r\n- Con una distribución ideal para aprovechar al máximo sus 60 m2 útiles, segundo de altura real .(Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Vivienda con reforma integral en 2002, con instalación eléctrica y bajantes actualizados según normativa vigente. \r\n- En este piso encontraremos 2 habitaciones, una doble muy amplia y una individual.\r\n- Un baño completo con salida a galería, muy bien acomodadas.\r\n- Agradable salón con amplio espacio de luz natural, creando un precioso y único espacio.\r\n- Con una práctica cocina en buen estado.\r\n- Balcón con acceso desde el comedor.\r\n- Calefacción por radiadores en todas las estancias. \r\n- Aire acondicionado en salón. \r\n- Carpintería de aluminio Climalit doble cristal. \r\n- Suelo de parquet. \r\n- Iluminación LED.\r\n- Azoteo de uso y disfruto de los vecinos, con vistas a la Sagrada Familia. \r\n\r\nLa situación de este piso está localizado en Barcelona (Barcelona)\r\nCon fácil acceso y servicios que facilitarán y mejorarán tu día a día.\r\n\r\nSobre nosotros:\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
+    "tags": [
+      23,
+      26,
+      31
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Eixample",
+    "neighborhoodLocationName": "La Sagrada Família",
+    "streetName": "Carrer de València",
+    "streetNumber": "412",
+    "floor": "01",
+    "door": "01",
+    "floorDoorLabel": "",
+    "latitude": 41.40143204,
+    "longitude": 2.17528224,
+    "price": {
+      "amount": 30000000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 500000,
+      "currency": "EUR"
+    },
     "isNew": false,
     "isPriceUpdated": false,
     "isReserved": false,
