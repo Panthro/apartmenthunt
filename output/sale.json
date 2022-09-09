@@ -309,6 +309,68 @@
     "isReserved": false,
     "isSold": false
   },
+  "9205c943-0566-45df-9f32-e01b23aa0480": {
+    "uuid": "9205c943-0566-45df-9f32-e01b23aa0480",
+    "providerCode": "housfy",
+    "providerPropertyId": 542672,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/calle-concili-de-trento-542672",
+    "providerPropertyTitle": "Sensacional piso con ascensor en Sant Martí",
+    "publishedDate": "2022-02-25T12:41:00Z",
+    "relevance": 400,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1798,
+    "sizes": {
+      "size": 68,
+      "sizeBuiltWithoutCommonElements": 68,
+      "sizeBuilt": 56,
+      "sizeUseful": 56
+    },
+    "size": 68,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/542672/542672-housfy-20220225-eOS9BCg0m8-420x280.jpg"
+    ],
+    "numberOfBedrooms": 3,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "Sensacional piso con ascensor en Sant Martí.\r\n\r\nCompraventa entre particulares con Housfy.\r\n\r\nInversión en Activos Bancarios vende piso de particular a particular en Sant Martí, Barcelona, una vivienda luminosa y ubicada en un entorno idóneo para disfrutarlo.\r\nEl fabuloso piso fue construido en el año 1964. El maravilloso piso está formado por 56 m2 construidos.\r\n\r\nCaracterísticas:\r\n\r\n- Fantástico piso de 56 m2 en Sant Martí de Provençals. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- En el piso encontraremos 3 habitaciones y 1 baño, perfecto para una familia.\r\n- Acogedor comedor perfecto para descansar tras una jornada de trabajo, un lugar perfecto para descansar en los ratos libres.\r\n- Con una conveniente cocina en buen estado y equipada con todo lo necesario.\r\n- Ascensor.\r\n- Exterior.\r\n\r\nSobre la situación de este piso está localizado en Barcelona. Con fácil acceso y servicios que facilitarán y mejorarán tu día a día.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
+    "tags": [
+      23,
+      26
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Sant Martí",
+    "neighborhoodLocationName": "Sant Martí de Provençals",
+    "streetName": "Calle Concili de Trento",
+    "streetNumber": "142",
+    "floor": "4",
+    "door": "3",
+    "floorDoorLabel": "",
+    "latitude": 41.41558075,
+    "longitude": 2.19807911,
+    "price": {
+      "amount": 21500000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 316176,
+      "currency": "EUR"
+    },
+    "priceChangePercentage": "-1.83",
+    "isNew": false,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
+  },
   "e57bd0b9-c398-4c17-9122-a91a353ad9b9": {
     "uuid": "e57bd0b9-c398-4c17-9122-a91a353ad9b9",
     "providerCode": "housfy",
@@ -368,68 +430,6 @@
       "currency": "EUR"
     },
     "priceChangePercentage": "-4.44",
-    "isNew": false,
-    "isPriceUpdated": false,
-    "isReserved": false,
-    "isSold": false
-  },
-  "9205c943-0566-45df-9f32-e01b23aa0480": {
-    "uuid": "9205c943-0566-45df-9f32-e01b23aa0480",
-    "providerCode": "housfy",
-    "providerPropertyId": 542672,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/calle-concili-de-trento-542672",
-    "providerPropertyTitle": "Sensacional piso con ascensor en Sant Martí",
-    "publishedDate": "2022-02-25T12:41:00Z",
-    "relevance": 400,
-    "typeId": 2,
-    "typeCode": "piso",
-    "locationId": 1798,
-    "sizes": {
-      "size": 68,
-      "sizeBuiltWithoutCommonElements": 68,
-      "sizeBuilt": 56,
-      "sizeUseful": 56
-    },
-    "size": 68,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/542672/542672-housfy-20220225-eOS9BCg0m8-420x280.jpg"
-    ],
-    "numberOfBedrooms": 3,
-    "numberOfBathrooms": 1,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "sale",
-    "isVisible": true,
-    "description": "Sensacional piso con ascensor en Sant Martí.\r\n\r\nCompraventa entre particulares con Housfy.\r\n\r\nInversión en Activos Bancarios vende piso de particular a particular en Sant Martí, Barcelona, una vivienda luminosa y ubicada en un entorno idóneo para disfrutarlo.\r\nEl fabuloso piso fue construido en el año 1964. El maravilloso piso está formado por 56 m2 construidos.\r\n\r\nCaracterísticas:\r\n\r\n- Fantástico piso de 56 m2 en Sant Martí de Provençals. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- En el piso encontraremos 3 habitaciones y 1 baño, perfecto para una familia.\r\n- Acogedor comedor perfecto para descansar tras una jornada de trabajo, un lugar perfecto para descansar en los ratos libres.\r\n- Con una conveniente cocina en buen estado y equipada con todo lo necesario.\r\n- Ascensor.\r\n- Exterior.\r\n\r\nSobre la situación de este piso está localizado en Barcelona. Con fácil acceso y servicios que facilitarán y mejorarán tu día a día.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
-    "tags": [
-      23,
-      26
-    ],
-    "canScheduleVisits": false,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Sant Martí",
-    "neighborhoodLocationName": "Sant Martí de Provençals",
-    "streetName": "Calle Concili de Trento",
-    "streetNumber": "142",
-    "floor": "4",
-    "door": "3",
-    "floorDoorLabel": "",
-    "latitude": 41.41558075,
-    "longitude": 2.19807911,
-    "price": {
-      "amount": 21500000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 316176,
-      "currency": "EUR"
-    },
-    "priceChangePercentage": "-1.83",
     "isNew": false,
     "isPriceUpdated": false,
     "isReserved": false,
@@ -624,68 +624,6 @@
     "isReserved": false,
     "isSold": false
   },
-  "3aa7f1e2-6534-410a-ac44-16be8cc88b29": {
-    "uuid": "3aa7f1e2-6534-410a-ac44-16be8cc88b29",
-    "providerCode": "housfy",
-    "providerPropertyId": 611454,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-valencia-611454",
-    "providerPropertyTitle": "Perfecto piso céntrico con balcón en Eixample",
-    "publishedDate": "2022-07-26T09:36:36Z",
-    "relevance": 200,
-    "typeId": 2,
-    "typeCode": "piso",
-    "locationId": 1748,
-    "sizes": {
-      "size": 60,
-      "sizeBuiltWithoutCommonElements": 60,
-      "sizeBuilt": 63,
-      "sizeUseful": 60
-    },
-    "size": 60,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/611454/611454-housfy-20220726-kIJ6cGbfwY-420x280.jpg"
-    ],
-    "numberOfBedrooms": 2,
-    "numberOfBathrooms": 1,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "sale",
-    "isVisible": true,
-    "description": "Perfecto piso céntrico con balcón en Eixample\r\n\r\nHousfy, de particular a particular.\r\n\r\nSe vende piso directamente del propietario en Eixample, Barcelona, un espacio para disfrutar en tu día a día.\r\nEste piso fue construido en el año 1940 en Eixample. \r\n\r\nCaracterísticas:\r\n\r\n- Con una distribución ideal para aprovechar al máximo sus 60 m2 útiles, segundo de altura real .(Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Vivienda con reforma integral en 2002, con instalación eléctrica y bajantes actualizados según normativa vigente. \r\n- En este piso encontraremos 2 habitaciones, una doble muy amplia y una individual.\r\n- Un baño completo con salida a galería, muy bien acomodadas.\r\n- Agradable salón con amplio espacio de luz natural, creando un precioso y único espacio.\r\n- Con una práctica cocina en buen estado.\r\n- Balcón con acceso desde el comedor.\r\n- Calefacción por radiadores en todas las estancias. \r\n- Aire acondicionado en salón. \r\n- Carpintería de aluminio Climalit doble cristal. \r\n- Suelo de parquet. \r\n- Iluminación LED.\r\n- Azoteo de uso y disfruto de los vecinos, con vistas a la Sagrada Familia. \r\n\r\nLa situación de este piso está localizado en Barcelona (Barcelona)\r\nCon fácil acceso y servicios que facilitarán y mejorarán tu día a día.\r\n\r\nSobre nosotros:\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
-    "tags": [
-      23,
-      26,
-      31
-    ],
-    "canScheduleVisits": false,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Eixample",
-    "neighborhoodLocationName": "La Sagrada Família",
-    "streetName": "Carrer de València",
-    "streetNumber": "412",
-    "floor": "01",
-    "door": "01",
-    "floorDoorLabel": "",
-    "latitude": 41.40143204,
-    "longitude": 2.17528224,
-    "price": {
-      "amount": 30000000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 500000,
-      "currency": "EUR"
-    },
-    "isNew": false,
-    "isPriceUpdated": false,
-    "isReserved": false,
-    "isSold": false
-  },
   "40abba62-c93b-4d3a-9212-cc3415dee1de": {
     "uuid": "40abba62-c93b-4d3a-9212-cc3415dee1de",
     "providerCode": "housfy",
@@ -809,6 +747,68 @@
       "currency": "EUR"
     },
     "priceChangePercentage": "-4",
+    "isNew": false,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
+  },
+  "3aa7f1e2-6534-410a-ac44-16be8cc88b29": {
+    "uuid": "3aa7f1e2-6534-410a-ac44-16be8cc88b29",
+    "providerCode": "housfy",
+    "providerPropertyId": 611454,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-valencia-611454",
+    "providerPropertyTitle": "Perfecto piso céntrico con balcón en Eixample",
+    "publishedDate": "2022-07-26T09:36:36Z",
+    "relevance": 200,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1748,
+    "sizes": {
+      "size": 60,
+      "sizeBuiltWithoutCommonElements": 60,
+      "sizeBuilt": 63,
+      "sizeUseful": 60
+    },
+    "size": 60,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/611454/611454-housfy-20220726-kIJ6cGbfwY-420x280.jpg"
+    ],
+    "numberOfBedrooms": 2,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "Perfecto piso céntrico con balcón en Eixample\r\n\r\nHousfy, de particular a particular.\r\n\r\nSe vende piso directamente del propietario en Eixample, Barcelona, un espacio para disfrutar en tu día a día.\r\nEste piso fue construido en el año 1940 en Eixample. \r\n\r\nCaracterísticas:\r\n\r\n- Con una distribución ideal para aprovechar al máximo sus 60 m2 útiles, segundo de altura real .(Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Vivienda con reforma integral en 2002, con instalación eléctrica y bajantes actualizados según normativa vigente. \r\n- En este piso encontraremos 2 habitaciones, una doble muy amplia y una individual.\r\n- Un baño completo con salida a galería, muy bien acomodadas.\r\n- Agradable salón con amplio espacio de luz natural, creando un precioso y único espacio.\r\n- Con una práctica cocina en buen estado.\r\n- Balcón con acceso desde el comedor.\r\n- Calefacción por radiadores en todas las estancias. \r\n- Aire acondicionado en salón. \r\n- Carpintería de aluminio Climalit doble cristal. \r\n- Suelo de parquet. \r\n- Iluminación LED.\r\n- Azoteo de uso y disfruto de los vecinos, con vistas a la Sagrada Familia. \r\n\r\nLa situación de este piso está localizado en Barcelona (Barcelona)\r\nCon fácil acceso y servicios que facilitarán y mejorarán tu día a día.\r\n\r\nSobre nosotros:\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
+    "tags": [
+      23,
+      26,
+      31
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Eixample",
+    "neighborhoodLocationName": "La Sagrada Família",
+    "streetName": "Carrer de València",
+    "streetNumber": "412",
+    "floor": "01",
+    "door": "01",
+    "floorDoorLabel": "",
+    "latitude": 41.40143204,
+    "longitude": 2.17528224,
+    "price": {
+      "amount": 30000000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 500000,
+      "currency": "EUR"
+    },
     "isNew": false,
     "isPriceUpdated": false,
     "isReserved": false,
