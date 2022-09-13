@@ -4,19 +4,19 @@
     "providerCode": "housfy",
     "providerPropertyId": 627669,
     "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/cl-corsega-627669",
-    "providerPropertyTitle": "Fabuloso piso en l\u0027Eixample",
+    "providerPropertyTitle": "Fabuloso piso reformado",
     "publishedDate": "2022-09-08T07:37:32Z",
     "relevance": 1662622652,
     "typeId": 2,
     "typeCode": "piso",
     "locationId": 1748,
     "sizes": {
-      "size": 64,
-      "sizeBuiltWithoutCommonElements": 64,
+      "size": 58,
+      "sizeBuiltWithoutCommonElements": 58,
       "sizeBuilt": 64,
       "sizeUseful": 64
     },
-    "size": 64,
+    "size": 58,
     "photos": [
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/627669/627669-housfy-20220907-VgjijkrXuP-420x280.jpg"
     ],
@@ -30,7 +30,7 @@
     },
     "operationTypeCode": "sale",
     "isVisible": true,
-    "description": "Fabuloso piso en l\u0027Eixample de Barcelona.\r\n\r\nSe vende piso de particular a particular en l\u0027Eixample, Barcelona, perfecto para familias o parejas que busquen un lugar cómodo para su día a día.\r\nEste piso fue construido en el año 1949 en La Sagrada Familia. Consta de 64 m2 muy bien distribuidos.\r\n\r\nDetalles del inmueble:\r\n\r\n- Fantástico piso de 64 m2. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- La vivienda dispone de 2 habitaciones y 1 baño.\r\n- Confortable comedor que te proporcionará el relax diario, un lugar perfecto para descansar en los ratos libres.\r\n- Con una adecuada cocina en perfecto estado.\r\n- Exterior.\r\n\r\nDescubre nuestro piso en exclusiva y cómodamente desde tu casa con el paseo virtual. Posibilidad de financiación al 100%. Pregúntanos sin compromiso.\r\n\r\nNota: Las imágenes del anuncio son renders que muestran cómo quedará la reforma completada. En el precio de venta no se incluye el mobiliario.",
+    "description": "Fabuloso piso reformado en l\u0027Eixample de Barcelona.\r\n\r\nOportunidad de adquirir vivienda totalmente reformada a estrenar en l\u0027Eixample, Barcelona, perfecto para familias o parejas que busquen un hogar sin necesidad de realizar ningún tipo de reforma.\r\nEste situado en el prestigioso barrio de La Sagrada Familia. Consta de 58 m2 muy bien distribuidos.\r\n\r\nDetalles del inmueble:\r\n\r\n- Fantástico y luminoso piso de 58 metros situado en una bonita finca\r\n- La vivienda dispone de 2 habitaciones y 1 baño,\r\n- Totalmente reformado y a estrenar\r\n\r\nDescubre nuestro piso en exclusiva y cómodamente desde tu casa con el paseo virtual. Posibilidad de financiación al 100%. Pregúntanos sin compromiso.\r\n\r\nNota: Las imágenes del anuncio son renders que muestran cómo quedará la reforma completada. En el precio de venta no se incluye el mobiliario.",
     "tags": [
       23,
       25
@@ -52,7 +52,7 @@
       "currency": "EUR"
     },
     "priceSize": {
-      "amount": 437500,
+      "amount": 482758,
       "currency": "EUR"
     },
     "isNew": true,
