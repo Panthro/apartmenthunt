@@ -181,7 +181,7 @@
     },
     "priceChangePercentage": "6.04",
     "isNew": false,
-    "isPriceUpdated": true,
+    "isPriceUpdated": false,
     "isReserved": false,
     "isSold": false
   },
