@@ -1,4 +1,65 @@
 {
+  "87415a30-9b84-4c2a-9dd4-f420e6fda6a7": {
+    "uuid": "87415a30-9b84-4c2a-9dd4-f420e6fda6a7",
+    "providerCode": "housfy",
+    "providerPropertyId": 630465,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-cartagena-630465",
+    "providerPropertyTitle": "Fabuloso piso con balcón en l\u0027Eixample",
+    "publishedDate": "2022-09-23T07:39:55Z",
+    "relevance": 1663918795,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1748,
+    "sizes": {
+      "size": 55,
+      "sizeBuiltWithoutCommonElements": 55,
+      "sizeBuilt": 55,
+      "sizeUseful": 55
+    },
+    "size": 55,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/630465/630465-housfy-20220922-tU5jHeh9Ju-420x280.jpg"
+    ],
+    "numberOfBedrooms": 1,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "Fabuloso piso con balcón en l\u0027Eixample.\r\n\r\nDe particular a particular con Housfy.\r\n\r\nSe vende piso directamente del propietario en Eixample, Barcelona, una vivienda luminosa y ubicada en un entorno idóneo para disfrutarlo.\r\nConstruido en 1920.\r\n\r\nCaracterísticas:\r\n\r\n- Acogedor piso de 55 m2 en La Sagrada Família. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Se trata de un piso con espacio abierto, cocina integrada en el salón comedor.\r\n- Esta vivienda cuenta con 1 habitaciones y 1 baño.\r\n- Funcional comedor que te proporcionará el relax diario, donde disfrutar de tu familia. Muy luminoso, orientado al noreste y al sur, y ofrece un ambiente cálido y elegante.\r\n- Las paredes del salón por una parte muestran ladrillo a la vista, y por la otra muestran parcialmente la pintura original de la pared.\r\n- Techos altos con bóveda catalana.\r\n- Además dispone de armario empotrado.\r\n- Con una funcional cocina abierta en muy buen estado y equipada con lo necesario para el día a día.\r\n- El confort está garantizado ya que dispone de aire acondicionado.\r\n- Radiadores eléctricos. \r\n- Exterior.\r\n- Balcón.\r\n\r\nSobre la situación de este piso se sitúa en Barcelona.\r\nCon todos los servicios que puedas necesitar para facilitar tus días en todo momento.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
+    "tags": [
+      23,
+      26
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Eixample",
+    "neighborhoodLocationName": "La Sagrada Família",
+    "streetName": "Carrer de Cartagena",
+    "streetNumber": "215",
+    "floor": "02",
+    "door": "02",
+    "floorDoorLabel": "",
+    "latitude": 41.40620041,
+    "longitude": 2.18052053,
+    "price": {
+      "amount": 24500000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 445454,
+      "currency": "EUR"
+    },
+    "isNew": true,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
+  },
   "f3796fe9-033f-4d95-b46f-0a572afe350c": {
     "uuid": "f3796fe9-033f-4d95-b46f-0a572afe350c",
     "providerCode": "housfy",
@@ -56,7 +117,7 @@
       "amount": 376623,
       "currency": "EUR"
     },
-    "isNew": true,
+    "isNew": false,
     "isPriceUpdated": false,
     "isReserved": false,
     "isSold": false
