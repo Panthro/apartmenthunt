@@ -437,6 +437,68 @@
     "isReserved": false,
     "isSold": false
   },
+  "1a918439-3a64-43d0-9f82-c8673b042910": {
+    "uuid": "1a918439-3a64-43d0-9f82-c8673b042910",
+    "providerCode": "housfy",
+    "providerPropertyId": 615942,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-la-llacuna-615942",
+    "providerPropertyTitle": "Maravilloso piso en Sant Martí",
+    "publishedDate": "2022-07-21T07:40:23Z",
+    "relevance": 300,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1792,
+    "sizes": {
+      "size": 78,
+      "sizeBuiltWithoutCommonElements": 78,
+      "sizeBuilt": 78,
+      "sizeUseful": 78
+    },
+    "size": 78,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/615942/615942-housfy-20220721-9Zt8WlWsFK-420x280.jpg"
+    ],
+    "numberOfBedrooms": 3,
+    "numberOfBathrooms": 2,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "Maravilloso piso en Sant Martí.\r\n\r\nCompraventa entre particulares con Housfy.\r\n\r\nSe vende piso de particular a particular en Sant Martí, Barcelona, perfecto para familias o parejas que busquen un lugar cómodo para su día a día.\r\nEste piso fue construido en el año 1982 en Barcelona.\r\n\r\nDetalles del inmueble:\r\n\r\n- Sus 78 m2 están perfectamente distribuidos, creando un amplio y abierto espacio con mucha luz y con un diseño muy especial. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Contamos con todas las comodidades posibles de 3 habitaciones y 2 baños, perfecto para una familia.\r\n- Práctico salón-comedor que te proporcionará el relax diario, creando un precioso y único espacio.\r\n- Con una utilitaria cocina en buen estado y equipada con todo lo necesario.\r\n- Exterior.\r\n\r\nRespecto a la ubicación, se sitúa en Barcelona. Con fácil acceso y servicios que facilitarán y mejorarán tu día a día.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
+    "tags": [
+      23,
+      26,
+      31
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Sant Martí",
+    "neighborhoodLocationName": "El Clot",
+    "streetName": "Carrer de la Llacuna",
+    "streetNumber": "165 (ESC. A)",
+    "floor": "01",
+    "door": "03",
+    "floorDoorLabel": "",
+    "latitude": 41.40705872,
+    "longitude": 2.19070792,
+    "price": {
+      "amount": 27500000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 352564,
+      "currency": "EUR"
+    },
+    "isNew": false,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
+  },
   "dcd7e1f2-ec52-484e-983c-a67276970db4": {
     "uuid": "dcd7e1f2-ec52-484e-983c-a67276970db4",
     "providerCode": "housfy",
@@ -496,68 +558,6 @@
       "currency": "EUR"
     },
     "priceChangePercentage": "-2.55",
-    "isNew": false,
-    "isPriceUpdated": false,
-    "isReserved": false,
-    "isSold": false
-  },
-  "1a918439-3a64-43d0-9f82-c8673b042910": {
-    "uuid": "1a918439-3a64-43d0-9f82-c8673b042910",
-    "providerCode": "housfy",
-    "providerPropertyId": 615942,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-la-llacuna-615942",
-    "providerPropertyTitle": "Maravilloso piso en Sant Martí",
-    "publishedDate": "2022-07-21T07:40:23Z",
-    "relevance": 300,
-    "typeId": 2,
-    "typeCode": "piso",
-    "locationId": 1792,
-    "sizes": {
-      "size": 78,
-      "sizeBuiltWithoutCommonElements": 78,
-      "sizeBuilt": 78,
-      "sizeUseful": 78
-    },
-    "size": 78,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/615942/615942-housfy-20220721-9Zt8WlWsFK-420x280.jpg"
-    ],
-    "numberOfBedrooms": 3,
-    "numberOfBathrooms": 2,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "sale",
-    "isVisible": true,
-    "description": "Maravilloso piso en Sant Martí.\r\n\r\nCompraventa entre particulares con Housfy.\r\n\r\nSe vende piso de particular a particular en Sant Martí, Barcelona, perfecto para familias o parejas que busquen un lugar cómodo para su día a día.\r\nEste piso fue construido en el año 1982 en Barcelona.\r\n\r\nDetalles del inmueble:\r\n\r\n- Sus 78 m2 están perfectamente distribuidos, creando un amplio y abierto espacio con mucha luz y con un diseño muy especial. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Contamos con todas las comodidades posibles de 3 habitaciones y 2 baños, perfecto para una familia.\r\n- Práctico salón-comedor que te proporcionará el relax diario, creando un precioso y único espacio.\r\n- Con una utilitaria cocina en buen estado y equipada con todo lo necesario.\r\n- Exterior.\r\n\r\nRespecto a la ubicación, se sitúa en Barcelona. Con fácil acceso y servicios que facilitarán y mejorarán tu día a día.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
-    "tags": [
-      23,
-      26,
-      31
-    ],
-    "canScheduleVisits": false,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Sant Martí",
-    "neighborhoodLocationName": "El Clot",
-    "streetName": "Carrer de la Llacuna",
-    "streetNumber": "165 (ESC. A)",
-    "floor": "01",
-    "door": "03",
-    "floorDoorLabel": "",
-    "latitude": 41.40705872,
-    "longitude": 2.19070792,
-    "price": {
-      "amount": 27500000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 352564,
-      "currency": "EUR"
-    },
     "isNew": false,
     "isPriceUpdated": false,
     "isReserved": false,
