@@ -1,68 +1,4 @@
 {
-  "10b94919-fa82-4643-b050-0e3412a6ead5": {
-    "uuid": "10b94919-fa82-4643-b050-0e3412a6ead5",
-    "providerCode": "housfy",
-    "providerPropertyId": 622798,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/gran-via-de-les-corts-catalanes-622798",
-    "providerPropertyTitle": "Fabuloso piso con terraza en Sant Martí",
-    "publishedDate": "2022-09-29T08:11:24Z",
-    "relevance": 1664553117,
-    "typeId": 2,
-    "typeCode": "piso",
-    "locationId": 1792,
-    "sizes": {
-      "size": 65,
-      "sizeBuiltWithoutCommonElements": 65,
-      "sizeBuilt": 65,
-      "sizeUseful": 65
-    },
-    "size": 65,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/622798/622798-housfy-20220928-JCkiWbg0qN-420x280.jpg"
-    ],
-    "numberOfBedrooms": 3,
-    "numberOfBathrooms": 1,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "sale",
-    "isVisible": true,
-    "description": "Fabuloso piso con terraza en Sant Martí\r\n\r\nHousfy: la agencia inmobiliaria online.\r\n\r\nSe vende piso de particular a particular en Sant Martí, Barcelona, un espacio para disfrutar en tu día a día.\r\nEste piso fue construido en el año 1973. \r\n\r\nDetalles del inmueble:\r\n\r\n- Consta de 65 m2. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- La vivienda dispone de 3 habitaciones y 1 baño, perfecto para una familia.\r\n- Acogedor salón-comedor que es un lugar perfecto para descansar tras una jornada de trabajo, siendo además, un espacio agradable estupendo para visitas de amigos y familiares.\r\n- Con una útil cocina en buen estado.\r\n- Balcón.\r\n- Exterior.\r\n\r\nLa localización de este piso está localizado en Barcelona. \r\nCon todos los servicios que puedas necesitar para facilitar tus días en todo momento.\r\n\r\nSobre nosotros:\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
-    "tags": [
-      23,
-      26,
-      31,
-      33
-    ],
-    "canScheduleVisits": false,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Sant Martí",
-    "neighborhoodLocationName": "El Clot",
-    "streetName": "Gran Via de les Corts Catalanes",
-    "streetNumber": "851",
-    "floor": "08",
-    "door": "04 Esc. A",
-    "floorDoorLabel": "",
-    "latitude": 41.40639114,
-    "longitude": 2.19025993,
-    "price": {
-      "amount": 26500000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 407692,
-      "currency": "EUR"
-    },
-    "priceChangePercentage": "-5.36",
-    "isNew": true,
-    "isPriceUpdated": true,
-    "isReserved": false,
-    "isSold": false
-  },
   "3aa7f1e2-6534-410a-ac44-16be8cc88b29": {
     "uuid": "3aa7f1e2-6534-410a-ac44-16be8cc88b29",
     "providerCode": "housfy",
@@ -627,67 +563,6 @@
     "isReserved": false,
     "isSold": false
   },
-  "d8db88d8-ed70-470b-99e2-c8430a0416bc": {
-    "uuid": "d8db88d8-ed70-470b-99e2-c8430a0416bc",
-    "providerCode": "housfy",
-    "providerPropertyId": 627669,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/cl-corsega-627669",
-    "providerPropertyTitle": "Fabuloso piso reformado",
-    "publishedDate": "2022-09-08T07:37:32Z",
-    "relevance": 200,
-    "typeId": 2,
-    "typeCode": "piso",
-    "locationId": 1748,
-    "sizes": {
-      "size": 58,
-      "sizeBuiltWithoutCommonElements": 58,
-      "sizeBuilt": 64,
-      "sizeUseful": 64
-    },
-    "size": 58,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/627669/627669-housfy-20220907-VgjijkrXuP-420x280.jpg"
-    ],
-    "numberOfBedrooms": 2,
-    "numberOfBathrooms": 1,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "sale",
-    "isVisible": true,
-    "description": "Fabuloso piso reformado en l\u0027Eixample de Barcelona.\r\n\r\nOportunidad de adquirir vivienda totalmente reformada a estrenar en l\u0027Eixample, Barcelona, perfecto para familias o parejas que busquen un hogar sin necesidad de realizar ningún tipo de reforma.\r\nEste situado en el prestigioso barrio de La Sagrada Familia. Consta de 58 m2 muy bien distribuidos.\r\n\r\nDetalles del inmueble:\r\n\r\n- Fantástico y luminoso piso de 58 metros situado en una bonita finca\r\n- La vivienda dispone de 2 habitaciones y 1 baño,\r\n- Totalmente reformado y a estrenar\r\n\r\nDescubre nuestro piso en exclusiva y cómodamente desde tu casa con el paseo virtual. Posibilidad de financiación al 100%. Pregúntanos sin compromiso.\r\n\r\nNota: Las imágenes del anuncio son renders que muestran cómo quedará la reforma completada. En el precio de venta no se incluye el mobiliario.",
-    "tags": [
-      23,
-      25
-    ],
-    "canScheduleVisits": false,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Eixample",
-    "neighborhoodLocationName": "La Sagrada Família",
-    "streetName": "CL CORSEGA",
-    "streetNumber": "604",
-    "floor": "02",
-    "door": "01",
-    "floorDoorLabel": "",
-    "latitude": 41.40904999,
-    "longitude": 2.1763401,
-    "price": {
-      "amount": 28000000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 482758,
-      "currency": "EUR"
-    },
-    "isNew": false,
-    "isPriceUpdated": false,
-    "isReserved": false,
-    "isSold": false
-  },
   "f3796fe9-033f-4d95-b46f-0a572afe350c": {
     "uuid": "f3796fe9-033f-4d95-b46f-0a572afe350c",
     "providerCode": "housfy",
@@ -743,6 +618,67 @@
     },
     "priceSize": {
       "amount": 376623,
+      "currency": "EUR"
+    },
+    "isNew": false,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
+  },
+  "d8db88d8-ed70-470b-99e2-c8430a0416bc": {
+    "uuid": "d8db88d8-ed70-470b-99e2-c8430a0416bc",
+    "providerCode": "housfy",
+    "providerPropertyId": 627669,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/cl-corsega-627669",
+    "providerPropertyTitle": "Fabuloso piso reformado",
+    "publishedDate": "2022-09-08T07:37:32Z",
+    "relevance": 200,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1748,
+    "sizes": {
+      "size": 58,
+      "sizeBuiltWithoutCommonElements": 58,
+      "sizeBuilt": 64,
+      "sizeUseful": 64
+    },
+    "size": 58,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/627669/627669-housfy-20220907-VgjijkrXuP-420x280.jpg"
+    ],
+    "numberOfBedrooms": 2,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "Fabuloso piso reformado en l\u0027Eixample de Barcelona.\r\n\r\nOportunidad de adquirir vivienda totalmente reformada a estrenar en l\u0027Eixample, Barcelona, perfecto para familias o parejas que busquen un hogar sin necesidad de realizar ningún tipo de reforma.\r\nEste situado en el prestigioso barrio de La Sagrada Familia. Consta de 58 m2 muy bien distribuidos.\r\n\r\nDetalles del inmueble:\r\n\r\n- Fantástico y luminoso piso de 58 metros situado en una bonita finca\r\n- La vivienda dispone de 2 habitaciones y 1 baño,\r\n- Totalmente reformado y a estrenar\r\n\r\nDescubre nuestro piso en exclusiva y cómodamente desde tu casa con el paseo virtual. Posibilidad de financiación al 100%. Pregúntanos sin compromiso.\r\n\r\nNota: Las imágenes del anuncio son renders que muestran cómo quedará la reforma completada. En el precio de venta no se incluye el mobiliario.",
+    "tags": [
+      23,
+      25
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Eixample",
+    "neighborhoodLocationName": "La Sagrada Família",
+    "streetName": "CL CORSEGA",
+    "streetNumber": "604",
+    "floor": "02",
+    "door": "01",
+    "floorDoorLabel": "",
+    "latitude": 41.40904999,
+    "longitude": 2.1763401,
+    "price": {
+      "amount": 28000000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 482758,
       "currency": "EUR"
     },
     "isNew": false,
