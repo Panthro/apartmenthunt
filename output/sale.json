@@ -437,29 +437,29 @@
     "isReserved": false,
     "isSold": false
   },
-  "1a918439-3a64-43d0-9f82-c8673b042910": {
-    "uuid": "1a918439-3a64-43d0-9f82-c8673b042910",
+  "dcd7e1f2-ec52-484e-983c-a67276970db4": {
+    "uuid": "dcd7e1f2-ec52-484e-983c-a67276970db4",
     "providerCode": "housfy",
-    "providerPropertyId": 615942,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-la-llacuna-615942",
-    "providerPropertyTitle": "Maravilloso piso en Sant Martí",
-    "publishedDate": "2022-07-21T07:40:23Z",
+    "providerPropertyId": 583157,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/gran-via-de-les-corts-catalanes-583157",
+    "providerPropertyTitle": "Perfecto piso con balcón en Sant Martí",
+    "publishedDate": "2022-05-13T15:14:09Z",
     "relevance": 300,
     "typeId": 2,
     "typeCode": "piso",
-    "locationId": 1792,
+    "locationId": 1797,
     "sizes": {
-      "size": 78,
-      "sizeBuiltWithoutCommonElements": 78,
-      "sizeBuilt": 78,
-      "sizeUseful": 78
+      "size": 71,
+      "sizeBuiltWithoutCommonElements": 71,
+      "sizeBuilt": 71,
+      "sizeUseful": 71
     },
-    "size": 78,
+    "size": 71,
     "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/615942/615942-housfy-20220721-9Zt8WlWsFK-420x280.jpg"
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/583157/583157-housfy-20220510-EUHK2dQixD-420x280.jpg"
     ],
     "numberOfBedrooms": 3,
-    "numberOfBathrooms": 2,
+    "numberOfBathrooms": 1,
     "userName": "Housfy Real Estate",
     "userPhone": {
       "countryCode": "+34",
@@ -468,32 +468,34 @@
     },
     "operationTypeCode": "sale",
     "isVisible": true,
-    "description": "Maravilloso piso en Sant Martí.\r\n\r\nCompraventa entre particulares con Housfy.\r\n\r\nSe vende piso de particular a particular en Sant Martí, Barcelona, perfecto para familias o parejas que busquen un lugar cómodo para su día a día.\r\nEste piso fue construido en el año 1982 en Barcelona.\r\n\r\nDetalles del inmueble:\r\n\r\n- Sus 78 m2 están perfectamente distribuidos, creando un amplio y abierto espacio con mucha luz y con un diseño muy especial. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Contamos con todas las comodidades posibles de 3 habitaciones y 2 baños, perfecto para una familia.\r\n- Práctico salón-comedor que te proporcionará el relax diario, creando un precioso y único espacio.\r\n- Con una utilitaria cocina en buen estado y equipada con todo lo necesario.\r\n- Exterior.\r\n\r\nRespecto a la ubicación, se sitúa en Barcelona. Con fácil acceso y servicios que facilitarán y mejorarán tu día a día.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
+    "description": "Perfecto piso con balcón en Sant Martí.\r\n\r\nDe particular a particular con Housfy.\r\n\r\nSe vende piso directamente del propietario en Sant Martí, Barcelona, un espacio para disfrutar en tu día a día.\r\nEste piso fue construido en el año 1975. Consta de 71 m2.\r\n\r\nCaracterísticas:\r\n\r\n- Fantástico piso de 71 m2 en Provençals del Poblenou. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Podemos disfrutar de 3 habitaciones y 1 baño, perfecto para una familia.\r\n- Coqueto comedor con amplio espacio de luz natural, un lugar perfecto para descansar en los ratos libres.\r\n- Con una conveniente cocina en buen estado y equipada con todo lo necesario.\r\n- Balcón.\r\n- Exterior y muy luminoso.\r\n\r\nSobre la ubicación, se sitúa en Barcelona. Con todos los servicios que puedas necesitar para facilitar tus días en todo momento.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
     "tags": [
       23,
       26,
-      31
+      31,
+      32
     ],
     "canScheduleVisits": false,
     "stateLocationName": "Barcelona",
     "cityLocationName": "Barcelona",
     "districtLocationName": "Sant Martí",
-    "neighborhoodLocationName": "El Clot",
-    "streetName": "Carrer de la Llacuna",
-    "streetNumber": "165 (ESC. A)",
-    "floor": "01",
-    "door": "03",
+    "neighborhoodLocationName": "Provençals del Poblenou",
+    "streetName": "Gran Via de les Corts Catalanes",
+    "streetNumber": "1084",
+    "floor": "08",
+    "door": "05",
     "floorDoorLabel": "",
-    "latitude": 41.40705872,
-    "longitude": 2.19070792,
+    "latitude": 41.41532898,
+    "longitude": 2.20387816,
     "price": {
-      "amount": 27500000,
+      "amount": 26800000,
       "currency": "EUR"
     },
     "priceSize": {
-      "amount": 352564,
+      "amount": 377464,
       "currency": "EUR"
     },
+    "priceChangePercentage": "-2.55",
     "isNew": false,
     "isPriceUpdated": false,
     "isReserved": false,
@@ -563,29 +565,29 @@
     "isReserved": false,
     "isSold": false
   },
-  "dcd7e1f2-ec52-484e-983c-a67276970db4": {
-    "uuid": "dcd7e1f2-ec52-484e-983c-a67276970db4",
+  "1a918439-3a64-43d0-9f82-c8673b042910": {
+    "uuid": "1a918439-3a64-43d0-9f82-c8673b042910",
     "providerCode": "housfy",
-    "providerPropertyId": 583157,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/gran-via-de-les-corts-catalanes-583157",
-    "providerPropertyTitle": "Perfecto piso con balcón en Sant Martí",
-    "publishedDate": "2022-05-13T15:14:09Z",
+    "providerPropertyId": 615942,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-la-llacuna-615942",
+    "providerPropertyTitle": "Maravilloso piso en Sant Martí",
+    "publishedDate": "2022-07-21T07:40:23Z",
     "relevance": 300,
     "typeId": 2,
     "typeCode": "piso",
-    "locationId": 1797,
+    "locationId": 1792,
     "sizes": {
-      "size": 71,
-      "sizeBuiltWithoutCommonElements": 71,
-      "sizeBuilt": 71,
-      "sizeUseful": 71
+      "size": 78,
+      "sizeBuiltWithoutCommonElements": 78,
+      "sizeBuilt": 78,
+      "sizeUseful": 78
     },
-    "size": 71,
+    "size": 78,
     "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/583157/583157-housfy-20220510-EUHK2dQixD-420x280.jpg"
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/615942/615942-housfy-20220721-9Zt8WlWsFK-420x280.jpg"
     ],
     "numberOfBedrooms": 3,
-    "numberOfBathrooms": 1,
+    "numberOfBathrooms": 2,
     "userName": "Housfy Real Estate",
     "userPhone": {
       "countryCode": "+34",
@@ -594,34 +596,32 @@
     },
     "operationTypeCode": "sale",
     "isVisible": true,
-    "description": "Perfecto piso con balcón en Sant Martí.\r\n\r\nDe particular a particular con Housfy.\r\n\r\nSe vende piso directamente del propietario en Sant Martí, Barcelona, un espacio para disfrutar en tu día a día.\r\nEste piso fue construido en el año 1975. Consta de 71 m2.\r\n\r\nCaracterísticas:\r\n\r\n- Fantástico piso de 71 m2 en Provençals del Poblenou. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Podemos disfrutar de 3 habitaciones y 1 baño, perfecto para una familia.\r\n- Coqueto comedor con amplio espacio de luz natural, un lugar perfecto para descansar en los ratos libres.\r\n- Con una conveniente cocina en buen estado y equipada con todo lo necesario.\r\n- Balcón.\r\n- Exterior y muy luminoso.\r\n\r\nSobre la ubicación, se sitúa en Barcelona. Con todos los servicios que puedas necesitar para facilitar tus días en todo momento.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
+    "description": "Maravilloso piso en Sant Martí.\r\n\r\nCompraventa entre particulares con Housfy.\r\n\r\nSe vende piso de particular a particular en Sant Martí, Barcelona, perfecto para familias o parejas que busquen un lugar cómodo para su día a día.\r\nEste piso fue construido en el año 1982 en Barcelona.\r\n\r\nDetalles del inmueble:\r\n\r\n- Sus 78 m2 están perfectamente distribuidos, creando un amplio y abierto espacio con mucha luz y con un diseño muy especial. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Contamos con todas las comodidades posibles de 3 habitaciones y 2 baños, perfecto para una familia.\r\n- Práctico salón-comedor que te proporcionará el relax diario, creando un precioso y único espacio.\r\n- Con una utilitaria cocina en buen estado y equipada con todo lo necesario.\r\n- Exterior.\r\n\r\nRespecto a la ubicación, se sitúa en Barcelona. Con fácil acceso y servicios que facilitarán y mejorarán tu día a día.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
     "tags": [
       23,
       26,
-      31,
-      32
+      31
     ],
     "canScheduleVisits": false,
     "stateLocationName": "Barcelona",
     "cityLocationName": "Barcelona",
     "districtLocationName": "Sant Martí",
-    "neighborhoodLocationName": "Provençals del Poblenou",
-    "streetName": "Gran Via de les Corts Catalanes",
-    "streetNumber": "1084",
-    "floor": "08",
-    "door": "05",
+    "neighborhoodLocationName": "El Clot",
+    "streetName": "Carrer de la Llacuna",
+    "streetNumber": "165 (ESC. A)",
+    "floor": "01",
+    "door": "03",
     "floorDoorLabel": "",
-    "latitude": 41.41532898,
-    "longitude": 2.20387816,
+    "latitude": 41.40705872,
+    "longitude": 2.19070792,
     "price": {
-      "amount": 26800000,
+      "amount": 27500000,
       "currency": "EUR"
     },
     "priceSize": {
-      "amount": 377464,
+      "amount": 352564,
       "currency": "EUR"
     },
-    "priceChangePercentage": "-2.55",
     "isNew": false,
     "isPriceUpdated": false,
     "isReserved": false,
