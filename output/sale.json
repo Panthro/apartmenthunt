@@ -624,6 +624,68 @@
     "isReserved": false,
     "isSold": false
   },
+  "f3796fe9-033f-4d95-b46f-0a572afe350c": {
+    "uuid": "f3796fe9-033f-4d95-b46f-0a572afe350c",
+    "providerCode": "housfy",
+    "providerPropertyId": 627127,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/cl-diputacio-627127",
+    "providerPropertyTitle": "Acogedor piso en Eixample",
+    "publishedDate": "2022-09-08T15:14:13Z",
+    "relevance": 200,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1744,
+    "sizes": {
+      "size": 77,
+      "sizeBuiltWithoutCommonElements": 77,
+      "sizeBuilt": 82,
+      "sizeUseful": 82
+    },
+    "size": 77,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/627127/627127-housfy-20220908-F6CdNVOKKJ-420x280.jpg"
+    ],
+    "numberOfBedrooms": 4,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "Acogedor piso en Eixample\r\n\r\nHousfy la agencia inmobiliaria con las mejores condiciones hipotecarias.\r\n\r\nSe vende piso directamente del propietario en Eixample, Barcelona, perfecto para familias o parejas que busquen un lugar cómodo para su día a día.\r\nEl piso fue construido en el año 1932. \r\n\r\nDetalles del inmueble:\r\n\r\n- Sus 82 m2 están perfectamente distribuidos, creando un espacio cómodo para el día a día.. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Podemos disfrutar de 4 habitaciones y 1 baño, para una familia completa. \r\n- Confortable salón-comedor con amplio espacio de luz natural, donde disfrutar de tu familia.\r\n- Con una funcional cocina en buen estado, equipada con lo necesario para el día a día.\r\n- Puerta de entrada de seguridad blindada.\r\n- Ascensor.\r\n- Balcón.\r\n- Exterior.\r\n- Vivienda a actualizar. \r\n\r\nRespecto a la ubicación, se sitúa en Barcelona (Barcelona)\r\nCon fácil acceso y servicios que facilitarán y mejorarán tu día a día.\r\n\r\nSobre nosotros:\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
+    "tags": [
+      23,
+      26,
+      31
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Eixample",
+    "neighborhoodLocationName": "El Fort Pienc",
+    "streetName": "CL DIPUTACIO,",
+    "streetNumber": "428 (nº185 MARINA)",
+    "floor": "02",
+    "door": "02",
+    "floorDoorLabel": "",
+    "latitude": 41.39967346,
+    "longitude": 2.17983842,
+    "price": {
+      "amount": 29000000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 376623,
+      "currency": "EUR"
+    },
+    "isNew": false,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
+  },
   "bbb8d10f-34b6-4380-a828-ec23d35061ef": {
     "uuid": "bbb8d10f-34b6-4380-a828-ec23d35061ef",
     "providerCode": "housfy",
