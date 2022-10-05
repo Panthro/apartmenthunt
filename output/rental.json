@@ -1,1 +1,65 @@
-{}
+{
+  "72f29b36-543a-4625-be9c-c5a73a91bf4c": {
+    "uuid": "72f29b36-543a-4625-be9c-c5a73a91bf4c",
+    "providerCode": "housfy",
+    "providerPropertyId": 620125,
+    "providerPropertyUrl": "https://housfy.com/alquilar-piso/barcelona/carrer-de-padilla-620125",
+    "providerPropertyTitle": "Fenomenal piso en l\u0027Eixample",
+    "publishedDate": "2022-08-31T07:33:52Z",
+    "relevance": 200,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1744,
+    "sizes": {
+      "size": 78,
+      "sizeBuiltWithoutCommonElements": 78,
+      "sizeBuilt": 78,
+      "sizeUseful": 78
+    },
+    "size": 78,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/620125/620125-housfy-20220830-PSYan7mZKD-420x280.jpg"
+    ],
+    "numberOfBedrooms": 4,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "rental",
+    "isVisible": true,
+    "description": "Fenomenal piso en l\u0027Eixample.\r\n\r\nHousfy Alquileres, la mejor solución para alquilar tu piso en España.\r\n\r\nSe alquila piso en Eixample, Barcelona, un espacio para disfrutar en tu día a día.\r\nConstruido en 1936 en El Fort Pienc. \r\n\r\nDetalles del inmueble:\r\n\r\n- Consta de 78 m2 muy bien distribuidos. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Contamos con todas las comodidades posibles de 3 dormitorios, 1 vestidor y 1 baño.\r\n- Coqueto comedor amplio y luminoso, un lugar perfecto para descansar en los ratos libres.\r\n- Practica sala de estar conectada con el comedor de la vivienda.\r\n- Con una conveniente cocina en buen estado y equipada con todo lo necesario.\r\n- Exterior.\r\n- Disponemos de una magnifica galería conectada con un coqueto balcón, sin duda se volverá en nuestro espacio favorito de casa.\r\n- Dos meses de fianza más honorarios de agencia.\r\n\r\nSobre la localización, está localizado en Barcelona (Barcelona).\r\nUna vivienda ideal para aquellos que quieran un cómodo espacio donde vivir con todo lo necesario del día a día a un paso de su casa.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda alquilar la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922.",
+    "tags": [
+      23,
+      26,
+      31
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Eixample",
+    "neighborhoodLocationName": "El Fort Pienc",
+    "streetName": "Carrer de Padilla",
+    "streetNumber": "162",
+    "floor": "1º",
+    "door": "4º",
+    "floorDoorLabel": "",
+    "latitude": 41.40142822,
+    "longitude": 2.18315721,
+    "price": {
+      "amount": 129000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 1653,
+      "currency": "EUR"
+    },
+    "priceChangePercentage": "-0.77",
+    "isNew": false,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
+  }
+}
