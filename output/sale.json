@@ -188,6 +188,68 @@
     "isReserved": false,
     "isSold": false
   },
+  "e98bdeb5-74d8-4d24-b63c-af12f9ec87f0": {
+    "uuid": "e98bdeb5-74d8-4d24-b63c-af12f9ec87f0",
+    "providerCode": "housfy",
+    "providerPropertyId": 565638,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/gran-via-de-les-corts-catalanes-565638",
+    "providerPropertyTitle": "Fantástico piso en Eixample",
+    "publishedDate": "2022-04-20T11:48:37Z",
+    "relevance": 900,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1744,
+    "sizes": {
+      "size": 82,
+      "sizeBuiltWithoutCommonElements": 82,
+      "sizeBuilt": 82,
+      "sizeUseful": 82
+    },
+    "size": 82,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/565638/565638-housfy-20220408-GlxvSpV0BP-420x280.jpg"
+    ],
+    "numberOfBedrooms": 3,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "Fantástico piso en Eixample\r\n\r\n\r\nDe particular a particular con Housfy.\r\n\r\nOportunidad de adquirir magnífica vivienda en Eixample, Barcelona, un espacio para disfrutar en tu día a día.\r\nEl piso fue construido en el año 1925 en El Fort Pienc. Sus 89 m2 están perfectamente distribuidos, creando un espacio cómodo para el día a día.\r\n\r\nCaracterísticas:\r\n- Maravilloso piso de 82 m2 en El Fort Pienc. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Cuenta con todas las comodidades posibles de 3 habitaciones y 1 baño, perfecto para una familia.\r\n- Funcional comedor con amplio espacio de luz natural, creando un precioso y único espacio.\r\n- Exterior.\r\n- Con una apropiada cocina en buen estado.\r\n- En la comunidad se incluye, el IBI, agua y gastos de comunidad. 99 euros mensuales.\r\n\r\nRespecto a la ubicación, está localizado en Barcelona.\r\nCon fácil acceso y servicios que facilitarán y mejorarán tu día a día.\r\n\r\nSobre nosotros:\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
+    "tags": [
+      23,
+      26,
+      31
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Eixample",
+    "neighborhoodLocationName": "El Fort Pienc",
+    "streetName": "Gran Via de les Corts Catalanes",
+    "streetNumber": "755",
+    "floor": "01",
+    "door": "02",
+    "floorDoorLabel": "",
+    "latitude": 41.40140152,
+    "longitude": 2.18352199,
+    "price": {
+      "amount": 35000000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 426829,
+      "currency": "EUR"
+    },
+    "isNew": false,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
+  },
   "9205c943-0566-45df-9f32-e01b23aa0480": {
     "uuid": "9205c943-0566-45df-9f32-e01b23aa0480",
     "providerCode": "housfy",
