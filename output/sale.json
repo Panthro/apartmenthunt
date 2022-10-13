@@ -686,5 +686,68 @@
     "isPriceUpdated": false,
     "isReserved": false,
     "isSold": false
+  },
+  "35eae118-5e76-49f0-b867-dd20dc0da424": {
+    "uuid": "35eae118-5e76-49f0-b867-dd20dc0da424",
+    "providerCode": "housfy",
+    "providerPropertyId": 616263,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-del-freser-616263",
+    "providerPropertyTitle": "Maravilloso piso con balcón en Sant Martí",
+    "publishedDate": "2022-07-21T07:36:14Z",
+    "relevance": 2,
+    "typeId": 2,
+    "typeCode": "piso",
+    "reservedDate": "2022-07-27T13:14:56Z",
+    "locationId": 1791,
+    "sizes": {
+      "size": 45,
+      "sizeBuiltWithoutCommonElements": 45,
+      "sizeBuilt": 45,
+      "sizeUseful": 45
+    },
+    "size": 45,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/616263/616263-housfy-20220720-m741jPwGBH-420x280.jpg"
+    ],
+    "numberOfBedrooms": 2,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "Maravilloso piso con balcón en Sant Martí.\r\n\r\nCompraventa entre particulares con Housfy.\r\n\r\nSe vende piso directamente del propietario en Sant Martí, Barcelona, una vivienda luminosa y ubicada en un entorno idóneo para disfrutarlo.\r\nEste fabuloso piso fue construido en el 1930.\r\n\r\nCaracterísticas:\r\n\r\n- Admirable piso de 45 m2 en El Camp de l\u0027Arpa del Clot. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Esta vivienda cuenta con 2 habitaciones y 1 baño.\r\n- Agradable comedor perfecto para descansar tras una jornada de trabajo, siendo además, un espacio agradable y estupendo para visitas de amigos y familiares.\r\n- Exterior.\r\n- Con una efectiva cocina a actualizar en buen estado y equipada con todo.\r\n- Balcón.\r\n\r\nSobre la ubicación, se sitúa en Barcelona. Con fácil acceso y servicios que facilitarán y mejorarán tu día a día.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
+    "tags": [
+      23,
+      26
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Sant Martí",
+    "neighborhoodLocationName": "El Camp de l\u0027Arpa del Clot",
+    "streetName": "Carrer del Freser",
+    "streetNumber": "178",
+    "floor": "02",
+    "door": "02",
+    "floorDoorLabel": "",
+    "latitude": 41.41462326,
+    "longitude": 2.18216681,
+    "price": {
+      "amount": 13000000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 288888,
+      "currency": "EUR"
+    },
+    "priceChangePercentage": "-15.02",
+    "isNew": false,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
   }
 }
