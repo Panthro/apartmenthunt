@@ -1,1 +1,64 @@
-{}
+{
+  "2c852de5-d8b7-4612-9a0e-01453b54899b": {
+    "uuid": "2c852de5-d8b7-4612-9a0e-01453b54899b",
+    "providerCode": "housfy",
+    "providerPropertyId": 607334,
+    "providerPropertyUrl": "https://housfy.com/alquilar-piso/barcelona/carrer-de-bac-de-roda-607334",
+    "providerPropertyTitle": "Acogedor piso en Sant Martí",
+    "publishedDate": "2022-10-17T15:46:28Z",
+    "relevance": 1666598732,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1798,
+    "sizes": {
+      "size": 55,
+      "sizeBuiltWithoutCommonElements": 55,
+      "sizeBuilt": 67,
+      "sizeUseful": 55
+    },
+    "size": 55,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/607334/607334-housfy-20221014-C4hWneGDVh-420x280.jpg"
+    ],
+    "numberOfBedrooms": 1,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "rental",
+    "isVisible": true,
+    "description": "Acogedor piso en Sant Martí.\r\n\r\nHousfy Alquileres, alquila tu piso con los mejores expertos.\r\n\r\nSe alquila piso en Sant Martí, Barcelona, un espacio para disfrutar en tu día a día.\r\nEl piso fue construido en el año 1968 en Sant Martí de Provençals. Consta de 67 m2.\r\n\r\nDetalles del inmueble:\r\n\r\n- Acogedor piso de 67 m2 en Sant Martí de Provençals. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- En este piso encontraremos 2 habitaciones y 1 baño, muy bien acomodadas.\r\n- Coqueto salón con amplio espacio de luz natural, siendo además, un espacio agradable y estupendo para visitas de amigos y familiares.\r\n- Con una útil cocina en buen estado y equipada con todo lo necesario.\r\n- Exterior.\r\n- Dos meses de fianza más honorarios de agencia.\r\n\r\nSobre la ubicación, está localizado en Barcelona (Barcelona)\r\nCon fácil acceso y servicios que facilitarán y mejorarán tu día a día.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda alquilar la propiedad por su cuenta. Para más información, visítenos en housfy. com. AICAT número: 7922.",
+    "tags": [
+      23,
+      26
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Sant Martí",
+    "neighborhoodLocationName": "Sant Martí de Provençals",
+    "streetName": "Carrer de Bac de Roda",
+    "streetNumber": "176",
+    "floor": "2º",
+    "door": "1ª",
+    "floorDoorLabel": "",
+    "latitude": 41.41264725,
+    "longitude": 2.19749403,
+    "price": {
+      "amount": 89000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 1618,
+      "currency": "EUR"
+    },
+    "priceChangePercentage": "3.49",
+    "isNew": true,
+    "isPriceUpdated": true,
+    "isReserved": false,
+    "isSold": false
+  }
+}
