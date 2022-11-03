@@ -1,4 +1,67 @@
 {
+  "896b52b0-3829-4d5d-8e08-be863aaa911b": {
+    "uuid": "896b52b0-3829-4d5d-8e08-be863aaa911b",
+    "providerCode": "housfy",
+    "providerPropertyId": 638157,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-dandrade-638157",
+    "providerPropertyTitle": "Genial piso con balcón en Sant Martí",
+    "publishedDate": "2022-11-02T17:06:23Z",
+    "relevance": 1667408783,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1798,
+    "sizes": {
+      "size": 80,
+      "sizeBuiltWithoutCommonElements": 80,
+      "sizeBuilt": 90,
+      "sizeUseful": 75
+    },
+    "size": 80,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/638157/638157-housfy-20221102-jolTilhqBM-420x280.jpg"
+    ],
+    "numberOfBedrooms": 3,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "Genial piso con balcón en Sant Martí.\r\n\r\nHousfy, de particular a particular.\r\n\r\nSe vende piso de particular a particular en Sant Martí, Barcelona, una vivienda luminosa y ubicada en un entorno idóneo para disfrutarlo.\r\nEl estupendo piso fue construido en el 1955, con reforma en 2015.\r\n\r\nDetalles del inmueble:\r\n\r\n- Sus 75 m2 están perfectamente distribuidos, creando un amplio y abierto espacio con mucha luz y con un diseño muy especial. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Tanto el comedor como 2 habitaciones dan al patio / jardín interior aportando mucha luz y tranquilidad. \r\n- En el piso encontraremos 3 habitaciones, las tres dobles.\r\n- Un baño completo reformado con plato de ducha, perfecto para una familia.\r\n- Cómodo comedor que es un lugar perfecto para descansar tras una jornada de trabajo, creando un precioso y único espacio.\r\n- Con una funcional cocina reformada en muy buen estado y equipada con todo lo necesario.\r\n- Terraza a patio de manzana aportando mucha tranquilidad. \r\n- Carpintería de aluminio Climalit para un optimo aislamiento tanto térmico como acústico. \r\n- Calefacción por radiadores en todas las estancias. \r\n- Todo exterior.\r\n- Además de un ventajoso jardín comunitario de 80 x 80 m2 aportando mucha tranquilidad y zona de recreo y descanso para los vecinos. \r\n\r\nLa localización de el piso se sitúa en Barcelona (Barcelona).\r\nUna vivienda ideal para aquellos que quieran un cómodo espacio donde vivir con todo lo necesario del día a día a un paso de su casa.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
+    "tags": [
+      23,
+      26,
+      31,
+      32
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Sant Martí",
+    "neighborhoodLocationName": "Sant Martí de Provençals",
+    "streetName": "Carrer d\u0027Andrade",
+    "streetNumber": "159",
+    "floor": "02",
+    "door": "01",
+    "floorDoorLabel": "",
+    "latitude": 41.417099,
+    "longitude": 2.20149374,
+    "price": {
+      "amount": 22000000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 275000,
+      "currency": "EUR"
+    },
+    "isNew": true,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
+  },
   "64a8d187-a1be-4af3-9045-ffac1f52e8ad": {
     "uuid": "64a8d187-a1be-4af3-9045-ffac1f52e8ad",
     "providerCode": "housfy",
