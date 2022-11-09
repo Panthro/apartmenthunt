@@ -1,1 +1,64 @@
-{}
+{
+  "11ed265f-ebf8-4adf-ab81-228aa8b57a45": {
+    "uuid": "11ed265f-ebf8-4adf-ab81-228aa8b57a45",
+    "providerCode": "housfy",
+    "providerPropertyId": 450898,
+    "providerPropertyUrl": "https://housfy.com/alquilar-piso/barcelona/carrer-de-pujades-450898",
+    "providerPropertyTitle": "Sensacional piso con balcón en Sant Martí",
+    "publishedDate": "2022-11-03T11:30:31Z",
+    "relevance": 2,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1794,
+    "sizes": {
+      "size": 71,
+      "sizeBuiltWithoutCommonElements": 71,
+      "sizeBuilt": 77,
+      "sizeUseful": 68
+    },
+    "size": 71,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/450898/450898-housfy-20210911-dLk8EWbLTW-420x280.jpg"
+    ],
+    "numberOfBedrooms": 3,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "rental",
+    "isVisible": true,
+    "description": "Sensacional piso con balcón en Sant Martí.\r\n\r\nHousfy Alquileres, la mejor solución para alquilar tu piso en España.\r\n\r\nRoberto alquila piso en Sant Martí, Barcelona. \r\nConstruido en el año 1890 en El Poblenou. Sus 77 m2 ofrecen un espacio moderno y de concepto abierto.\r\n\r\nCaracterísticas:\r\n\r\n- Fenomenal piso de 77 m2 en El Poblenou. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Esta vivienda cuenta con 3 habitaciones y 1 baño, perfecta para una familia.\r\n- Cómodo comedor que te proporcionará el relax diario, un lugar perfecto para descansar en los ratos libres.\r\n- Balcón.\r\n- Disfruta de la opción de armario empotrado.\r\n- Con una funcional cocina en muy buen estado.\r\n- Exterior.\r\n- La vivienda no dispone de ascensor.\r\n- Dos meses de fianza más honorarios de agencia.\r\n- Índice medio: 15.11€/m2.\r\n\r\nRespecto a la ubicación, está localizado en Barcelona. Con todos los servicios que puedas necesitar para facilitar tus días en todo momento.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda alquilar la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922.",
+    "tags": [
+      23,
+      26
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Sant Martí",
+    "neighborhoodLocationName": "El Poblenou",
+    "streetName": "Carrer de Pujades",
+    "streetNumber": "181",
+    "floor": "3º",
+    "door": "1º",
+    "floorDoorLabel": "",
+    "latitude": 41.40218353,
+    "longitude": 2.20109296,
+    "price": {
+      "amount": 95000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 1338,
+      "currency": "EUR"
+    },
+    "priceChangePercentage": "5.56",
+    "isNew": true,
+    "isPriceUpdated": true,
+    "isReserved": false,
+    "isSold": false
+  }
+}
