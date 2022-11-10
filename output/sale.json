@@ -378,68 +378,6 @@
     "isReserved": false,
     "isSold": false
   },
-  "79bfbc79-dd79-4752-9375-c8c9e3a3e02c": {
-    "uuid": "79bfbc79-dd79-4752-9375-c8c9e3a3e02c",
-    "providerCode": "housfy",
-    "providerPropertyId": 606273,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/cl-espronceda-606273",
-    "providerPropertyTitle": "Admirable piso con terraza en Sant Andreu -Navas",
-    "publishedDate": "2022-10-07T08:12:16Z",
-    "relevance": 800,
-    "typeId": 2,
-    "typeCode": "piso",
-    "locationId": 1786,
-    "sizes": {
-      "size": 60,
-      "sizeBuiltWithoutCommonElements": 60,
-      "sizeBuilt": 64,
-      "sizeUseful": 64
-    },
-    "size": 60,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/606273/606273-housfy-20221013-MFG5Ln9cou-420x280.jpg"
-    ],
-    "numberOfBedrooms": 3,
-    "numberOfBathrooms": 1,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "sale",
-    "isVisible": true,
-    "description": "Admirable piso con terraza en Sant Andreu - Navas.\r\n\r\nHousfy, de particular a particular.\r\n\r\nSe vende piso directamente del propietario en Sant Andreu, Barcelona, un espacio para disfrutar en tu día a día.\r\nEste encantador piso fue construido en el año 1969.\r\n\r\nDetalles del inmueble:\r\n\r\n- Admirable piso de 64 m² en Navas - Espronceda / Murcia. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Esta vivienda cuenta con 3 habitaciones (1 doble) y 1 baño completo de 4 piezas, perfecto para una familia.\r\n- Cómodo salón-comedor, amplio y luminoso con salida al balcón, un lugar perfecto para descansar en los ratos libres.\r\n- Con una conveniente cocina a reformar, con salida al lavadero.\r\n- Exterior.\r\n\r\nSobre la situación de este piso está localizado en Barcelona.\r\nCon fácil acceso y servicios que facilitarán y mejorarán tu día a día.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
-    "tags": [
-      23,
-      26
-    ],
-    "canScheduleVisits": false,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Sant Andreu",
-    "neighborhoodLocationName": "Navas",
-    "streetName": "CL ESPRONCEDA",
-    "streetNumber": "343",
-    "floor": "04",
-    "door": "02",
-    "floorDoorLabel": "",
-    "latitude": 41.41630554,
-    "longitude": 2.1897428,
-    "price": {
-      "amount": 28900000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 481666,
-      "currency": "EUR"
-    },
-    "priceChangePercentage": "-3.34",
-    "isNew": false,
-    "isPriceUpdated": false,
-    "isReserved": false,
-    "isSold": false
-  },
   "0f146f51-857d-4184-a0e4-08d1290a0e3f": {
     "uuid": "0f146f51-857d-4184-a0e4-08d1290a0e3f",
     "providerCode": "housfy",
@@ -498,6 +436,68 @@
       "currency": "EUR"
     },
     "priceChangePercentage": "-10.53",
+    "isNew": false,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
+  },
+  "79bfbc79-dd79-4752-9375-c8c9e3a3e02c": {
+    "uuid": "79bfbc79-dd79-4752-9375-c8c9e3a3e02c",
+    "providerCode": "housfy",
+    "providerPropertyId": 606273,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/cl-espronceda-606273",
+    "providerPropertyTitle": "Admirable piso con terraza en Sant Andreu -Navas",
+    "publishedDate": "2022-10-07T08:12:16Z",
+    "relevance": 800,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1786,
+    "sizes": {
+      "size": 60,
+      "sizeBuiltWithoutCommonElements": 60,
+      "sizeBuilt": 64,
+      "sizeUseful": 64
+    },
+    "size": 60,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/606273/606273-housfy-20221013-MFG5Ln9cou-420x280.jpg"
+    ],
+    "numberOfBedrooms": 3,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "Admirable piso con terraza en Sant Andreu - Navas.\r\n\r\nHousfy, de particular a particular.\r\n\r\nSe vende piso directamente del propietario en Sant Andreu, Barcelona, un espacio para disfrutar en tu día a día.\r\nEste encantador piso fue construido en el año 1969.\r\n\r\nDetalles del inmueble:\r\n\r\n- Admirable piso de 64 m² en Navas - Espronceda / Murcia. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Esta vivienda cuenta con 3 habitaciones (1 doble) y 1 baño completo de 4 piezas, perfecto para una familia.\r\n- Cómodo salón-comedor, amplio y luminoso con salida al balcón, un lugar perfecto para descansar en los ratos libres.\r\n- Con una conveniente cocina a reformar, con salida al lavadero.\r\n- Exterior.\r\n\r\nSobre la situación de este piso está localizado en Barcelona.\r\nCon fácil acceso y servicios que facilitarán y mejorarán tu día a día.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
+    "tags": [
+      23,
+      26
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Sant Andreu",
+    "neighborhoodLocationName": "Navas",
+    "streetName": "CL ESPRONCEDA",
+    "streetNumber": "343",
+    "floor": "04",
+    "door": "02",
+    "floorDoorLabel": "",
+    "latitude": 41.41630554,
+    "longitude": 2.1897428,
+    "price": {
+      "amount": 28900000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 481666,
+      "currency": "EUR"
+    },
+    "priceChangePercentage": "-3.34",
     "isNew": false,
     "isPriceUpdated": false,
     "isReserved": false,
