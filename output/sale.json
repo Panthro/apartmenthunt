@@ -11,12 +11,12 @@
     "typeCode": "piso",
     "locationId": 1748,
     "sizes": {
-      "size": 61,
-      "sizeBuiltWithoutCommonElements": 61,
+      "size": 68,
+      "sizeBuiltWithoutCommonElements": 68,
       "sizeBuilt": 68,
       "sizeUseful": 68
     },
-    "size": 61,
+    "size": 68,
     "photos": [
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/641965/641965-housfy-20221110-ArfpslgsJr-420x280.jpg"
     ],
@@ -53,7 +53,7 @@
       "currency": "EUR"
     },
     "priceSize": {
-      "amount": 555737,
+      "amount": 498529,
       "currency": "EUR"
     },
     "priceChangePercentage": "-2.87",
