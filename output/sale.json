@@ -1,4 +1,67 @@
 {
+  "f2664755-f4d9-4e87-b8ec-fa9327c722e4": {
+    "uuid": "f2664755-f4d9-4e87-b8ec-fa9327c722e4",
+    "providerCode": "housfy",
+    "providerPropertyId": 627342,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-biscaia-627342",
+    "providerPropertyTitle": "Fabuloso piso en Sant Andreu",
+    "publishedDate": "2022-10-07T07:41:05Z",
+    "relevance": 1668429929,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1786,
+    "sizes": {
+      "size": 73,
+      "sizeBuiltWithoutCommonElements": 73,
+      "sizeBuilt": 73,
+      "sizeUseful": 73
+    },
+    "size": 73,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/627342/627342-housfy-20221107-VvqHVHZMlM-420x280.jpg"
+    ],
+    "numberOfBedrooms": 3,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "Fabuloso piso en Sant Andreu.\r\n\r\nSe vende piso en Sant Andreu, Barcelona, un espacio para disfrutar en tu día a día.\r\nConstruido en 1963 en Barcelona. \r\n\r\nPiso bonito y acogedor, reformado con buen gusto. Materiales naturales, luz y silencio.\r\n\r\nCaracterísticas:\r\n\r\n- Fantástico piso de 73 m2 en Navas. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Piso orientado al sur con sol todo el día en las habitaciones principales. Es cálido en invierno y fresco en verano. No necesita calefacción, apenas algún rato de estufa suave. Es un piso alto y no hay nunca mosquitos. Tampoco hay humedades en ninguna habitación.\r\n- Contamos con dos habitaciones dobles (de 3,5 x 4 metros aprox.), una habitación individual pero cuadrada (2,25 x 2,75m aprox) y una sala amplia (6x3m).\r\n- Coqueto comedor que te proporcionará el relax diario, siendo además, un espacio agradable estupendo para visitas de amigos y familiares.\r\n- Carpintería interior de madera restaurada, puertas y ventanas de madera maciza, con encanto. La cocina tiene una puerta corredera art decó restaurada preciosa, una habitación principal tiene un ventanal muy bonito.\r\n- La sala, cocina, baño y la tercera habitación dan a un patio interior muy amplio y luminoso. Eso, unido a que es un piso alto (7o) hace que sean estancias luminosas a la vez que tranquilas.\r\n- Mobiliario a negociar con el propietario.\r\n- Ascensor.\r\n- Exterior.\r\n- ITE pasada y con certificado de aptitud de la Generalitat.\r\n\r\nLa localización de el piso se encuentra en Barcelona, municipio de Barcelona.\r\nDa a un chaflán y los edificios de enfrente quedan lejos. Es un cruce de calles tranquilas de barrio, bastante silenciosas.\r\nCon fácil acceso y servicios que facilitarán y mejorarán tu día a día.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
+    "tags": [
+      23,
+      26,
+      33
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Sant Andreu",
+    "neighborhoodLocationName": "Navas",
+    "streetName": "Carrer de Biscaia",
+    "streetNumber": "354",
+    "floor": "07",
+    "door": "F",
+    "floorDoorLabel": "",
+    "latitude": 41.415802,
+    "longitude": 2.1889863,
+    "price": {
+      "amount": 23000000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 315068,
+      "currency": "EUR"
+    },
+    "priceChangePercentage": "-8",
+    "isNew": false,
+    "isPriceUpdated": true,
+    "isReserved": false,
+    "isSold": false
+  },
   "b38ae62b-975b-48e1-954b-13b66a473e2b": {
     "uuid": "b38ae62b-975b-48e1-954b-13b66a473e2b",
     "providerCode": "housfy",
@@ -565,69 +628,6 @@
     "isReserved": false,
     "isSold": false
   },
-  "11196a1a-b97d-405d-9b6d-f7ab1e625c4a": {
-    "uuid": "11196a1a-b97d-405d-9b6d-f7ab1e625c4a",
-    "providerCode": "housfy",
-    "providerPropertyId": 541863,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-llull-541863",
-    "providerPropertyTitle": "Espléndido piso en Sant Martí",
-    "publishedDate": "2022-06-21T11:00:44Z",
-    "relevance": 300,
-    "typeId": 2,
-    "typeCode": "piso",
-    "locationId": 1794,
-    "sizes": {
-      "size": 44,
-      "sizeBuiltWithoutCommonElements": 44,
-      "sizeBuilt": 44,
-      "sizeUseful": 44
-    },
-    "size": 44,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/541863/541863-housfy-20220314-IvMsYM7I5L-420x280.jpg"
-    ],
-    "numberOfBedrooms": 2,
-    "numberOfBathrooms": 1,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "sale",
-    "isVisible": true,
-    "description": "Espléndido piso con patio en Sant Martí\r\n\r\nHousfy sin intermediarios.\r\n\r\nOportunidad de adquirir magnífico piso con patio privado de 30m2 en Sant Martí, Barcelona. Una vivienda luminosa y ubicada en un entorno idóneo para disfrutarlo. \r\nEl edificio fue construido en 1930 en El Poblenou, con todos los mantenimientos al día. Sus 44 m2 están perfectamente distribuidos, y gozan de muchas posibilidades de reforma.\r\n\r\nDetalles del inmueble:\r\n\r\n- Sensacional piso de 44 m2 y 30m2 de terraza en El Poblenou. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Contamos con todas las comodidades posibles de 2 habitaciones y 1 baño, muy bien acomodadas.\r\n- Coqueto salón-comedor con amplio espacio de luz natural, donde disfrutar de tu familia.\r\n- Con una conveniente cocina.\r\n- Exterior.\r\n- Terraza de 30m2\r\n- Este piso cuenta también con un conveniente trastero.\r\n\r\nSobre la ubicación, se encuentra en Barcelona. Con todos los servicios que puedas necesitar para facilitar tus días en todo momento.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
-    "tags": [
-      23,
-      26,
-      32
-    ],
-    "canScheduleVisits": false,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Sant Martí",
-    "neighborhoodLocationName": "El Poblenou",
-    "streetName": "Carrer de Llull",
-    "streetNumber": "261",
-    "floor": "bj",
-    "door": "03",
-    "floorDoorLabel": "",
-    "latitude": 41.4045105,
-    "longitude": 2.20635605,
-    "price": {
-      "amount": 24900000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 565909,
-      "currency": "EUR"
-    },
-    "priceChangePercentage": "-6.04",
-    "isNew": false,
-    "isPriceUpdated": false,
-    "isReserved": false,
-    "isSold": false
-  },
   "40abba62-c93b-4d3a-9212-cc3415dee1de": {
     "uuid": "40abba62-c93b-4d3a-9212-cc3415dee1de",
     "providerCode": "housfy",
@@ -691,28 +691,28 @@
     "isReserved": false,
     "isSold": false
   },
-  "f2664755-f4d9-4e87-b8ec-fa9327c722e4": {
-    "uuid": "f2664755-f4d9-4e87-b8ec-fa9327c722e4",
+  "11196a1a-b97d-405d-9b6d-f7ab1e625c4a": {
+    "uuid": "11196a1a-b97d-405d-9b6d-f7ab1e625c4a",
     "providerCode": "housfy",
-    "providerPropertyId": 627342,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-biscaia-627342",
-    "providerPropertyTitle": "Fabuloso piso en Sant Andreu",
-    "publishedDate": "2022-10-07T07:41:05Z",
-    "relevance": 200,
+    "providerPropertyId": 541863,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-llull-541863",
+    "providerPropertyTitle": "Espléndido piso en Sant Martí",
+    "publishedDate": "2022-06-21T11:00:44Z",
+    "relevance": 300,
     "typeId": 2,
     "typeCode": "piso",
-    "locationId": 1786,
+    "locationId": 1794,
     "sizes": {
-      "size": 73,
-      "sizeBuiltWithoutCommonElements": 73,
-      "sizeBuilt": 73,
-      "sizeUseful": 73
+      "size": 44,
+      "sizeBuiltWithoutCommonElements": 44,
+      "sizeBuilt": 44,
+      "sizeUseful": 44
     },
-    "size": 73,
+    "size": 44,
     "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/627342/627342-housfy-20221107-VvqHVHZMlM-420x280.jpg"
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/541863/541863-housfy-20220314-IvMsYM7I5L-420x280.jpg"
     ],
-    "numberOfBedrooms": 3,
+    "numberOfBedrooms": 2,
     "numberOfBathrooms": 1,
     "userName": "Housfy Real Estate",
     "userPhone": {
@@ -722,32 +722,33 @@
     },
     "operationTypeCode": "sale",
     "isVisible": true,
-    "description": "Fabuloso piso en Sant Andreu.\r\n\r\nSe vende piso en Sant Andreu, Barcelona, un espacio para disfrutar en tu día a día.\r\nConstruido en 1963 en Barcelona. \r\n\r\nPiso bonito y acogedor, reformado con buen gusto. Materiales naturales, luz y silencio.\r\n\r\nCaracterísticas:\r\n\r\n- Fantástico piso de 73 m2 en Navas. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Piso orientado al sur con sol todo el día en las habitaciones principales. Es cálido en invierno y fresco en verano. No necesita calefacción, apenas algún rato de estufa suave. Es un piso alto y no hay nunca mosquitos. Tampoco hay humedades en ninguna habitación.\r\n- Contamos con dos habitaciones dobles (de 3,5 x 4 metros aprox.), una habitación individual pero cuadrada (2,25 x 2,75m aprox) y una sala amplia (6x3m).\r\n- Coqueto comedor que te proporcionará el relax diario, siendo además, un espacio agradable estupendo para visitas de amigos y familiares.\r\n- Carpintería interior de madera restaurada, puertas y ventanas de madera maciza, con encanto. La cocina tiene una puerta corredera art decó restaurada preciosa, una habitación principal tiene un ventanal muy bonito.\r\n- La sala, cocina, baño y la tercera habitación dan a un patio interior muy amplio y luminoso. Eso, unido a que es un piso alto (7o) hace que sean estancias luminosas a la vez que tranquilas.\r\n- Mobiliario a negociar con el propietario.\r\n- Ascensor.\r\n- Exterior.\r\n- ITE pasada y con certificado de aptitud de la Generalitat.\r\n\r\nLa localización de el piso se encuentra en Barcelona, municipio de Barcelona.\r\nDa a un chaflán y los edificios de enfrente quedan lejos. Es un cruce de calles tranquilas de barrio, bastante silenciosas.\r\nCon fácil acceso y servicios que facilitarán y mejorarán tu día a día.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
+    "description": "Espléndido piso con patio en Sant Martí\r\n\r\nHousfy sin intermediarios.\r\n\r\nOportunidad de adquirir magnífico piso con patio privado de 30m2 en Sant Martí, Barcelona. Una vivienda luminosa y ubicada en un entorno idóneo para disfrutarlo. \r\nEl edificio fue construido en 1930 en El Poblenou, con todos los mantenimientos al día. Sus 44 m2 están perfectamente distribuidos, y gozan de muchas posibilidades de reforma.\r\n\r\nDetalles del inmueble:\r\n\r\n- Sensacional piso de 44 m2 y 30m2 de terraza en El Poblenou. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Contamos con todas las comodidades posibles de 2 habitaciones y 1 baño, muy bien acomodadas.\r\n- Coqueto salón-comedor con amplio espacio de luz natural, donde disfrutar de tu familia.\r\n- Con una conveniente cocina.\r\n- Exterior.\r\n- Terraza de 30m2\r\n- Este piso cuenta también con un conveniente trastero.\r\n\r\nSobre la ubicación, se encuentra en Barcelona. Con todos los servicios que puedas necesitar para facilitar tus días en todo momento.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
     "tags": [
       23,
       26,
-      33
+      32
     ],
     "canScheduleVisits": false,
     "stateLocationName": "Barcelona",
     "cityLocationName": "Barcelona",
-    "districtLocationName": "Sant Andreu",
-    "neighborhoodLocationName": "Navas",
-    "streetName": "Carrer de Biscaia",
-    "streetNumber": "354",
-    "floor": "07",
-    "door": "F",
+    "districtLocationName": "Sant Martí",
+    "neighborhoodLocationName": "El Poblenou",
+    "streetName": "Carrer de Llull",
+    "streetNumber": "261",
+    "floor": "bj",
+    "door": "03",
     "floorDoorLabel": "",
-    "latitude": 41.415802,
-    "longitude": 2.1889863,
+    "latitude": 41.4045105,
+    "longitude": 2.20635605,
     "price": {
-      "amount": 25000000,
+      "amount": 24900000,
       "currency": "EUR"
     },
     "priceSize": {
-      "amount": 342465,
+      "amount": 565909,
       "currency": "EUR"
     },
+    "priceChangePercentage": "-6.04",
     "isNew": false,
     "isPriceUpdated": false,
     "isReserved": false,
