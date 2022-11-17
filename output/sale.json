@@ -503,69 +503,6 @@
     "isReserved": false,
     "isSold": false
   },
-  "1a6e7b54-6a92-4da6-8bab-63f1fed512b9": {
-    "uuid": "1a6e7b54-6a92-4da6-8bab-63f1fed512b9",
-    "providerCode": "housfy",
-    "providerPropertyId": 638424,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/cl-provenca-503-638424",
-    "providerPropertyTitle": "Piso luminoso y reformado con 30m2 de terraza en Sagrada Familia.",
-    "publishedDate": "2022-10-26T07:09:47Z",
-    "relevance": 1666768187,
-    "typeId": 2,
-    "typeCode": "piso",
-    "locationId": 1748,
-    "sizes": {
-      "size": 74,
-      "sizeBuiltWithoutCommonElements": 74,
-      "sizeBuilt": 74,
-      "sizeUseful": 70
-    },
-    "size": 74,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/638424/638424-housfy-20221025-nV3egYXXgy-420x280.jpg"
-    ],
-    "numberOfBedrooms": 3,
-    "numberOfBathrooms": 1,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "sale",
-    "isVisible": true,
-    "description": "Espléndido piso luminoso y reformado con 30m2 de terraza en Sagrada Familia.\r\n\r\nHomy vende piso en la calle Provença, Barcelona, un espacio para disfrutar en tu día a día.\r\nLa reforma está hecha con materiales de calidad, con un toque moderno y siempre buscando el aprovechar todos los espacios al máximo.\r\n\r\nDetalles del inmueble:\r\n\r\n- Sus 74 m2 ofrecen un espacio moderno y de concepto abierto. \r\n- Reforma completa.\r\n-Terraza de 30m2\r\n- La vivienda dispone de 3 habitaciones y 1 baño, perfecto para una familia.\r\n- Funcional comedor con amplio espacio de luz natural, un lugar perfecto para descansar en los ratos libres.\r\n- Con una práctica cocina en muy buen estado y equipada con todo lo necesario.\r\n- Exterior.\r\n\r\nSobre la ubicación, se encuentra en Barcelona.\r\nCon fácil acceso y servicios que facilitarán y mejorarán tu día a día.\r\n\r\n\r\nUNICA POR ZONA Y REFORMA\r\nNo lo dudes más y contacta con nosotros.\r\n\r\nSobre nosotros:\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
-    "tags": [
-      23,
-      25,
-      31,
-      32
-    ],
-    "canScheduleVisits": false,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Eixample",
-    "neighborhoodLocationName": "La Sagrada Família",
-    "streetName": "CL PROVENÇA, 503",
-    "streetNumber": "503",
-    "floor": "PR",
-    "door": "02",
-    "floorDoorLabel": "",
-    "latitude": 41.40729141,
-    "longitude": 2.17790389,
-    "price": {
-      "amount": 31900000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 431081,
-      "currency": "EUR"
-    },
-    "isNew": false,
-    "isPriceUpdated": false,
-    "isReserved": false,
-    "isSold": false
-  },
   "3aa7f1e2-6534-410a-ac44-16be8cc88b29": {
     "uuid": "3aa7f1e2-6534-410a-ac44-16be8cc88b29",
     "providerCode": "housfy",
@@ -814,6 +751,69 @@
       "currency": "EUR"
     },
     "priceChangePercentage": "-5.77",
+    "isNew": false,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
+  },
+  "1a6e7b54-6a92-4da6-8bab-63f1fed512b9": {
+    "uuid": "1a6e7b54-6a92-4da6-8bab-63f1fed512b9",
+    "providerCode": "housfy",
+    "providerPropertyId": 638424,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/cl-provenca-503-638424",
+    "providerPropertyTitle": "Piso luminoso y reformado con 30m2 de terraza en Sagrada Familia.",
+    "publishedDate": "2022-10-26T07:09:47Z",
+    "relevance": 200,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1748,
+    "sizes": {
+      "size": 74,
+      "sizeBuiltWithoutCommonElements": 74,
+      "sizeBuilt": 74,
+      "sizeUseful": 70
+    },
+    "size": 74,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/638424/638424-housfy-20221025-nV3egYXXgy-420x280.jpg"
+    ],
+    "numberOfBedrooms": 3,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "Espléndido piso luminoso y reformado con 30m2 de terraza en Sagrada Familia.\r\n\r\nHomy vende piso en la calle Provença, Barcelona, un espacio para disfrutar en tu día a día.\r\nLa reforma está hecha con materiales de calidad, con un toque moderno y siempre buscando el aprovechar todos los espacios al máximo.\r\n\r\nDetalles del inmueble:\r\n\r\n- Sus 74 m2 ofrecen un espacio moderno y de concepto abierto. \r\n- Reforma completa.\r\n-Terraza de 30m2\r\n- La vivienda dispone de 3 habitaciones y 1 baño, perfecto para una familia.\r\n- Funcional comedor con amplio espacio de luz natural, un lugar perfecto para descansar en los ratos libres.\r\n- Con una práctica cocina en muy buen estado y equipada con todo lo necesario.\r\n- Exterior.\r\n\r\nSobre la ubicación, se encuentra en Barcelona.\r\nCon fácil acceso y servicios que facilitarán y mejorarán tu día a día.\r\n\r\n\r\nUNICA POR ZONA Y REFORMA\r\nNo lo dudes más y contacta con nosotros.\r\n\r\nSobre nosotros:\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
+    "tags": [
+      23,
+      25,
+      31,
+      32
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Eixample",
+    "neighborhoodLocationName": "La Sagrada Família",
+    "streetName": "CL PROVENÇA, 503",
+    "streetNumber": "503",
+    "floor": "PR",
+    "door": "03",
+    "floorDoorLabel": "",
+    "latitude": 41.40729141,
+    "longitude": 2.17790389,
+    "price": {
+      "amount": 31900000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 431081,
+      "currency": "EUR"
+    },
     "isNew": false,
     "isPriceUpdated": false,
     "isReserved": false,
