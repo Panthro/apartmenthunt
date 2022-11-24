@@ -1,4 +1,131 @@
 {
+  "24ec8c07-fc4d-460a-84f1-b52c78ef8430": {
+    "uuid": "24ec8c07-fc4d-460a-84f1-b52c78ef8430",
+    "providerCode": "housfy",
+    "providerPropertyId": 568586,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-ramon-turro-568586",
+    "providerPropertyTitle": "Fabuloso piso en Sant Martí",
+    "publishedDate": "2022-10-10T18:52:52Z",
+    "relevance": 1669310627,
+    "typeId": 2,
+    "typeCode": "piso",
+    "reservedDate": "2022-05-26T07:03:01Z",
+    "locationId": 1794,
+    "sizes": {
+      "size": 78,
+      "sizeBuiltWithoutCommonElements": 78,
+      "sizeBuilt": 78,
+      "sizeUseful": 78
+    },
+    "size": 78,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/568586/568586-housfy-20220413-xyWTboc7Q4-420x280.jpg"
+    ],
+    "numberOfBedrooms": 2,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "Fabuloso piso en Poblenou\r\n\r\nHousfy, compraventa entre particulares. \r\n\r\nDe particular a particular en Poblenou Barcelona, un espacio para disfrutar en tu día a día.\r\nConstruido en el año 1890. Consta de 78 m2.\r\n\r\nCaracterísticas:\r\n\r\n- Fenomenal piso de 78 m2 en El Poblenou, techos altos con vigas de madera y obra vista.\r\n- La vivienda dispone de 2 habitaciones, una doble exterior con balcón y con vestidor amplio, y la segunda es amplia con espacio para escritorio.\r\n- Cálido salón-comedor amplio y luminoso, donde conecta con una cocina equipada ubicada frente a galería y gran ventanal con orientación este, donde tienes mucha luz y sol directo. \r\n- La distribución del piso aprovecha de la mejor forma los espacios, también dándole amplitud ya que es exterior a calle y a patio amplio típico del mismo barrio.  \r\n\r\n* Las imágenes que se muestran en el anuncio forman parte de un proyecto de reforma ya empezado. \r\n\r\n* El inmueble se entrega sin amueblar.\r\n\r\nRespecto a la ubicación, se encuentra en Barcelona. Con fácil acceso y servicios que facilitarán y mejorarán tu día a día.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
+    "tags": [
+      23,
+      25,
+      26,
+      33
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Sant Martí",
+    "neighborhoodLocationName": "El Poblenou",
+    "streetName": "Carrer de Ramon Turró",
+    "streetNumber": "142",
+    "floor": "02",
+    "door": "01",
+    "floorDoorLabel": "",
+    "latitude": 41.39651871,
+    "longitude": 2.1987114,
+    "price": {
+      "amount": 33400000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 428205,
+      "currency": "EUR"
+    },
+    "priceChangePercentage": "-1.47",
+    "isNew": false,
+    "isPriceUpdated": true,
+    "isReserved": false,
+    "isSold": false
+  },
+  "b38ae62b-975b-48e1-954b-13b66a473e2b": {
+    "uuid": "b38ae62b-975b-48e1-954b-13b66a473e2b",
+    "providerCode": "housfy",
+    "providerPropertyId": 641954,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/calle-dos-de-maig-641954",
+    "providerPropertyTitle": "Fabuloso piso con balcón en l\u0027Eixample",
+    "publishedDate": "2022-11-10T15:00:19Z",
+    "relevance": 1669310558,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1748,
+    "sizes": {
+      "size": 42,
+      "sizeBuiltWithoutCommonElements": 42,
+      "sizeBuilt": 45,
+      "sizeUseful": 45
+    },
+    "size": 42,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/641954/641954-housfy-20221110-QUwjWntMUo-420x280.jpg"
+    ],
+    "numberOfBedrooms": 1,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "Fabuloso piso con balcón en l\u0027Eixample.\r\n\r\nHousfy sin intermediarios.\r\n\r\nHomy vende piso a estrenar en l\u0027Eixample, Barcelona, perfecto para familias o parejas que busquen un lugar cómodo para su día a día.\r\nEste acogedor piso fue construido en el año 1890 en Barcelona. Sus 45 m2 están perfectamente distribuidos, creando un amplio y abierto espacio con mucha luz y con un diseño muy especial.\r\n\r\nDetalles del inmueble:\r\n\r\n- Acogedor piso de 45 m2 en La Sagrada Família. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Podemos disfrutar de 1 habitación y 1 baño.\r\n- Cálido salón-comedor amplio y luminoso, siendo además, un espacio agradable y estupendo para visitas de amigos y familiares.\r\n- Parquet.\r\n- Con una práctica cocina en perfecto estado y equipada con todo lo necesario. Con lavadero.\r\n- Exterior.\r\n- Balcón.\r\n\r\nSobre la localización, se sitúa en Barcelona (Barcelona).\r\nCon fácil acceso y servicios que facilitarán y mejorarán tu día a día.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
+    "tags": [
+      23,
+      25
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Eixample",
+    "neighborhoodLocationName": "La Sagrada Família",
+    "streetName": "Calle Dos de Maig",
+    "streetNumber": "239",
+    "floor": "02",
+    "door": "03",
+    "floorDoorLabel": "",
+    "latitude": 41.40700912,
+    "longitude": 2.18173671,
+    "price": {
+      "amount": 22400000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 533333,
+      "currency": "EUR"
+    },
+    "priceChangePercentage": "-2.18",
+    "isNew": true,
+    "isPriceUpdated": true,
+    "isReserved": false,
+    "isSold": false
+  },
   "0f146f51-857d-4184-a0e4-08d1290a0e3f": {
     "uuid": "0f146f51-857d-4184-a0e4-08d1290a0e3f",
     "providerCode": "housfy",
@@ -57,71 +184,6 @@
       "currency": "EUR"
     },
     "priceChangePercentage": "-8.82",
-    "isNew": false,
-    "isPriceUpdated": true,
-    "isReserved": false,
-    "isSold": false
-  },
-  "24ec8c07-fc4d-460a-84f1-b52c78ef8430": {
-    "uuid": "24ec8c07-fc4d-460a-84f1-b52c78ef8430",
-    "providerCode": "housfy",
-    "providerPropertyId": 568586,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-ramon-turro-568586",
-    "providerPropertyTitle": "Fabuloso piso en Sant Martí",
-    "publishedDate": "2022-10-10T18:52:52Z",
-    "relevance": 1668498732,
-    "typeId": 2,
-    "typeCode": "piso",
-    "reservedDate": "2022-05-26T07:03:01Z",
-    "locationId": 1794,
-    "sizes": {
-      "size": 78,
-      "sizeBuiltWithoutCommonElements": 78,
-      "sizeBuilt": 78,
-      "sizeUseful": 78
-    },
-    "size": 78,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/568586/568586-housfy-20220413-xyWTboc7Q4-420x280.jpg"
-    ],
-    "numberOfBedrooms": 2,
-    "numberOfBathrooms": 1,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "sale",
-    "isVisible": true,
-    "description": "Fabuloso piso en Poblenou\r\n\r\nHousfy, compraventa entre particulares. \r\n\r\nDe particular a particular en Poblenou Barcelona, un espacio para disfrutar en tu día a día.\r\nConstruido en el año 1890. Consta de 78 m2.\r\n\r\nCaracterísticas:\r\n\r\n- Fenomenal piso de 78 m2 en El Poblenou, techos altos con vigas de madera y obra vista.\r\n- La vivienda dispone de 2 habitaciones, una doble exterior con balcón y con vestidor amplio, y la segunda es amplia con espacio para escritorio.\r\n- Cálido salón-comedor amplio y luminoso, donde conecta con una cocina equipada ubicada frente a galería y gran ventanal con orientación este, donde tienes mucha luz y sol directo. \r\n- La distribución del piso aprovecha de la mejor forma los espacios, también dándole amplitud ya que es exterior a calle y a patio amplio típico del mismo barrio.  \r\n\r\n* Las imágenes que se muestran en el anuncio forman parte de un proyecto de reforma ya empezado. \r\n\r\n* El inmueble se entrega sin amueblar.\r\n\r\nRespecto a la ubicación, se encuentra en Barcelona. Con fácil acceso y servicios que facilitarán y mejorarán tu día a día.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
-    "tags": [
-      23,
-      25,
-      26,
-      33
-    ],
-    "canScheduleVisits": false,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Sant Martí",
-    "neighborhoodLocationName": "El Poblenou",
-    "streetName": "Carrer de Ramon Turró",
-    "streetNumber": "142",
-    "floor": "02",
-    "door": "01",
-    "floorDoorLabel": "",
-    "latitude": 41.39651871,
-    "longitude": 2.1987114,
-    "price": {
-      "amount": 33900000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 434615,
-      "currency": "EUR"
-    },
-    "priceChangePercentage": "3.35",
     "isNew": false,
     "isPriceUpdated": true,
     "isReserved": false,
@@ -186,68 +248,6 @@
     },
     "priceChangePercentage": "-8",
     "isNew": false,
-    "isPriceUpdated": true,
-    "isReserved": false,
-    "isSold": false
-  },
-  "b38ae62b-975b-48e1-954b-13b66a473e2b": {
-    "uuid": "b38ae62b-975b-48e1-954b-13b66a473e2b",
-    "providerCode": "housfy",
-    "providerPropertyId": 641954,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/calle-dos-de-maig-641954",
-    "providerPropertyTitle": "Fabuloso piso con balcón en l\u0027Eixample",
-    "publishedDate": "2022-11-10T15:00:19Z",
-    "relevance": 1668092879,
-    "typeId": 2,
-    "typeCode": "piso",
-    "locationId": 1748,
-    "sizes": {
-      "size": 42,
-      "sizeBuiltWithoutCommonElements": 42,
-      "sizeBuilt": 45,
-      "sizeUseful": 45
-    },
-    "size": 42,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/641954/641954-housfy-20221110-QUwjWntMUo-420x280.jpg"
-    ],
-    "numberOfBedrooms": 1,
-    "numberOfBathrooms": 1,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "sale",
-    "isVisible": true,
-    "description": "Fabuloso piso con balcón en l\u0027Eixample.\r\n\r\nHousfy sin intermediarios.\r\n\r\nHomy vende piso a estrenar en l\u0027Eixample, Barcelona, perfecto para familias o parejas que busquen un lugar cómodo para su día a día.\r\nEste acogedor piso fue construido en el año 1890 en Barcelona. Sus 45 m2 están perfectamente distribuidos, creando un amplio y abierto espacio con mucha luz y con un diseño muy especial.\r\n\r\nDetalles del inmueble:\r\n\r\n- Acogedor piso de 45 m2 en La Sagrada Família. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Podemos disfrutar de 1 habitación y 1 baño.\r\n- Cálido salón-comedor amplio y luminoso, siendo además, un espacio agradable y estupendo para visitas de amigos y familiares.\r\n- Parquet.\r\n- Con una práctica cocina en perfecto estado y equipada con todo lo necesario. Con lavadero.\r\n- Exterior.\r\n- Balcón.\r\n\r\nSobre la localización, se sitúa en Barcelona (Barcelona).\r\nCon fácil acceso y servicios que facilitarán y mejorarán tu día a día.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
-    "tags": [
-      23,
-      25
-    ],
-    "canScheduleVisits": false,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Eixample",
-    "neighborhoodLocationName": "La Sagrada Família",
-    "streetName": "Calle Dos de Maig",
-    "streetNumber": "239",
-    "floor": "02",
-    "door": "03",
-    "floorDoorLabel": "",
-    "latitude": 41.40700912,
-    "longitude": 2.18173671,
-    "price": {
-      "amount": 22900000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 545238,
-      "currency": "EUR"
-    },
-    "priceChangePercentage": "11.83",
-    "isNew": true,
     "isPriceUpdated": true,
     "isReserved": false,
     "isSold": false
