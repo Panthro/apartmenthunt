@@ -1,4 +1,68 @@
 {
+  "dcd7e1f2-ec52-484e-983c-a67276970db4": {
+    "uuid": "dcd7e1f2-ec52-484e-983c-a67276970db4",
+    "providerCode": "housfy",
+    "providerPropertyId": 583157,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/gran-via-de-les-corts-catalanes-583157",
+    "providerPropertyTitle": "Perfecto piso con balcón en Sant Martí",
+    "publishedDate": "2022-05-13T15:14:09Z",
+    "relevance": 1669631361,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1797,
+    "sizes": {
+      "size": 71,
+      "sizeBuiltWithoutCommonElements": 71,
+      "sizeBuilt": 71,
+      "sizeUseful": 71
+    },
+    "size": 71,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/583157/583157-housfy-20220510-EUHK2dQixD-420x280.jpg"
+    ],
+    "numberOfBedrooms": 3,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "Perfecto piso con balcón en Sant Martí.\r\n\r\nDe particular a particular con Housfy.\r\n\r\nSe vende piso directamente del propietario en Sant Martí, Barcelona, un espacio para disfrutar en tu día a día.\r\nEste piso fue construido en el año 1975. Consta de 71 m2.\r\n\r\nCaracterísticas:\r\n\r\n- Fantástico piso de 71 m2 en Provençals del Poblenou. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Podemos disfrutar de 3 habitaciones y 1 baño, perfecto para una familia.\r\n- Coqueto comedor con amplio espacio de luz natural, un lugar perfecto para descansar en los ratos libres.\r\n- Con una conveniente cocina en buen estado y equipada con todo lo necesario.\r\n- Balcón.\r\n- Exterior y muy luminoso.\r\n\r\nSobre la ubicación, se sitúa en Barcelona. Con todos los servicios que puedas necesitar para facilitar tus días en todo momento.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
+    "tags": [
+      23,
+      26,
+      31,
+      32
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Sant Martí",
+    "neighborhoodLocationName": "Provençals del Poblenou",
+    "streetName": "Gran Via de les Corts Catalanes",
+    "streetNumber": "1084",
+    "floor": "08",
+    "door": "05",
+    "floorDoorLabel": "",
+    "latitude": 41.41532898,
+    "longitude": 2.20387816,
+    "price": {
+      "amount": 23900000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 336619,
+      "currency": "EUR"
+    },
+    "priceChangePercentage": "-7.72",
+    "isNew": false,
+    "isPriceUpdated": true,
+    "isReserved": false,
+    "isSold": false
+  },
   "24ec8c07-fc4d-460a-84f1-b52c78ef8430": {
     "uuid": "24ec8c07-fc4d-460a-84f1-b52c78ef8430",
     "providerCode": "housfy",
@@ -377,70 +441,6 @@
     "isReserved": false,
     "isSold": false
   },
-  "dcd7e1f2-ec52-484e-983c-a67276970db4": {
-    "uuid": "dcd7e1f2-ec52-484e-983c-a67276970db4",
-    "providerCode": "housfy",
-    "providerPropertyId": 583157,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/gran-via-de-les-corts-catalanes-583157",
-    "providerPropertyTitle": "Perfecto piso con balcón en Sant Martí",
-    "publishedDate": "2022-05-13T15:14:09Z",
-    "relevance": 400,
-    "typeId": 2,
-    "typeCode": "piso",
-    "locationId": 1797,
-    "sizes": {
-      "size": 71,
-      "sizeBuiltWithoutCommonElements": 71,
-      "sizeBuilt": 71,
-      "sizeUseful": 71
-    },
-    "size": 71,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/583157/583157-housfy-20220510-EUHK2dQixD-420x280.jpg"
-    ],
-    "numberOfBedrooms": 3,
-    "numberOfBathrooms": 1,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "sale",
-    "isVisible": true,
-    "description": "Perfecto piso con balcón en Sant Martí.\r\n\r\nDe particular a particular con Housfy.\r\n\r\nSe vende piso directamente del propietario en Sant Martí, Barcelona, un espacio para disfrutar en tu día a día.\r\nEste piso fue construido en el año 1975. Consta de 71 m2.\r\n\r\nCaracterísticas:\r\n\r\n- Fantástico piso de 71 m2 en Provençals del Poblenou. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Podemos disfrutar de 3 habitaciones y 1 baño, perfecto para una familia.\r\n- Coqueto comedor con amplio espacio de luz natural, un lugar perfecto para descansar en los ratos libres.\r\n- Con una conveniente cocina en buen estado y equipada con todo lo necesario.\r\n- Balcón.\r\n- Exterior y muy luminoso.\r\n\r\nSobre la ubicación, se sitúa en Barcelona. Con todos los servicios que puedas necesitar para facilitar tus días en todo momento.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
-    "tags": [
-      23,
-      26,
-      31,
-      32
-    ],
-    "canScheduleVisits": false,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Sant Martí",
-    "neighborhoodLocationName": "Provençals del Poblenou",
-    "streetName": "Gran Via de les Corts Catalanes",
-    "streetNumber": "1084",
-    "floor": "08",
-    "door": "05",
-    "floorDoorLabel": "",
-    "latitude": 41.41532898,
-    "longitude": 2.20387816,
-    "price": {
-      "amount": 25900000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 364788,
-      "currency": "EUR"
-    },
-    "priceChangePercentage": "-3.36",
-    "isNew": false,
-    "isPriceUpdated": false,
-    "isReserved": false,
-    "isSold": false
-  },
   "11196a1a-b97d-405d-9b6d-f7ab1e625c4a": {
     "uuid": "11196a1a-b97d-405d-9b6d-f7ab1e625c4a",
     "providerCode": "housfy",
@@ -562,68 +562,6 @@
       "currency": "EUR"
     },
     "priceChangePercentage": "-5.77",
-    "isNew": false,
-    "isPriceUpdated": false,
-    "isReserved": false,
-    "isSold": false
-  },
-  "cbd8dd33-1e7e-448d-85f2-66ef106c877d": {
-    "uuid": "cbd8dd33-1e7e-448d-85f2-66ef106c877d",
-    "providerCode": "housfy",
-    "providerPropertyId": 641429,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/cl-badajoz-26-641429",
-    "providerPropertyTitle": "Fabulosa vivienda en El Poblenou a 200m de la playa",
-    "publishedDate": "2022-11-09T08:54:22Z",
-    "relevance": 200,
-    "typeId": 2,
-    "typeCode": "piso",
-    "locationId": 1794,
-    "sizes": {
-      "size": 44,
-      "sizeBuiltWithoutCommonElements": 44,
-      "sizeBuilt": 44,
-      "sizeUseful": 44
-    },
-    "size": 44,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/641429/641429-housfy-20221108-oc2Iy6Xko5-420x280.jpg"
-    ],
-    "numberOfBedrooms": 1,
-    "numberOfBathrooms": 1,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "sale",
-    "isVisible": true,
-    "description": "Fabulosa vivienda en El Poblenou a 200m de la playa \r\n\r\nPiso de particular a particular reformado a estrenar en Barcelona, una vivienda luminosa y ubicada en un entorno idóneo para disfrutarlo.\r\n\r\nCaracterísticas:\r\n\r\n- Fenomenal piso de 44 m2 en Poblenou. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- En este piso encontraremos 1 habitación y 1 baño, perfecto para una familia.\r\n- Cálido salón que te proporcionará el relax diario, siendo además, un espacio agradable y estupendo para visitas de amigos y familiares.\r\n- Con una útil cocina equipada con lo necesario para el día a día.\r\n- Reformado a estrenar\r\n- Muy soleado.\r\n- Balcón.\r\n- Parquet.\r\n- Exterior.\r\n\r\n\r\nNota: Las imágenes del anuncio son renders que muestran cómo quedará la reforma completada. En el precio de venta no se incluye el mobiliario.\r\n\r\nLa localización de el piso se sitúa en Barcelona.\r\nUna vivienda ideal para aquellos que quieran un cómodo espacio donde vivir con todo lo necesario del día a día a un paso de su casa.\r\n\r\nLa vivienda se entrega totalmente reformada y lista para entrar a vivir.\r\nNo lo dudes más y contacta con nosotros.",
-    "tags": [
-      25,
-      29
-    ],
-    "canScheduleVisits": false,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Sant Martí",
-    "neighborhoodLocationName": "El Poblenou",
-    "streetName": "CL BADAJOZ, 26",
-    "streetNumber": "26",
-    "floor": "02",
-    "door": "04",
-    "floorDoorLabel": "",
-    "latitude": 41.39549255,
-    "longitude": 2.19988871,
-    "price": {
-      "amount": 22900000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 520454,
-      "currency": "EUR"
-    },
-    "priceChangePercentage": "-17.92",
     "isNew": false,
     "isPriceUpdated": false,
     "isReserved": false,
@@ -751,6 +689,68 @@
       "amount": 431081,
       "currency": "EUR"
     },
+    "isNew": false,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
+  },
+  "cbd8dd33-1e7e-448d-85f2-66ef106c877d": {
+    "uuid": "cbd8dd33-1e7e-448d-85f2-66ef106c877d",
+    "providerCode": "housfy",
+    "providerPropertyId": 641429,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/cl-badajoz-26-641429",
+    "providerPropertyTitle": "Fabulosa vivienda en El Poblenou a 200m de la playa",
+    "publishedDate": "2022-11-09T08:54:22Z",
+    "relevance": 200,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1794,
+    "sizes": {
+      "size": 44,
+      "sizeBuiltWithoutCommonElements": 44,
+      "sizeBuilt": 44,
+      "sizeUseful": 44
+    },
+    "size": 44,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/641429/641429-housfy-20221108-oc2Iy6Xko5-420x280.jpg"
+    ],
+    "numberOfBedrooms": 1,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "Fabulosa vivienda en El Poblenou a 200m de la playa \r\n\r\nPiso de particular a particular reformado a estrenar en Barcelona, una vivienda luminosa y ubicada en un entorno idóneo para disfrutarlo.\r\n\r\nCaracterísticas:\r\n\r\n- Fenomenal piso de 44 m2 en Poblenou. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- En este piso encontraremos 1 habitación y 1 baño, perfecto para una familia.\r\n- Cálido salón que te proporcionará el relax diario, siendo además, un espacio agradable y estupendo para visitas de amigos y familiares.\r\n- Con una útil cocina equipada con lo necesario para el día a día.\r\n- Reformado a estrenar\r\n- Muy soleado.\r\n- Balcón.\r\n- Parquet.\r\n- Exterior.\r\n\r\n\r\nNota: Las imágenes del anuncio son renders que muestran cómo quedará la reforma completada. En el precio de venta no se incluye el mobiliario.\r\n\r\nLa localización de el piso se sitúa en Barcelona.\r\nUna vivienda ideal para aquellos que quieran un cómodo espacio donde vivir con todo lo necesario del día a día a un paso de su casa.\r\n\r\nLa vivienda se entrega totalmente reformada y lista para entrar a vivir.\r\nNo lo dudes más y contacta con nosotros.",
+    "tags": [
+      25,
+      29
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Sant Martí",
+    "neighborhoodLocationName": "El Poblenou",
+    "streetName": "CL BADAJOZ, 26",
+    "streetNumber": "26",
+    "floor": "02",
+    "door": "04",
+    "floorDoorLabel": "",
+    "latitude": 41.39549255,
+    "longitude": 2.19988871,
+    "price": {
+      "amount": 22900000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 520454,
+      "currency": "EUR"
+    },
+    "priceChangePercentage": "-17.92",
     "isNew": false,
     "isPriceUpdated": false,
     "isReserved": false,
