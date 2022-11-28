@@ -1,4 +1,66 @@
 {
+  "26d95a72-c162-46ba-86e9-1165789bbc6b": {
+    "uuid": "26d95a72-c162-46ba-86e9-1165789bbc6b",
+    "providerCode": "housfy",
+    "providerPropertyId": 645560,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/cl-mallorca-645560",
+    "providerPropertyTitle": "Perfecto piso en Sant Martí",
+    "publishedDate": "2022-11-28T15:31:49Z",
+    "relevance": 1669650382,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1791,
+    "sizes": {
+      "size": 53,
+      "sizeBuiltWithoutCommonElements": 53,
+      "sizeBuilt": 57,
+      "sizeUseful": 57
+    },
+    "size": 53,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/645560/645560-housfy-20221128-3j4K9hKlhr-420x280.jpg"
+    ],
+    "numberOfBedrooms": 3,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "¡ Lo encontraste !\r\n\r\nPiso reformado y a estrenar en finca regia de calle Mallorca, en Eixample Esquerra.\r\n\r\nLa reforma ha redistribuido los espacios, dándole un toque moderno y maximizando el confort del piso.\r\n\r\nDetalles del inmueble:\r\n\r\n- 57m2 construidos ( verificados con la Dirección General de Catastro)\r\n- 3 habitaciones amplias y 1 baño\r\n- Con ascensor, última planta del edificio.\r\n- Reforma completa, a estrenar y con 1 año de garantía.\r\n- Funcional comedor - cocina con amplio espacio de luz natural, un lugar perfecto para descansar en los ratos libres.\r\n- Con una práctica cocina equipada con todo lo necesario.\r\n- Exterior a patio de manzana.\r\n- En finca regia. \r\n\r\nCon fácil acceso y servicios que facilitarán y mejorarán tu día a día.\r\n\r\nUNICO POR ZONA Y REFORMA\r\n\r\n¡Mañana puede ser tarde! Si te gusta no lo dudes más y contacta con nosotros.\r\n\r\nNota: Las imágenes del anuncio son renders que muestran cómo quedará la reforma completada. En el precio de venta no se incluye el mobiliario ni los gastos de compraventa.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
+    "tags": [
+      25,
+      29
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Sant Martí",
+    "neighborhoodLocationName": "El Camp de l\u0027Arpa del Clot",
+    "streetName": "CL MALLORCA",
+    "streetNumber": "532",
+    "floor": "04",
+    "door": "03",
+    "floorDoorLabel": "",
+    "latitude": 41.40816116,
+    "longitude": 2.18215156,
+    "price": {
+      "amount": 23900000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 450943,
+      "currency": "EUR"
+    },
+    "priceChangePercentage": "8.64",
+    "isNew": true,
+    "isPriceUpdated": true,
+    "isReserved": false,
+    "isSold": false
+  },
   "dcd7e1f2-ec52-484e-983c-a67276970db4": {
     "uuid": "dcd7e1f2-ec52-484e-983c-a67276970db4",
     "providerCode": "housfy",
@@ -162,7 +224,8 @@
     "description": "Fabuloso piso con balcón en l\u0027Eixample.\r\n\r\nHousfy sin intermediarios.\r\n\r\nHomy vende piso a estrenar en l\u0027Eixample, Barcelona, perfecto para familias o parejas que busquen un lugar cómodo para su día a día.\r\nEste acogedor piso fue construido en el año 1890 en Barcelona. Sus 45 m2 están perfectamente distribuidos, creando un amplio y abierto espacio con mucha luz y con un diseño muy especial.\r\n\r\nDetalles del inmueble:\r\n\r\n- Acogedor piso de 45 m2 en La Sagrada Família. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Podemos disfrutar de 1 habitación y 1 baño.\r\n- Cálido salón-comedor amplio y luminoso, siendo además, un espacio agradable y estupendo para visitas de amigos y familiares.\r\n- Parquet.\r\n- Con una práctica cocina en perfecto estado y equipada con todo lo necesario. Con lavadero.\r\n- Exterior.\r\n- Balcón.\r\n\r\nSobre la localización, se sitúa en Barcelona (Barcelona).\r\nCon fácil acceso y servicios que facilitarán y mejorarán tu día a día.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
     "tags": [
       23,
-      25
+      25,
+      26
     ],
     "canScheduleVisits": false,
     "stateLocationName": "Barcelona",
@@ -313,68 +376,6 @@
     "priceChangePercentage": "-8",
     "isNew": false,
     "isPriceUpdated": true,
-    "isReserved": false,
-    "isSold": false
-  },
-  "a34d459a-b742-4eda-a68e-031fe13f6d78": {
-    "uuid": "a34d459a-b742-4eda-a68e-031fe13f6d78",
-    "providerCode": "housfy",
-    "providerPropertyId": 641965,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-padilla-641965",
-    "providerPropertyTitle": "Fenomenal piso con balcón en l\u0027Eixample",
-    "publishedDate": "2022-11-10T15:02:54Z",
-    "relevance": 1668092574,
-    "typeId": 2,
-    "typeCode": "piso",
-    "locationId": 1748,
-    "sizes": {
-      "size": 68,
-      "sizeBuiltWithoutCommonElements": 68,
-      "sizeBuilt": 68,
-      "sizeUseful": 68
-    },
-    "size": 68,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/641965/641965-housfy-20221110-ArfpslgsJr-420x280.jpg"
-    ],
-    "numberOfBedrooms": 3,
-    "numberOfBathrooms": 1,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "sale",
-    "isVisible": true,
-    "description": "Fenomenal piso con balcón en l\u0027Eixample.\r\n\r\nDe particular a particular con Housfy.\r\n\r\nHomy vende piso a estrenar en l\u0027Eixample, Barcelona, una vivienda luminosa y ubicada en un entorno idóneo para disfrutarlo.\r\nEste piso fue construido en el año 1930 en La Sagrada Família. Consta de 68 m2 muy bien distribuidos.\r\n\r\nDetalles del inmueble:\r\n\r\n- Encantador piso de 68 m2. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Esta vivienda cuenta con 3 habitaciones y 1 baño, perfecto para una familia.\r\n- Funcional salón-comedor amplio y luminoso, creando un precioso y único espacio.\r\n- Balcón.\r\n- Con una ventajosa cocina en perfecto estado y equipada con todo lo necesario.\r\n- El confort está garantizado ya que dispone de aire acondicionado y calefacción.\r\n- Ascensor.\r\n- Exterior.\r\n- Parquet.\r\n\r\n\r\nNota: Las imágenes del anuncio son renders que muestran cómo quedará la reforma completada. En el precio de venta no se incluye el mobiliario.\r\n\r\n\r\n\r\nSobre la localización, se encuentra en Barcelona.\r\nCon todos los servicios que puedas necesitar para facilitar tus días en todo momento.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
-    "tags": [
-      23,
-      25,
-      31
-    ],
-    "canScheduleVisits": false,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Eixample",
-    "neighborhoodLocationName": "La Sagrada Família",
-    "streetName": "Carrer de Padilla",
-    "streetNumber": "219",
-    "floor": "PR",
-    "door": "04",
-    "floorDoorLabel": "",
-    "latitude": 41.40383911,
-    "longitude": 2.17925596,
-    "price": {
-      "amount": 33900000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 498529,
-      "currency": "EUR"
-    },
-    "isNew": false,
-    "isPriceUpdated": false,
     "isReserved": false,
     "isSold": false
   },
@@ -567,6 +568,70 @@
     "isReserved": false,
     "isSold": false
   },
+  "64a8d187-a1be-4af3-9045-ffac1f52e8ad": {
+    "uuid": "64a8d187-a1be-4af3-9045-ffac1f52e8ad",
+    "providerCode": "housfy",
+    "providerPropertyId": 630825,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-valencia-630825",
+    "providerPropertyTitle": "Encantador piso con terraza en l\u0027Eixample",
+    "publishedDate": "2022-10-26T07:54:03Z",
+    "relevance": 200,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1748,
+    "sizes": {
+      "size": 90,
+      "sizeBuiltWithoutCommonElements": 90,
+      "sizeBuilt": 90,
+      "sizeUseful": 90
+    },
+    "size": 90,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/630825/630825-housfy-20221025-nTxbHj8L5p-420x280.jpg"
+    ],
+    "numberOfBedrooms": 2,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "Encantador piso con terraza en l\u0027Eixample.\r\n\r\nSe vende piso en Eixample, Sagrada Familia, perfecto para familias o parejas que busquen un lugar cómodo para su día a día.\r\nEl encantador piso fue construido en el 1957 en La Sagrada Familia, zona muy buen comunicada, barrio tranquilo y piso para entrar a vivir\r\n\r\nCaracterísticas:\r\n\r\n- Acogedor piso REFORMADO de 70 m² en La Sagrada Familia. (Los metros cuadrados están verificados con la Escritura)\r\n- Podemos disfrutar de 2 habitaciones, antes 3, y 1 baño completo.\r\n- Amplio comedor de 24 m²  todo exterior con salida a terraza de 13 m², creando un precioso y único espacio.\r\n- Con una ventajosa cocina en muy buen estado y equipada con todo lo necesario con salida a galería de 6 m².\r\n- Dispone de calefacción en todas las estancias, aire acondicionado, suelos de parqué, ventanas de aluminio doble vidrio..\r\n\r\nSituado cerca de la Sagrada Familia, Avinguda Gaudí, una vivienda ideal para aquellos que quieran un cómodo espacio donde vivir con todo lo necesario del día a día a un paso de su casa.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
+    "tags": [
+      23,
+      26,
+      31,
+      32
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Eixample",
+    "neighborhoodLocationName": "La Sagrada Família",
+    "streetName": "Carrer de València",
+    "streetNumber": "493",
+    "floor": "01",
+    "door": "04",
+    "floorDoorLabel": "",
+    "latitude": 41.40494537,
+    "longitude": 2.17907715,
+    "price": {
+      "amount": 29900000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 332222,
+      "currency": "EUR"
+    },
+    "priceChangePercentage": "-6.56",
+    "isNew": false,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
+  },
   "1a6e7b54-6a92-4da6-8bab-63f1fed512b9": {
     "uuid": "1a6e7b54-6a92-4da6-8bab-63f1fed512b9",
     "providerCode": "housfy",
@@ -602,6 +667,7 @@
     "tags": [
       23,
       25,
+      26,
       31,
       32
     ],
@@ -664,6 +730,7 @@
     "description": "Fabulosa vivienda en El Poblenou a 200m de la playa \r\n\r\nPiso de particular a particular reformado a estrenar en Barcelona, una vivienda luminosa y ubicada en un entorno idóneo para disfrutarlo.\r\n\r\nCaracterísticas:\r\n\r\n- Fenomenal piso de 44 m2 en Poblenou. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- En este piso encontraremos 1 habitación y 1 baño, perfecto para una familia.\r\n- Cálido salón que te proporcionará el relax diario, siendo además, un espacio agradable y estupendo para visitas de amigos y familiares.\r\n- Con una útil cocina equipada con lo necesario para el día a día.\r\n- Reformado a estrenar\r\n- Muy soleado.\r\n- Balcón.\r\n- Parquet.\r\n- Exterior.\r\n\r\n\r\nNota: Las imágenes del anuncio son renders que muestran cómo quedará la reforma completada. En el precio de venta no se incluye el mobiliario.\r\n\r\nLa localización de el piso se sitúa en Barcelona.\r\nUna vivienda ideal para aquellos que quieran un cómodo espacio donde vivir con todo lo necesario del día a día a un paso de su casa.\r\n\r\nLa vivienda se entrega totalmente reformada y lista para entrar a vivir.\r\nNo lo dudes más y contacta con nosotros.",
     "tags": [
       25,
+      26,
       29
     ],
     "canScheduleVisits": false,
@@ -692,28 +759,28 @@
     "isReserved": false,
     "isSold": false
   },
-  "64a8d187-a1be-4af3-9045-ffac1f52e8ad": {
-    "uuid": "64a8d187-a1be-4af3-9045-ffac1f52e8ad",
+  "a34d459a-b742-4eda-a68e-031fe13f6d78": {
+    "uuid": "a34d459a-b742-4eda-a68e-031fe13f6d78",
     "providerCode": "housfy",
-    "providerPropertyId": 630825,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-valencia-630825",
-    "providerPropertyTitle": "Encantador piso con terraza en l\u0027Eixample",
-    "publishedDate": "2022-10-26T07:54:03Z",
+    "providerPropertyId": 641965,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-padilla-641965",
+    "providerPropertyTitle": "Fenomenal piso con balcón en l\u0027Eixample",
+    "publishedDate": "2022-11-10T15:02:54Z",
     "relevance": 200,
     "typeId": 2,
     "typeCode": "piso",
     "locationId": 1748,
     "sizes": {
-      "size": 90,
-      "sizeBuiltWithoutCommonElements": 90,
-      "sizeBuilt": 90,
-      "sizeUseful": 90
+      "size": 68,
+      "sizeBuiltWithoutCommonElements": 68,
+      "sizeBuilt": 68,
+      "sizeUseful": 68
     },
-    "size": 90,
+    "size": 68,
     "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/630825/630825-housfy-20221025-nTxbHj8L5p-420x280.jpg"
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/641965/641965-housfy-20221110-ArfpslgsJr-420x280.jpg"
     ],
-    "numberOfBedrooms": 2,
+    "numberOfBedrooms": 3,
     "numberOfBathrooms": 1,
     "userName": "Housfy Real Estate",
     "userPhone": {
@@ -723,34 +790,33 @@
     },
     "operationTypeCode": "sale",
     "isVisible": true,
-    "description": "Encantador piso con terraza en l\u0027Eixample.\r\n\r\nSe vende piso en Eixample, Sagrada Familia, perfecto para familias o parejas que busquen un lugar cómodo para su día a día.\r\nEl encantador piso fue construido en el 1957 en La Sagrada Familia, zona muy buen comunicada, barrio tranquilo y piso para entrar a vivir\r\n\r\nCaracterísticas:\r\n\r\n- Acogedor piso REFORMADO de 70 m² en La Sagrada Familia. (Los metros cuadrados están verificados con la Escritura)\r\n- Podemos disfrutar de 2 habitaciones, antes 3, y 1 baño completo.\r\n- Amplio comedor de 24 m²  todo exterior con salida a terraza de 13 m², creando un precioso y único espacio.\r\n- Con una ventajosa cocina en muy buen estado y equipada con todo lo necesario con salida a galería de 6 m².\r\n- Dispone de calefacción en todas las estancias, aire acondicionado, suelos de parqué, ventanas de aluminio doble vidrio..\r\n\r\nSituado cerca de la Sagrada Familia, Avinguda Gaudí, una vivienda ideal para aquellos que quieran un cómodo espacio donde vivir con todo lo necesario del día a día a un paso de su casa.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
+    "description": "Fenomenal piso con balcón en l\u0027Eixample.\r\n\r\nDe particular a particular con Housfy.\r\n\r\nHomy vende piso a estrenar en l\u0027Eixample, Barcelona, una vivienda luminosa y ubicada en un entorno idóneo para disfrutarlo.\r\nEste piso fue construido en el año 1930 en La Sagrada Família. Consta de 68 m2 muy bien distribuidos.\r\n\r\nDetalles del inmueble:\r\n\r\n- Encantador piso de 68 m2. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Esta vivienda cuenta con 3 habitaciones y 1 baño, perfecto para una familia.\r\n- Funcional salón-comedor amplio y luminoso, creando un precioso y único espacio.\r\n- Balcón.\r\n- Con una ventajosa cocina en perfecto estado y equipada con todo lo necesario.\r\n- El confort está garantizado ya que dispone de aire acondicionado y calefacción.\r\n- Ascensor.\r\n- Exterior.\r\n- Parquet.\r\n\r\n\r\nNota: Las imágenes del anuncio son renders que muestran cómo quedará la reforma completada. En el precio de venta no se incluye el mobiliario.\r\n\r\n\r\n\r\nSobre la localización, se encuentra en Barcelona.\r\nCon todos los servicios que puedas necesitar para facilitar tus días en todo momento.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
     "tags": [
       23,
+      25,
       26,
-      31,
-      32
+      31
     ],
     "canScheduleVisits": false,
     "stateLocationName": "Barcelona",
     "cityLocationName": "Barcelona",
     "districtLocationName": "Eixample",
     "neighborhoodLocationName": "La Sagrada Família",
-    "streetName": "Carrer de València",
-    "streetNumber": "493",
-    "floor": "01",
+    "streetName": "Carrer de Padilla",
+    "streetNumber": "219",
+    "floor": "PR",
     "door": "04",
     "floorDoorLabel": "",
-    "latitude": 41.40494537,
-    "longitude": 2.17907715,
+    "latitude": 41.40383911,
+    "longitude": 2.17925596,
     "price": {
-      "amount": 29900000,
+      "amount": 33900000,
       "currency": "EUR"
     },
     "priceSize": {
-      "amount": 332222,
+      "amount": 498529,
       "currency": "EUR"
     },
-    "priceChangePercentage": "-6.56",
     "isNew": false,
     "isPriceUpdated": false,
     "isReserved": false,
