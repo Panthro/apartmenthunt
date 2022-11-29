@@ -1,67 +1,4 @@
 {
-  "b1babe4a-070e-4591-9385-312d2538a053": {
-    "uuid": "b1babe4a-070e-4591-9385-312d2538a053",
-    "providerCode": "housfy",
-    "providerPropertyId": 642428,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-provenca-642428",
-    "providerPropertyTitle": "Fenomenal piso luminoso en Eixample",
-    "publishedDate": "2022-11-29T10:10:00Z",
-    "relevance": 1669720525,
-    "typeId": 2,
-    "typeCode": "piso",
-    "locationId": 1748,
-    "sizes": {
-      "size": 82,
-      "sizeBuiltWithoutCommonElements": 82,
-      "sizeBuilt": 82,
-      "sizeUseful": 82
-    },
-    "size": 82,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/642428/642428-housfy-20221128-KlJ8OiBJB5-420x280.jpg"
-    ],
-    "numberOfBedrooms": 3,
-    "numberOfBathrooms": 1,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "sale",
-    "isVisible": true,
-    "description": "Fenomenal piso luminoso en Eixample\r\n\r\nHousfy la agencia inmobiliaria con las mejores condiciones hipotecarias.\r\n\r\n¡No pierdas esta gran oportunidad y solicita información sin compromiso alguno!\r\n\r\nSe vende piso en el Eixample, Barcelona, perfecto para familias o parejas que busquen un lugar cómodo para su día a día.\r\nConstruido en el año 1957 en el Eixample Dret rodeada de todos los servicios junto a la emblemática Sagrada Familia. \r\n\r\nDetalles del inmueble:\r\n\r\n- Consta de 82 m2 muy bien distribuidos. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Podemos disfrutar de 3 habitaciones con mucho espacio y 1 baño completo, perfecto para una familia.\r\n- Cómodo comedor amplio y luminoso, un lugar perfecto para descansar en los ratos libres.\r\n- Piso totalmente exterior que aporta mucha luz natural a la vivienda. \r\n- Con una adecuada cocina a reformar. Dispone de cuarto con lavadero.\r\n- Dispone de suelos de parquet, ventanas de aluminio doble vidrio, calefacción.\r\n- Dispone de plaza de parking en finca a 100 mts por 17.000 € adicionales.\r\n- Finca con ascensor y servicio de portería.\r\n\r\nRespecto a la ubicación, se sitúa en Barcelona en el Barrio de Sagrada Familia muy cercano a todo tipo de comercios, hospital de Sant Pau, colegios, CC Les Glorias. \r\nMuy bien comunicado con la línea 5 (Azul) y línea 2 (Morada) parada de Sagrada Familia y con diversas líneas de autobuses.\r\nUna vivienda ideal para aquellos que quieran un cómodo espacio donde vivir con todo lo necesario del día a día a un paso de su casa.\r\n\r\nSobre nosotros:\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
-    "tags": [
-      23,
-      26,
-      31
-    ],
-    "canScheduleVisits": false,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Eixample",
-    "neighborhoodLocationName": "La Sagrada Família",
-    "streetName": "Carrer de Provença",
-    "streetNumber": "504",
-    "floor": "01",
-    "door": "09",
-    "floorDoorLabel": "",
-    "latitude": 41.40651703,
-    "longitude": 2.17770243,
-    "price": {
-      "amount": 28000000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 341463,
-      "currency": "EUR"
-    },
-    "priceChangePercentage": "-20",
-    "isNew": true,
-    "isPriceUpdated": true,
-    "isReserved": false,
-    "isSold": false
-  },
   "26d95a72-c162-46ba-86e9-1165789bbc6b": {
     "uuid": "26d95a72-c162-46ba-86e9-1165789bbc6b",
     "providerCode": "housfy",
@@ -443,69 +380,6 @@
     "isReserved": false,
     "isSold": false
   },
-  "11196a1a-b97d-405d-9b6d-f7ab1e625c4a": {
-    "uuid": "11196a1a-b97d-405d-9b6d-f7ab1e625c4a",
-    "providerCode": "housfy",
-    "providerPropertyId": 541863,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-llull-541863",
-    "providerPropertyTitle": "Espléndido piso en Sant Martí",
-    "publishedDate": "2022-06-21T11:00:44Z",
-    "relevance": 300,
-    "typeId": 2,
-    "typeCode": "piso",
-    "locationId": 1794,
-    "sizes": {
-      "size": 44,
-      "sizeBuiltWithoutCommonElements": 44,
-      "sizeBuilt": 44,
-      "sizeUseful": 44
-    },
-    "size": 44,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/541863/541863-housfy-20220314-IvMsYM7I5L-420x280.jpg"
-    ],
-    "numberOfBedrooms": 2,
-    "numberOfBathrooms": 1,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "sale",
-    "isVisible": true,
-    "description": "Espléndido piso con patio en Sant Martí\r\n\r\n\r\nOportunidad de adquirir magnífico piso con patio privado de 30m2 en Sant Martí, Barcelona. Una vivienda luminosa y ubicada en un entorno idóneo para disfrutarlo. \r\nEl edificio fue construido en 1930 en El Poblenou, con todos los mantenimientos al día. Sus 44 m2 están perfectamente distribuidos, y gozan de muchas posibilidades de reforma.\r\n\r\nDetalles del inmueble:\r\n\r\n- Sensacional piso de 44 m2 y 30m2 de terraza en El Poblenou. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Contamos con todas las comodidades posibles de 2 habitaciones y 1 baño, muy bien acomodadas.\r\n- Coqueto salón-comedor con amplio espacio de luz natural, donde disfrutar de tu familia.\r\n- Con una conveniente cocina.\r\n- Exterior.\r\n- Terraza de 30m2\r\n- Este piso cuenta también con un conveniente trastero.\r\n\r\nSobre la ubicación, se encuentra en Barcelona. Con todos los servicios que puedas necesitar para facilitar tus días en todo momento.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
-    "tags": [
-      23,
-      26,
-      32
-    ],
-    "canScheduleVisits": false,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Sant Martí",
-    "neighborhoodLocationName": "El Poblenou",
-    "streetName": "Carrer de Llull",
-    "streetNumber": "261",
-    "floor": "bj",
-    "door": "03",
-    "floorDoorLabel": "",
-    "latitude": 41.4045105,
-    "longitude": 2.20635605,
-    "price": {
-      "amount": 24900000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 565909,
-      "currency": "EUR"
-    },
-    "priceChangePercentage": "-6.04",
-    "isNew": false,
-    "isPriceUpdated": false,
-    "isReserved": false,
-    "isSold": false
-  },
   "40abba62-c93b-4d3a-9212-cc3415dee1de": {
     "uuid": "40abba62-c93b-4d3a-9212-cc3415dee1de",
     "providerCode": "housfy",
@@ -564,6 +438,69 @@
       "currency": "EUR"
     },
     "priceChangePercentage": "-5.77",
+    "isNew": false,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
+  },
+  "11196a1a-b97d-405d-9b6d-f7ab1e625c4a": {
+    "uuid": "11196a1a-b97d-405d-9b6d-f7ab1e625c4a",
+    "providerCode": "housfy",
+    "providerPropertyId": 541863,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-llull-541863",
+    "providerPropertyTitle": "Espléndido piso en Sant Martí",
+    "publishedDate": "2022-06-21T11:00:44Z",
+    "relevance": 300,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1794,
+    "sizes": {
+      "size": 44,
+      "sizeBuiltWithoutCommonElements": 44,
+      "sizeBuilt": 44,
+      "sizeUseful": 44
+    },
+    "size": 44,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/541863/541863-housfy-20220314-IvMsYM7I5L-420x280.jpg"
+    ],
+    "numberOfBedrooms": 2,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "Espléndido piso con patio en Sant Martí\r\n\r\n\r\nOportunidad de adquirir magnífico piso con patio privado de 30m2 en Sant Martí, Barcelona. Una vivienda luminosa y ubicada en un entorno idóneo para disfrutarlo. \r\nEl edificio fue construido en 1930 en El Poblenou, con todos los mantenimientos al día. Sus 44 m2 están perfectamente distribuidos, y gozan de muchas posibilidades de reforma.\r\n\r\nDetalles del inmueble:\r\n\r\n- Sensacional piso de 44 m2 y 30m2 de terraza en El Poblenou. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Contamos con todas las comodidades posibles de 2 habitaciones y 1 baño, muy bien acomodadas.\r\n- Coqueto salón-comedor con amplio espacio de luz natural, donde disfrutar de tu familia.\r\n- Con una conveniente cocina.\r\n- Exterior.\r\n- Terraza de 30m2\r\n- Este piso cuenta también con un conveniente trastero.\r\n\r\nSobre la ubicación, se encuentra en Barcelona. Con todos los servicios que puedas necesitar para facilitar tus días en todo momento.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
+    "tags": [
+      23,
+      26,
+      32
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Sant Martí",
+    "neighborhoodLocationName": "El Poblenou",
+    "streetName": "Carrer de Llull",
+    "streetNumber": "261",
+    "floor": "bj",
+    "door": "03",
+    "floorDoorLabel": "",
+    "latitude": 41.4045105,
+    "longitude": 2.20635605,
+    "price": {
+      "amount": 24900000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 565909,
+      "currency": "EUR"
+    },
+    "priceChangePercentage": "-6.04",
     "isNew": false,
     "isPriceUpdated": false,
     "isReserved": false,
