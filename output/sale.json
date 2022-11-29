@@ -1,4 +1,67 @@
 {
+  "b1babe4a-070e-4591-9385-312d2538a053": {
+    "uuid": "b1babe4a-070e-4591-9385-312d2538a053",
+    "providerCode": "housfy",
+    "providerPropertyId": 642428,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-provenca-642428",
+    "providerPropertyTitle": "Fenomenal piso luminoso en Eixample",
+    "publishedDate": "2022-11-29T10:10:00Z",
+    "relevance": 1669720525,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1748,
+    "sizes": {
+      "size": 82,
+      "sizeBuiltWithoutCommonElements": 82,
+      "sizeBuilt": 82,
+      "sizeUseful": 82
+    },
+    "size": 82,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/642428/642428-housfy-20221128-KlJ8OiBJB5-420x280.jpg"
+    ],
+    "numberOfBedrooms": 3,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "Fenomenal piso luminoso en Eixample\r\n\r\nHousfy la agencia inmobiliaria con las mejores condiciones hipotecarias.\r\n\r\n¡No pierdas esta gran oportunidad y solicita información sin compromiso alguno!\r\n\r\nSe vende piso en el Eixample, Barcelona, perfecto para familias o parejas que busquen un lugar cómodo para su día a día.\r\nConstruido en el año 1957 en el Eixample Dret rodeada de todos los servicios junto a la emblemática Sagrada Familia. \r\n\r\nDetalles del inmueble:\r\n\r\n- Consta de 82 m2 muy bien distribuidos. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Podemos disfrutar de 3 habitaciones con mucho espacio y 1 baño completo, perfecto para una familia.\r\n- Cómodo comedor amplio y luminoso, un lugar perfecto para descansar en los ratos libres.\r\n- Piso totalmente exterior que aporta mucha luz natural a la vivienda. \r\n- Con una adecuada cocina a reformar. Dispone de cuarto con lavadero.\r\n- Dispone de suelos de parquet, ventanas de aluminio doble vidrio, calefacción.\r\n- Dispone de plaza de parking en finca a 100 mts por 17.000 € adicionales.\r\n- Finca con ascensor y servicio de portería.\r\n\r\nRespecto a la ubicación, se sitúa en Barcelona en el Barrio de Sagrada Familia muy cercano a todo tipo de comercios, hospital de Sant Pau, colegios, CC Les Glorias. \r\nMuy bien comunicado con la línea 5 (Azul) y línea 2 (Morada) parada de Sagrada Familia y con diversas líneas de autobuses.\r\nUna vivienda ideal para aquellos que quieran un cómodo espacio donde vivir con todo lo necesario del día a día a un paso de su casa.\r\n\r\nSobre nosotros:\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
+    "tags": [
+      23,
+      26,
+      31
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Eixample",
+    "neighborhoodLocationName": "La Sagrada Família",
+    "streetName": "Carrer de Provença",
+    "streetNumber": "504",
+    "floor": "01",
+    "door": "09",
+    "floorDoorLabel": "",
+    "latitude": 41.40651703,
+    "longitude": 2.17770243,
+    "price": {
+      "amount": 28000000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 341463,
+      "currency": "EUR"
+    },
+    "priceChangePercentage": "-20",
+    "isNew": true,
+    "isPriceUpdated": true,
+    "isReserved": false,
+    "isSold": false
+  },
   "26d95a72-c162-46ba-86e9-1165789bbc6b": {
     "uuid": "26d95a72-c162-46ba-86e9-1165789bbc6b",
     "providerCode": "housfy",
