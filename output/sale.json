@@ -62,68 +62,6 @@
     "isReserved": false,
     "isSold": false
   },
-  "26d95a72-c162-46ba-86e9-1165789bbc6b": {
-    "uuid": "26d95a72-c162-46ba-86e9-1165789bbc6b",
-    "providerCode": "housfy",
-    "providerPropertyId": 645560,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/cl-mallorca-645560",
-    "providerPropertyTitle": "Perfecto piso en Sant Martí",
-    "publishedDate": "2022-11-28T15:31:49Z",
-    "relevance": 1669649509,
-    "typeId": 2,
-    "typeCode": "piso",
-    "locationId": 1791,
-    "sizes": {
-      "size": 53,
-      "sizeBuiltWithoutCommonElements": 53,
-      "sizeBuilt": 57,
-      "sizeUseful": 57
-    },
-    "size": 53,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/645560/645560-housfy-20221129-HVmNdCUDgS-420x280.jpg"
-    ],
-    "numberOfBedrooms": 3,
-    "numberOfBathrooms": 1,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "sale",
-    "isVisible": true,
-    "description": "¡ Lo encontraste !\r\n\r\nPiso reformado y a estrenar en finca regia de calle Mallorca, en el barrio de Sagrada Familia.\r\n\r\nLa reforma ha redistribuido los espacios, dándole un toque moderno y maximizando el confort del piso.\r\n\r\nDetalles del inmueble:\r\n\r\n- 57m2 construidos ( verificados con la Dirección General de Catastro)\r\n- 3 habitaciones amplias y 1 baño\r\n- Con ascensor, última planta del edificio.\r\n- Reforma completa, a estrenar y con 1 año de garantía.\r\n- Funcional comedor - cocina con amplio espacio de luz natural, un lugar perfecto para descansar en los ratos libres.\r\n- Con una práctica cocina equipada con todo lo necesario.\r\n- Exterior a patio de manzana.\r\n- En finca regia. \r\n\r\nCon fácil acceso y servicios que facilitarán y mejorarán tu día a día.\r\n\r\nUNICO POR ZONA Y REFORMA\r\n\r\n¡Mañana puede ser tarde! Si te gusta no lo dudes más y contacta con nosotros.\r\n\r\nNota: Las imágenes del anuncio son renders que muestran cómo quedará la reforma completada. En el precio de venta no se incluye el mobiliario ni los gastos de compraventa.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
-    "tags": [
-      25,
-      26,
-      29
-    ],
-    "canScheduleVisits": false,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Sant Martí",
-    "neighborhoodLocationName": "El Camp de l\u0027Arpa del Clot",
-    "streetName": "CL MALLORCA",
-    "streetNumber": "532",
-    "floor": "04",
-    "door": "03",
-    "floorDoorLabel": "",
-    "latitude": 41.40816116,
-    "longitude": 2.18215156,
-    "price": {
-      "amount": 23900000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 450943,
-      "currency": "EUR"
-    },
-    "isNew": true,
-    "isPriceUpdated": false,
-    "isReserved": false,
-    "isSold": false
-  },
   "dcd7e1f2-ec52-484e-983c-a67276970db4": {
     "uuid": "dcd7e1f2-ec52-484e-983c-a67276970db4",
     "providerCode": "housfy",
