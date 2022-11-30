@@ -6,7 +6,7 @@
     "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/cl-mallorca-645560",
     "providerPropertyTitle": "Perfecto piso en Sant Martí",
     "publishedDate": "2022-11-28T15:31:49Z",
-    "relevance": 1669650382,
+    "relevance": 1669649509,
     "typeId": 2,
     "typeCode": "piso",
     "locationId": 1791,
@@ -18,7 +18,7 @@
     },
     "size": 53,
     "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/645560/645560-housfy-20221128-3j4K9hKlhr-420x280.jpg"
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/645560/645560-housfy-20221129-HVmNdCUDgS-420x280.jpg"
     ],
     "numberOfBedrooms": 3,
     "numberOfBathrooms": 1,
@@ -56,9 +56,8 @@
       "amount": 450943,
       "currency": "EUR"
     },
-    "priceChangePercentage": "8.64",
     "isNew": true,
-    "isPriceUpdated": true,
+    "isPriceUpdated": false,
     "isReserved": false,
     "isSold": false
   },
