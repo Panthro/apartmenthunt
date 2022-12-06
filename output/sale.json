@@ -571,69 +571,6 @@
     "isReserved": false,
     "isSold": false
   },
-  "f2664755-f4d9-4e87-b8ec-fa9327c722e4": {
-    "uuid": "f2664755-f4d9-4e87-b8ec-fa9327c722e4",
-    "providerCode": "housfy",
-    "providerPropertyId": 627342,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-biscaia-627342",
-    "providerPropertyTitle": "Fabuloso piso en Sant Andreu",
-    "publishedDate": "2022-10-07T07:41:05Z",
-    "relevance": 200,
-    "typeId": 2,
-    "typeCode": "piso",
-    "locationId": 1786,
-    "sizes": {
-      "size": 73,
-      "sizeBuiltWithoutCommonElements": 73,
-      "sizeBuilt": 73,
-      "sizeUseful": 73
-    },
-    "size": 73,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/627342/627342-housfy-20221107-VvqHVHZMlM-420x280.jpg"
-    ],
-    "numberOfBedrooms": 3,
-    "numberOfBathrooms": 1,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "sale",
-    "isVisible": true,
-    "description": "Fabuloso piso en Sant Andreu.\r\n\r\nSe vende piso en Sant Andreu, Barcelona, un espacio para disfrutar en tu día a día.\r\nConstruido en 1963 en Barcelona. \r\n\r\nPiso bonito y acogedor, reformado con buen gusto. Materiales naturales, luz y silencio.\r\n\r\nCaracterísticas:\r\n\r\n- Fantástico piso de 73 m2 en Navas. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Piso orientado al sur con sol todo el día en las habitaciones principales. Es cálido en invierno y fresco en verano. No necesita calefacción, apenas algún rato de estufa suave. Es un piso alto y no hay nunca mosquitos. Tampoco hay humedades en ninguna habitación.\r\n- Contamos con dos habitaciones dobles (de 3,5 x 4 metros aprox.), una habitación individual pero cuadrada (2,25 x 2,75m aprox) y una sala amplia (6x3m).\r\n- Coqueto comedor que te proporcionará el relax diario, siendo además, un espacio agradable estupendo para visitas de amigos y familiares.\r\n- Carpintería interior de madera restaurada, puertas y ventanas de madera maciza, con encanto. La cocina tiene una puerta corredera art decó restaurada preciosa, una habitación principal tiene un ventanal muy bonito.\r\n- La sala, cocina, baño y la tercera habitación dan a un patio interior muy amplio y luminoso. Eso, unido a que es un piso alto (7o) hace que sean estancias luminosas a la vez que tranquilas.\r\n- Mobiliario a negociar con el propietario.\r\n- Ascensor.\r\n- Exterior.\r\n- ITE pasada y con certificado de aptitud de la Generalitat.\r\n\r\nLa localización de el piso se encuentra en Barcelona, municipio de Barcelona.\r\nDa a un chaflán y los edificios de enfrente quedan lejos. Es un cruce de calles tranquilas de barrio, bastante silenciosas.\r\nCon fácil acceso y servicios que facilitarán y mejorarán tu día a día.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
-    "tags": [
-      23,
-      26,
-      33
-    ],
-    "canScheduleVisits": false,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Sant Andreu",
-    "neighborhoodLocationName": "Navas",
-    "streetName": "Carrer de Biscaia",
-    "streetNumber": "354",
-    "floor": "07",
-    "door": "F",
-    "floorDoorLabel": "",
-    "latitude": 41.415802,
-    "longitude": 2.1889863,
-    "price": {
-      "amount": 23000000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 315068,
-      "currency": "EUR"
-    },
-    "priceChangePercentage": "-8",
-    "isNew": false,
-    "isPriceUpdated": false,
-    "isReserved": false,
-    "isSold": false
-  },
   "64a8d187-a1be-4af3-9045-ffac1f52e8ad": {
     "uuid": "64a8d187-a1be-4af3-9045-ffac1f52e8ad",
     "providerCode": "housfy",
@@ -756,6 +693,69 @@
       "amount": 498529,
       "currency": "EUR"
     },
+    "isNew": false,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
+  },
+  "f2664755-f4d9-4e87-b8ec-fa9327c722e4": {
+    "uuid": "f2664755-f4d9-4e87-b8ec-fa9327c722e4",
+    "providerCode": "housfy",
+    "providerPropertyId": 627342,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-biscaia-627342",
+    "providerPropertyTitle": "Fabuloso piso en Sant Andreu",
+    "publishedDate": "2022-10-07T07:41:05Z",
+    "relevance": 200,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1786,
+    "sizes": {
+      "size": 73,
+      "sizeBuiltWithoutCommonElements": 73,
+      "sizeBuilt": 73,
+      "sizeUseful": 73
+    },
+    "size": 73,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/627342/627342-housfy-20221107-VvqHVHZMlM-420x280.jpg"
+    ],
+    "numberOfBedrooms": 3,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "Fabuloso piso en Sant Andreu.\r\n\r\nSe vende piso en Sant Andreu, Barcelona, un espacio para disfrutar en tu día a día.\r\nConstruido en 1963 en Barcelona. \r\n\r\nPiso bonito y acogedor, reformado con buen gusto. Materiales naturales, luz y silencio.\r\n\r\nCaracterísticas:\r\n\r\n- Fantástico piso de 73 m2 en Navas. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Piso orientado al sur con sol todo el día en las habitaciones principales. Es cálido en invierno y fresco en verano. No necesita calefacción, apenas algún rato de estufa suave. Es un piso alto y no hay nunca mosquitos. Tampoco hay humedades en ninguna habitación.\r\n- Contamos con dos habitaciones dobles (de 3,5 x 4 metros aprox.), una habitación individual pero cuadrada (2,25 x 2,75m aprox) y una sala amplia (6x3m).\r\n- Coqueto comedor que te proporcionará el relax diario, siendo además, un espacio agradable estupendo para visitas de amigos y familiares.\r\n- Carpintería interior de madera restaurada, puertas y ventanas de madera maciza, con encanto. La cocina tiene una puerta corredera art decó restaurada preciosa, una habitación principal tiene un ventanal muy bonito.\r\n- La sala, cocina, baño y la tercera habitación dan a un patio interior muy amplio y luminoso. Eso, unido a que es un piso alto (7o) hace que sean estancias luminosas a la vez que tranquilas.\r\n- Mobiliario a negociar con el propietario.\r\n- Ascensor.\r\n- Exterior.\r\n- ITE pasada y con certificado de aptitud de la Generalitat.\r\n\r\nLa localización de el piso se encuentra en Barcelona, municipio de Barcelona.\r\nDa a un chaflán y los edificios de enfrente quedan lejos. Es un cruce de calles tranquilas de barrio, bastante silenciosas.\r\nCon fácil acceso y servicios que facilitarán y mejorarán tu día a día.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
+    "tags": [
+      23,
+      26,
+      33
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Sant Andreu",
+    "neighborhoodLocationName": "Navas",
+    "streetName": "Carrer de Biscaia",
+    "streetNumber": "354",
+    "floor": "07",
+    "door": "F",
+    "floorDoorLabel": "",
+    "latitude": 41.415802,
+    "longitude": 2.1889863,
+    "price": {
+      "amount": 23000000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 315068,
+      "currency": "EUR"
+    },
+    "priceChangePercentage": "-8",
     "isNew": false,
     "isPriceUpdated": false,
     "isReserved": false,
