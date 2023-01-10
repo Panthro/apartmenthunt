@@ -252,6 +252,69 @@
     "isReserved": false,
     "isSold": false
   },
+  "0f146f51-857d-4184-a0e4-08d1290a0e3f": {
+    "uuid": "0f146f51-857d-4184-a0e4-08d1290a0e3f",
+    "providerCode": "housfy",
+    "providerPropertyId": 618158,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-valencia-618158",
+    "providerPropertyTitle": "Fenomenal piso con terraza en Sant Martí",
+    "publishedDate": "2022-09-22T08:38:53Z",
+    "relevance": 300,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1791,
+    "sizes": {
+      "size": 89,
+      "sizeBuiltWithoutCommonElements": 89,
+      "sizeBuilt": 89,
+      "sizeUseful": 89
+    },
+    "size": 89,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/618158/618158-housfy-20220921-X11VJe0fCb-420x280.jpg"
+    ],
+    "numberOfBedrooms": 4,
+    "numberOfBathrooms": 2,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "Fenomenal piso con terraza en Sant Martí\r\n\r\n\r\nSe vende piso de en Sant Martí, Barcelona, perfecto para familias o parejas que busquen un lugar cómodo para su día a día.\r\nEl espléndido piso fue construido en el año 1972 en Barcelona. \r\n\r\nCaracterísticas:\r\n\r\n- Sus 89 m2 están perfectamente distribuidos, creando un espacio cómodo para el día a día. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- La vivienda dispone de 4 habitaciones y 2 baños, para familias completas.\r\n- Acogedor comedor con amplio espacio de luz natural, donde disfrutar de tu familia.\r\n- Con una conveniente cocina en buen estado.\r\n- Exterior.\r\n- Terraza.\r\n- Ascensor\r\n\r\nSobre la localización, se encuentra en Barcelona.\r\nCon fácil acceso y servicios que facilitarán y mejorarán tu día a día.\r\n\r\nSobre nosotros:\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
+    "tags": [
+      23,
+      26,
+      32
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Sant Martí",
+    "neighborhoodLocationName": "El Camp de l\u0027Arpa del Clot",
+    "streetName": "Carrer de València",
+    "streetNumber": "569",
+    "floor": "EN",
+    "door": "01",
+    "floorDoorLabel": "",
+    "latitude": 41.40816116,
+    "longitude": 2.18354034,
+    "price": {
+      "amount": 31000000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 348314,
+      "currency": "EUR"
+    },
+    "priceChangePercentage": "-8.82",
+    "isNew": false,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
+  },
   "24ec8c07-fc4d-460a-84f1-b52c78ef8430": {
     "uuid": "24ec8c07-fc4d-460a-84f1-b52c78ef8430",
     "providerCode": "housfy",
@@ -312,69 +375,6 @@
       "currency": "EUR"
     },
     "priceChangePercentage": "-1.5",
-    "isNew": false,
-    "isPriceUpdated": false,
-    "isReserved": false,
-    "isSold": false
-  },
-  "0f146f51-857d-4184-a0e4-08d1290a0e3f": {
-    "uuid": "0f146f51-857d-4184-a0e4-08d1290a0e3f",
-    "providerCode": "housfy",
-    "providerPropertyId": 618158,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-valencia-618158",
-    "providerPropertyTitle": "Fenomenal piso con terraza en Sant Martí",
-    "publishedDate": "2022-09-22T08:38:53Z",
-    "relevance": 300,
-    "typeId": 2,
-    "typeCode": "piso",
-    "locationId": 1791,
-    "sizes": {
-      "size": 89,
-      "sizeBuiltWithoutCommonElements": 89,
-      "sizeBuilt": 89,
-      "sizeUseful": 89
-    },
-    "size": 89,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/618158/618158-housfy-20220921-X11VJe0fCb-420x280.jpg"
-    ],
-    "numberOfBedrooms": 4,
-    "numberOfBathrooms": 2,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "sale",
-    "isVisible": true,
-    "description": "Fenomenal piso con terraza en Sant Martí\r\n\r\n\r\nSe vende piso de en Sant Martí, Barcelona, perfecto para familias o parejas que busquen un lugar cómodo para su día a día.\r\nEl espléndido piso fue construido en el año 1972 en Barcelona. \r\n\r\nCaracterísticas:\r\n\r\n- Sus 89 m2 están perfectamente distribuidos, creando un espacio cómodo para el día a día. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- La vivienda dispone de 4 habitaciones y 2 baños, para familias completas.\r\n- Acogedor comedor con amplio espacio de luz natural, donde disfrutar de tu familia.\r\n- Con una conveniente cocina en buen estado.\r\n- Exterior.\r\n- Terraza.\r\n- Ascensor\r\n\r\nSobre la localización, se encuentra en Barcelona.\r\nCon fácil acceso y servicios que facilitarán y mejorarán tu día a día.\r\n\r\nSobre nosotros:\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
-    "tags": [
-      23,
-      26,
-      32
-    ],
-    "canScheduleVisits": false,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Sant Martí",
-    "neighborhoodLocationName": "El Camp de l\u0027Arpa del Clot",
-    "streetName": "Carrer de València",
-    "streetNumber": "569",
-    "floor": "EN",
-    "door": "01",
-    "floorDoorLabel": "",
-    "latitude": 41.40816116,
-    "longitude": 2.18354034,
-    "price": {
-      "amount": 31000000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 348314,
-      "currency": "EUR"
-    },
-    "priceChangePercentage": "-8.82",
     "isNew": false,
     "isPriceUpdated": false,
     "isReserved": false,
