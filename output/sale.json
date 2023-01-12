@@ -508,69 +508,6 @@
     "isReserved": false,
     "isSold": false
   },
-  "cbd8dd33-1e7e-448d-85f2-66ef106c877d": {
-    "uuid": "cbd8dd33-1e7e-448d-85f2-66ef106c877d",
-    "providerCode": "housfy",
-    "providerPropertyId": 641429,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/cl-badajoz-26-641429",
-    "providerPropertyTitle": "Fabulosa vivienda en El Poblenou a 200m de la playa",
-    "publishedDate": "2022-11-09T08:54:22Z",
-    "relevance": 200,
-    "typeId": 2,
-    "typeCode": "piso",
-    "locationId": 1794,
-    "sizes": {
-      "size": 44,
-      "sizeBuiltWithoutCommonElements": 44,
-      "sizeBuilt": 44,
-      "sizeUseful": 44
-    },
-    "size": 44,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/641429/641429-housfy-20221108-oc2Iy6Xko5-420x280.jpg"
-    ],
-    "numberOfBedrooms": 1,
-    "numberOfBathrooms": 1,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "sale",
-    "isVisible": true,
-    "description": "Fabulosa vivienda en El Poblenou a 200m de la playa \r\n\r\nPiso de particular a particular reformado a estrenar en Barcelona, una vivienda luminosa y ubicada en un entorno idóneo para disfrutarlo.\r\n\r\nCaracterísticas:\r\n\r\n- Fenomenal piso de 44 m2 en Poblenou. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- En este piso encontraremos 1 habitación y 1 baño, perfecto para una familia.\r\n- Cálido salón que te proporcionará el relax diario, siendo además, un espacio agradable y estupendo para visitas de amigos y familiares.\r\n- Con una útil cocina equipada con lo necesario para el día a día.\r\n- Reformado a estrenar\r\n- Muy soleado.\r\n- Balcón.\r\n- Parquet.\r\n- Exterior.\r\n\r\n\r\nNota: Las imágenes del anuncio son renders que muestran cómo quedará la reforma completada. En el precio de venta no se incluye el mobiliario.\r\n\r\nLa localización de el piso se sitúa en Barcelona.\r\nUna vivienda ideal para aquellos que quieran un cómodo espacio donde vivir con todo lo necesario del día a día a un paso de su casa.\r\n\r\nLa vivienda se entrega totalmente reformada y lista para entrar a vivir.\r\nNo lo dudes más y contacta con nosotros.",
-    "tags": [
-      25,
-      26,
-      29
-    ],
-    "canScheduleVisits": false,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Sant Martí",
-    "neighborhoodLocationName": "El Poblenou",
-    "streetName": "CL BADAJOZ, 26",
-    "streetNumber": "26",
-    "floor": "02",
-    "door": "04",
-    "floorDoorLabel": "",
-    "latitude": 41.39549255,
-    "longitude": 2.19988871,
-    "price": {
-      "amount": 22900000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 520454,
-      "currency": "EUR"
-    },
-    "priceChangePercentage": "-17.92",
-    "isNew": false,
-    "isPriceUpdated": false,
-    "isReserved": false,
-    "isSold": false
-  },
   "a34d459a-b742-4eda-a68e-031fe13f6d78": {
     "uuid": "a34d459a-b742-4eda-a68e-031fe13f6d78",
     "providerCode": "housfy",
@@ -630,6 +567,69 @@
       "currency": "EUR"
     },
     "priceChangePercentage": "-1.18",
+    "isNew": false,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
+  },
+  "cbd8dd33-1e7e-448d-85f2-66ef106c877d": {
+    "uuid": "cbd8dd33-1e7e-448d-85f2-66ef106c877d",
+    "providerCode": "housfy",
+    "providerPropertyId": 641429,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/cl-badajoz-26-641429",
+    "providerPropertyTitle": "Fabulosa vivienda en El Poblenou a 200m de la playa",
+    "publishedDate": "2022-11-09T08:54:22Z",
+    "relevance": 200,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1794,
+    "sizes": {
+      "size": 44,
+      "sizeBuiltWithoutCommonElements": 44,
+      "sizeBuilt": 44,
+      "sizeUseful": 39
+    },
+    "size": 44,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/641429/641429-housfy-20221108-oc2Iy6Xko5-420x280.jpg"
+    ],
+    "numberOfBedrooms": 1,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "Fabulosa vivienda en El Poblenou a 200m de la playa \r\n\r\nPiso de particular a particular reformado a estrenar en Barcelona, una vivienda luminosa y ubicada en un entorno idóneo para disfrutarlo.\r\n\r\nCaracterísticas:\r\n\r\n- Fenomenal piso de 44 m2 en Poblenou. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- En este piso encontraremos 1 habitación y 1 baño, perfecto para una familia.\r\n- Cálido salón que te proporcionará el relax diario, siendo además, un espacio agradable y estupendo para visitas de amigos y familiares.\r\n- Con una útil cocina equipada con lo necesario para el día a día.\r\n- Reformado a estrenar\r\n- Muy soleado.\r\n- Balcón.\r\n- Parquet.\r\n- Exterior.\r\n\r\n\r\nNota: Las imágenes del anuncio son renders que muestran cómo quedará la reforma completada. En el precio de venta no se incluye el mobiliario.\r\n\r\nLa localización de el piso se sitúa en Barcelona.\r\nUna vivienda ideal para aquellos que quieran un cómodo espacio donde vivir con todo lo necesario del día a día a un paso de su casa.\r\n\r\nLa vivienda se entrega totalmente reformada y lista para entrar a vivir.\r\nNo lo dudes más y contacta con nosotros.",
+    "tags": [
+      25,
+      26,
+      29
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Sant Martí",
+    "neighborhoodLocationName": "El Poblenou",
+    "streetName": "CL BADAJOZ, 26",
+    "streetNumber": "26",
+    "floor": "02",
+    "door": "04",
+    "floorDoorLabel": "",
+    "latitude": 41.39549255,
+    "longitude": 2.19988871,
+    "price": {
+      "amount": 22900000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 520454,
+      "currency": "EUR"
+    },
+    "priceChangePercentage": "-17.92",
     "isNew": false,
     "isPriceUpdated": false,
     "isReserved": false,
