@@ -445,26 +445,26 @@
     "isReserved": false,
     "isSold": false
   },
-  "b38ae62b-975b-48e1-954b-13b66a473e2b": {
-    "uuid": "b38ae62b-975b-48e1-954b-13b66a473e2b",
+  "cbd8dd33-1e7e-448d-85f2-66ef106c877d": {
+    "uuid": "cbd8dd33-1e7e-448d-85f2-66ef106c877d",
     "providerCode": "housfy",
-    "providerPropertyId": 641954,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/calle-dos-de-maig-641954",
-    "providerPropertyTitle": "Fabuloso piso con balcón en l\u0027Eixample",
-    "publishedDate": "2022-11-10T15:00:19Z",
+    "providerPropertyId": 641429,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/cl-badajoz-26-641429",
+    "providerPropertyTitle": "Fabulosa vivienda en El Poblenou a 200m de la playa",
+    "publishedDate": "2022-11-09T08:54:22Z",
     "relevance": 200,
     "typeId": 2,
     "typeCode": "piso",
-    "locationId": 1748,
+    "locationId": 1794,
     "sizes": {
-      "size": 42,
-      "sizeBuiltWithoutCommonElements": 42,
-      "sizeBuilt": 45,
-      "sizeUseful": 45
+      "size": 44,
+      "sizeBuiltWithoutCommonElements": 44,
+      "sizeBuilt": 44,
+      "sizeUseful": 39
     },
-    "size": 42,
+    "size": 44,
     "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/641954/641954-housfy-20221221-q92y8LiANt-420x280.jpg"
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/641429/641429-housfy-20221108-oc2Iy6Xko5-420x280.jpg"
     ],
     "numberOfBedrooms": 1,
     "numberOfBathrooms": 1,
@@ -476,33 +476,33 @@
     },
     "operationTypeCode": "sale",
     "isVisible": true,
-    "description": "Fabuloso piso con balcón en l\u0027Eixample.\r\n\r\nHousfy sin intermediarios.\r\n\r\nHomy vende piso a estrenar en l\u0027Eixample, Barcelona, perfecto para familias o parejas que busquen un lugar cómodo para su día a día.\r\nEste acogedor piso fue construido en el año 1890 en Barcelona. Sus 45 m2 están perfectamente distribuidos, creando un amplio y abierto espacio con mucha luz y con un diseño muy especial.\r\n\r\nDetalles del inmueble:\r\n\r\n- Acogedor piso de 45 m2 en La Sagrada Família. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Podemos disfrutar de 1 habitación y 1 baño.\r\n- Cálido salón-comedor amplio y luminoso, siendo además, un espacio agradable y estupendo para visitas de amigos y familiares.\r\n- Parquet.\r\n- Con una práctica cocina en perfecto estado y equipada con todo lo necesario. Con lavadero.\r\n- Exterior.\r\n- Balcón.\r\n\r\nSobre la localización, se sitúa en Barcelona (Barcelona).\r\nCon fácil acceso y servicios que facilitarán y mejorarán tu día a día.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
+    "description": "Fabulosa vivienda en El Poblenou a 200m de la playa \r\n\r\nPiso de particular a particular reformado a estrenar en Barcelona, una vivienda luminosa y ubicada en un entorno idóneo para disfrutarlo.\r\n\r\nCaracterísticas:\r\n\r\n- Fenomenal piso de 44 m2 en Poblenou. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- En este piso encontraremos 1 habitación y 1 baño, perfecto para una familia.\r\n- Cálido salón que te proporcionará el relax diario, siendo además, un espacio agradable y estupendo para visitas de amigos y familiares.\r\n- Con una útil cocina equipada con lo necesario para el día a día.\r\n- Reformado a estrenar\r\n- Muy soleado.\r\n- Balcón.\r\n- Parquet.\r\n- Exterior.\r\n\r\n\r\nNota: Las imágenes del anuncio son renders que muestran cómo quedará la reforma completada. En el precio de venta no se incluye el mobiliario.\r\n\r\nLa localización de el piso se sitúa en Barcelona.\r\nUna vivienda ideal para aquellos que quieran un cómodo espacio donde vivir con todo lo necesario del día a día a un paso de su casa.\r\n\r\nLa vivienda se entrega totalmente reformada y lista para entrar a vivir.\r\nNo lo dudes más y contacta con nosotros.",
     "tags": [
-      23,
       25,
-      26
+      26,
+      29
     ],
     "canScheduleVisits": false,
     "stateLocationName": "Barcelona",
     "cityLocationName": "Barcelona",
-    "districtLocationName": "Eixample",
-    "neighborhoodLocationName": "La Sagrada Família",
-    "streetName": "Calle Dos de Maig",
-    "streetNumber": "239",
+    "districtLocationName": "Sant Martí",
+    "neighborhoodLocationName": "El Poblenou",
+    "streetName": "CL BADAJOZ, 26",
+    "streetNumber": "26",
     "floor": "02",
-    "door": "03",
+    "door": "04",
     "floorDoorLabel": "",
-    "latitude": 41.40700912,
-    "longitude": 2.18173671,
+    "latitude": 41.39549255,
+    "longitude": 2.19988871,
     "price": {
-      "amount": 21500000,
+      "amount": 22900000,
       "currency": "EUR"
     },
     "priceSize": {
-      "amount": 511904,
+      "amount": 520454,
       "currency": "EUR"
     },
-    "priceChangePercentage": "-4.02",
+    "priceChangePercentage": "-17.92",
     "isNew": false,
     "isPriceUpdated": false,
     "isReserved": false,
@@ -572,26 +572,26 @@
     "isReserved": false,
     "isSold": false
   },
-  "cbd8dd33-1e7e-448d-85f2-66ef106c877d": {
-    "uuid": "cbd8dd33-1e7e-448d-85f2-66ef106c877d",
+  "b38ae62b-975b-48e1-954b-13b66a473e2b": {
+    "uuid": "b38ae62b-975b-48e1-954b-13b66a473e2b",
     "providerCode": "housfy",
-    "providerPropertyId": 641429,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/cl-badajoz-26-641429",
-    "providerPropertyTitle": "Fabulosa vivienda en El Poblenou a 200m de la playa",
-    "publishedDate": "2022-11-09T08:54:22Z",
+    "providerPropertyId": 641954,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/calle-dos-de-maig-641954",
+    "providerPropertyTitle": "Fabuloso piso con balcón en l\u0027Eixample",
+    "publishedDate": "2022-11-10T15:00:19Z",
     "relevance": 200,
     "typeId": 2,
     "typeCode": "piso",
-    "locationId": 1794,
+    "locationId": 1748,
     "sizes": {
-      "size": 44,
-      "sizeBuiltWithoutCommonElements": 44,
-      "sizeBuilt": 44,
-      "sizeUseful": 39
+      "size": 42,
+      "sizeBuiltWithoutCommonElements": 42,
+      "sizeBuilt": 45,
+      "sizeUseful": 45
     },
-    "size": 44,
+    "size": 42,
     "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/641429/641429-housfy-20221108-oc2Iy6Xko5-420x280.jpg"
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/641954/641954-housfy-20221221-q92y8LiANt-420x280.jpg"
     ],
     "numberOfBedrooms": 1,
     "numberOfBathrooms": 1,
@@ -603,33 +603,33 @@
     },
     "operationTypeCode": "sale",
     "isVisible": true,
-    "description": "Fabulosa vivienda en El Poblenou a 200m de la playa \r\n\r\nPiso de particular a particular reformado a estrenar en Barcelona, una vivienda luminosa y ubicada en un entorno idóneo para disfrutarlo.\r\n\r\nCaracterísticas:\r\n\r\n- Fenomenal piso de 44 m2 en Poblenou. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- En este piso encontraremos 1 habitación y 1 baño, perfecto para una familia.\r\n- Cálido salón que te proporcionará el relax diario, siendo además, un espacio agradable y estupendo para visitas de amigos y familiares.\r\n- Con una útil cocina equipada con lo necesario para el día a día.\r\n- Reformado a estrenar\r\n- Muy soleado.\r\n- Balcón.\r\n- Parquet.\r\n- Exterior.\r\n\r\n\r\nNota: Las imágenes del anuncio son renders que muestran cómo quedará la reforma completada. En el precio de venta no se incluye el mobiliario.\r\n\r\nLa localización de el piso se sitúa en Barcelona.\r\nUna vivienda ideal para aquellos que quieran un cómodo espacio donde vivir con todo lo necesario del día a día a un paso de su casa.\r\n\r\nLa vivienda se entrega totalmente reformada y lista para entrar a vivir.\r\nNo lo dudes más y contacta con nosotros.",
+    "description": "Fabuloso piso con balcón en l\u0027Eixample.\r\n\r\nHousfy sin intermediarios.\r\n\r\nHomy vende piso a estrenar en l\u0027Eixample, Barcelona, perfecto para familias o parejas que busquen un lugar cómodo para su día a día.\r\nEste acogedor piso fue construido en el año 1890 en Barcelona. Sus 45 m2 están perfectamente distribuidos, creando un amplio y abierto espacio con mucha luz y con un diseño muy especial.\r\n\r\nDetalles del inmueble:\r\n\r\n- Acogedor piso de 45 m2 en La Sagrada Família. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Podemos disfrutar de 1 habitación y 1 baño.\r\n- Cálido salón-comedor amplio y luminoso, siendo además, un espacio agradable y estupendo para visitas de amigos y familiares.\r\n- Parquet.\r\n- Con una práctica cocina en perfecto estado y equipada con todo lo necesario. Con lavadero.\r\n- Exterior.\r\n- Balcón.\r\n\r\nSobre la localización, se sitúa en Barcelona (Barcelona).\r\nCon fácil acceso y servicios que facilitarán y mejorarán tu día a día.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
     "tags": [
+      23,
       25,
-      26,
-      29
+      26
     ],
     "canScheduleVisits": false,
     "stateLocationName": "Barcelona",
     "cityLocationName": "Barcelona",
-    "districtLocationName": "Sant Martí",
-    "neighborhoodLocationName": "El Poblenou",
-    "streetName": "CL BADAJOZ, 26",
-    "streetNumber": "26",
+    "districtLocationName": "Eixample",
+    "neighborhoodLocationName": "La Sagrada Família",
+    "streetName": "Calle Dos de Maig",
+    "streetNumber": "239",
     "floor": "02",
-    "door": "04",
+    "door": "03",
     "floorDoorLabel": "",
-    "latitude": 41.39549255,
-    "longitude": 2.19988871,
+    "latitude": 41.40700912,
+    "longitude": 2.18173671,
     "price": {
-      "amount": 22900000,
+      "amount": 21500000,
       "currency": "EUR"
     },
     "priceSize": {
-      "amount": 520454,
+      "amount": 511904,
       "currency": "EUR"
     },
-    "priceChangePercentage": "-17.92",
+    "priceChangePercentage": "-4.02",
     "isNew": false,
     "isPriceUpdated": false,
     "isReserved": false,
