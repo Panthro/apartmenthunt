@@ -251,6 +251,69 @@
     "isReserved": false,
     "isSold": false
   },
+  "0f146f51-857d-4184-a0e4-08d1290a0e3f": {
+    "uuid": "0f146f51-857d-4184-a0e4-08d1290a0e3f",
+    "providerCode": "housfy",
+    "providerPropertyId": 618158,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-valencia-618158",
+    "providerPropertyTitle": "Fenomenal piso con terraza en Sant Martí",
+    "publishedDate": "2022-09-22T08:38:53Z",
+    "relevance": 300,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1791,
+    "sizes": {
+      "size": 89,
+      "sizeBuiltWithoutCommonElements": 89,
+      "sizeBuilt": 89,
+      "sizeUseful": 89
+    },
+    "size": 89,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/618158/618158-housfy-20220921-X11VJe0fCb-420x280.jpg"
+    ],
+    "numberOfBedrooms": 3,
+    "numberOfBathrooms": 2,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "Fenomenal piso con terraza en Sant Martí\r\n\r\n\r\nSe vende piso de en Sant Martí, Barcelona, perfecto para familias o parejas que busquen un lugar cómodo para su día a día.\r\nEl espléndido piso fue construido en el año 1972 en Barcelona. \r\n\r\nCaracterísticas:\r\n\r\n- Sus 89 m2 están perfectamente distribuidos, creando un espacio cómodo para el día a día. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- La vivienda dispone de 4 habitaciones y 2 baños, para familias completas.\r\n- Acogedor comedor con amplio espacio de luz natural, donde disfrutar de tu familia.\r\n- Con una conveniente cocina en buen estado.\r\n- Exterior.\r\n- Terraza.\r\n- Ascensor\r\n\r\nSobre la localización, se encuentra en Barcelona.\r\nCon fácil acceso y servicios que facilitarán y mejorarán tu día a día.\r\n\r\nSobre nosotros:\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
+    "tags": [
+      23,
+      26,
+      32
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Sant Martí",
+    "neighborhoodLocationName": "El Camp de l\u0027Arpa del Clot",
+    "streetName": "Carrer de València",
+    "streetNumber": "569",
+    "floor": "EN",
+    "door": "01",
+    "floorDoorLabel": "",
+    "latitude": 41.40816116,
+    "longitude": 2.18354034,
+    "price": {
+      "amount": 31000000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 348314,
+      "currency": "EUR"
+    },
+    "priceChangePercentage": "-8.82",
+    "isNew": false,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
+  },
   "24ec8c07-fc4d-460a-84f1-b52c78ef8430": {
     "uuid": "24ec8c07-fc4d-460a-84f1-b52c78ef8430",
     "providerCode": "housfy",
@@ -316,69 +379,6 @@
     "isReserved": false,
     "isSold": false
   },
-  "0f146f51-857d-4184-a0e4-08d1290a0e3f": {
-    "uuid": "0f146f51-857d-4184-a0e4-08d1290a0e3f",
-    "providerCode": "housfy",
-    "providerPropertyId": 618158,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-valencia-618158",
-    "providerPropertyTitle": "Fenomenal piso con terraza en Sant Martí",
-    "publishedDate": "2022-09-22T08:38:53Z",
-    "relevance": 300,
-    "typeId": 2,
-    "typeCode": "piso",
-    "locationId": 1791,
-    "sizes": {
-      "size": 89,
-      "sizeBuiltWithoutCommonElements": 89,
-      "sizeBuilt": 89,
-      "sizeUseful": 89
-    },
-    "size": 89,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/618158/618158-housfy-20220921-X11VJe0fCb-420x280.jpg"
-    ],
-    "numberOfBedrooms": 3,
-    "numberOfBathrooms": 2,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "sale",
-    "isVisible": true,
-    "description": "Fenomenal piso con terraza en Sant Martí\r\n\r\n\r\nSe vende piso de en Sant Martí, Barcelona, perfecto para familias o parejas que busquen un lugar cómodo para su día a día.\r\nEl espléndido piso fue construido en el año 1972 en Barcelona. \r\n\r\nCaracterísticas:\r\n\r\n- Sus 89 m2 están perfectamente distribuidos, creando un espacio cómodo para el día a día. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- La vivienda dispone de 4 habitaciones y 2 baños, para familias completas.\r\n- Acogedor comedor con amplio espacio de luz natural, donde disfrutar de tu familia.\r\n- Con una conveniente cocina en buen estado.\r\n- Exterior.\r\n- Terraza.\r\n- Ascensor\r\n\r\nSobre la localización, se encuentra en Barcelona.\r\nCon fácil acceso y servicios que facilitarán y mejorarán tu día a día.\r\n\r\nSobre nosotros:\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
-    "tags": [
-      23,
-      26,
-      32
-    ],
-    "canScheduleVisits": false,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Sant Martí",
-    "neighborhoodLocationName": "El Camp de l\u0027Arpa del Clot",
-    "streetName": "Carrer de València",
-    "streetNumber": "569",
-    "floor": "EN",
-    "door": "01",
-    "floorDoorLabel": "",
-    "latitude": 41.40816116,
-    "longitude": 2.18354034,
-    "price": {
-      "amount": 31000000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 348314,
-      "currency": "EUR"
-    },
-    "priceChangePercentage": "-8.82",
-    "isNew": false,
-    "isPriceUpdated": false,
-    "isReserved": false,
-    "isSold": false
-  },
   "a34d459a-b742-4eda-a68e-031fe13f6d78": {
     "uuid": "a34d459a-b742-4eda-a68e-031fe13f6d78",
     "providerCode": "housfy",
@@ -438,70 +438,6 @@
       "currency": "EUR"
     },
     "priceChangePercentage": "-1.18",
-    "isNew": false,
-    "isPriceUpdated": false,
-    "isReserved": false,
-    "isSold": false
-  },
-  "64a8d187-a1be-4af3-9045-ffac1f52e8ad": {
-    "uuid": "64a8d187-a1be-4af3-9045-ffac1f52e8ad",
-    "providerCode": "housfy",
-    "providerPropertyId": 630825,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-valencia-630825",
-    "providerPropertyTitle": "Encantador piso con terraza en l\u0027Eixample",
-    "publishedDate": "2022-10-26T07:54:03Z",
-    "relevance": 200,
-    "typeId": 2,
-    "typeCode": "piso",
-    "locationId": 1748,
-    "sizes": {
-      "size": 90,
-      "sizeBuiltWithoutCommonElements": 90,
-      "sizeBuilt": 90,
-      "sizeUseful": 90
-    },
-    "size": 90,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/630825/630825-housfy-20221028-FygSdPWIaE-420x280.jpg"
-    ],
-    "numberOfBedrooms": 2,
-    "numberOfBathrooms": 1,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "sale",
-    "isVisible": true,
-    "description": "Encantador piso con terraza en l\u0027Eixample.\r\n\r\nSe vende piso en Eixample, Sagrada Familia, perfecto para familias o parejas que busquen un lugar cómodo para su día a día.\r\nEl encantador piso fue construido en el 1957 en La Sagrada Familia, zona muy buen comunicada, barrio tranquilo y piso para entrar a vivir\r\n\r\nCaracterísticas:\r\n\r\n- Acogedor piso REFORMADO de 70 m² en La Sagrada Familia. (Los metros cuadrados están verificados con la Escritura)\r\n- Podemos disfrutar de 2 habitaciones, antes 3, y 1 baño completo.\r\n- Amplio comedor de 24 m²  todo exterior con salida a terraza de 13 m², creando un precioso y único espacio.\r\n- Con una ventajosa cocina en muy buen estado y equipada con todo lo necesario con salida a galería de 6 m².\r\n- Dispone de calefacción en todas las estancias, aire acondicionado, suelos de parqué, ventanas de aluminio doble vidrio..\r\n\r\nSituado cerca de la Sagrada Familia, Avinguda Gaudí, una vivienda ideal para aquellos que quieran un cómodo espacio donde vivir con todo lo necesario del día a día a un paso de su casa.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
-    "tags": [
-      23,
-      26,
-      31,
-      32
-    ],
-    "canScheduleVisits": false,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Eixample",
-    "neighborhoodLocationName": "La Sagrada Família",
-    "streetName": "Carrer de València",
-    "streetNumber": "493",
-    "floor": "01",
-    "door": "04",
-    "floorDoorLabel": "",
-    "latitude": 41.40494537,
-    "longitude": 2.17907715,
-    "price": {
-      "amount": 29900000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 332222,
-      "currency": "EUR"
-    },
-    "priceChangePercentage": "-6.56",
     "isNew": false,
     "isPriceUpdated": false,
     "isReserved": false,
@@ -628,6 +564,70 @@
       "currency": "EUR"
     },
     "priceChangePercentage": "-17.92",
+    "isNew": false,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
+  },
+  "64a8d187-a1be-4af3-9045-ffac1f52e8ad": {
+    "uuid": "64a8d187-a1be-4af3-9045-ffac1f52e8ad",
+    "providerCode": "housfy",
+    "providerPropertyId": 630825,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-valencia-630825",
+    "providerPropertyTitle": "Encantador piso con terraza en l\u0027Eixample",
+    "publishedDate": "2022-10-26T07:54:03Z",
+    "relevance": 200,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1748,
+    "sizes": {
+      "size": 90,
+      "sizeBuiltWithoutCommonElements": 90,
+      "sizeBuilt": 90,
+      "sizeUseful": 90
+    },
+    "size": 90,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/630825/630825-housfy-20221028-FygSdPWIaE-420x280.jpg"
+    ],
+    "numberOfBedrooms": 2,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "Encantador piso con terraza en l\u0027Eixample.\r\n\r\nSe vende piso en Eixample, Sagrada Familia, perfecto para familias o parejas que busquen un lugar cómodo para su día a día.\r\nEl encantador piso fue construido en el 1957 en La Sagrada Familia, zona muy buen comunicada, barrio tranquilo y piso para entrar a vivir\r\n\r\nCaracterísticas:\r\n\r\n- Acogedor piso REFORMADO de 70 m² en La Sagrada Familia. (Los metros cuadrados están verificados con la Escritura)\r\n- Podemos disfrutar de 2 habitaciones, antes 3, y 1 baño completo.\r\n- Amplio comedor de 24 m²  todo exterior con salida a terraza de 13 m², creando un precioso y único espacio.\r\n- Con una ventajosa cocina en muy buen estado y equipada con todo lo necesario con salida a galería de 6 m².\r\n- Dispone de calefacción en todas las estancias, aire acondicionado, suelos de parqué, ventanas de aluminio doble vidrio..\r\n\r\nSituado cerca de la Sagrada Familia, Avinguda Gaudí, una vivienda ideal para aquellos que quieran un cómodo espacio donde vivir con todo lo necesario del día a día a un paso de su casa.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
+    "tags": [
+      23,
+      26,
+      31,
+      32
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Eixample",
+    "neighborhoodLocationName": "La Sagrada Família",
+    "streetName": "Carrer de València",
+    "streetNumber": "493",
+    "floor": "01",
+    "door": "04",
+    "floorDoorLabel": "",
+    "latitude": 41.40494537,
+    "longitude": 2.17907715,
+    "price": {
+      "amount": 29900000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 332222,
+      "currency": "EUR"
+    },
+    "priceChangePercentage": "-6.56",
     "isNew": false,
     "isPriceUpdated": false,
     "isReserved": false,
