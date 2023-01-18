@@ -1,4 +1,67 @@
 {
+  "b260a27e-9ceb-4af4-9761-38dad55c5534": {
+    "uuid": "b260a27e-9ceb-4af4-9761-38dad55c5534",
+    "providerCode": "housfy",
+    "providerPropertyId": 655046,
+    "providerPropertyUrl": "https://housfy.com/alquilar-piso/barcelona/carrer-del-dos-de-maig-655046",
+    "providerPropertyTitle": "Maravilloso piso en l\u0027Eixample",
+    "publishedDate": "2023-01-18T08:52:53Z",
+    "relevance": 1674031973,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1748,
+    "sizes": {
+      "size": 77,
+      "sizeBuiltWithoutCommonElements": 77,
+      "sizeBuilt": 88,
+      "sizeUseful": 77
+    },
+    "size": 77,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/655046/655046-housfy-20230117-auJk8mwCMW-420x280.jpg"
+    ],
+    "numberOfBedrooms": 3,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "rental",
+    "isVisible": true,
+    "description": "Maravilloso piso en l\u0027Eixample.\r\n\r\nHousfy Alquileres, alquila tu piso con los mejores expertos.\r\n\r\nSe alquila piso en Eixample, Barcelona, en La Sagrada Família.\r\nEl piso fue construido en el 1957, se encuentra en un estado bueno de conservación. La última reforma se realizó hace menos de 10 años.\r\n\r\nDetalles del inmueble:\r\n\r\n- Perfecto piso de 88 m2. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Podemos disfrutar de 3 habitaciones y 1 baño, muy bien acomodadas.\r\n- Funcional salón amplio y luminoso, creando un precioso y único espacio.\r\n- Con una utilitaria cocina en buen estado. Requiere de reforma.\r\n- Exterior.\r\n- Dos meses de fianza más honorarios de agencia.\r\n\r\nSobre la ubicación, si escoges este barrio para vivir tendrás todos los servicios esenciales que necesitarás para tu nueva vida. A escasos metros encontramos: centros educativos, centros de salud, parques, equipamientos deportivos y supermercados, farmacias, entre otros.\r\n\r\nNo lo dudes más y contacta con nosotros para agendar una visita, conseguiremos la vivienda de tus sueños.\r\n\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda alquilar la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922.",
+    "tags": [
+      23,
+      26,
+      31,
+      33
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Eixample",
+    "neighborhoodLocationName": "La Sagrada Família",
+    "streetName": "Carrer del Dos de Maig",
+    "streetNumber": "229",
+    "floor": "3º",
+    "door": "3ª",
+    "floorDoorLabel": "",
+    "latitude": 41.40658569,
+    "longitude": 2.18248057,
+    "price": {
+      "amount": 115000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 1493,
+      "currency": "EUR"
+    },
+    "isNew": true,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
+  },
   "2a42c051-839a-4d39-bb52-18f813327d43": {
     "uuid": "2a42c051-839a-4d39-bb52-18f813327d43",
     "providerCode": "housfy",
