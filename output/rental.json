@@ -1,4 +1,67 @@
 {
+  "6898cb51-d901-419e-960a-fbf8023a6210": {
+    "uuid": "6898cb51-d901-419e-960a-fbf8023a6210",
+    "providerCode": "housfy",
+    "providerPropertyId": 656639,
+    "providerPropertyUrl": "https://housfy.com/alquilar-piso/barcelona/carrer-de-la-ciutat-de-granada-656639",
+    "providerPropertyTitle": "Loft espectacular con balcón en Sant Martí",
+    "publishedDate": "2023-01-25T09:07:13Z",
+    "relevance": 1674637633,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1794,
+    "sizes": {
+      "size": 66,
+      "sizeBuiltWithoutCommonElements": 66,
+      "sizeBuilt": 69,
+      "sizeUseful": 66
+    },
+    "size": 66,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/656639/656639-housfy-20230124-fIfZ5g42fh-420x280.jpg"
+    ],
+    "numberOfBedrooms": 1,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "rental",
+    "isVisible": true,
+    "description": "Loft espectacular en uno de los barrios más solicitados y de moda en Barcelona.\r\n\r\nHousfy Alquileres, la mejor solución para alquilar tu piso en España.\r\n\r\nSe alquila piso en Sant Martí, Barcelona, una vivienda luminosa y ubicada en un entorno idóneo para disfrutarlo.\r\nEste piso fue construido en 1925, cuenta con una última reforma realizada hace menos de 10 años. Se encuentra en perfecto estado de mantenimiento.\r\n\r\nDetalles del inmueble:\r\n\r\n- Acogedor piso de 69 m2, amplio y cómodo con una biblioteca de diseño. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- La vivienda dispone de 2 habitaciones y 1 baño.\r\n- Cálido comedor que es un lugar perfecto para descansar tras una jornada de trabajo, siendo además, un espacio agradable y estupendo para visitas de amigos y familiares.\r\n- Aire acondicionado y calefacción para todas las estaciones del año.\r\n- Tarima de madera y vigas a la vista. Mucho espacio de almacenaje, piso semi-amueblado.\r\n- Balcón.\r\n- Cocina americana incorporada al ambiente principal y una luminosa habitación con gran armario y balcón. Equipada con todo lo necesario.\r\n- Aire acondicionado y calefacción\r\n- Suministros dados de alta\r\n- Exterior.\r\n- Puerta de entrada de seguridad blindada.\r\n- Dos meses de fianza más honorarios de agencia.\r\n\r\nSobre la ubicación, si escoges este barrio para vivir tendrás todos los servicios esenciales que necesitarás para tu nueva vida. Se caracteriza por su tranquilidad y ubicación ideal, a una calle del metro, 3 calles de la rambla del Poblenou y muy cercano a la playa. A escasos metros encontramos: centros educativos, centros de salud, parques, equipamientos deportivos y supermercados, farmacias, entre otros. \r\n\r\nNo lo dudes más y contacta con nosotros para agendar una visita, conseguiremos la vivienda de tus sueños. \r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda alquilar la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922.",
+    "tags": [
+      23,
+      25,
+      26,
+      31
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Sant Martí",
+    "neighborhoodLocationName": "El Poblenou",
+    "streetName": "Carrer de la Ciutat de Granada",
+    "streetNumber": "46",
+    "floor": "3º",
+    "door": "1ª",
+    "floorDoorLabel": "",
+    "latitude": 41.39852524,
+    "longitude": 2.19817352,
+    "price": {
+      "amount": 115000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 1742,
+      "currency": "EUR"
+    },
+    "isNew": true,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
+  },
   "78ca10a9-d09e-4225-a075-ef6571b0d9c5": {
     "uuid": "78ca10a9-d09e-4225-a075-ef6571b0d9c5",
     "providerCode": "housfy",
