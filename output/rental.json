@@ -1,26 +1,26 @@
 {
-  "72f29b36-543a-4625-be9c-c5a73a91bf4c": {
-    "uuid": "72f29b36-543a-4625-be9c-c5a73a91bf4c",
+  "6898cb51-d901-419e-960a-fbf8023a6210": {
+    "uuid": "6898cb51-d901-419e-960a-fbf8023a6210",
     "providerCode": "housfy",
-    "providerPropertyId": 620125,
-    "providerPropertyUrl": "https://housfy.com/alquilar-piso/barcelona/carrer-de-padilla-620125",
-    "providerPropertyTitle": "Fenomenal piso en l\u0027Eixample",
-    "publishedDate": "2022-08-31T07:33:52Z",
-    "relevance": 200,
+    "providerPropertyId": 656639,
+    "providerPropertyUrl": "https://housfy.com/alquilar-piso/barcelona/carrer-de-la-ciutat-de-granada-656639",
+    "providerPropertyTitle": "Loft espectacular con balcón en Sant Martí",
+    "publishedDate": "2023-01-25T09:07:13Z",
+    "relevance": 1674637633,
     "typeId": 2,
     "typeCode": "piso",
-    "locationId": 1744,
+    "locationId": 1794,
     "sizes": {
-      "size": 78,
-      "sizeBuiltWithoutCommonElements": 78,
-      "sizeBuilt": 78,
-      "sizeUseful": 78
+      "size": 66,
+      "sizeBuiltWithoutCommonElements": 66,
+      "sizeBuilt": 69,
+      "sizeUseful": 66
     },
-    "size": 78,
+    "size": 66,
     "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/620125/620125-housfy-20220830-PSYan7mZKD-420x280.jpg"
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/656639/656639-housfy-20230124-fIfZ5g42fh-420x280.jpg"
     ],
-    "numberOfBedrooms": 3,
+    "numberOfBedrooms": 1,
     "numberOfBathrooms": 1,
     "userName": "Housfy Real Estate",
     "userPhone": {
@@ -30,35 +30,159 @@
     },
     "operationTypeCode": "rental",
     "isVisible": true,
-    "description": "Fenomenal piso en l\u0027Eixample.\r\n\r\nHousfy Alquileres, la mejor solución para alquilar tu piso en España.\r\n\r\nSe alquila piso en Eixample, Barcelona, un espacio para disfrutar en tu día a día.\r\nConstruido en 1936 en El Fort Pienc. \r\n\r\nDetalles del inmueble:\r\n\r\n- Consta de 78 m2 muy bien distribuidos. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Contamos con todas las comodidades posibles de 3 dormitorios, 1 vestidor y 1 baño.\r\n- Coqueto comedor amplio y luminoso, un lugar perfecto para descansar en los ratos libres.\r\n- Practica sala de estar conectada con el comedor de la vivienda.\r\n- Con una conveniente cocina en buen estado y equipada con todo lo necesario.\r\n- Exterior.\r\n- Disponemos de una magnifica galería conectada con un coqueto balcón, sin duda se volverá en nuestro espacio favorito de casa.\r\n- Dos meses de fianza más honorarios de agencia.\r\n\r\nSobre la localización, está localizado en Barcelona (Barcelona).\r\nUna vivienda ideal para aquellos que quieran un cómodo espacio donde vivir con todo lo necesario del día a día a un paso de su casa.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda alquilar la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922.",
+    "description": "Loft espectacular en uno de los barrios más solicitados y de moda en Barcelona.\r\n\r\nHousfy Alquileres, la mejor solución para alquilar tu piso en España.\r\n\r\nSe alquila piso en Sant Martí, Barcelona, una vivienda luminosa y ubicada en un entorno idóneo para disfrutarlo.\r\nEste piso fue construido en 1925, cuenta con una última reforma realizada hace menos de 10 años. Se encuentra en perfecto estado de mantenimiento.\r\n\r\nDetalles del inmueble:\r\n\r\n- Acogedor piso de 69 m2, amplio y cómodo con una biblioteca de diseño. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- La vivienda dispone de 2 habitaciones y 1 baño.\r\n- Cálido comedor que es un lugar perfecto para descansar tras una jornada de trabajo, siendo además, un espacio agradable y estupendo para visitas de amigos y familiares.\r\n- Aire acondicionado y calefacción para todas las estaciones del año.\r\n- Tarima de madera y vigas a la vista. Mucho espacio de almacenaje, piso semi-amueblado.\r\n- Balcón.\r\n- Cocina americana incorporada al ambiente principal y una luminosa habitación con gran armario y balcón. Equipada con todo lo necesario.\r\n- Aire acondicionado y calefacción\r\n- Suministros dados de alta\r\n- Exterior.\r\n- Puerta de entrada de seguridad blindada.\r\n- Dos meses de fianza más honorarios de agencia.\r\n\r\nSobre la ubicación, si escoges este barrio para vivir tendrás todos los servicios esenciales que necesitarás para tu nueva vida. Se caracteriza por su tranquilidad y ubicación ideal, a una calle del metro, 3 calles de la rambla del Poblenou y muy cercano a la playa. A escasos metros encontramos: centros educativos, centros de salud, parques, equipamientos deportivos y supermercados, farmacias, entre otros. \r\n\r\nNo lo dudes más y contacta con nosotros para agendar una visita, conseguiremos la vivienda de tus sueños. \r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda alquilar la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922.",
     "tags": [
       23,
+      25,
       26,
       31
     ],
     "canScheduleVisits": false,
     "stateLocationName": "Barcelona",
     "cityLocationName": "Barcelona",
-    "districtLocationName": "Eixample",
-    "neighborhoodLocationName": "El Fort Pienc",
-    "streetName": "Carrer de Padilla",
-    "streetNumber": "162",
-    "floor": "1º",
-    "door": "4º",
+    "districtLocationName": "Sant Martí",
+    "neighborhoodLocationName": "El Poblenou",
+    "streetName": "Carrer de la Ciutat de Granada",
+    "streetNumber": "46",
+    "floor": "3º",
+    "door": "1ª",
     "floorDoorLabel": "",
-    "latitude": 41.40142822,
-    "longitude": 2.18315721,
+    "latitude": 41.39852524,
+    "longitude": 2.19817352,
     "price": {
-      "amount": 129000,
+      "amount": 115000,
       "currency": "EUR"
     },
     "priceSize": {
-      "amount": 1653,
+      "amount": 1742,
       "currency": "EUR"
     },
-    "priceChangePercentage": "-0.77",
-    "isNew": false,
+    "isNew": true,
     "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
+  },
+  "78ca10a9-d09e-4225-a075-ef6571b0d9c5": {
+    "uuid": "78ca10a9-d09e-4225-a075-ef6571b0d9c5",
+    "providerCode": "housfy",
+    "providerPropertyId": 653271,
+    "providerPropertyUrl": "https://housfy.com/alquilar-piso/barcelona/carrer-de-fluvia-653271",
+    "providerPropertyTitle": "Genial piso recién reformado en Diagonal Mar i el Front Marítim del Poble Nou",
+    "publishedDate": "2023-01-16T16:41:43Z",
+    "relevance": 1673887303,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1789,
+    "sizes": {
+      "size": 94,
+      "sizeBuiltWithoutCommonElements": 94,
+      "sizeBuilt": 94,
+      "sizeUseful": 94
+    },
+    "size": 94,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/653271/653271-housfy-20230116-v4UM3l0eFt-420x280.jpg"
+    ],
+    "numberOfBedrooms": 3,
+    "numberOfBathrooms": 2,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "rental",
+    "isVisible": true,
+    "description": "Genial piso recién reformado en Diagonal Mar i el Front Marítim del Poble Nou.\r\n\r\nHousfy Alquileres, la mejor solución para alquilar tu piso en España.\r\n\r\nSe alquila piso en Diagonal Mar i el Front Marítim del Poble Nou, Barcelona, un espacio para disfrutar en tu día a día.\r\nEspectacular piso reformado a estrenar, con calidades de primer orden y todo lujo de detalles.\r\n\r\nVivienda exterior con una superficie de 94m2 construidos muy bien aprovechados.\r\n\r\nDetalles del inmueble:\r\n\r\n- Salón amplio con vistas al exterior.\r\n- 2 dormitorios dobles y exteriores.\r\n- 1 dormitorio individual.\r\n- Cocina a medida completa con muebles y electrodomésticos.\r\n- 2 baños completos.\r\n- Lavadero.\r\n- Calefacción individual por gas y aire acondicionado.\r\n- Las ventanas son de climalit doble\r\n- Toda la vivienda tiene suelos de tarima y paredes lisas.\r\n- Tiene orientación oeste.\r\n- Dos meses de fianza más honorarios de agencia.\r\n\r\nEl inmueble está ubicado en una zona privilegiada, al limite entre el barrio del Poble Nou y Diagonal Mar, a solo dos minutos caminando de la playa, en una de las zonas más demandadas y de moda de toda la ciudad, próxima a todos los servicios, como colegios, centros de recreo, restauración, hoteles, hospitales, etc. Situado en calle Fluvià, a pocos metros del mar.\r\n\r\nEn cuanto a las comunicaciones, la vivienda se encuentra en una zona muy bien conectada dentro del distrito, ya que está a escasos metros de la parada de metro Selva de Mar (L4).\r\nAdicionalmente tiene una estupenda conexión con líneas de autobús y principales vías de comunicación.\r\n\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda alquilar la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922.",
+    "tags": [
+      23,
+      25,
+      31
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Sant Martí",
+    "neighborhoodLocationName": "Diagonal Mar i el Front Marítim del Poblenou",
+    "streetName": "Carrer de Fluvià",
+    "streetNumber": "24",
+    "floor": "1",
+    "door": "1",
+    "floorDoorLabel": "",
+    "latitude": 41.40496063,
+    "longitude": 2.21004868,
+    "price": {
+      "amount": 170000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 1808,
+      "currency": "EUR"
+    },
+    "isNew": true,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
+  },
+  "2a42c051-839a-4d39-bb52-18f813327d43": {
+    "uuid": "2a42c051-839a-4d39-bb52-18f813327d43",
+    "providerCode": "housfy",
+    "providerPropertyId": 588657,
+    "providerPropertyUrl": "https://housfy.com/alquilar-piso/barcelona/carrer-del-rec-comtal-588657",
+    "providerPropertyTitle": "Admirable piso en Ciutat Vella",
+    "publishedDate": "2023-01-10T08:41:05Z",
+    "relevance": 2,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1742,
+    "sizes": {
+      "size": 55,
+      "sizeBuiltWithoutCommonElements": 55,
+      "sizeBuilt": 65,
+      "sizeUseful": 55
+    },
+    "size": 55,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/588657/588657-housfy-20220530-aHIvu2IOT5-420x280.jpg"
+    ],
+    "numberOfBedrooms": 2,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "rental",
+    "isVisible": true,
+    "description": "Admirable piso en Ciutat Vella.\r\n\r\nHousfy Alquileres, alquila tu piso con los mejores expertos.\r\n\r\nSe alquila piso en Ciutat Vella, Barcelona, un espacio para disfrutar en tu día a día.\r\nEste fabuloso piso fue construido en el 1900 en Sant Pere - Santa Caterina i la Ribera. Consta de 65 m2 muy bien distribuidos.\r\n\r\nDetalles del inmueble:\r\n\r\n- Genial piso de 55 m2 en Sant Pere - Santa Caterina i la Ribera.\r\n- Contamos con todas las comodidades posibles de 2 habitaciones y 1 baño, muy bien acomodadas.\r\n- Coqueto salón con amplio espacio de luz natural, siendo además, un espacio agradable y estupendo para visitas de amigos y familiares.\r\n- Con una ventajosa cocina en buen estado y equipada con todo lo necesario.\r\n- Exterior muy luminoso, sol todo el dia.\r\n- Dos meses de fianza más honorarios de agencia.\r\n\r\nLa situación de este piso se encuentra en Barcelona. Con fácil acceso y servicios que facilitarán y mejorarán tu día a día.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda alquilar la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922.",
+    "tags": [
+      26,
+      29
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Ciutat Vella",
+    "neighborhoodLocationName": "Sant Pere - Santa Caterina i la Ribera",
+    "streetName": "Carrer del Rec Comtal",
+    "streetNumber": "13",
+    "floor": "2º",
+    "door": "2ª",
+    "floorDoorLabel": "",
+    "latitude": 41.38991547,
+    "longitude": 2.17973995,
+    "price": {
+      "amount": 110000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 2000,
+      "currency": "EUR"
+    },
+    "priceChangePercentage": "15.91",
+    "isNew": false,
+    "isPriceUpdated": true,
     "isReserved": false,
     "isSold": false
   }

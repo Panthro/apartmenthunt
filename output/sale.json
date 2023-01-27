@@ -1,87 +1,24 @@
 {
-  "0f146f51-857d-4184-a0e4-08d1290a0e3f": {
-    "uuid": "0f146f51-857d-4184-a0e4-08d1290a0e3f",
+  "64a8d187-a1be-4af3-9045-ffac1f52e8ad": {
+    "uuid": "64a8d187-a1be-4af3-9045-ffac1f52e8ad",
     "providerCode": "housfy",
-    "providerPropertyId": 618158,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-valencia-618158",
-    "providerPropertyTitle": "Fenomenal piso con terraza en Sant Martí",
-    "publishedDate": "2022-09-22T08:38:53Z",
-    "relevance": 1666189087,
-    "typeId": 2,
-    "typeCode": "piso",
-    "locationId": 1791,
-    "sizes": {
-      "size": 89,
-      "sizeBuiltWithoutCommonElements": 89,
-      "sizeBuilt": 89,
-      "sizeUseful": 89
-    },
-    "size": 89,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/618158/618158-housfy-20220921-X11VJe0fCb-420x280.jpg"
-    ],
-    "numberOfBedrooms": 4,
-    "numberOfBathrooms": 2,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "sale",
-    "isVisible": true,
-    "description": "Fenomenal piso con terraza en Sant Martí\r\n\r\n\r\nSe vende piso de en Sant Martí, Barcelona, perfecto para familias o parejas que busquen un lugar cómodo para su día a día.\r\nEl espléndido piso fue construido en el año 1972 en Barcelona. \r\n\r\nCaracterísticas:\r\n\r\n- Sus 89 m2 están perfectamente distribuidos, creando un espacio cómodo para el día a día. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- La vivienda dispone de 4 habitaciones y 2 baños, para familias completas.\r\n- Acogedor comedor con amplio espacio de luz natural, donde disfrutar de tu familia.\r\n- Con una conveniente cocina en buen estado.\r\n- Exterior.\r\n- Terraza.\r\n- Ascensor\r\n\r\nSobre la localización, se encuentra en Barcelona.\r\nCon fácil acceso y servicios que facilitarán y mejorarán tu día a día.\r\n\r\nSobre nosotros:\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
-    "tags": [
-      23,
-      26,
-      32
-    ],
-    "canScheduleVisits": false,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Sant Martí",
-    "neighborhoodLocationName": "El Camp de l\u0027Arpa del Clot",
-    "streetName": "Carrer de València",
-    "streetNumber": "569",
-    "floor": "EN",
-    "door": "01",
-    "floorDoorLabel": "",
-    "latitude": 41.40816116,
-    "longitude": 2.18354034,
-    "price": {
-      "amount": 34000000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 382022,
-      "currency": "EUR"
-    },
-    "priceChangePercentage": "-10.53",
-    "isNew": false,
-    "isPriceUpdated": true,
-    "isReserved": false,
-    "isSold": false
-  },
-  "d8db88d8-ed70-470b-99e2-c8430a0416bc": {
-    "uuid": "d8db88d8-ed70-470b-99e2-c8430a0416bc",
-    "providerCode": "housfy",
-    "providerPropertyId": 627669,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/cl-corsega-627669",
-    "providerPropertyTitle": "Fabuloso piso reformado",
-    "publishedDate": "2022-09-08T07:37:32Z",
-    "relevance": 1666081548,
+    "providerPropertyId": 630825,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-valencia-630825",
+    "providerPropertyTitle": "Encantador piso con terraza en l\u0027Eixample",
+    "publishedDate": "2022-10-26T07:54:03Z",
+    "relevance": 1674745016,
     "typeId": 2,
     "typeCode": "piso",
     "locationId": 1748,
     "sizes": {
-      "size": 58,
-      "sizeBuiltWithoutCommonElements": 58,
-      "sizeBuilt": 64,
-      "sizeUseful": 64
+      "size": 90,
+      "sizeBuiltWithoutCommonElements": 90,
+      "sizeBuilt": 90,
+      "sizeUseful": 90
     },
-    "size": 58,
+    "size": 90,
     "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/627669/627669-housfy-20220907-VgjijkrXuP-420x280.jpg"
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/630825/630825-housfy-20221028-73FBaIzSxm-420x280.jpg"
     ],
     "numberOfBedrooms": 2,
     "numberOfBathrooms": 1,
@@ -93,154 +30,31 @@
     },
     "operationTypeCode": "sale",
     "isVisible": true,
-    "description": "Fabuloso piso reformado en l\u0027Eixample de Barcelona.\r\n\r\nOportunidad de adquirir vivienda totalmente reformada a estrenar en l\u0027Eixample, Barcelona, perfecto para familias o parejas que busquen un hogar sin necesidad de realizar ningún tipo de reforma.\r\nEste situado en el prestigioso barrio de La Sagrada Familia. Consta de 58 m2 muy bien distribuidos.\r\n\r\nDetalles del inmueble:\r\n\r\n- Fantástico y luminoso piso de 58 metros situado en una bonita finca\r\n- La vivienda dispone de 2 habitaciones y 1 baño,\r\n- Totalmente reformado y a estrenar\r\n\r\nDescubre nuestro piso en exclusiva y cómodamente desde tu casa con el paseo virtual. Posibilidad de financiación al 100%. Pregúntanos sin compromiso.\r\n\r\nNota: Las imágenes del anuncio son renders que muestran cómo quedará la reforma completada. En el precio de venta no se incluye el mobiliario.",
+    "description": "Encantador piso con terraza en l\u0027Eixample.\r\n\r\nSe vende piso en Eixample, Sagrada Familia, perfecto para familias o parejas que busquen un lugar cómodo para su día a día.\r\nEl encantador piso fue construido en el 1957 en La Sagrada Familia, zona muy buen comunicada, barrio tranquilo y piso para entrar a vivir\r\n\r\nCaracterísticas:\r\n\r\n- Acogedor piso REFORMADO de 70 m² en La Sagrada Familia. (Los metros cuadrados están verificados con la Escritura)\r\n- Podemos disfrutar de 2 habitaciones, antes 3, y 1 baño completo.\r\n- Amplio comedor de 24 m²  todo exterior con salida a terraza de 13 m², creando un precioso y único espacio.\r\n- Con una ventajosa cocina en muy buen estado y equipada con todo lo necesario con salida a galería de 6 m².\r\n- Dispone de calefacción en todas las estancias, aire acondicionado, suelos de parqué, ventanas de aluminio doble vidrio..\r\n\r\nSituado cerca de la Sagrada Familia, Avinguda Gaudí, una vivienda ideal para aquellos que quieran un cómodo espacio donde vivir con todo lo necesario del día a día a un paso de su casa.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
     "tags": [
       23,
-      25
+      26,
+      31,
+      32
     ],
     "canScheduleVisits": false,
     "stateLocationName": "Barcelona",
     "cityLocationName": "Barcelona",
     "districtLocationName": "Eixample",
     "neighborhoodLocationName": "La Sagrada Família",
-    "streetName": "CL CORSEGA",
-    "streetNumber": "604",
-    "floor": "02",
-    "door": "01",
-    "floorDoorLabel": "",
-    "latitude": 41.40904999,
-    "longitude": 2.1763401,
-    "price": {
-      "amount": 26900000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 463793,
-      "currency": "EUR"
-    },
-    "priceChangePercentage": "-3.93",
-    "isNew": false,
-    "isPriceUpdated": true,
-    "isReserved": false,
-    "isSold": false
-  },
-  "1a918439-3a64-43d0-9f82-c8673b042910": {
-    "uuid": "1a918439-3a64-43d0-9f82-c8673b042910",
-    "providerCode": "housfy",
-    "providerPropertyId": 615942,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-la-llacuna-615942",
-    "providerPropertyTitle": "Maravilloso piso en Sant Martí",
-    "publishedDate": "2022-07-21T07:40:23Z",
-    "relevance": 1666023735,
-    "typeId": 2,
-    "typeCode": "piso",
-    "locationId": 1792,
-    "sizes": {
-      "size": 78,
-      "sizeBuiltWithoutCommonElements": 78,
-      "sizeBuilt": 78,
-      "sizeUseful": 78
-    },
-    "size": 78,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/615942/615942-housfy-20220721-9Zt8WlWsFK-420x280.jpg"
-    ],
-    "numberOfBedrooms": 3,
-    "numberOfBathrooms": 2,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "sale",
-    "isVisible": true,
-    "description": "Maravilloso piso en Sant Martí.\r\n\r\nCompraventa entre particulares con Housfy.\r\n\r\nSe vende piso de particular a particular en Sant Martí, Barcelona, perfecto para familias o parejas que busquen un lugar cómodo para su día a día.\r\nEste piso fue construido en el año 1982 en Barcelona.\r\n\r\nDetalles del inmueble:\r\n\r\n- Sus 78 m2 están perfectamente distribuidos, creando un amplio y abierto espacio con mucha luz y con un diseño muy especial. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Contamos con todas las comodidades posibles de 3 habitaciones y 2 baños, perfecto para una familia.\r\n- Práctico salón-comedor que te proporcionará el relax diario, creando un precioso y único espacio.\r\n- Con una utilitaria cocina en buen estado y equipada con todo lo necesario.\r\n- Exterior.\r\n\r\nRespecto a la ubicación, se sitúa en Barcelona. Con fácil acceso y servicios que facilitarán y mejorarán tu día a día.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
-    "tags": [
-      23,
-      26,
-      31
-    ],
-    "canScheduleVisits": false,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Sant Martí",
-    "neighborhoodLocationName": "El Clot",
-    "streetName": "Carrer de la Llacuna",
-    "streetNumber": "165 (ESC. A)",
+    "streetName": "Carrer de València",
+    "streetNumber": "493",
     "floor": "01",
-    "door": "03",
+    "door": "04",
     "floorDoorLabel": "",
-    "latitude": 41.40705872,
-    "longitude": 2.19070792,
-    "price": {
-      "amount": 26000000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 333333,
-      "currency": "EUR"
-    },
-    "priceChangePercentage": "-5.45",
-    "isNew": false,
-    "isPriceUpdated": true,
-    "isReserved": false,
-    "isSold": false
-  },
-  "79bfbc79-dd79-4752-9375-c8c9e3a3e02c": {
-    "uuid": "79bfbc79-dd79-4752-9375-c8c9e3a3e02c",
-    "providerCode": "housfy",
-    "providerPropertyId": 606273,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/cl-espronceda-606273",
-    "providerPropertyTitle": "Admirable piso con terraza en Sant Andreu -Navas",
-    "publishedDate": "2022-10-07T08:12:16Z",
-    "relevance": 1665669614,
-    "typeId": 2,
-    "typeCode": "piso",
-    "locationId": 1786,
-    "sizes": {
-      "size": 60,
-      "sizeBuiltWithoutCommonElements": 60,
-      "sizeBuilt": 64,
-      "sizeUseful": 64
-    },
-    "size": 60,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/606273/606273-housfy-20221006-OCGHIi6Fuf-420x280.jpg"
-    ],
-    "numberOfBedrooms": 3,
-    "numberOfBathrooms": 1,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "sale",
-    "isVisible": true,
-    "description": "Admirable piso con terraza en Sant Andreu - Navas.\r\n\r\nHousfy, de particular a particular.\r\n\r\nSe vende piso directamente del propietario en Sant Andreu, Barcelona, un espacio para disfrutar en tu día a día.\r\nEste encantador piso fue construido en el año 1969.\r\n\r\nDetalles del inmueble:\r\n\r\n- Admirable piso de 64 m² en Navas - Espronceda / Murcia. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Esta vivienda cuenta con 3 habitaciones (1 doble) y 1 baño completo de 4 piezas, perfecto para una familia.\r\n- Cómodo salón-comedor, amplio y luminoso con salida al balcón, un lugar perfecto para descansar en los ratos libres.\r\n- Con una conveniente cocina a reformar, con salida al lavadero.\r\n- Exterior.\r\n\r\nSobre la situación de este piso está localizado en Barcelona.\r\nCon fácil acceso y servicios que facilitarán y mejorarán tu día a día.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
-    "tags": [
-      23,
-      26
-    ],
-    "canScheduleVisits": false,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Sant Andreu",
-    "neighborhoodLocationName": "Navas",
-    "streetName": "CL ESPRONCEDA",
-    "streetNumber": "343",
-    "floor": "04",
-    "door": "02",
-    "floorDoorLabel": "",
-    "latitude": 41.41630554,
-    "longitude": 2.1897428,
+    "latitude": 41.40494537,
+    "longitude": 2.17907715,
     "price": {
       "amount": 28900000,
       "currency": "EUR"
     },
     "priceSize": {
-      "amount": 481666,
+      "amount": 321111,
       "currency": "EUR"
     },
     "priceChangePercentage": "-3.34",
@@ -249,92 +63,29 @@
     "isReserved": false,
     "isSold": false
   },
-  "11196a1a-b97d-405d-9b6d-f7ab1e625c4a": {
-    "uuid": "11196a1a-b97d-405d-9b6d-f7ab1e625c4a",
+  "aa283746-ab96-4e99-bd16-c3b45e0074ea": {
+    "uuid": "aa283746-ab96-4e99-bd16-c3b45e0074ea",
     "providerCode": "housfy",
-    "providerPropertyId": 541863,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-llull-541863",
-    "providerPropertyTitle": "Espléndido piso en Sant Martí",
-    "publishedDate": "2022-06-21T11:00:44Z",
-    "relevance": 1665656469,
-    "typeId": 2,
-    "typeCode": "piso",
-    "locationId": 1794,
-    "sizes": {
-      "size": 44,
-      "sizeBuiltWithoutCommonElements": 44,
-      "sizeBuilt": 44,
-      "sizeUseful": 44
-    },
-    "size": 44,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/541863/541863-housfy-20220314-IvMsYM7I5L-420x280.jpg"
-    ],
-    "numberOfBedrooms": 2,
-    "numberOfBathrooms": 1,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "sale",
-    "isVisible": true,
-    "description": "Espléndido piso con patio en Sant Martí\r\n\r\nHousfy sin intermediarios.\r\n\r\nOportunidad de adquirir magnífico piso con patio privado de 30m2 en Sant Martí, Barcelona. Una vivienda luminosa y ubicada en un entorno idóneo para disfrutarlo. \r\nEl edificio fue construido en 1930 en El Poblenou, con todos los mantenimientos al día. Sus 44 m2 están perfectamente distribuidos, y gozan de muchas posibilidades de reforma.\r\n\r\nDetalles del inmueble:\r\n\r\n- Sensacional piso de 44 m2 y 30m2 de terraza en El Poblenou. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Contamos con todas las comodidades posibles de 2 habitaciones y 1 baño, muy bien acomodadas.\r\n- Coqueto salón-comedor con amplio espacio de luz natural, donde disfrutar de tu familia.\r\n- Con una conveniente cocina.\r\n- Exterior.\r\n- Terraza de 30m2\r\n- Este piso cuenta también con un conveniente trastero.\r\n\r\nSobre la ubicación, se encuentra en Barcelona. Con todos los servicios que puedas necesitar para facilitar tus días en todo momento.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
-    "tags": [
-      23,
-      26,
-      32
-    ],
-    "canScheduleVisits": false,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Sant Martí",
-    "neighborhoodLocationName": "El Poblenou",
-    "streetName": "Carrer de Llull",
-    "streetNumber": "261",
-    "floor": "bj",
-    "door": "03",
-    "floorDoorLabel": "",
-    "latitude": 41.4045105,
-    "longitude": 2.20635605,
-    "price": {
-      "amount": 24900000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 565909,
-      "currency": "EUR"
-    },
-    "priceChangePercentage": "-6.04",
-    "isNew": false,
-    "isPriceUpdated": true,
-    "isReserved": false,
-    "isSold": false
-  },
-  "dcd7e1f2-ec52-484e-983c-a67276970db4": {
-    "uuid": "dcd7e1f2-ec52-484e-983c-a67276970db4",
-    "providerCode": "housfy",
-    "providerPropertyId": 583157,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/gran-via-de-les-corts-catalanes-583157",
-    "providerPropertyTitle": "Perfecto piso con balcón en Sant Martí",
-    "publishedDate": "2022-05-13T15:14:09Z",
-    "relevance": 1665656203,
+    "providerPropertyId": 653357,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/gran-via-de-les-corts-catalanes-653357",
+    "providerPropertyTitle": "Estupendo piso con terraza en Sant Martí",
+    "publishedDate": "2023-01-16T09:27:54Z",
+    "relevance": 1673861274,
     "typeId": 2,
     "typeCode": "piso",
     "locationId": 1797,
     "sizes": {
-      "size": 71,
-      "sizeBuiltWithoutCommonElements": 71,
-      "sizeBuilt": 71,
-      "sizeUseful": 71
+      "size": 83,
+      "sizeBuiltWithoutCommonElements": 83,
+      "sizeBuilt": 83,
+      "sizeUseful": 83
     },
-    "size": 71,
+    "size": 83,
     "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/583157/583157-housfy-20220510-EUHK2dQixD-420x280.jpg"
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/653357/653357-housfy-20230114-oK3ToPTnOp-420x280.jpg"
     ],
     "numberOfBedrooms": 3,
-    "numberOfBathrooms": 1,
+    "numberOfBathrooms": 2,
     "userName": "Housfy Real Estate",
     "userPhone": {
       "countryCode": "+34",
@@ -343,7 +94,7 @@
     },
     "operationTypeCode": "sale",
     "isVisible": true,
-    "description": "Perfecto piso con balcón en Sant Martí.\r\n\r\nDe particular a particular con Housfy.\r\n\r\nSe vende piso directamente del propietario en Sant Martí, Barcelona, un espacio para disfrutar en tu día a día.\r\nEste piso fue construido en el año 1975. Consta de 71 m2.\r\n\r\nCaracterísticas:\r\n\r\n- Fantástico piso de 71 m2 en Provençals del Poblenou. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Podemos disfrutar de 3 habitaciones y 1 baño, perfecto para una familia.\r\n- Coqueto comedor con amplio espacio de luz natural, un lugar perfecto para descansar en los ratos libres.\r\n- Con una conveniente cocina en buen estado y equipada con todo lo necesario.\r\n- Balcón.\r\n- Exterior y muy luminoso.\r\n\r\nSobre la ubicación, se sitúa en Barcelona. Con todos los servicios que puedas necesitar para facilitar tus días en todo momento.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
+    "description": "Estupendo piso con terraza en Sant Martí.\r\n\r\nHousfy la agencia inmobiliaria con las mejores condiciones hipotecarias.\r\n\r\nSe vende piso de particular a particular en Sant Martí, Barcelona, en Provençals del Poblenou. \r\nEl acogedor piso fue construido en el año 1975, la vivienda cuenta con una última reforma realizada hace menos de 10 años. Se encuentra en un estado perfecto de conservación y lista apara entrar a vivir.\r\n\r\nDetalles del inmueble:\r\n\r\nSus 83 m2 están perfectamente distribuidos, creando un espacio cómodo para el día a día.(Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- La vivienda dispone de 3 habitaciones, 1 baño completo y aseo de cortesía con armario empotrado.\r\n- Amplia cocina con salida a lavadero.\r\n- Coqueto salón-comedor luminoso, donde disfrutar de tu familia.\r\n- Calefacción en todas las estancias.\r\n- Exterior.\r\n- Terraza cerrada.\r\n- Puerta blindada.\r\n- La finca cuenta con ascensor.\r\n\r\nSobre la ubicación, si escoges este barrio para vivir tendrás todos los servicios esenciales que necesitarás para tu nueva vida. A escasos metros encontramos: centros educativos, centros de salud, parques, equipamientos deportivos y supermercados, farmacias, entre otros.\r\n\r\nNo lo dudes más y contacta con nosotros para agendar una visita, conseguiremos la vivienda de tus sueños.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
     "tags": [
       23,
       26,
@@ -356,146 +107,21 @@
     "districtLocationName": "Sant Martí",
     "neighborhoodLocationName": "Provençals del Poblenou",
     "streetName": "Gran Via de les Corts Catalanes",
-    "streetNumber": "1084",
-    "floor": "08",
-    "door": "05",
-    "floorDoorLabel": "",
-    "latitude": 41.41532898,
-    "longitude": 2.20387816,
-    "price": {
-      "amount": 25900000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 364788,
-      "currency": "EUR"
-    },
-    "priceChangePercentage": "-3.36",
-    "isNew": false,
-    "isPriceUpdated": true,
-    "isReserved": false,
-    "isSold": false
-  },
-  "f2664755-f4d9-4e87-b8ec-fa9327c722e4": {
-    "uuid": "f2664755-f4d9-4e87-b8ec-fa9327c722e4",
-    "providerCode": "housfy",
-    "providerPropertyId": 627342,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-biscaia-627342",
-    "providerPropertyTitle": "Fabuloso piso en Sant Andreu",
-    "publishedDate": "2022-10-07T07:41:05Z",
-    "relevance": 1665128465,
-    "typeId": 2,
-    "typeCode": "piso",
-    "locationId": 1786,
-    "sizes": {
-      "size": 73,
-      "sizeBuiltWithoutCommonElements": 73,
-      "sizeBuilt": 73,
-      "sizeUseful": 73
-    },
-    "size": 73,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/627342/627342-housfy-20221006-ua43stXqDA-420x280.jpg"
-    ],
-    "numberOfBedrooms": 3,
-    "numberOfBathrooms": 1,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "sale",
-    "isVisible": true,
-    "description": "Fabuloso piso en Sant Andreu.\r\n\r\nSe vende piso en Sant Andreu, Barcelona, un espacio para disfrutar en tu día a día.\r\nConstruido en 1963 en Barcelona. \r\n\r\nPiso bonito y acogedor, reformado con buen gusto. Materiales naturales, luz y silencio.\r\n\r\nCaracterísticas:\r\n\r\n- Fantástico piso de 73 m2 en Navas. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Piso orientado al sur con sol todo el día en las habitaciones principales. Es cálido en invierno y fresco en verano. No necesita calefacción, apenas algún rato de estufa suave. Es un piso alto y no hay nunca mosquitos. Tampoco hay humedades en ninguna habitación.\r\n- Contamos con dos habitaciones dobles (de 3,5 x 4 metros aprox.), una habitación individual pero cuadrada (2,25 x 2,75m aprox) y una sala amplia (6x3m).\r\n- Coqueto comedor que te proporcionará el relax diario, siendo además, un espacio agradable estupendo para visitas de amigos y familiares.\r\n- Carpintería interior de madera restaurada, puertas y ventanas de madera maciza, con encanto. La cocina tiene una puerta corredera art decó restaurada preciosa, una habitación principal tiene un ventanal muy bonito.\r\n- La sala, cocina, baño y la tercera habitación dan a un patio interior muy amplio y luminoso. Eso, unido a que es un piso alto (7o) hace que sean estancias luminosas a la vez que tranquilas.\r\n- Mobiliario a negociar con el propietario.\r\n- Ascensor.\r\n- Exterior.\r\n- Edificio con cemento aluminoso sólo en los forjados sin aluminosis, ITE pasada y con certificado de aptitud de la Generalitat.\r\n\r\nLa localización de el piso se encuentra en Barcelona, municipio de Barcelona.\r\nDa a un chaflán y los edificios de enfrente quedan lejos. Es un cruce de calles tranquilas de barrio, bastante silenciosas.\r\nCon fácil acceso y servicios que facilitarán y mejorarán tu día a día.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
-    "tags": [
-      23,
-      26,
-      33
-    ],
-    "canScheduleVisits": false,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Sant Andreu",
-    "neighborhoodLocationName": "Navas",
-    "streetName": "Carrer de Biscaia",
-    "streetNumber": "354",
-    "floor": "07",
-    "door": "F",
-    "floorDoorLabel": "",
-    "latitude": 41.415802,
-    "longitude": 2.1889863,
-    "price": {
-      "amount": 25000000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 342465,
-      "currency": "EUR"
-    },
-    "isNew": false,
-    "isPriceUpdated": false,
-    "isReserved": false,
-    "isSold": false
-  },
-  "e98bdeb5-74d8-4d24-b63c-af12f9ec87f0": {
-    "uuid": "e98bdeb5-74d8-4d24-b63c-af12f9ec87f0",
-    "providerCode": "housfy",
-    "providerPropertyId": 565638,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/gran-via-de-les-corts-catalanes-565638",
-    "providerPropertyTitle": "Fantástico piso en Eixample",
-    "publishedDate": "2022-04-20T11:48:37Z",
-    "relevance": 900,
-    "typeId": 2,
-    "typeCode": "piso",
-    "locationId": 1744,
-    "sizes": {
-      "size": 82,
-      "sizeBuiltWithoutCommonElements": 82,
-      "sizeBuilt": 82,
-      "sizeUseful": 82
-    },
-    "size": 82,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/565638/565638-housfy-20220408-GlxvSpV0BP-420x280.jpg"
-    ],
-    "numberOfBedrooms": 3,
-    "numberOfBathrooms": 1,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "sale",
-    "isVisible": true,
-    "description": "Fantástico piso en Eixample\r\n\r\n\r\nDe particular a particular con Housfy.\r\n\r\nOportunidad de adquirir magnífica vivienda en Eixample, Barcelona, un espacio para disfrutar en tu día a día.\r\nEl piso fue construido en el año 1925 en El Fort Pienc. Sus 89 m2 están perfectamente distribuidos, creando un espacio cómodo para el día a día.\r\n\r\nCaracterísticas:\r\n- Maravilloso piso de 82 m2 en El Fort Pienc. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Cuenta con todas las comodidades posibles de 3 habitaciones y 1 baño, perfecto para una familia.\r\n- Funcional comedor con amplio espacio de luz natural, creando un precioso y único espacio.\r\n- Exterior.\r\n- Con una apropiada cocina en buen estado.\r\n- En la comunidad se incluye, el IBI, agua y gastos de comunidad. 99 euros mensuales.\r\n\r\nRespecto a la ubicación, está localizado en Barcelona.\r\nCon fácil acceso y servicios que facilitarán y mejorarán tu día a día.\r\n\r\nSobre nosotros:\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
-    "tags": [
-      23,
-      26,
-      31
-    ],
-    "canScheduleVisits": false,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Eixample",
-    "neighborhoodLocationName": "El Fort Pienc",
-    "streetName": "Gran Via de les Corts Catalanes",
-    "streetNumber": "755",
+    "streetNumber": "1136",
     "floor": "01",
-    "door": "02",
+    "door": "04",
     "floorDoorLabel": "",
-    "latitude": 41.40140152,
-    "longitude": 2.18352199,
+    "latitude": 41.41736221,
+    "longitude": 2.20664215,
     "price": {
-      "amount": 35000000,
+      "amount": 26900000,
       "currency": "EUR"
     },
     "priceSize": {
-      "amount": 426829,
+      "amount": 324096,
       "currency": "EUR"
     },
-    "isNew": false,
+    "isNew": true,
     "isPriceUpdated": false,
     "isReserved": false,
     "isSold": false
@@ -550,39 +176,39 @@
     "latitude": 41.40143204,
     "longitude": 2.17528224,
     "price": {
-      "amount": 29500000,
+      "amount": 28500000,
       "currency": "EUR"
     },
     "priceSize": {
-      "amount": 491666,
+      "amount": 475000,
       "currency": "EUR"
     },
-    "priceChangePercentage": "-1.67",
+    "priceChangePercentage": "-3.39",
     "isNew": false,
     "isPriceUpdated": false,
     "isReserved": false,
     "isSold": false
   },
-  "e8819e88-a825-427e-953e-538e7ccb7ec3": {
-    "uuid": "e8819e88-a825-427e-953e-538e7ccb7ec3",
+  "11196a1a-b97d-405d-9b6d-f7ab1e625c4a": {
+    "uuid": "11196a1a-b97d-405d-9b6d-f7ab1e625c4a",
     "providerCode": "housfy",
-    "providerPropertyId": 573351,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/placa-del-mercat-573351",
-    "providerPropertyTitle": "Perfecto piso en Sant Martí",
-    "publishedDate": "2022-05-12T14:44:08Z",
-    "relevance": 900,
+    "providerPropertyId": 541863,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-llull-541863",
+    "providerPropertyTitle": "Espléndido piso en Sant Martí",
+    "publishedDate": "2022-06-21T11:00:44Z",
+    "relevance": 400,
     "typeId": 2,
     "typeCode": "piso",
-    "locationId": 1792,
+    "locationId": 1794,
     "sizes": {
-      "size": 54,
-      "sizeBuiltWithoutCommonElements": 54,
-      "sizeBuilt": 54,
-      "sizeUseful": 54
+      "size": 44,
+      "sizeBuiltWithoutCommonElements": 44,
+      "sizeBuilt": 44,
+      "sizeUseful": 44
     },
-    "size": 54,
+    "size": 44,
     "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/573351/573351-housfy-20220512-2suZxMMdly-420x280.jpg"
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/541863/541863-housfy-20220314-IvMsYM7I5L-420x280.jpg"
     ],
     "numberOfBedrooms": 2,
     "numberOfBathrooms": 1,
@@ -594,33 +220,96 @@
     },
     "operationTypeCode": "sale",
     "isVisible": true,
-    "description": "Perfecto piso en Sant Martí\r\n\r\n\r\nHousfy la agencia inmobiliaria con las mejores condiciones hipotecarias.\r\n\r\nOportunidad de adquirir magnífica vivienda en Sant Martí, Barcelona, una vivienda luminosa y ubicada en un entorno idóneo para disfrutarlo.\r\nEl piso fue construido en el año 1910 en El Clot. Este estupendo piso está formado por 54 m2 construidos.\r\n\r\nDetalles del inmueble:\r\n- Estupendo piso de 54m2 en El Clot. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- La vivienda dispone de 2 habitaciones y 1 baño, muy bien acomodadas.\r\n- Acogedor salón-comedor que te proporcionará el relax diario, siendo además, un espacio agradable estupendo para visitas de amigos y familiares.\r\n- Con una conveniente cocina en muy buen estado, muy completa. \r\n- Aire acondicionado y calefacción.\r\n- Suelos de parquet.\r\n- Balcón.\r\n- Exterior.\r\n\r\nSobre la localización, se sitúa en Barcelona, en la localidad de Barcelona.\r\nCon todos los servicios que puedas necesitar para facilitar tus días en todo momento.\r\n\r\nSobre nosotros:\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
+    "description": "Espléndido piso con patio en Sant Martí\r\n\r\n\r\nOportunidad de adquirir magnífico piso con patio privado de 30m2 en Sant Martí, Barcelona. Una vivienda luminosa y ubicada en un entorno idóneo para disfrutarlo. \r\nEl edificio fue construido en 1930 en El Poblenou, con todos los mantenimientos al día. Sus 44 m2 están perfectamente distribuidos, y gozan de muchas posibilidades de reforma.\r\n\r\nDetalles del inmueble:\r\n\r\n- Sensacional piso de 44 m2 y 30m2 de terraza en El Poblenou. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Contamos con todas las comodidades posibles de 2 habitaciones y 1 baño, muy bien acomodadas.\r\n- Coqueto salón-comedor con amplio espacio de luz natural, donde disfrutar de tu familia.\r\n- Con una conveniente cocina.\r\n- Exterior.\r\n- Terraza de 30m2\r\n- Este piso cuenta también con un conveniente trastero.\r\n\r\nSobre la ubicación, se encuentra en Barcelona. Con todos los servicios que puedas necesitar para facilitar tus días en todo momento.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
     "tags": [
       23,
       26,
-      31,
-      33
+      32
     ],
     "canScheduleVisits": false,
     "stateLocationName": "Barcelona",
     "cityLocationName": "Barcelona",
     "districtLocationName": "Sant Martí",
-    "neighborhoodLocationName": "El Clot",
-    "streetName": "Plaça del Mercat",
-    "streetNumber": "13",
-    "floor": "01",
-    "door": "02",
+    "neighborhoodLocationName": "El Poblenou",
+    "streetName": "Carrer de Llull",
+    "streetNumber": "261",
+    "floor": "bj",
+    "door": "03",
     "floorDoorLabel": "",
-    "latitude": 41.40714264,
-    "longitude": 2.18897009,
+    "latitude": 41.4045105,
+    "longitude": 2.20635605,
     "price": {
       "amount": 23900000,
       "currency": "EUR"
     },
     "priceSize": {
-      "amount": 442592,
+      "amount": 543181,
       "currency": "EUR"
     },
+    "priceChangePercentage": "-4.02",
+    "isNew": false,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
+  },
+  "0f146f51-857d-4184-a0e4-08d1290a0e3f": {
+    "uuid": "0f146f51-857d-4184-a0e4-08d1290a0e3f",
+    "providerCode": "housfy",
+    "providerPropertyId": 618158,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-valencia-618158",
+    "providerPropertyTitle": "Fenomenal piso con terraza en Sant Martí",
+    "publishedDate": "2022-09-22T08:38:53Z",
+    "relevance": 300,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1791,
+    "sizes": {
+      "size": 89,
+      "sizeBuiltWithoutCommonElements": 89,
+      "sizeBuilt": 89,
+      "sizeUseful": 89
+    },
+    "size": 89,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/618158/618158-housfy-20220921-X11VJe0fCb-420x280.jpg"
+    ],
+    "numberOfBedrooms": 3,
+    "numberOfBathrooms": 2,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "Fenomenal piso con terraza en Sant Martí\r\n\r\n\r\nSe vende piso de en Sant Martí, Barcelona, perfecto para familias o parejas que busquen un lugar cómodo para su día a día.\r\nEl espléndido piso fue construido en el año 1972 en Barcelona. \r\n\r\nCaracterísticas:\r\n\r\n- Sus 89 m2 están perfectamente distribuidos, creando un espacio cómodo para el día a día. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- La vivienda dispone de 4 habitaciones y 2 baños, para familias completas.\r\n- Acogedor comedor con amplio espacio de luz natural, donde disfrutar de tu familia.\r\n- Con una conveniente cocina en buen estado.\r\n- Exterior.\r\n- Terraza.\r\n- Ascensor\r\n\r\nSobre la localización, se encuentra en Barcelona.\r\nCon fácil acceso y servicios que facilitarán y mejorarán tu día a día.\r\n\r\nSobre nosotros:\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
+    "tags": [
+      23,
+      26,
+      32
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Sant Martí",
+    "neighborhoodLocationName": "El Camp de l\u0027Arpa del Clot",
+    "streetName": "Carrer de València",
+    "streetNumber": "569",
+    "floor": "EN",
+    "door": "01",
+    "floorDoorLabel": "",
+    "latitude": 41.40816116,
+    "longitude": 2.18354034,
+    "price": {
+      "amount": 31000000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 348314,
+      "currency": "EUR"
+    },
+    "priceChangePercentage": "-8.82",
     "isNew": false,
     "isPriceUpdated": false,
     "isReserved": false,
@@ -645,7 +334,7 @@
     },
     "size": 61,
     "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/604638/604638-housfy-20220720-39aclWl0iq-420x280.jpg"
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/604638/604638-housfy-20220720-GloKqRnDsj-420x280.jpg"
     ],
     "numberOfBedrooms": 2,
     "numberOfBathrooms": 1,
@@ -689,26 +378,91 @@
     "isReserved": false,
     "isSold": false
   },
-  "bbb8d10f-34b6-4380-a828-ec23d35061ef": {
-    "uuid": "bbb8d10f-34b6-4380-a828-ec23d35061ef",
+  "24ec8c07-fc4d-460a-84f1-b52c78ef8430": {
+    "uuid": "24ec8c07-fc4d-460a-84f1-b52c78ef8430",
     "providerCode": "housfy",
-    "providerPropertyId": 502431,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-del-taulat-502431",
-    "providerPropertyTitle": "Acogedor piso en Sant Martí",
-    "publishedDate": "2022-03-02T08:10:41Z",
-    "relevance": 100,
+    "providerPropertyId": 568586,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-ramon-turro-568586",
+    "providerPropertyTitle": "Fabuloso piso en Sant Martí",
+    "publishedDate": "2022-10-10T18:52:52Z",
+    "relevance": 300,
     "typeId": 2,
     "typeCode": "piso",
+    "reservedDate": "2022-05-26T07:03:01Z",
     "locationId": 1794,
     "sizes": {
-      "size": 69,
-      "sizeBuiltWithoutCommonElements": 69,
-      "sizeBuilt": 69,
-      "sizeUseful": 69
+      "size": 78,
+      "sizeBuiltWithoutCommonElements": 78,
+      "sizeBuilt": 78,
+      "sizeUseful": 78
     },
-    "size": 69,
+    "size": 78,
     "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/502431/502431-housfy-20220914-MC5X6CHwiU-420x280.jpg"
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/568586/568586-housfy-20220413-xyWTboc7Q4-420x280.jpg"
+    ],
+    "numberOfBedrooms": 2,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "Fabuloso piso en Poblenou\r\n\r\nHomy Capital tiene en su cartera activa, este inmueble ubicado en el barrio de Poblenou (Barcelona). \r\n\r\nEl inmueble de 78m² es exterior, se encuentra en una segunda planta real. Está distribuido en salón comedor de 20m², 2 habitaciones dobles, una de ellas con salida a balcón y vestidor, cocina individual y baño completo con plato de ducha. Está equipado con suelo de gres en baño y cocina y en el resto de las estancias parquet, ventanas de aluminio y puertas de madera.\r\n\r\nLa finca de 1890, se encuentra muy próxima al mar, zonas verdes, colegios, comercios y tiene muy buena comunicación en transporte público.\r\n\r\nEl inmueble se entrega completamente reformado, las imágenes son renders. \r\nEn el precio de venta no se incluye el mobiliario.\r\n\r\nPosibilidad de asesoramiento con bróker financiero gratuito. Pregúntanos sin compromiso.",
+    "tags": [
+      23,
+      25,
+      26,
+      33
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Sant Martí",
+    "neighborhoodLocationName": "El Poblenou",
+    "streetName": "Carrer de Ramon Turró",
+    "streetNumber": "142",
+    "floor": "02",
+    "door": "01",
+    "floorDoorLabel": "",
+    "latitude": 41.39651871,
+    "longitude": 2.1987114,
+    "price": {
+      "amount": 32900000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 421794,
+      "currency": "EUR"
+    },
+    "priceChangePercentage": "-1.5",
+    "isNew": false,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
+  },
+  "a34d459a-b742-4eda-a68e-031fe13f6d78": {
+    "uuid": "a34d459a-b742-4eda-a68e-031fe13f6d78",
+    "providerCode": "housfy",
+    "providerPropertyId": 641965,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-padilla-641965",
+    "providerPropertyTitle": "Fenomenal piso con balcón en l\u0027Eixample",
+    "publishedDate": "2022-11-10T15:02:54Z",
+    "relevance": 200,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1748,
+    "sizes": {
+      "size": 68,
+      "sizeBuiltWithoutCommonElements": 68,
+      "sizeBuilt": 68,
+      "sizeUseful": 68
+    },
+    "size": 68,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/641965/641965-housfy-20221110-ArfpslgsJr-420x280.jpg"
     ],
     "numberOfBedrooms": 3,
     "numberOfBathrooms": 1,
@@ -720,33 +474,160 @@
     },
     "operationTypeCode": "sale",
     "isVisible": true,
-    "description": "Acogedor piso con terraza en Sant Martí.\r\n\r\nDe particular a particular con Housfy.\r\n\r\nOportunidad de adquirir magnífico piso en Sant Martí, Barcelona, una vivienda luminosa y ubicada en un entorno idóneo para disfrutarlo.\r\nEl fenomenal piso fue construido en el 1954. Este admirable piso está formado por 69 m2.\r\n\r\nDetalles del inmueble:\r\n\r\n- Luminoso piso de 69 m2 a reformar en El Poblenou. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Contamos con todas las comodidades posibles de 3 habitaciones y 1 baño, estancias muy amplias.\r\n- Funcional comedor que es un lugar perfecto para descansar tras una jornada de trabajo, creando un precioso y único espacio.\r\n- Balcón.\r\n- Exterior.\r\n- Con una funcional cocina en buen estado y equipada con todo lo necesario.\r\n\r\nSobre la ubicación, se encuentra en Barcelona. Con todos los servicios que puedas necesitar para facilitar tus días en todo momento.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
+    "description": "Fenomenal piso con balcón en l\u0027Eixample.\r\n\r\nDe particular a particular con Housfy.\r\n\r\nHomy vende piso a estrenar en l\u0027Eixample, Barcelona, una vivienda luminosa y ubicada en un entorno idóneo para disfrutarlo.\r\nEste piso fue construido en el año 1930 en La Sagrada Família. Consta de 68 m2 muy bien distribuidos.\r\n\r\nDetalles del inmueble:\r\n\r\n- Encantador piso de 68 m2. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Esta vivienda cuenta con 3 habitaciones y 1 baño, perfecto para una familia.\r\n- Funcional salón-comedor amplio y luminoso, creando un precioso y único espacio.\r\n- Balcón.\r\n- Con una ventajosa cocina en perfecto estado y equipada con todo lo necesario.\r\n- El confort está garantizado ya que dispone de aire acondicionado y calefacción.\r\n- Ascensor.\r\n- Exterior.\r\n- Parquet.\r\n\r\n\r\nNota: Las imágenes del anuncio son renders que muestran cómo quedará la reforma completada. En el precio de venta no se incluye el mobiliario.\r\n\r\n\r\n\r\nSobre la localización, se encuentra en Barcelona.\r\nCon todos los servicios que puedas necesitar para facilitar tus días en todo momento.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
     "tags": [
       23,
+      25,
       26,
       31
     ],
     "canScheduleVisits": false,
     "stateLocationName": "Barcelona",
     "cityLocationName": "Barcelona",
-    "districtLocationName": "Sant Martí",
-    "neighborhoodLocationName": "El Poblenou",
-    "streetName": "Carrer del Taulat",
-    "streetNumber": "33-35",
-    "floor": "04",
-    "door": "01",
+    "districtLocationName": "Eixample",
+    "neighborhoodLocationName": "La Sagrada Família",
+    "streetName": "Carrer de Padilla",
+    "streetNumber": "219",
+    "floor": "PR",
+    "door": "04",
     "floorDoorLabel": "",
-    "latitude": 41.39668274,
-    "longitude": 2.2021997,
+    "latitude": 41.40383911,
+    "longitude": 2.17925596,
     "price": {
       "amount": 33500000,
       "currency": "EUR"
     },
     "priceSize": {
-      "amount": 485507,
+      "amount": 492647,
       "currency": "EUR"
     },
-    "priceChangePercentage": "-6.16",
+    "priceChangePercentage": "-1.18",
+    "isNew": false,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
+  },
+  "b38ae62b-975b-48e1-954b-13b66a473e2b": {
+    "uuid": "b38ae62b-975b-48e1-954b-13b66a473e2b",
+    "providerCode": "housfy",
+    "providerPropertyId": 641954,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/calle-dos-de-maig-641954",
+    "providerPropertyTitle": "Fabuloso piso con balcón en l\u0027Eixample",
+    "publishedDate": "2022-11-10T15:00:19Z",
+    "relevance": 200,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1748,
+    "sizes": {
+      "size": 42,
+      "sizeBuiltWithoutCommonElements": 42,
+      "sizeBuilt": 45,
+      "sizeUseful": 45
+    },
+    "size": 42,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/641954/641954-housfy-20221221-q92y8LiANt-420x280.jpg"
+    ],
+    "numberOfBedrooms": 1,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "Fabuloso piso con balcón en l\u0027Eixample.\r\n\r\nHousfy sin intermediarios.\r\n\r\nHomy vende piso a estrenar en l\u0027Eixample, Barcelona, perfecto para familias o parejas que busquen un lugar cómodo para su día a día.\r\nEste acogedor piso fue construido en el año 1890 en Barcelona. Sus 45 m2 están perfectamente distribuidos, creando un amplio y abierto espacio con mucha luz y con un diseño muy especial.\r\n\r\nDetalles del inmueble:\r\n\r\n- Acogedor piso de 45 m2 en La Sagrada Família. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Podemos disfrutar de 1 habitación y 1 baño.\r\n- Cálido salón-comedor amplio y luminoso, siendo además, un espacio agradable y estupendo para visitas de amigos y familiares.\r\n- Parquet.\r\n- Con una práctica cocina en perfecto estado y equipada con todo lo necesario. Con lavadero.\r\n- Exterior.\r\n- Balcón.\r\n\r\nSobre la localización, se sitúa en Barcelona (Barcelona).\r\nCon fácil acceso y servicios que facilitarán y mejorarán tu día a día.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
+    "tags": [
+      23,
+      25,
+      26
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Eixample",
+    "neighborhoodLocationName": "La Sagrada Família",
+    "streetName": "Calle Dos de Maig",
+    "streetNumber": "239",
+    "floor": "02",
+    "door": "03",
+    "floorDoorLabel": "",
+    "latitude": 41.40700912,
+    "longitude": 2.18173671,
+    "price": {
+      "amount": 21500000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 511904,
+      "currency": "EUR"
+    },
+    "priceChangePercentage": "-4.02",
+    "isNew": false,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
+  },
+  "cbd8dd33-1e7e-448d-85f2-66ef106c877d": {
+    "uuid": "cbd8dd33-1e7e-448d-85f2-66ef106c877d",
+    "providerCode": "housfy",
+    "providerPropertyId": 641429,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/cl-badajoz-26-641429",
+    "providerPropertyTitle": "Fabulosa vivienda en El Poblenou a 200m de la playa",
+    "publishedDate": "2022-11-09T08:54:22Z",
+    "relevance": 200,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1794,
+    "sizes": {
+      "size": 44,
+      "sizeBuiltWithoutCommonElements": 44,
+      "sizeBuilt": 44,
+      "sizeUseful": 39
+    },
+    "size": 44,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/641429/641429-housfy-20221108-oc2Iy6Xko5-420x280.jpg"
+    ],
+    "numberOfBedrooms": 1,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "Fabulosa vivienda en El Poblenou a 200m de la playa \r\n\r\nHomy Capital tiene en su cartera activa, este inmueble ubicado en el barrio de Sant Martí (Barcelona). \r\n\r\nEl inmueble de 44m² es exterior, se encuentra en una segunda planta real. Está distribuido en salón con cocina integrada y salida a balcón, habitación doble y baño completo con plato de ducha. Está equipado con suelo de gres en el baño y en el resto de las estancias de parquet, ventanas de aluminio y puertas de maderas.\r\n\r\nLa finca de 1890 tan solo tiene 8 vecinos, se encuentra a dos calles del mar y próxima a zonas verdes, colegios, comercios y tiene muy buena comunicación en transporte público.\r\n\r\nEl inmueble se entrega completamente reformado, las imágenes son renders. \r\nEn el precio de venta no se incluye el mobiliario.\r\n\r\nPosibilidad de asesoramiento con bróker financiero gratuito. Pregúntanos sin compromiso.",
+    "tags": [
+      25,
+      26,
+      29
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Sant Martí",
+    "neighborhoodLocationName": "El Poblenou",
+    "streetName": "CL BADAJOZ, 26",
+    "streetNumber": "26",
+    "floor": "02",
+    "door": "04",
+    "floorDoorLabel": "",
+    "latitude": 41.39549255,
+    "longitude": 2.19988871,
+    "price": {
+      "amount": 22900000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 520454,
+      "currency": "EUR"
+    },
+    "priceChangePercentage": "-17.92",
     "isNew": false,
     "isPriceUpdated": false,
     "isReserved": false,
