@@ -506,69 +506,6 @@
     "isReserved": false,
     "isSold": false
   },
-  "cbd8dd33-1e7e-448d-85f2-66ef106c877d": {
-    "uuid": "cbd8dd33-1e7e-448d-85f2-66ef106c877d",
-    "providerCode": "housfy",
-    "providerPropertyId": 641429,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/cl-badajoz-26-641429",
-    "providerPropertyTitle": "Fabulosa vivienda en El Poblenou a 200m de la playa",
-    "publishedDate": "2022-11-09T08:54:22Z",
-    "relevance": 200,
-    "typeId": 2,
-    "typeCode": "piso",
-    "locationId": 1794,
-    "sizes": {
-      "size": 44,
-      "sizeBuiltWithoutCommonElements": 44,
-      "sizeBuilt": 44,
-      "sizeUseful": 39
-    },
-    "size": 44,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/641429/641429-housfy-20221108-oc2Iy6Xko5-420x280.jpg"
-    ],
-    "numberOfBedrooms": 1,
-    "numberOfBathrooms": 1,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "sale",
-    "isVisible": true,
-    "description": "Fabulosa vivienda en El Poblenou a 200m de la playa \r\n\r\nHomy Capital tiene en su cartera activa, este inmueble ubicado en el barrio de Sant Martí (Barcelona). \r\n\r\nEl inmueble de 44m² es exterior, se encuentra en una segunda planta real. Está distribuido en salón con cocina integrada y salida a balcón, habitación doble y baño completo con plato de ducha. Está equipado con suelo de gres en el baño y en el resto de las estancias de parquet, ventanas de aluminio y puertas de maderas.\r\n\r\nLa finca de 1890 tan solo tiene 8 vecinos, se encuentra a dos calles del mar y próxima a zonas verdes, colegios, comercios y tiene muy buena comunicación en transporte público.\r\n\r\nEl inmueble se entrega completamente reformado, las imágenes son renders. \r\nEn el precio de venta no se incluye el mobiliario.\r\n\r\nPosibilidad de asesoramiento con bróker financiero gratuito. Pregúntanos sin compromiso.",
-    "tags": [
-      25,
-      26,
-      29
-    ],
-    "canScheduleVisits": false,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Sant Martí",
-    "neighborhoodLocationName": "El Poblenou",
-    "streetName": "CL BADAJOZ, 26",
-    "streetNumber": "26",
-    "floor": "02",
-    "door": "04",
-    "floorDoorLabel": "",
-    "latitude": 41.39549255,
-    "longitude": 2.19988871,
-    "price": {
-      "amount": 22900000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 520454,
-      "currency": "EUR"
-    },
-    "priceChangePercentage": "-17.92",
-    "isNew": false,
-    "isPriceUpdated": false,
-    "isReserved": false,
-    "isSold": false
-  },
   "a34d459a-b742-4eda-a68e-031fe13f6d78": {
     "uuid": "a34d459a-b742-4eda-a68e-031fe13f6d78",
     "providerCode": "housfy",
@@ -628,6 +565,69 @@
       "currency": "EUR"
     },
     "priceChangePercentage": "-1.18",
+    "isNew": false,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
+  },
+  "cbd8dd33-1e7e-448d-85f2-66ef106c877d": {
+    "uuid": "cbd8dd33-1e7e-448d-85f2-66ef106c877d",
+    "providerCode": "housfy",
+    "providerPropertyId": 641429,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/cl-badajoz-26-641429",
+    "providerPropertyTitle": "Fabulosa vivienda en El Poblenou a 200m de la playa",
+    "publishedDate": "2022-11-09T08:54:22Z",
+    "relevance": 200,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1794,
+    "sizes": {
+      "size": 44,
+      "sizeBuiltWithoutCommonElements": 44,
+      "sizeBuilt": 44,
+      "sizeUseful": 39
+    },
+    "size": 44,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/641429/641429-housfy-20221108-oc2Iy6Xko5-420x280.jpg"
+    ],
+    "numberOfBedrooms": 1,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "Fabulosa vivienda en El Poblenou a 200m de la playa \r\n\r\nHomy Capital tiene en su cartera activa, este inmueble ubicado en el barrio de Sant Martí (Barcelona). \r\n\r\nEl inmueble de 44m² es exterior, se encuentra en una segunda planta real. Está distribuido en salón con cocina integrada y salida a balcón, habitación doble y baño completo con plato de ducha. Está equipado con suelo de gres en el baño y en el resto de las estancias de parquet, ventanas de aluminio y puertas de maderas.\r\n\r\nLa finca de 1890 tan solo tiene 8 vecinos, se encuentra a dos calles del mar y próxima a zonas verdes, colegios, comercios y tiene muy buena comunicación en transporte público.\r\n\r\nEl inmueble se entrega completamente reformado, las imágenes son renders. \r\nEn el precio de venta no se incluye el mobiliario.\r\n\r\nPosibilidad de asesoramiento con bróker financiero gratuito. Pregúntanos sin compromiso.",
+    "tags": [
+      25,
+      26,
+      29
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Sant Martí",
+    "neighborhoodLocationName": "El Poblenou",
+    "streetName": "CL BADAJOZ, 26",
+    "streetNumber": "26",
+    "floor": "02",
+    "door": "04",
+    "floorDoorLabel": "",
+    "latitude": 41.39549255,
+    "longitude": 2.19988871,
+    "price": {
+      "amount": 22900000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 520454,
+      "currency": "EUR"
+    },
+    "priceChangePercentage": "-17.92",
     "isNew": false,
     "isPriceUpdated": false,
     "isReserved": false,
