@@ -69,7 +69,7 @@
     "providerPropertyUrl": "https://housfy.com/alquilar-piso/barcelona/carrer-del-rec-comtal-588657",
     "providerPropertyTitle": "Admirable piso en Ciutat Vella",
     "publishedDate": "2023-01-10T08:41:05Z",
-    "relevance": 2,
+    "relevance": 200,
     "typeId": 2,
     "typeCode": "piso",
     "locationId": 1742,
@@ -119,6 +119,197 @@
       "currency": "EUR"
     },
     "priceChangePercentage": "15.91",
+    "isNew": false,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
+  },
+  "de90ac0d-a5a6-43ad-b9c2-e732a1a0499c": {
+    "uuid": "de90ac0d-a5a6-43ad-b9c2-e732a1a0499c",
+    "providerCode": "housfy",
+    "providerPropertyId": 374159,
+    "providerPropertyUrl": "https://housfy.com/alquilar-piso/barcelona/carrer-de-mallorca-374159",
+    "providerPropertyTitle": "Sensacional piso con balcón en Sant Martí",
+    "publishedDate": "2021-04-30T09:17:17Z",
+    "relevance": 2,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1791,
+    "sizes": {
+      "size": 79,
+      "sizeBuiltWithoutCommonElements": 79,
+      "sizeBuilt": 83,
+      "sizeUseful": 74
+    },
+    "size": 79,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/374159/374159-housfy-20210430-cXHjzfLeVu-420x280.jpg"
+    ],
+    "numberOfBedrooms": 4,
+    "numberOfBathrooms": 2,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "rental",
+    "isVisible": true,
+    "description": "Sensacional piso con balcón en Sant Martí\r\n\r\nOriol alquila su piso en Sant Martí, Barcelona, perfecto para familias o parejas que busquen un lugar cómodo para su día a día.\r\nEste piso fue construido en el año 1974 en El Camp de l\u0027Arpa del Clot. Con una distribución ideal para aprovechar al máximo sus 74 m2.\r\n\r\n** PISO DISPONIBLE ENTRE EL 15 DE JUNIO Y EL 01 DE JULIO. SE ENTREGA VACIO Y PINTADO **\r\n\r\nDetalles del inmueble:\r\n\r\n- Fenomenal piso de 74 m2 útiles en El Camp de l\u0027Arpa del Clot. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Podemos disfrutar de 4 habitaciones, una doble de 11m2 con salida al balcón, dos individuales con armarios empotrados y otra individual.\r\n- 1 baño y 1 aseo, ideal para familias.\r\n- Cómodo comedor de 18m2 con salida a balcón con vistas despejadas, que es un lugar perfecto para descansar tras una jornada de trabajo, siendo además, un espacio estupendo para visitas de amigos y familiares.\r\n- Sistema de calefacción y aire acondicionado.\r\n- Ascensor.\r\n- Puerta blindada.\r\n- Además dispone de armarios empotrados.\r\n- Con una amplia cocina conservada con salida a galería. Muy completa.\r\n- Se alquila vacío sin muebles.\r\n- Exterior.\r\n- Balcón.\r\n- El piso se entregara pintado o con una carencia de 15 días. \r\n- Dos meses de fianza más honorarios de agencia.\r\nLa localización de este piso se encuentra en Barcelona, provincia de Barcelona.\r\nCon todos los servicios que puedas necesitar para facilitar tus días en todo momento.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda alquilar la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
+    "tags": [
+      23,
+      26,
+      31
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Sant Martí",
+    "neighborhoodLocationName": "El Camp de l\u0027Arpa del Clot",
+    "streetName": "Carrer de Mallorca",
+    "streetNumber": "607",
+    "floor": "7",
+    "door": "1",
+    "floorDoorLabel": "",
+    "latitude": 41.41177368,
+    "longitude": 2.18627357,
+    "price": {
+      "amount": 92000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 1164,
+      "currency": "EUR"
+    },
+    "priceChangePercentage": "-3.16",
+    "isNew": false,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
+  },
+  "f432068b-92bf-46e5-8f02-ba7e31f11cd7": {
+    "uuid": "f432068b-92bf-46e5-8f02-ba7e31f11cd7",
+    "providerCode": "housfy",
+    "providerPropertyId": 496465,
+    "providerPropertyUrl": "https://housfy.com/alquilar-piso/barcelona/carrer-del-taulat-496465",
+    "providerPropertyTitle": "Encantador piso en Sant Martí",
+    "publishedDate": "2023-01-26T10:47:09Z",
+    "relevance": 2,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1794,
+    "sizes": {
+      "size": 52,
+      "sizeBuiltWithoutCommonElements": 52,
+      "sizeBuilt": 54,
+      "sizeUseful": 44
+    },
+    "size": 52,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/496465/496465-housfy-20211202-GtCwH04Fuw-420x280.jpg"
+    ],
+    "numberOfBedrooms": 1,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "rental",
+    "isVisible": true,
+    "description": "Encantador piso en Sant Martí.\r\n\r\nHousfy Alquileres, la mejor solución para alquilar tu piso en España.\r\n\r\nHousfy alquila piso en Sant Martí, Barcelona, un espacio para disfrutar en tu día a día.\r\nConstruido en el 1893. Este acogedor piso está formado por 54 m2 construidos.\r\n\r\nDetalles del inmueble:\r\n\r\n- Maravilloso piso de 44 m2 útiles en El Poblenou. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Podemos disfrutar de 1 habitación doble con armario empotrado.\r\n- Un amplio altillo con sofá cama. \r\n- Un baño completo con plato de ducha independiente.\r\n- Agradable salón con amplio espacio de luz natural, con salida a balcón, creando un precioso y único espacio.\r\n- Con una práctica cocina en muy buen estado y equipada con todo lo necesario con salida a galería cerrada. \r\n- Muebles incluidos.\r\n- Índice medio: 19.37€/m2.\r\n- Aplica incremento 5% según características de la vivienda, más gastos de IBI y comunidad. \r\n- Dos meses de fianza más honorarios de agencia.\r\n\r\nSobre la situación de este piso está localizado en Barcelona. Con fácil acceso y servicios que facilitarán y mejorarán tu día a día.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda alquilar la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922.",
+    "tags": [
+      23,
+      26,
+      31,
+      33
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Sant Martí",
+    "neighborhoodLocationName": "El Poblenou",
+    "streetName": "Carrer del Taulat",
+    "streetNumber": "60",
+    "floor": "2º",
+    "door": "2ª",
+    "floorDoorLabel": "",
+    "latitude": 41.39942169,
+    "longitude": 2.20574737,
+    "price": {
+      "amount": 115000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 2211,
+      "currency": "EUR"
+    },
+    "priceChangePercentage": "20.55",
+    "isNew": true,
+    "isPriceUpdated": true,
+    "isReserved": false,
+    "isSold": false
+  },
+  "28b74c44-3dff-11ea-a8e6-02d8f9a7c1c4": {
+    "uuid": "28b74c44-3dff-11ea-a8e6-02d8f9a7c1c4",
+    "providerCode": "housfy",
+    "providerPropertyId": 136494,
+    "providerPropertyUrl": "https://housfy.com/alquilar-piso/barcelona/carrer-de-valencia-136494",
+    "providerPropertyTitle": "Genial piso en Eixample",
+    "publishedDate": "2020-11-12T12:02:56Z",
+    "relevance": 2,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1748,
+    "sizes": {
+      "size": 65,
+      "sizeBuiltWithoutCommonElements": 65,
+      "sizeBuilt": 70,
+      "sizeUseful": 65
+    },
+    "size": 65,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/136494/136494-housfy-20201112-sgeoCTfKQj-420x280.jpg"
+    ],
+    "numberOfBedrooms": 2,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "rental",
+    "isVisible": true,
+    "description": "Genial piso en Eixample\r\n                                                                                                                                                      \r\nAgustín alquila su piso en Eixample, Barcelona, perfecto para familias o parejas que busquen un lugar cómodo para su día a día.\r\n\r\nConstruido en el año 1936 en Eixample. Consta de 65 m2.\r\n\r\nDetalles del inmueble:\r\n\r\n- Espléndido piso de 65 m2 en La Sagrada Família. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Esta vivienda cuenta con 2 habitaciones y 1 baño, muy bien acomodadas.\r\n- Confortable salón amplio y luminoso, donde disfrutar de tu familia.\r\n- Balcón.\r\n- Ascensor.\r\n- Este piso cuenta también con un trastero.\r\n- Con una cocina equipada con lo necesario para el día a día.\r\n- Exterior.\r\n- Disfruta de la opción de armario empotrado.\r\n- Mobiliario a negociar con el propietario.\r\n- Puerta blindada.\r\n- Fianza 1 mes.\r\n- Garantía 1 mes.\r\n\r\nSobre la ubicación, está localizado en Barcelona, con todos los servicios que puedas necesitar para facilitar tus días en todo momento.\r\n\r\nSobre nosotros:\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda alquilar la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
+    "tags": [
+      23,
+      26,
+      31,
+      33
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Eixample",
+    "neighborhoodLocationName": "La Sagrada Família",
+    "streetName": "Carrer de València",
+    "streetNumber": "432",
+    "floor": "4º",
+    "door": "2ª",
+    "floorDoorLabel": "",
+    "latitude": 41.40214539,
+    "longitude": 2.17607403,
+    "price": {
+      "amount": 89900,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 1383,
+      "currency": "EUR"
+    },
+    "priceChangePercentage": "-3.64",
     "isNew": false,
     "isPriceUpdated": false,
     "isReserved": false,
