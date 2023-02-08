@@ -380,30 +380,29 @@
     "isReserved": false,
     "isSold": false
   },
-  "24ec8c07-fc4d-460a-84f1-b52c78ef8430": {
-    "uuid": "24ec8c07-fc4d-460a-84f1-b52c78ef8430",
+  "0f146f51-857d-4184-a0e4-08d1290a0e3f": {
+    "uuid": "0f146f51-857d-4184-a0e4-08d1290a0e3f",
     "providerCode": "housfy",
-    "providerPropertyId": 568586,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-ramon-turro-568586",
-    "providerPropertyTitle": "Fabuloso piso en Sant Martí",
-    "publishedDate": "2022-10-10T18:52:52Z",
+    "providerPropertyId": 618158,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-valencia-618158",
+    "providerPropertyTitle": "Fenomenal piso con terraza en Sant Martí",
+    "publishedDate": "2022-09-22T08:38:53Z",
     "relevance": 300,
     "typeId": 2,
     "typeCode": "piso",
-    "reservedDate": "2022-05-26T07:03:01Z",
-    "locationId": 1794,
+    "locationId": 1791,
     "sizes": {
-      "size": 67,
-      "sizeBuiltWithoutCommonElements": 67,
-      "sizeBuilt": 73,
-      "sizeUseful": 67
+      "size": 89,
+      "sizeBuiltWithoutCommonElements": 89,
+      "sizeBuilt": 89,
+      "sizeUseful": 89
     },
-    "size": 67,
+    "size": 89,
     "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/568586/568586-housfy-20220413-xyWTboc7Q4-420x280.jpg"
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/618158/618158-housfy-20220921-X11VJe0fCb-420x280.jpg"
     ],
-    "numberOfBedrooms": 2,
-    "numberOfBathrooms": 1,
+    "numberOfBedrooms": 3,
+    "numberOfBathrooms": 2,
     "userName": "Housfy Real Estate",
     "userPhone": {
       "countryCode": "+34",
@@ -412,34 +411,33 @@
     },
     "operationTypeCode": "sale",
     "isVisible": true,
-    "description": "Fabuloso piso en Poblenou\r\n\r\nHomy Capital tiene en su cartera activa, este inmueble ubicado en el barrio de Poblenou (Barcelona). \r\n\r\nEl inmueble de 78m² es exterior, se encuentra en una segunda planta real. Está distribuido en salón comedor de 20m², 2 habitaciones dobles, una de ellas con salida a balcón y vestidor, cocina individual y baño completo con plato de ducha. Está equipado con suelo de gres en baño y cocina y en el resto de las estancias parquet, ventanas de aluminio y puertas de madera.\r\n\r\nLa finca de 1890, se encuentra muy próxima al mar, zonas verdes, colegios, comercios y tiene muy buena comunicación en transporte público.\r\n\r\nEl inmueble se entrega completamente reformado, las imágenes son renders. \r\nEn el precio de venta no se incluye el mobiliario.\r\n\r\nPosibilidad de asesoramiento con bróker financiero gratuito. Pregúntanos sin compromiso.",
+    "description": "Fenomenal piso con terraza en Sant Martí\r\n\r\n\r\nSe vende piso de en Sant Martí, Barcelona, perfecto para familias o parejas que busquen un lugar cómodo para su día a día.\r\nEl espléndido piso fue construido en el año 1972 en Barcelona. \r\n\r\nCaracterísticas:\r\n\r\n- Sus 89 m2 están perfectamente distribuidos, creando un espacio cómodo para el día a día. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- La vivienda dispone de 4 habitaciones y 2 baños, para familias completas.\r\n- Acogedor comedor con amplio espacio de luz natural, donde disfrutar de tu familia.\r\n- Con una conveniente cocina en buen estado.\r\n- Exterior.\r\n- Terraza.\r\n- Ascensor\r\n\r\nSobre la localización, se encuentra en Barcelona.\r\nCon fácil acceso y servicios que facilitarán y mejorarán tu día a día.\r\n\r\nSobre nosotros:\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
     "tags": [
       23,
-      25,
       26,
-      33
+      32
     ],
     "canScheduleVisits": false,
     "stateLocationName": "Barcelona",
     "cityLocationName": "Barcelona",
     "districtLocationName": "Sant Martí",
-    "neighborhoodLocationName": "El Poblenou",
-    "streetName": "Carrer de Ramon Turró",
-    "streetNumber": "142",
-    "floor": "02",
+    "neighborhoodLocationName": "El Camp de l\u0027Arpa del Clot",
+    "streetName": "Carrer de València",
+    "streetNumber": "569",
+    "floor": "EN",
     "door": "01",
     "floorDoorLabel": "",
-    "latitude": 41.39651871,
-    "longitude": 2.1987114,
+    "latitude": 41.40816116,
+    "longitude": 2.18354034,
     "price": {
-      "amount": 32900000,
+      "amount": 31000000,
       "currency": "EUR"
     },
     "priceSize": {
-      "amount": 491044,
+      "amount": 348314,
       "currency": "EUR"
     },
-    "priceChangePercentage": "-1.5",
+    "priceChangePercentage": "-8.82",
     "isNew": false,
     "isPriceUpdated": false,
     "isReserved": false,
@@ -508,29 +506,30 @@
     "isReserved": false,
     "isSold": false
   },
-  "0f146f51-857d-4184-a0e4-08d1290a0e3f": {
-    "uuid": "0f146f51-857d-4184-a0e4-08d1290a0e3f",
+  "24ec8c07-fc4d-460a-84f1-b52c78ef8430": {
+    "uuid": "24ec8c07-fc4d-460a-84f1-b52c78ef8430",
     "providerCode": "housfy",
-    "providerPropertyId": 618158,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-valencia-618158",
-    "providerPropertyTitle": "Fenomenal piso con terraza en Sant Martí",
-    "publishedDate": "2022-09-22T08:38:53Z",
+    "providerPropertyId": 568586,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-ramon-turro-568586",
+    "providerPropertyTitle": "Fabuloso piso en Sant Martí",
+    "publishedDate": "2022-10-10T18:52:52Z",
     "relevance": 300,
     "typeId": 2,
     "typeCode": "piso",
-    "locationId": 1791,
+    "reservedDate": "2022-05-26T07:03:01Z",
+    "locationId": 1794,
     "sizes": {
-      "size": 89,
-      "sizeBuiltWithoutCommonElements": 89,
-      "sizeBuilt": 89,
-      "sizeUseful": 89
+      "size": 67,
+      "sizeBuiltWithoutCommonElements": 67,
+      "sizeBuilt": 73,
+      "sizeUseful": 67
     },
-    "size": 89,
+    "size": 67,
     "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/618158/618158-housfy-20220921-X11VJe0fCb-420x280.jpg"
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/568586/568586-housfy-20220413-xyWTboc7Q4-420x280.jpg"
     ],
-    "numberOfBedrooms": 3,
-    "numberOfBathrooms": 2,
+    "numberOfBedrooms": 2,
+    "numberOfBathrooms": 1,
     "userName": "Housfy Real Estate",
     "userPhone": {
       "countryCode": "+34",
@@ -539,33 +538,34 @@
     },
     "operationTypeCode": "sale",
     "isVisible": true,
-    "description": "Fenomenal piso con terraza en Sant Martí\r\n\r\n\r\nSe vende piso de en Sant Martí, Barcelona, perfecto para familias o parejas que busquen un lugar cómodo para su día a día.\r\nEl espléndido piso fue construido en el año 1972 en Barcelona. \r\n\r\nCaracterísticas:\r\n\r\n- Sus 89 m2 están perfectamente distribuidos, creando un espacio cómodo para el día a día. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- La vivienda dispone de 4 habitaciones y 2 baños, para familias completas.\r\n- Acogedor comedor con amplio espacio de luz natural, donde disfrutar de tu familia.\r\n- Con una conveniente cocina en buen estado.\r\n- Exterior.\r\n- Terraza.\r\n- Ascensor\r\n\r\nSobre la localización, se encuentra en Barcelona.\r\nCon fácil acceso y servicios que facilitarán y mejorarán tu día a día.\r\n\r\nSobre nosotros:\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
+    "description": "Fabuloso piso en Poblenou\r\n\r\nHomy Capital tiene en su cartera activa, este inmueble ubicado en el barrio de Poblenou (Barcelona). \r\n\r\nEl inmueble de 78m² es exterior, se encuentra en una segunda planta real. Está distribuido en salón comedor de 20m², 2 habitaciones dobles, una de ellas con salida a balcón y vestidor, cocina individual y baño completo con plato de ducha. Está equipado con suelo de gres en baño y cocina y en el resto de las estancias parquet, ventanas de aluminio y puertas de madera.\r\n\r\nLa finca de 1890, se encuentra muy próxima al mar, zonas verdes, colegios, comercios y tiene muy buena comunicación en transporte público.\r\n\r\nEl inmueble se entrega completamente reformado, las imágenes son renders. \r\nEn el precio de venta no se incluye el mobiliario.\r\n\r\nPosibilidad de asesoramiento con bróker financiero gratuito. Pregúntanos sin compromiso.",
     "tags": [
       23,
+      25,
       26,
-      32
+      33
     ],
     "canScheduleVisits": false,
     "stateLocationName": "Barcelona",
     "cityLocationName": "Barcelona",
     "districtLocationName": "Sant Martí",
-    "neighborhoodLocationName": "El Camp de l\u0027Arpa del Clot",
-    "streetName": "Carrer de València",
-    "streetNumber": "569",
-    "floor": "EN",
+    "neighborhoodLocationName": "El Poblenou",
+    "streetName": "Carrer de Ramon Turró",
+    "streetNumber": "142",
+    "floor": "02",
     "door": "01",
     "floorDoorLabel": "",
-    "latitude": 41.40816116,
-    "longitude": 2.18354034,
+    "latitude": 41.39651871,
+    "longitude": 2.1987114,
     "price": {
-      "amount": 31000000,
+      "amount": 32900000,
       "currency": "EUR"
     },
     "priceSize": {
-      "amount": 348314,
+      "amount": 491044,
       "currency": "EUR"
     },
-    "priceChangePercentage": "-8.82",
+    "priceChangePercentage": "-1.5",
     "isNew": false,
     "isPriceUpdated": false,
     "isReserved": false,
