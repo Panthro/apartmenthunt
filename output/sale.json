@@ -378,70 +378,6 @@
     "isReserved": false,
     "isSold": false
   },
-  "a34d459a-b742-4eda-a68e-031fe13f6d78": {
-    "uuid": "a34d459a-b742-4eda-a68e-031fe13f6d78",
-    "providerCode": "housfy",
-    "providerPropertyId": 641965,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-padilla-641965",
-    "providerPropertyTitle": "Fenomenal piso con balcón en l\u0027Eixample",
-    "publishedDate": "2022-11-10T15:02:54Z",
-    "relevance": 300,
-    "typeId": 2,
-    "typeCode": "piso",
-    "locationId": 1748,
-    "sizes": {
-      "size": 61,
-      "sizeBuiltWithoutCommonElements": 61,
-      "sizeBuilt": 68,
-      "sizeUseful": 61
-    },
-    "size": 61,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/641965/641965-housfy-20221110-ArfpslgsJr-420x280.jpg"
-    ],
-    "numberOfBedrooms": 3,
-    "numberOfBathrooms": 1,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "sale",
-    "isVisible": true,
-    "description": "Fenomenal piso con balcón en l\u0027Eixample.\r\n\r\nDe particular a particular con Housfy.\r\n\r\nHomy vende piso a estrenar en l\u0027Eixample, Barcelona, una vivienda luminosa y ubicada en un entorno idóneo para disfrutarlo.\r\nEste piso fue construido en el año 1930 en La Sagrada Família. Consta de 68 m2 muy bien distribuidos.\r\n\r\nDetalles del inmueble:\r\n\r\n- Encantador piso de 68 m2. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Esta vivienda cuenta con 3 habitaciones y 1 baño, perfecto para una familia.\r\n- Funcional salón-comedor amplio y luminoso, creando un precioso y único espacio.\r\n- Balcón.\r\n- Con una ventajosa cocina en perfecto estado y equipada con todo lo necesario.\r\n- El confort está garantizado ya que dispone de aire acondicionado y calefacción.\r\n- Ascensor.\r\n- Exterior.\r\n- Parquet.\r\n\r\n\r\nNota: Las imágenes del anuncio son renders que muestran cómo quedará la reforma completada. En el precio de venta no se incluye el mobiliario.\r\n\r\n\r\n\r\nSobre la localización, se encuentra en Barcelona.\r\nCon todos los servicios que puedas necesitar para facilitar tus días en todo momento.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
-    "tags": [
-      23,
-      25,
-      26,
-      31
-    ],
-    "canScheduleVisits": false,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Eixample",
-    "neighborhoodLocationName": "La Sagrada Família",
-    "streetName": "Carrer de Padilla",
-    "streetNumber": "219",
-    "floor": "PR",
-    "door": "04",
-    "floorDoorLabel": "",
-    "latitude": 41.40383911,
-    "longitude": 2.17925596,
-    "price": {
-      "amount": 33500000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 549180,
-      "currency": "EUR"
-    },
-    "priceChangePercentage": "-1.18",
-    "isNew": false,
-    "isPriceUpdated": false,
-    "isReserved": false,
-    "isSold": false
-  },
   "b38ae62b-975b-48e1-954b-13b66a473e2b": {
     "uuid": "b38ae62b-975b-48e1-954b-13b66a473e2b",
     "providerCode": "housfy",
@@ -568,6 +504,71 @@
     "isReserved": false,
     "isSold": false
   },
+  "24ec8c07-fc4d-460a-84f1-b52c78ef8430": {
+    "uuid": "24ec8c07-fc4d-460a-84f1-b52c78ef8430",
+    "providerCode": "housfy",
+    "providerPropertyId": 568586,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-ramon-turro-568586",
+    "providerPropertyTitle": "Fabuloso piso en Sant Martí",
+    "publishedDate": "2022-10-10T18:52:52Z",
+    "relevance": 300,
+    "typeId": 2,
+    "typeCode": "piso",
+    "reservedDate": "2022-05-26T07:03:01Z",
+    "locationId": 1794,
+    "sizes": {
+      "size": 67,
+      "sizeBuiltWithoutCommonElements": 67,
+      "sizeBuilt": 73,
+      "sizeUseful": 67
+    },
+    "size": 67,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/568586/568586-housfy-20220413-xyWTboc7Q4-420x280.jpg"
+    ],
+    "numberOfBedrooms": 2,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "Fabuloso piso en Poblenou\r\n\r\nHomy Capital tiene en su cartera activa, este inmueble ubicado en el barrio de Poblenou (Barcelona). \r\n\r\nEl inmueble de 78m² es exterior, se encuentra en una segunda planta real. Está distribuido en salón comedor de 20m², 2 habitaciones dobles, una de ellas con salida a balcón y vestidor, cocina individual y baño completo con plato de ducha. Está equipado con suelo de gres en baño y cocina y en el resto de las estancias parquet, ventanas de aluminio y puertas de madera.\r\n\r\nLa finca de 1890, se encuentra muy próxima al mar, zonas verdes, colegios, comercios y tiene muy buena comunicación en transporte público.\r\n\r\nEl inmueble se entrega completamente reformado, las imágenes son renders. \r\nEn el precio de venta no se incluye el mobiliario.\r\n\r\nPosibilidad de asesoramiento con bróker financiero gratuito. Pregúntanos sin compromiso.",
+    "tags": [
+      23,
+      25,
+      26,
+      33
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Sant Martí",
+    "neighborhoodLocationName": "El Poblenou",
+    "streetName": "Carrer de Ramon Turró",
+    "streetNumber": "142",
+    "floor": "02",
+    "door": "01",
+    "floorDoorLabel": "",
+    "latitude": 41.39651871,
+    "longitude": 2.1987114,
+    "price": {
+      "amount": 32900000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 491044,
+      "currency": "EUR"
+    },
+    "priceChangePercentage": "-1.5",
+    "isNew": false,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
+  },
   "64a8d187-a1be-4af3-9045-ffac1f52e8ad": {
     "uuid": "64a8d187-a1be-4af3-9045-ffac1f52e8ad",
     "providerCode": "housfy",
@@ -632,29 +633,28 @@
     "isReserved": false,
     "isSold": false
   },
-  "24ec8c07-fc4d-460a-84f1-b52c78ef8430": {
-    "uuid": "24ec8c07-fc4d-460a-84f1-b52c78ef8430",
+  "a34d459a-b742-4eda-a68e-031fe13f6d78": {
+    "uuid": "a34d459a-b742-4eda-a68e-031fe13f6d78",
     "providerCode": "housfy",
-    "providerPropertyId": 568586,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-ramon-turro-568586",
-    "providerPropertyTitle": "Fabuloso piso en Sant Martí",
-    "publishedDate": "2022-10-10T18:52:52Z",
+    "providerPropertyId": 641965,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-padilla-641965",
+    "providerPropertyTitle": "Fenomenal piso con balcón en l\u0027Eixample",
+    "publishedDate": "2022-11-10T15:02:54Z",
     "relevance": 300,
     "typeId": 2,
     "typeCode": "piso",
-    "reservedDate": "2022-05-26T07:03:01Z",
-    "locationId": 1794,
+    "locationId": 1748,
     "sizes": {
-      "size": 67,
-      "sizeBuiltWithoutCommonElements": 67,
-      "sizeBuilt": 73,
-      "sizeUseful": 67
+      "size": 61,
+      "sizeBuiltWithoutCommonElements": 61,
+      "sizeBuilt": 68,
+      "sizeUseful": 61
     },
-    "size": 67,
+    "size": 61,
     "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/568586/568586-housfy-20220413-xyWTboc7Q4-420x280.jpg"
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/641965/641965-housfy-20221110-ArfpslgsJr-420x280.jpg"
     ],
-    "numberOfBedrooms": 2,
+    "numberOfBedrooms": 3,
     "numberOfBathrooms": 1,
     "userName": "Housfy Real Estate",
     "userPhone": {
@@ -664,34 +664,34 @@
     },
     "operationTypeCode": "sale",
     "isVisible": true,
-    "description": "Fabuloso piso en Poblenou\r\n\r\nHomy Capital tiene en su cartera activa, este inmueble ubicado en el barrio de Poblenou (Barcelona). \r\n\r\nEl inmueble de 78m² es exterior, se encuentra en una segunda planta real. Está distribuido en salón comedor de 20m², 2 habitaciones dobles, una de ellas con salida a balcón y vestidor, cocina individual y baño completo con plato de ducha. Está equipado con suelo de gres en baño y cocina y en el resto de las estancias parquet, ventanas de aluminio y puertas de madera.\r\n\r\nLa finca de 1890, se encuentra muy próxima al mar, zonas verdes, colegios, comercios y tiene muy buena comunicación en transporte público.\r\n\r\nEl inmueble se entrega completamente reformado, las imágenes son renders. \r\nEn el precio de venta no se incluye el mobiliario.\r\n\r\nPosibilidad de asesoramiento con bróker financiero gratuito. Pregúntanos sin compromiso.",
+    "description": "Fenomenal piso con balcón en l\u0027Eixample.\r\n\r\nDe particular a particular con Housfy.\r\n\r\nHomy vende piso a estrenar en l\u0027Eixample, Barcelona, una vivienda luminosa y ubicada en un entorno idóneo para disfrutarlo.\r\nEste piso fue construido en el año 1930 en La Sagrada Família. Consta de 68 m2 muy bien distribuidos.\r\n\r\nDetalles del inmueble:\r\n\r\n- Encantador piso de 68 m2. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Esta vivienda cuenta con 3 habitaciones y 1 baño, perfecto para una familia.\r\n- Funcional salón-comedor amplio y luminoso, creando un precioso y único espacio.\r\n- Balcón.\r\n- Con una ventajosa cocina en perfecto estado y equipada con todo lo necesario.\r\n- El confort está garantizado ya que dispone de aire acondicionado y calefacción.\r\n- Ascensor.\r\n- Exterior.\r\n- Parquet.\r\n\r\n\r\nNota: Las imágenes del anuncio son renders que muestran cómo quedará la reforma completada. En el precio de venta no se incluye el mobiliario.\r\n\r\n\r\n\r\nSobre la localización, se encuentra en Barcelona.\r\nCon todos los servicios que puedas necesitar para facilitar tus días en todo momento.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
     "tags": [
       23,
       25,
       26,
-      33
+      31
     ],
     "canScheduleVisits": false,
     "stateLocationName": "Barcelona",
     "cityLocationName": "Barcelona",
-    "districtLocationName": "Sant Martí",
-    "neighborhoodLocationName": "El Poblenou",
-    "streetName": "Carrer de Ramon Turró",
-    "streetNumber": "142",
-    "floor": "02",
-    "door": "01",
+    "districtLocationName": "Eixample",
+    "neighborhoodLocationName": "La Sagrada Família",
+    "streetName": "Carrer de Padilla",
+    "streetNumber": "219",
+    "floor": "PR",
+    "door": "04",
     "floorDoorLabel": "",
-    "latitude": 41.39651871,
-    "longitude": 2.1987114,
+    "latitude": 41.40383911,
+    "longitude": 2.17925596,
     "price": {
-      "amount": 32900000,
+      "amount": 33500000,
       "currency": "EUR"
     },
     "priceSize": {
-      "amount": 491044,
+      "amount": 549180,
       "currency": "EUR"
     },
-    "priceChangePercentage": "-1.5",
+    "priceChangePercentage": "-1.18",
     "isNew": false,
     "isPriceUpdated": false,
     "isReserved": false,
