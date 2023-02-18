@@ -125,133 +125,6 @@
     "isReserved": false,
     "isSold": false
   },
-  "aa283746-ab96-4e99-bd16-c3b45e0074ea": {
-    "uuid": "aa283746-ab96-4e99-bd16-c3b45e0074ea",
-    "providerCode": "housfy",
-    "providerPropertyId": 653357,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/gran-via-de-les-corts-catalanes-653357",
-    "providerPropertyTitle": "Estupendo piso con terraza en Sant Martí",
-    "publishedDate": "2023-01-16T09:27:54Z",
-    "relevance": 1675340978,
-    "typeId": 2,
-    "typeCode": "piso",
-    "locationId": 1797,
-    "sizes": {
-      "size": 83,
-      "sizeBuiltWithoutCommonElements": 83,
-      "sizeBuilt": 83,
-      "sizeUseful": 83
-    },
-    "size": 83,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/653357/653357-housfy-20230114-oK3ToPTnOp-420x280.jpg"
-    ],
-    "numberOfBedrooms": 3,
-    "numberOfBathrooms": 2,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "sale",
-    "isVisible": true,
-    "description": "Estupendo piso con terraza en Sant Martí.\r\n\r\nHousfy la agencia inmobiliaria con las mejores condiciones hipotecarias.\r\n\r\nSe vende piso de particular a particular en Sant Martí, Barcelona, en Provençals del Poblenou. \r\nEl acogedor piso fue construido en el año 1975, la vivienda cuenta con una última reforma realizada hace menos de 10 años. Se encuentra en un estado perfecto de conservación y lista apara entrar a vivir.\r\n\r\nDetalles del inmueble:\r\n\r\nSus 83 m2 están perfectamente distribuidos, creando un espacio cómodo para el día a día.(Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- La vivienda dispone de 3 habitaciones, 1 baño completo y aseo de cortesía con armario empotrado.\r\n- Amplia cocina con salida a lavadero.\r\n- Coqueto salón-comedor luminoso, donde disfrutar de tu familia.\r\n- Calefacción en todas las estancias.\r\n- Exterior.\r\n- Terraza cerrada.\r\n- Puerta blindada.\r\n- La finca cuenta con ascensor.\r\n\r\nSobre la ubicación, si escoges este barrio para vivir tendrás todos los servicios esenciales que necesitarás para tu nueva vida. A escasos metros encontramos: centros educativos, centros de salud, parques, equipamientos deportivos y supermercados, farmacias, entre otros.\r\n\r\nNo lo dudes más y contacta con nosotros para agendar una visita, conseguiremos la vivienda de tus sueños.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
-    "tags": [
-      23,
-      26,
-      31,
-      32
-    ],
-    "canScheduleVisits": false,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Sant Martí",
-    "neighborhoodLocationName": "Provençals del Poblenou",
-    "streetName": "Gran Via de les Corts Catalanes",
-    "streetNumber": "1136",
-    "floor": "01",
-    "door": "04",
-    "floorDoorLabel": "",
-    "latitude": 41.41736221,
-    "longitude": 2.20664215,
-    "price": {
-      "amount": 26000000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 313253,
-      "currency": "EUR"
-    },
-    "priceChangePercentage": "-3.35",
-    "isNew": false,
-    "isPriceUpdated": false,
-    "isReserved": false,
-    "isSold": false
-  },
-  "3aa7f1e2-6534-410a-ac44-16be8cc88b29": {
-    "uuid": "3aa7f1e2-6534-410a-ac44-16be8cc88b29",
-    "providerCode": "housfy",
-    "providerPropertyId": 611454,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-valencia-611454",
-    "providerPropertyTitle": "Perfecto piso céntrico con balcón en Eixample",
-    "publishedDate": "2022-07-26T09:36:36Z",
-    "relevance": 400,
-    "typeId": 2,
-    "typeCode": "piso",
-    "locationId": 1748,
-    "sizes": {
-      "size": 60,
-      "sizeBuiltWithoutCommonElements": 60,
-      "sizeBuilt": 63,
-      "sizeUseful": 60
-    },
-    "size": 60,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/611454/611454-housfy-20220726-kIJ6cGbfwY-420x280.jpg"
-    ],
-    "numberOfBedrooms": 2,
-    "numberOfBathrooms": 1,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "sale",
-    "isVisible": true,
-    "description": "Perfecto piso céntrico con balcón en Eixample\r\n\r\nHousfy, de particular a particular.\r\n\r\nSe vende piso directamente del propietario en Eixample, Barcelona, un espacio para disfrutar en tu día a día.\r\nEste piso fue construido en el año 1940 en Eixample. \r\n\r\nCaracterísticas:\r\n\r\n- Con una distribución ideal para aprovechar al máximo sus 60 m2 útiles, segundo de altura real .(Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Vivienda con reforma integral en 2002, con instalación eléctrica y bajantes actualizados según normativa vigente. \r\n- En este piso encontraremos 2 habitaciones, una doble muy amplia y una individual.\r\n- Un baño completo con salida a galería, muy bien acomodadas.\r\n- Agradable salón con amplio espacio de luz natural, creando un precioso y único espacio.\r\n- Con una práctica cocina en buen estado.\r\n- Balcón con acceso desde el comedor.\r\n- Calefacción por radiadores en todas las estancias. \r\n- Aire acondicionado en salón. \r\n- Carpintería de aluminio Climalit doble cristal. \r\n- Suelo de parquet. \r\n- Iluminación LED.\r\n- Azoteo de uso y disfruto de los vecinos, con vistas a la Sagrada Familia. \r\n\r\nLa situación de este piso está localizado en Barcelona (Barcelona)\r\nCon fácil acceso y servicios que facilitarán y mejorarán tu día a día.\r\n\r\nSobre nosotros:\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
-    "tags": [
-      23,
-      26,
-      31
-    ],
-    "canScheduleVisits": false,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Eixample",
-    "neighborhoodLocationName": "La Sagrada Família",
-    "streetName": "Carrer de València",
-    "streetNumber": "412",
-    "floor": "01",
-    "door": "01",
-    "floorDoorLabel": "",
-    "latitude": 41.40143204,
-    "longitude": 2.17528224,
-    "price": {
-      "amount": 28500000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 475000,
-      "currency": "EUR"
-    },
-    "priceChangePercentage": "-3.39",
-    "isNew": false,
-    "isPriceUpdated": false,
-    "isReserved": false,
-    "isSold": false
-  },
   "11196a1a-b97d-405d-9b6d-f7ab1e625c4a": {
     "uuid": "11196a1a-b97d-405d-9b6d-f7ab1e625c4a",
     "providerCode": "housfy",
@@ -373,6 +246,69 @@
       "currency": "EUR"
     },
     "priceChangePercentage": "-5.77",
+    "isNew": false,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
+  },
+  "3aa7f1e2-6534-410a-ac44-16be8cc88b29": {
+    "uuid": "3aa7f1e2-6534-410a-ac44-16be8cc88b29",
+    "providerCode": "housfy",
+    "providerPropertyId": 611454,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-valencia-611454",
+    "providerPropertyTitle": "Perfecto piso céntrico con balcón en Eixample",
+    "publishedDate": "2022-07-26T09:36:36Z",
+    "relevance": 400,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1748,
+    "sizes": {
+      "size": 60,
+      "sizeBuiltWithoutCommonElements": 60,
+      "sizeBuilt": 63,
+      "sizeUseful": 60
+    },
+    "size": 60,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/611454/611454-housfy-20220726-kIJ6cGbfwY-420x280.jpg"
+    ],
+    "numberOfBedrooms": 2,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "Perfecto piso céntrico con balcón en Eixample\r\n\r\nHousfy, de particular a particular.\r\n\r\nSe vende piso directamente del propietario en Eixample, Barcelona, un espacio para disfrutar en tu día a día.\r\nEste piso fue construido en el año 1940 en Eixample. \r\n\r\nCaracterísticas:\r\n\r\n- Con una distribución ideal para aprovechar al máximo sus 60 m2 útiles, segundo de altura real .(Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Vivienda con reforma integral en 2002, con instalación eléctrica y bajantes actualizados según normativa vigente. \r\n- En este piso encontraremos 2 habitaciones, una doble muy amplia y una individual.\r\n- Un baño completo con salida a galería, muy bien acomodadas.\r\n- Agradable salón con amplio espacio de luz natural, creando un precioso y único espacio.\r\n- Con una práctica cocina en buen estado.\r\n- Balcón con acceso desde el comedor.\r\n- Calefacción por radiadores en todas las estancias. \r\n- Aire acondicionado en salón. \r\n- Carpintería de aluminio Climalit doble cristal. \r\n- Suelo de parquet. \r\n- Iluminación LED.\r\n- Azoteo de uso y disfruto de los vecinos, con vistas a la Sagrada Familia. \r\n\r\nLa situación de este piso está localizado en Barcelona (Barcelona)\r\nCon fácil acceso y servicios que facilitarán y mejorarán tu día a día.\r\n\r\nSobre nosotros:\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
+    "tags": [
+      23,
+      26,
+      31
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Eixample",
+    "neighborhoodLocationName": "La Sagrada Família",
+    "streetName": "Carrer de València",
+    "streetNumber": "412",
+    "floor": "01",
+    "door": "01",
+    "floorDoorLabel": "",
+    "latitude": 41.40143204,
+    "longitude": 2.17528224,
+    "price": {
+      "amount": 28500000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 475000,
+      "currency": "EUR"
+    },
+    "priceChangePercentage": "-3.39",
     "isNew": false,
     "isPriceUpdated": false,
     "isReserved": false,
@@ -692,6 +628,70 @@
       "currency": "EUR"
     },
     "priceChangePercentage": "-4.02",
+    "isNew": false,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
+  },
+  "aa283746-ab96-4e99-bd16-c3b45e0074ea": {
+    "uuid": "aa283746-ab96-4e99-bd16-c3b45e0074ea",
+    "providerCode": "housfy",
+    "providerPropertyId": 653357,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/gran-via-de-les-corts-catalanes-653357",
+    "providerPropertyTitle": "Estupendo piso con terraza en Sant Martí",
+    "publishedDate": "2023-01-16T09:27:54Z",
+    "relevance": 200,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1797,
+    "sizes": {
+      "size": 83,
+      "sizeBuiltWithoutCommonElements": 83,
+      "sizeBuilt": 83,
+      "sizeUseful": 83
+    },
+    "size": 83,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/653357/653357-housfy-20230114-oK3ToPTnOp-420x280.jpg"
+    ],
+    "numberOfBedrooms": 3,
+    "numberOfBathrooms": 2,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "Estupendo piso con terraza en Sant Martí.\r\n\r\nHousfy la agencia inmobiliaria con las mejores condiciones hipotecarias.\r\n\r\nSe vende piso de particular a particular en Sant Martí, Barcelona, en Provençals del Poblenou. \r\nEl acogedor piso fue construido en el año 1975, la vivienda cuenta con una última reforma realizada hace menos de 10 años. Se encuentra en un estado perfecto de conservación y lista apara entrar a vivir.\r\n\r\nDetalles del inmueble:\r\n\r\nSus 83 m2 están perfectamente distribuidos, creando un espacio cómodo para el día a día.(Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- La vivienda dispone de 3 habitaciones, 1 baño completo y aseo de cortesía con armario empotrado.\r\n- Amplia cocina con salida a lavadero.\r\n- Coqueto salón-comedor luminoso, donde disfrutar de tu familia.\r\n- Calefacción en todas las estancias.\r\n- Exterior.\r\n- Terraza cerrada.\r\n- Puerta blindada.\r\n- La finca cuenta con ascensor.\r\n\r\nSobre la ubicación, si escoges este barrio para vivir tendrás todos los servicios esenciales que necesitarás para tu nueva vida. A escasos metros encontramos: centros educativos, centros de salud, parques, equipamientos deportivos y supermercados, farmacias, entre otros.\r\n\r\nNo lo dudes más y contacta con nosotros para agendar una visita, conseguiremos la vivienda de tus sueños.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
+    "tags": [
+      23,
+      26,
+      31,
+      32
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Sant Martí",
+    "neighborhoodLocationName": "Provençals del Poblenou",
+    "streetName": "Gran Via de les Corts Catalanes",
+    "streetNumber": "1136",
+    "floor": "01",
+    "door": "04",
+    "floorDoorLabel": "",
+    "latitude": 41.41736221,
+    "longitude": 2.20664215,
+    "price": {
+      "amount": 26000000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 313253,
+      "currency": "EUR"
+    },
+    "priceChangePercentage": "-3.35",
     "isNew": false,
     "isPriceUpdated": false,
     "isReserved": false,
