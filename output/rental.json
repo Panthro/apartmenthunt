@@ -213,7 +213,7 @@
     "photos": [
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/668332/668332-housfy-20230301-tt1QRaP9XK-420x280.jpg"
     ],
-    "numberOfBedrooms": 2,
+    "numberOfBedrooms": 3,
     "numberOfBathrooms": 1,
     "userName": "Housfy Real Estate",
     "userPhone": {
@@ -223,10 +223,11 @@
     },
     "operationTypeCode": "rental",
     "isVisible": true,
-    "description": "Perfecto piso con terraza en Sant Martí.\r\n\r\nHousfy Alquileres, la mejor solución para alquilar tu piso en España.\r\n\r\nSe alquila piso en Sant Martí, Barcelona, un espacio para disfrutar en tu día a día.\r\nEl piso fue construido en el 1900, la vivienda cuenta con una última reforma realizada hace más de 10 años. \r\n\r\nDetalles del inmueble:\r\n\r\n- Con una distribución ideal para aprovechar al máximo sus 84 m2. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Contamos con todas las comodidades posibles de 2 habitaciones y 1 baño, muy bien acomodadas.\r\n- Agradable comedor que es un lugar perfecto para descansar tras una jornada de trabajo, donde disfrutar de tu familia.\r\n- Exterior, gracias a su orientación goza de luz natural.\r\n- Con una ventajosa cocina en muy buen estado y equipada con todo lo necesario.\r\n- Dos meses de fianza más honorarios de agencia.\r\n\r\nSobre la ubicación, si escoges este barrio para vivir tendrás todos los servicios esenciales que necesitarás para tu nueva vida. A escasos metros encontramos: centros educativos, centros de salud, parques, equipamientos deportivos y supermercados, farmacias, entre otros.\r\n\r\nNo lo dudes más y contacta con nosotros para agendar una visita, conseguiremos la vivienda de tus sueños.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda alquilar la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922.",
+    "description": "Perfecto piso con terraza en Sant Martí.\r\n\r\nHousfy Alquileres, la mejor solución para alquilar tu piso en España.\r\n\r\nSe alquila piso en Sant Martí, Barcelona, un espacio para disfrutar en tu día a día.\r\nEl piso fue construido en el 1900, la vivienda cuenta con una última reforma realizada hace más de 10 años. \r\n\r\nDetalles del inmueble:\r\n- Terraza de 30m2\r\n- A 10min caminando de la playa.\r\n- Vivienda en una pasaje muy tranquilo.\r\n- Con una distribución ideal para aprovechar al máximo sus 84 m2. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Contamos con todas las comodidades posibles de 2 habitaciones y 1 baño, muy bien acomodadas.\r\n- Agradable comedor que es un lugar perfecto para descansar tras una jornada de trabajo, donde disfrutar de tu familia.\r\n- Exterior, gracias a su orientación goza de luz natural.\r\n- Con una ventajosa cocina en muy buen estado y equipada con todo lo necesario.\r\n- Dos meses de fianza más honorarios de agencia.\r\n\r\nSobre la ubicación, si escoges este barrio para vivir tendrás todos los servicios esenciales que necesitarás para tu nueva vida. A escasos metros encontramos: centros educativos, centros de salud, parques, equipamientos deportivos y supermercados, farmacias, entre otros.\r\n\r\nNo lo dudes más y contacta con nosotros para agendar una visita, conseguiremos la vivienda de tus sueños.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda alquilar la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922.",
     "tags": [
       23,
       26,
+      31,
       32
     ],
     "canScheduleVisits": false,
