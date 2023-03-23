@@ -6,7 +6,7 @@
     "providerPropertyUrl": "https://housfy.com/alquilar-oficina/barcelona/carrer-davila-670737",
     "providerPropertyTitle": "Genial oficina en Sant Martí",
     "publishedDate": "2023-03-07T12:35:28Z",
-    "relevance": 700,
+    "relevance": 1679562631,
     "typeId": 6,
     "typeCode": "oficina",
     "locationId": 1793,
@@ -45,15 +45,16 @@
     "latitude": 41.40011215,
     "longitude": 2.19149351,
     "price": {
-      "amount": 420000,
+      "amount": 340000,
       "currency": "EUR"
     },
     "priceSize": {
-      "amount": 3111,
+      "amount": 2518,
       "currency": "EUR"
     },
+    "priceChangePercentage": "-19.05",
     "isNew": false,
-    "isPriceUpdated": false,
+    "isPriceUpdated": true,
     "isReserved": false,
     "isSold": false
   },
