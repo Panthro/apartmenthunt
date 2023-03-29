@@ -1,4 +1,67 @@
 {
+  "71707714-27b7-42fa-94a5-65b6302e66c0": {
+    "uuid": "71707714-27b7-42fa-94a5-65b6302e66c0",
+    "providerCode": "housfy",
+    "providerPropertyId": 636051,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/pj-sant-benet-636051",
+    "providerPropertyTitle": "Fabuloso piso en Ciutat Vella",
+    "publishedDate": "2022-10-14T08:24:56Z",
+    "relevance": 1680109109,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1742,
+    "sizes": {
+      "size": 79,
+      "sizeBuiltWithoutCommonElements": 79,
+      "sizeBuilt": 73,
+      "sizeUseful": 79
+    },
+    "size": 79,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/636051/636051-housfy-20230123-2WWSzb8egA-420x280.jpg"
+    ],
+    "numberOfBedrooms": 2,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "Fabuloso piso en Ciutat Vella\r\n\r\nHomy vende piso completamente a estrenar en Ciutat Vella, Barcelona, un espacio para disfrutar en tu día a día.\r\nEl piso fue construido en el 1900 en Sant Pere - Santa Caterina i la Ribera, con todas las revisiones al día. ITE en 2019 con certificado de aptitud.\r\n\r\nCaracterísticas:\r\n- Acogedor piso de 81  m2 perfectamente distribuidos para aprovechar al máximo el espacio. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- En este piso encontraremos 2 habitaciones, un espacio de trabajo, un vestidor y 1 baño. La habitación principal de grandes dimensiones con espacio de lectura. \r\n- Amplio salón que es un lugar perfecto para descansar tras una jornada de trabajo, donde disfrutar de tu familia con salida a balcón exterior. \r\n- Con una conveniente cocina en perfecto estado y equipada con todo lo necesario.\r\n- Exterior.\r\n\r\n\"Las imagenes representadas són renders sobre la reforma una vez terminada. Documentación informativa sin carácter contractual y meramente ilustrativa, sujeta a modificaciones necesarias por exigencias de orden técnico, jurídico o comercial de la dirección facultativa o autoridad competente. El mobiliario de las infografías interiores no está incluido, los acabados, calidades , colores, equipamiento, aparatos sanitarios  y muebles de cocina son una aproximación meramente representativa y el equipamiento de las viviendas será el indicado en la correspondiente memoria de calidades\"\r\n\r\nSobre la localización, se encuentra en Barcelona, provincia de Barcelona.\r\nCon fácil acceso y servicios que facilitarán y mejorarán tu día a día.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
+    "tags": [
+      23,
+      25,
+      26
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Ciutat Vella",
+    "neighborhoodLocationName": "Sant Pere - Santa Caterina i la Ribera",
+    "streetName": "PJ SANT BENET",
+    "streetNumber": "4",
+    "floor": "PR",
+    "door": "02",
+    "floorDoorLabel": "",
+    "latitude": 41.39039993,
+    "longitude": 2.17911315,
+    "price": {
+      "amount": 34900000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 441772,
+      "currency": "EUR"
+    },
+    "priceChangePercentage": "-4.38",
+    "isNew": false,
+    "isPriceUpdated": true,
+    "isReserved": false,
+    "isSold": false
+  },
   "a34d459a-b742-4eda-a68e-031fe13f6d78": {
     "uuid": "a34d459a-b742-4eda-a68e-031fe13f6d78",
     "providerCode": "housfy",
