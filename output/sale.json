@@ -62,6 +62,67 @@
     "isReserved": false,
     "isSold": false
   },
+  "26ca4e09-b1d9-11e9-9397-02c8404c34aa": {
+    "uuid": "26ca4e09-b1d9-11e9-9397-02c8404c34aa",
+    "providerCode": "housfy",
+    "providerPropertyId": 53132,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/cl-pellaires-53132",
+    "providerPropertyTitle": "Encantador piso en Sant Martí",
+    "publishedDate": "2023-03-27T09:31:48Z",
+    "relevance": 1679909508,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1789,
+    "sizes": {
+      "size": 85,
+      "sizeBuiltWithoutCommonElements": 85,
+      "sizeBuilt": 89,
+      "sizeUseful": 89
+    },
+    "size": 85,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/53132/sold/53132-housfy-20230325-85OqsGEuBx-420x280.jpg"
+    ],
+    "numberOfBedrooms": 2,
+    "numberOfBathrooms": 2,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "Encantador piso en Sant Martí.\r\n\r\nHousfy: la agencia inmobiliaria online.\r\n\r\nSe vende piso de particular a particular en Sant Martí, Barcelona, perfecto para familias o parejas que busquen un lugar cómodo para su día a día.\r\nConstruido en 1900 en Diagonal Mar i el Front Marítim del Poblenou. \r\n\r\nDetalles del inmueble:\r\n\r\n- Genial piso de 89 m2. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Contamos con todas las comodidades posibles de 2 habitaciones y 1 baño y 1 aseo.\r\n- Agradable salón-comedor perfecto para descansar tras una jornada de trabajo, creando un precioso y único espacio.\r\n- Con una efectiva cocina en muy buen estado y equipada con todo lo necesario.\r\n- Exterior.\r\n- ITE edificio pasada. \r\n\r\nSobre la ubicación, si escoges este barrio para vivir tendrás todos los servicios esenciales que necesitarás para tu nueva vida. A escasos metros encontramos: centros educativos, centros de salud, parques, equipamientos deportivos y supermercados, farmacias, entre otros.\r\n\r\nNo lo dudes más y contacta con nosotros para agendar una visita, conseguiremos la vivienda de tus sueños.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
+    "tags": [
+      23,
+      26
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Sant Martí",
+    "neighborhoodLocationName": "Diagonal Mar i el Front Marítim del Poblenou",
+    "streetName": "CL PELLAIRES",
+    "streetNumber": "1",
+    "floor": "PR",
+    "door": "01",
+    "floorDoorLabel": "",
+    "latitude": 41.40375137,
+    "longitude": 2.20925474,
+    "price": {
+      "amount": 34000000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 400000,
+      "currency": "EUR"
+    },
+    "isNew": true,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
+  },
   "a34d459a-b742-4eda-a68e-031fe13f6d78": {
     "uuid": "a34d459a-b742-4eda-a68e-031fe13f6d78",
     "providerCode": "housfy",
@@ -374,71 +435,6 @@
     "isReserved": false,
     "isSold": false
   },
-  "24ec8c07-fc4d-460a-84f1-b52c78ef8430": {
-    "uuid": "24ec8c07-fc4d-460a-84f1-b52c78ef8430",
-    "providerCode": "housfy",
-    "providerPropertyId": 568586,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-ramon-turro-568586",
-    "providerPropertyTitle": "Fabuloso piso en Sant Martí",
-    "publishedDate": "2022-10-10T18:52:52Z",
-    "relevance": 1678880639,
-    "typeId": 2,
-    "typeCode": "piso",
-    "reservedDate": "2022-05-26T07:03:01Z",
-    "locationId": 1794,
-    "sizes": {
-      "size": 67,
-      "sizeBuiltWithoutCommonElements": 67,
-      "sizeBuilt": 73,
-      "sizeUseful": 67
-    },
-    "size": 67,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/568586/568586-housfy-20220413-xyWTboc7Q4-420x280.jpg"
-    ],
-    "numberOfBedrooms": 2,
-    "numberOfBathrooms": 1,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "sale",
-    "isVisible": true,
-    "description": "Piso de 2 habitaciones, luminoso y bien ubicado.\r\n\r\nCompra tu nuevo hogar SIN INTERMEDIARIOS, directamente con el PROPIETARIO sin tener que pagar más del precio de venta. \r\n\r\nEl inmueble de 73m² es exterior, se encuentra en una segunda planta real. Está distribuido en salón comedor de 20m², 2 habitaciones amplias, una de ellas con salida a balcón y vestidor, cocina individual y baño completo con plato de ducha. Está equipado con suelo de gres en baño y cocina y en el resto de las estancias parquet, ventanas de aluminio y puertas de madera.\r\n\r\nEn finca del 1890, bien conservada y a pocas calles del mar. Próxima a zonas verdes, colegios, comercios y tiene muy buena comunicación en transporte público.\r\n\r\nEl inmueble se entrega completamente reformado, con 1 año de garantía.\r\n\r\nPosibilidad de asesoramiento con bróker financiero gratuito. Pregúntanos sin compromiso.\r\n\r\nNota:\r\n- Las imágenes son renders de como quedará la reforma.\r\n- En el precio de venta no se incluye el mobiliario.\r\n- El precio publicado excluye los gastos asociados de compraventa ( impuestos y gastos de notaría)\r\nAbstenerse agencias.",
-    "tags": [
-      23,
-      25,
-      26,
-      33
-    ],
-    "canScheduleVisits": false,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Sant Martí",
-    "neighborhoodLocationName": "El Poblenou",
-    "streetName": "Carrer de Ramon Turró",
-    "streetNumber": "142",
-    "floor": "01",
-    "door": "01",
-    "floorDoorLabel": "",
-    "latitude": 41.39651871,
-    "longitude": 2.1987114,
-    "price": {
-      "amount": 33500000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 500000,
-      "currency": "EUR"
-    },
-    "priceChangePercentage": "-4.01",
-    "isNew": false,
-    "isPriceUpdated": false,
-    "isReserved": false,
-    "isSold": false
-  },
   "40abba62-c93b-4d3a-9212-cc3415dee1de": {
     "uuid": "40abba62-c93b-4d3a-9212-cc3415dee1de",
     "providerCode": "housfy",
@@ -629,6 +625,71 @@
     "isReserved": false,
     "isSold": false
   },
+  "24ec8c07-fc4d-460a-84f1-b52c78ef8430": {
+    "uuid": "24ec8c07-fc4d-460a-84f1-b52c78ef8430",
+    "providerCode": "housfy",
+    "providerPropertyId": 568586,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-ramon-turro-568586",
+    "providerPropertyTitle": "Fabuloso piso en Sant Martí",
+    "publishedDate": "2022-10-10T18:52:52Z",
+    "relevance": 300,
+    "typeId": 2,
+    "typeCode": "piso",
+    "reservedDate": "2022-05-26T07:03:01Z",
+    "locationId": 1794,
+    "sizes": {
+      "size": 67,
+      "sizeBuiltWithoutCommonElements": 67,
+      "sizeBuilt": 73,
+      "sizeUseful": 67
+    },
+    "size": 67,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/568586/568586-housfy-20220413-xyWTboc7Q4-420x280.jpg"
+    ],
+    "numberOfBedrooms": 2,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "Piso de 2 habitaciones, luminoso y bien ubicado.\r\n\r\nCompra tu nuevo hogar SIN INTERMEDIARIOS, directamente con el PROPIETARIO sin tener que pagar más del precio de venta. \r\n\r\nEl inmueble de 73m² es exterior, se encuentra en una segunda planta real. Está distribuido en salón comedor de 20m², 2 habitaciones amplias, una de ellas con salida a balcón y vestidor, cocina individual y baño completo con plato de ducha. Está equipado con suelo de gres en baño y cocina y en el resto de las estancias parquet, ventanas de aluminio y puertas de madera.\r\n\r\nEn finca del 1890, bien conservada y a pocas calles del mar. Próxima a zonas verdes, colegios, comercios y tiene muy buena comunicación en transporte público.\r\n\r\nEl inmueble se entrega completamente reformado, con 1 año de garantía.\r\n\r\nPosibilidad de asesoramiento con bróker financiero gratuito. Pregúntanos sin compromiso.\r\n\r\nNota:\r\n- Las imágenes son renders de como quedará la reforma.\r\n- En el precio de venta no se incluye el mobiliario.\r\n- El precio publicado excluye los gastos asociados de compraventa ( impuestos y gastos de notaría)\r\nAbstenerse agencias.",
+    "tags": [
+      23,
+      25,
+      26,
+      33
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Sant Martí",
+    "neighborhoodLocationName": "El Poblenou",
+    "streetName": "Carrer de Ramon Turró",
+    "streetNumber": "142",
+    "floor": "01",
+    "door": "01",
+    "floorDoorLabel": "",
+    "latitude": 41.39651871,
+    "longitude": 2.1987114,
+    "price": {
+      "amount": 33500000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 500000,
+      "currency": "EUR"
+    },
+    "priceChangePercentage": "-4.01",
+    "isNew": false,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
+  },
   "3d32ca65-40a1-406b-b879-d13d44c6de6c": {
     "uuid": "3d32ca65-40a1-406b-b879-d13d44c6de6c",
     "providerCode": "housfy",
@@ -813,67 +874,6 @@
     },
     "priceChangePercentage": "-2.45",
     "isNew": false,
-    "isPriceUpdated": false,
-    "isReserved": false,
-    "isSold": false
-  },
-  "26ca4e09-b1d9-11e9-9397-02c8404c34aa": {
-    "uuid": "26ca4e09-b1d9-11e9-9397-02c8404c34aa",
-    "providerCode": "housfy",
-    "providerPropertyId": 53132,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/cl-pellaires-53132",
-    "providerPropertyTitle": "Encantador piso en Sant Martí",
-    "publishedDate": "2023-03-27T09:31:48Z",
-    "relevance": 2,
-    "typeId": 2,
-    "typeCode": "piso",
-    "locationId": 1789,
-    "sizes": {
-      "size": 85,
-      "sizeBuiltWithoutCommonElements": 85,
-      "sizeBuilt": 89,
-      "sizeUseful": 89
-    },
-    "size": 85,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/53132/53132-housfy-20230325-85OqsGEuBx-420x280.jpg"
-    ],
-    "numberOfBedrooms": 2,
-    "numberOfBathrooms": 2,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "sale",
-    "isVisible": true,
-    "description": "Encantador piso en Sant Martí.\r\n\r\nHousfy: la agencia inmobiliaria online.\r\n\r\nSe vende piso de particular a particular en Sant Martí, Barcelona, perfecto para familias o parejas que busquen un lugar cómodo para su día a día.\r\nConstruido en 1900 en Diagonal Mar i el Front Marítim del Poblenou. \r\n\r\nDetalles del inmueble:\r\n\r\n- Genial piso de 89 m2. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Contamos con todas las comodidades posibles de 2 habitaciones y 1 baño y 1 aseo.\r\n- Agradable salón-comedor perfecto para descansar tras una jornada de trabajo, creando un precioso y único espacio.\r\n- Con una efectiva cocina en muy buen estado y equipada con todo lo necesario.\r\n- Exterior.\r\n- ITE edificio pasada. \r\n\r\nSobre la ubicación, si escoges este barrio para vivir tendrás todos los servicios esenciales que necesitarás para tu nueva vida. A escasos metros encontramos: centros educativos, centros de salud, parques, equipamientos deportivos y supermercados, farmacias, entre otros.\r\n\r\nNo lo dudes más y contacta con nosotros para agendar una visita, conseguiremos la vivienda de tus sueños.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
-    "tags": [
-      23,
-      26
-    ],
-    "canScheduleVisits": false,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Sant Martí",
-    "neighborhoodLocationName": "Diagonal Mar i el Front Marítim del Poblenou",
-    "streetName": "CL PELLAIRES",
-    "streetNumber": "1",
-    "floor": "PR",
-    "door": "01",
-    "floorDoorLabel": "",
-    "latitude": 41.40375137,
-    "longitude": 2.20925474,
-    "price": {
-      "amount": 34000000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 400000,
-      "currency": "EUR"
-    },
-    "isNew": true,
     "isPriceUpdated": false,
     "isReserved": false,
     "isSold": false
