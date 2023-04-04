@@ -1,4 +1,67 @@
 {
+  "3d32ca65-40a1-406b-b879-d13d44c6de6c": {
+    "uuid": "3d32ca65-40a1-406b-b879-d13d44c6de6c",
+    "providerCode": "housfy",
+    "providerPropertyId": 548253,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-ramon-turro-548253",
+    "providerPropertyTitle": "Perfecto piso en Sant Martí",
+    "publishedDate": "2023-02-07T08:36:13Z",
+    "relevance": 1680614165,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1794,
+    "sizes": {
+      "size": 56,
+      "sizeBuiltWithoutCommonElements": 56,
+      "sizeBuilt": 56,
+      "sizeUseful": 56
+    },
+    "size": 56,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/548253/548253-housfy-20230206-ux8voeOKBf-420x280.jpg"
+    ],
+    "numberOfBedrooms": 2,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "Compra tu piso con Housfy.\r\n\r\nSe vende piso en Sant Martí, Barcelona, perfecto para familias o parejas que busquen un lugar cómodo para su día a día.\r\n\r\n\r\nDetalles del inmueble:\r\n\r\n- Perfecto piso de 59 m2 en El Poblenou, reformado hace 8 años. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Esta vivienda cuenta con 2 habitaciones y 1 baño.\r\n- Práctico salón que te proporcionará el relax diario, donde disfrutar de tu familia.\r\n- Exterior, luminoso gracias a su orientación.\r\n- Con una conveniente cocina en muy buen estado y equipada con todo lo necesario.\r\n- Dispone de calefacción en todas las estancias, instalación eléctrica y fontanería nueva, puerta de entrada de seguridad con anclajes.\r\n- Balcón con cuarto para lavadora.\r\n- Con ascensor.\r\n\r\nSobre la ubicación, si escoges este barrio para vivir tendrás todos los servicios esenciales que necesitarás para tu nueva vida. A escasos metros encontramos: centros educativos, centros de salud, parques, equipamientos deportivos y supermercados, farmacias, entre otros.\r\n\r\nNo lo dudes más y contacta con nosotros para agendar una visita, conseguiremos la vivienda de tus sueños.\r\n\r\n\r\nSobre nosotros:\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
+    "tags": [
+      23,
+      26,
+      31
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Sant Martí",
+    "neighborhoodLocationName": "El Poblenou",
+    "streetName": "Carrer de Ramon Turró",
+    "streetNumber": "260",
+    "floor": "01",
+    "door": "01",
+    "floorDoorLabel": "",
+    "latitude": 41.40253067,
+    "longitude": 2.20684361,
+    "price": {
+      "amount": 26500000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 473214,
+      "currency": "EUR"
+    },
+    "priceChangePercentage": "-3.64",
+    "isNew": false,
+    "isPriceUpdated": true,
+    "isReserved": false,
+    "isSold": false
+  },
   "71707714-27b7-42fa-94a5-65b6302e66c0": {
     "uuid": "71707714-27b7-42fa-94a5-65b6302e66c0",
     "providerCode": "housfy",
@@ -622,69 +685,6 @@
       "currency": "EUR"
     },
     "priceChangePercentage": "-3.35",
-    "isNew": false,
-    "isPriceUpdated": false,
-    "isReserved": false,
-    "isSold": false
-  },
-  "3d32ca65-40a1-406b-b879-d13d44c6de6c": {
-    "uuid": "3d32ca65-40a1-406b-b879-d13d44c6de6c",
-    "providerCode": "housfy",
-    "providerPropertyId": 548253,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-ramon-turro-548253",
-    "providerPropertyTitle": "Perfecto piso en Sant Martí",
-    "publishedDate": "2023-02-07T08:36:13Z",
-    "relevance": 200,
-    "typeId": 2,
-    "typeCode": "piso",
-    "locationId": 1794,
-    "sizes": {
-      "size": 56,
-      "sizeBuiltWithoutCommonElements": 56,
-      "sizeBuilt": 56,
-      "sizeUseful": 56
-    },
-    "size": 56,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/548253/548253-housfy-20230206-ux8voeOKBf-420x280.jpg"
-    ],
-    "numberOfBedrooms": 2,
-    "numberOfBathrooms": 1,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "sale",
-    "isVisible": true,
-    "description": "Compra tu piso con Housfy.\r\n\r\nSe vende piso en Sant Martí, Barcelona, perfecto para familias o parejas que busquen un lugar cómodo para su día a día.\r\n\r\n\r\nDetalles del inmueble:\r\n\r\n- Perfecto piso de 59 m2 en El Poblenou, reformado hace 8 años. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Esta vivienda cuenta con 2 habitaciones y 1 baño.\r\n- Práctico salón que te proporcionará el relax diario, donde disfrutar de tu familia.\r\n- Exterior, luminoso gracias a su orientación.\r\n- Con una conveniente cocina en muy buen estado y equipada con todo lo necesario.\r\n- Dispone de calefacción en todas las estancias, instalación eléctrica y fontanería nueva, puerta de entrada de seguridad con anclajes.\r\n- Balcón con cuarto para lavadora.\r\n- Con ascensor.\r\n\r\nSobre la ubicación, si escoges este barrio para vivir tendrás todos los servicios esenciales que necesitarás para tu nueva vida. A escasos metros encontramos: centros educativos, centros de salud, parques, equipamientos deportivos y supermercados, farmacias, entre otros.\r\n\r\nNo lo dudes más y contacta con nosotros para agendar una visita, conseguiremos la vivienda de tus sueños.\r\n\r\n\r\nSobre nosotros:\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
-    "tags": [
-      23,
-      26,
-      31
-    ],
-    "canScheduleVisits": false,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Sant Martí",
-    "neighborhoodLocationName": "El Poblenou",
-    "streetName": "Carrer de Ramon Turró",
-    "streetNumber": "260",
-    "floor": "01",
-    "door": "01",
-    "floorDoorLabel": "",
-    "latitude": 41.40253067,
-    "longitude": 2.20684361,
-    "price": {
-      "amount": 27500000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 491071,
-      "currency": "EUR"
-    },
-    "priceChangePercentage": "-8.33",
     "isNew": false,
     "isPriceUpdated": false,
     "isReserved": false,
