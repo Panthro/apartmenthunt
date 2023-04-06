@@ -180,7 +180,7 @@
       "currency": "EUR"
     },
     "priceChangePercentage": "-5.19",
-    "isNew": true,
+    "isNew": false,
     "isPriceUpdated": true,
     "isReserved": false,
     "isSold": false
