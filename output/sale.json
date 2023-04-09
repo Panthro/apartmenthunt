@@ -250,69 +250,6 @@
     "isReserved": false,
     "isSold": false
   },
-  "b38ae62b-975b-48e1-954b-13b66a473e2b": {
-    "uuid": "b38ae62b-975b-48e1-954b-13b66a473e2b",
-    "providerCode": "housfy",
-    "providerPropertyId": 641954,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/calle-dos-de-maig-641954",
-    "providerPropertyTitle": "Fabuloso piso con balcón en l\u0027Eixample",
-    "publishedDate": "2022-11-10T15:00:19Z",
-    "relevance": 1679602354,
-    "typeId": 2,
-    "typeCode": "piso",
-    "locationId": 1748,
-    "sizes": {
-      "size": 42,
-      "sizeBuiltWithoutCommonElements": 42,
-      "sizeBuilt": 45,
-      "sizeUseful": 45
-    },
-    "size": 42,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/641954/641954-housfy-20230221-KtTO7ibrt6-420x280.jpg"
-    ],
-    "numberOfBedrooms": 1,
-    "numberOfBathrooms": 1,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "sale",
-    "isVisible": true,
-    "description": "IDEAL INVERSORES.\r\n\r\nCompra tu nuevo hogar SIN INTERMEDIARIOS, directamente con el PROPIETARIO sin tener que pagar más del precio de venta. \r\n\r\nPiso recién reformado, a estrenar y en buena ubicación. Rentabilidad bruta garantizada del 5,5%.\r\n\r\nTercera planta real sin ascensor.\r\n\r\nFinca construida el año 1890 en Barcelona. Cuenta con 45m2 construídos y se ha hecho la reforma redistribuyendo los espacios para maximizar el comfort.\r\n\r\nDetalles del inmueble:\r\n\r\n- Acogedor piso de 45 m2 en La Sagrada Família. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n-1 habitación y 1 baño.\r\n- Cálido salón-comedor amplio y luminoso, siendo además, un espacio agradable y estupendo para visitas de amigos y familiares.\r\n- Parquet.\r\n- Con una práctica cocina en perfecto estado y equipada con todo lo necesario. Con lavadero.\r\n- Interior.\r\n\r\nABSTENERSE AGENCIAS. \r\n\r\nPróximo a colegios, metro Encants ( L2), supermercados y todos los servicios que facilitarán y mejorarán tu día a día.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
-    "tags": [
-      23,
-      25,
-      26
-    ],
-    "canScheduleVisits": false,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Eixample",
-    "neighborhoodLocationName": "La Sagrada Família",
-    "streetName": "Calle Dos de Maig",
-    "streetNumber": "239",
-    "floor": "02",
-    "door": "03",
-    "floorDoorLabel": "",
-    "latitude": 41.40700912,
-    "longitude": 2.18173671,
-    "price": {
-      "amount": 19900000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 473809,
-      "currency": "EUR"
-    },
-    "priceChangePercentage": "-5.24",
-    "isNew": false,
-    "isPriceUpdated": false,
-    "isReserved": false,
-    "isSold": false
-  },
   "4f3e8b58-3bf0-4a6e-a86f-192d16c45eed": {
     "uuid": "4f3e8b58-3bf0-4a6e-a86f-192d16c45eed",
     "providerCode": "housfy",
@@ -562,6 +499,69 @@
       "currency": "EUR"
     },
     "priceChangePercentage": "-3.35",
+    "isNew": false,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
+  },
+  "b38ae62b-975b-48e1-954b-13b66a473e2b": {
+    "uuid": "b38ae62b-975b-48e1-954b-13b66a473e2b",
+    "providerCode": "housfy",
+    "providerPropertyId": 641954,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/calle-dos-de-maig-641954",
+    "providerPropertyTitle": "Fabuloso piso con balcón en l\u0027Eixample",
+    "publishedDate": "2022-11-10T15:00:19Z",
+    "relevance": 300,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1748,
+    "sizes": {
+      "size": 42,
+      "sizeBuiltWithoutCommonElements": 42,
+      "sizeBuilt": 45,
+      "sizeUseful": 45
+    },
+    "size": 42,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/641954/641954-housfy-20230221-KtTO7ibrt6-420x280.jpg"
+    ],
+    "numberOfBedrooms": 1,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "IDEAL INVERSORES.\r\n\r\nCompra tu nuevo hogar SIN INTERMEDIARIOS, directamente con el PROPIETARIO sin tener que pagar más del precio de venta. \r\n\r\nPiso recién reformado, a estrenar y en buena ubicación. Rentabilidad bruta garantizada del 5,5%.\r\n\r\nTercera planta real sin ascensor.\r\n\r\nFinca construida el año 1890 en Barcelona. Cuenta con 45m2 construídos y se ha hecho la reforma redistribuyendo los espacios para maximizar el comfort.\r\n\r\nDetalles del inmueble:\r\n\r\n- Acogedor piso de 45 m2 en La Sagrada Família. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n-1 habitación y 1 baño.\r\n- Cálido salón-comedor amplio y luminoso, siendo además, un espacio agradable y estupendo para visitas de amigos y familiares.\r\n- Parquet.\r\n- Con una práctica cocina en perfecto estado y equipada con todo lo necesario. Con lavadero.\r\n- Interior.\r\n\r\nABSTENERSE AGENCIAS. \r\n\r\nPróximo a colegios, metro Encants ( L2), supermercados y todos los servicios que facilitarán y mejorarán tu día a día.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
+    "tags": [
+      23,
+      25,
+      26
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Eixample",
+    "neighborhoodLocationName": "La Sagrada Família",
+    "streetName": "Calle Dos de Maig",
+    "streetNumber": "239",
+    "floor": "02",
+    "door": "03",
+    "floorDoorLabel": "",
+    "latitude": 41.40700912,
+    "longitude": 2.18173671,
+    "price": {
+      "amount": 19900000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 473809,
+      "currency": "EUR"
+    },
+    "priceChangePercentage": "-5.24",
     "isNew": false,
     "isPriceUpdated": false,
     "isReserved": false,
