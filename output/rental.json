@@ -1,4 +1,67 @@
 {
+  "5e7e7e2b-d034-49a7-bfa7-9682bf54d55c": {
+    "uuid": "5e7e7e2b-d034-49a7-bfa7-9682bf54d55c",
+    "providerCode": "housfy",
+    "providerPropertyId": 675112,
+    "providerPropertyUrl": "https://housfy.com/alquilar-piso/barcelona/carrer-de-mallorca-675112",
+    "providerPropertyTitle": "Espléndido piso en l\u0027Eixample",
+    "publishedDate": "2023-03-22T09:29:55Z",
+    "relevance": 1681214210,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1748,
+    "sizes": {
+      "size": 69,
+      "sizeBuiltWithoutCommonElements": 69,
+      "sizeBuilt": 76,
+      "sizeUseful": 69
+    },
+    "size": 69,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/675112/675112-housfy-20230321-SJgpca9dnZ-420x280.jpg"
+    ],
+    "numberOfBedrooms": 1,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "rental",
+    "isVisible": true,
+    "description": "Espléndido piso en l\u0027Eixample.\r\n\r\nHousfy Alquileres, la mejor solución para alquilar tu piso en España.\r\n\r\nSe alquila piso en Eixample, Barcelona, perfecto para familias o parejas que busquen un lugar cómodo para su día a día.\r\nEl genial piso fue construido en el 1928.\r\n\r\nDetalles del inmueble:\r\n\r\n- Sensacional piso de 76 m2. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Podemos disfrutar de 1 habitación mas vestidor, muy bien acomodado.\r\n- Habitación y vestidor.\r\n- Funcional salón con amplio espacio de luz natural, donde disfrutar de tu familia.\r\n- Aire acondicionado y calefacción para todas las estaciones del año.\r\n- Con una funcional cocina en muy buen estado y equipada con todo lo necesario.\r\n- Exterior.\r\n- Ascensor.\r\n- Dos meses de fianza más honorarios de agencia.\r\n\r\nSobre la ubicación, si escoges este barrio para vivir tendrás todos los servicios esenciales que necesitarás para tu nueva vida. A escasos metros encontramos: centros educativos, centros de salud, parques, equipamientos deportivos y supermercados, farmacias, entre otros.\r\n\r\nNo lo dudes más y contacta con nosotros para agendar una visita, conseguiremos la vivienda de tus sueños. \r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda alquilar la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922.",
+    "tags": [
+      23,
+      26,
+      31
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Eixample",
+    "neighborhoodLocationName": "La Sagrada Família",
+    "streetName": "Carrer de Mallorca",
+    "streetNumber": "448",
+    "floor": "4",
+    "door": "2",
+    "floorDoorLabel": "",
+    "latitude": 41.4048996,
+    "longitude": 2.17758989,
+    "price": {
+      "amount": 114900,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 1665,
+      "currency": "EUR"
+    },
+    "priceChangePercentage": "-10.23",
+    "isNew": false,
+    "isPriceUpdated": true,
+    "isReserved": false,
+    "isSold": false
+  },
   "6160ed04-bd79-48eb-8db1-99007bb537d5": {
     "uuid": "6160ed04-bd79-48eb-8db1-99007bb537d5",
     "providerCode": "housfy",
