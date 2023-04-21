@@ -1,4 +1,65 @@
 {
+  "f78a9178-b0f8-42eb-8fcf-5668e0cb79c4": {
+    "uuid": "f78a9178-b0f8-42eb-8fcf-5668e0cb79c4",
+    "providerCode": "housfy",
+    "providerPropertyId": 638745,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/calle-independencia-638745",
+    "providerPropertyTitle": "Admirable piso en Sant Martí",
+    "publishedDate": "2023-04-20T14:02:07Z",
+    "relevance": 1681999327,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1791,
+    "sizes": {
+      "size": 74,
+      "sizeBuiltWithoutCommonElements": 74,
+      "sizeBuilt": 76,
+      "sizeUseful": 74
+    },
+    "size": 74,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/638745/638745-housfy-20230420-J1oqCvx4oB-420x280.jpg"
+    ],
+    "numberOfBedrooms": 3,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "Admirable piso en Sant Martí.\r\n\r\nHousfy sin intermediarios.\r\n\r\nSe vende piso de particular a particular en Sant Martí, Barcelona, un espacio para disfrutar en tu día a día.\r\nConstruido en 1930 en Barcelona. \r\n\r\nDetalles del inmueble:\r\n\r\n- Sus 76 m2 están perfectamente distribuidos, creando un espacio cómodo para el día a día. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- En este piso encontraremos 3 habitaciones y 1 baño, perfecto para una familia.\r\n- Cómodo salón con amplio espacio de luz natural, creando un precioso y único espacio.\r\n- Balcón.\r\n- Con una adecuada cocina en muy buen estado y equipada con todo lo necesario.\r\n- Exterior.\r\n\r\nLa localización de este piso está localizado en Barcelona, provincia de Barcelona.\r\nUbicación 10/10, metro línea lila, roja y amarilla muy cerca, RENFE, buses, colegios, gimnasios, jardines, Pipi-can, terrado comunitario disponible para uso y disfrute de los vecinos...\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
+    "tags": [
+      23,
+      26
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Sant Martí",
+    "neighborhoodLocationName": "El Camp de l\u0027Arpa del Clot",
+    "streetName": "Calle Independencia",
+    "streetNumber": "322",
+    "floor": "02",
+    "door": "02",
+    "floorDoorLabel": "",
+    "latitude": 41.41013336,
+    "longitude": 2.18080497,
+    "price": {
+      "amount": 25900000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 350000,
+      "currency": "EUR"
+    },
+    "isNew": true,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
+  },
   "a34d459a-b742-4eda-a68e-031fe13f6d78": {
     "uuid": "a34d459a-b742-4eda-a68e-031fe13f6d78",
     "providerCode": "housfy",
