@@ -628,6 +628,67 @@
     "isReserved": false,
     "isSold": false
   },
+  "49cd8440-dc15-42e1-96fc-6cc1109ef0ba": {
+    "uuid": "49cd8440-dc15-42e1-96fc-6cc1109ef0ba",
+    "providerCode": "housfy",
+    "providerPropertyId": 650197,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-lope-de-vega-650197",
+    "providerPropertyTitle": "piso alquilado con balcón en Sant Martí",
+    "publishedDate": "2023-03-20T11:26:31Z",
+    "relevance": 200,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1794,
+    "sizes": {
+      "size": 45,
+      "sizeBuiltWithoutCommonElements": 45,
+      "sizeBuilt": 49,
+      "sizeUseful": 49
+    },
+    "size": 45,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/650197/650197-housfy-20230318-FLyhKMVqm5-420x280.jpg"
+    ],
+    "numberOfBedrooms": 3,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "Espléndido piso con balcón en Sant Martí.\r\n\r\nHousfy sin intermediarios.\r\n(ALQUILADO HASTA MARZO 2027 SOLO GENTE QUE MANTENGA EL  CONTRATO AL  INQUILINO) Paga 800€  Valor de la rentabilidad bruta\r\n3.76%\r\nSe vende piso directamente del propietario en Sant Martí, Barcelona, perfecto para familias o parejas que busquen un lugar cómodo para su día a día.\r\nConstruido en 1935.\r\n\r\nDetalles del inmueble:\r\n\r\n- Sensacional piso de 49 m2 en El Poblenou. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Podemos disfrutar de 2 habitaciones, 1 baño y lavadero.\r\n- Confortable salón-comedor que es un lugar perfecto para descansar tras una jornada de trabajo, un lugar perfecto para descansar en los ratos libres.\r\n- Exterior.\r\n- Con una utilitaria cocina en muy buen estado.\r\n- Balcón.\r\n- Disfruta de la opción de armario empotrado.\r\n- Parquet.\r\n- Ascensor.\r\n\r\nSobre la ubicación, si escoges este barrio para vivir tendrás todos los servicios esenciales que necesitarás para tu nueva vida. A escasos metros encontramos: centros educativos, centros de salud, parques, equipamientos deportivos y supermercados, farmacias, entre otros.\r\n\r\nNo lo dudes más y contacta con nosotros para agendar una visita, conseguiremos la vivienda de tus sueños.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
+    "tags": [
+      23,
+      26
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Sant Martí",
+    "neighborhoodLocationName": "El Poblenou",
+    "streetName": "Carrer de Lope de Vega",
+    "streetNumber": "113",
+    "floor": "02",
+    "door": "02",
+    "floorDoorLabel": "",
+    "latitude": 41.40515137,
+    "longitude": 2.20227146,
+    "price": {
+      "amount": 25500000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 566666,
+      "currency": "EUR"
+    },
+    "isNew": false,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
+  },
   "4f3e8b58-3bf0-4a6e-a86f-192d16c45eed": {
     "uuid": "4f3e8b58-3bf0-4a6e-a86f-192d16c45eed",
     "providerCode": "housfy",
@@ -685,67 +746,6 @@
       "currency": "EUR"
     },
     "priceChangePercentage": "-12.64",
-    "isNew": false,
-    "isPriceUpdated": false,
-    "isReserved": false,
-    "isSold": false
-  },
-  "49cd8440-dc15-42e1-96fc-6cc1109ef0ba": {
-    "uuid": "49cd8440-dc15-42e1-96fc-6cc1109ef0ba",
-    "providerCode": "housfy",
-    "providerPropertyId": 650197,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-de-lope-de-vega-650197",
-    "providerPropertyTitle": "piso alquilado con balcón en Sant Martí",
-    "publishedDate": "2023-03-20T11:26:31Z",
-    "relevance": 200,
-    "typeId": 2,
-    "typeCode": "piso",
-    "locationId": 1794,
-    "sizes": {
-      "size": 45,
-      "sizeBuiltWithoutCommonElements": 45,
-      "sizeBuilt": 49,
-      "sizeUseful": 49
-    },
-    "size": 45,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/650197/650197-housfy-20230318-FLyhKMVqm5-420x280.jpg"
-    ],
-    "numberOfBedrooms": 3,
-    "numberOfBathrooms": 1,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "sale",
-    "isVisible": true,
-    "description": "Espléndido piso con balcón en Sant Martí.\r\n\r\nHousfy sin intermediarios.\r\n(ALQUILADO HASTA MARZO 2027 SOLO GENTE QUE MANTENGA EL  CONTRATO AL  INQUILINO) Paga 800€  Valor de la rentabilidad bruta\r\n3.76%\r\nSe vende piso directamente del propietario en Sant Martí, Barcelona, perfecto para familias o parejas que busquen un lugar cómodo para su día a día.\r\nConstruido en 1935.\r\n\r\nDetalles del inmueble:\r\n\r\n- Sensacional piso de 49 m2 en El Poblenou. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Podemos disfrutar de 2 habitaciones, 1 baño y lavadero.\r\n- Confortable salón-comedor que es un lugar perfecto para descansar tras una jornada de trabajo, un lugar perfecto para descansar en los ratos libres.\r\n- Exterior.\r\n- Con una utilitaria cocina en muy buen estado.\r\n- Balcón.\r\n- Disfruta de la opción de armario empotrado.\r\n- Parquet.\r\n- Ascensor.\r\n\r\nSobre la ubicación, si escoges este barrio para vivir tendrás todos los servicios esenciales que necesitarás para tu nueva vida. A escasos metros encontramos: centros educativos, centros de salud, parques, equipamientos deportivos y supermercados, farmacias, entre otros.\r\n\r\nNo lo dudes más y contacta con nosotros para agendar una visita, conseguiremos la vivienda de tus sueños.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922",
-    "tags": [
-      23,
-      26
-    ],
-    "canScheduleVisits": false,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Sant Martí",
-    "neighborhoodLocationName": "El Poblenou",
-    "streetName": "Carrer de Lope de Vega",
-    "streetNumber": "113",
-    "floor": "02",
-    "door": "02",
-    "floorDoorLabel": "",
-    "latitude": 41.40515137,
-    "longitude": 2.20227146,
-    "price": {
-      "amount": 25500000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 566666,
-      "currency": "EUR"
-    },
     "isNew": false,
     "isPriceUpdated": false,
     "isReserved": false,
