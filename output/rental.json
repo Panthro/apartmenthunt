@@ -1,4 +1,68 @@
 {
+  "6160ed04-bd79-48eb-8db1-99007bb537d5": {
+    "uuid": "6160ed04-bd79-48eb-8db1-99007bb537d5",
+    "providerCode": "housfy",
+    "providerPropertyId": 674066,
+    "providerPropertyUrl": "https://housfy.com/alquilar-piso/barcelona/gran-via-de-les-corts-catalanes-674066",
+    "providerPropertyTitle": "Estupendo piso en l\u0027Eixample",
+    "publishedDate": "2023-03-31T14:40:59Z",
+    "relevance": 1681911696,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1744,
+    "sizes": {
+      "size": 166,
+      "sizeBuiltWithoutCommonElements": 166,
+      "sizeBuilt": 166,
+      "sizeUseful": 166
+    },
+    "size": 166,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/674066/674066-housfy-20230328-bm8rpcIGXF-420x280.jpg"
+    ],
+    "numberOfBedrooms": 4,
+    "numberOfBathrooms": 2,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "rental",
+    "isVisible": true,
+    "description": "Estupendo piso en l\u0027Eixample.\r\n\r\nHousfy Alquileres, alquila tu piso con los mejores expertos.\r\n\r\nSe alquila piso en Eixample, Barcelona, perfecto para familias, parejas o para compartir que busquen un lugar cómodo para su día a día.\r\nEl sensacional piso fue construido en el 1936.\r\n\r\nDetalles del inmueble:\r\n\r\n- Admirable piso de 166 m2. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- La vivienda dispone de 4 habitaciones y 2 baños.\r\n- Agradable salón que es un lugar perfecto para descansar tras una jornada de trabajo, siendo además, un espacio agradable y estupendo para visitas de amigos y familiares.\r\n- Exterior.\r\n- Con una práctica cocina en muy buen estado y equipada con todo lo necesario.\r\n- Dos meses de fianza más honorarios de agencia.\r\n\r\nSobre la ubicación, si escoges este barrio para vivir tendrás todos los servicios esenciales que necesitarás para tu nueva vida. A escasos metros encontramos: centros educativos, centros de salud, parques, equipamientos deportivos y supermercados, farmacias, entre otros.\r\n\r\nNo lo dudes más y contacta con nosotros para agendar una visita, conseguiremos la vivienda de tus sueños.  \r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda alquilar la propiedad por su cuenta. Para más información, visítenos en housfy.com. AICAT número: 7922.",
+    "tags": [
+      23,
+      26,
+      30,
+      31
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Eixample",
+    "neighborhoodLocationName": "El Fort Pienc",
+    "streetName": "Gran Via de les Corts Catalanes",
+    "streetNumber": "741",
+    "floor": "Ppal",
+    "door": "2",
+    "floorDoorLabel": "",
+    "latitude": 41.39894485,
+    "longitude": 2.18045497,
+    "price": {
+      "amount": 199000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 1198,
+      "currency": "EUR"
+    },
+    "priceChangePercentage": "-8.29",
+    "isNew": false,
+    "isPriceUpdated": true,
+    "isReserved": false,
+    "isSold": false
+  },
   "5e7e7e2b-d034-49a7-bfa7-9682bf54d55c": {
     "uuid": "5e7e7e2b-d034-49a7-bfa7-9682bf54d55c",
     "providerCode": "housfy",
