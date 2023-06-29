@@ -614,12 +614,12 @@
     "typeCode": "piso",
     "locationId": 1748,
     "sizes": {
-      "size": 75,
-      "sizeBuiltWithoutCommonElements": 75,
+      "size": 94,
+      "sizeBuiltWithoutCommonElements": 94,
       "sizeBuilt": 94,
       "sizeUseful": 75
     },
-    "size": 75,
+    "size": 94,
     "photos": [
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/636049/636049-housfy-20230418-qbjIyfDw1M-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/636049/636049-housfy-20230418-vMiP3AVlkd-420x280.jpg",
@@ -647,7 +647,7 @@
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/636049/636049-housfy-20230418-UjZIdq0O8O-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/636049/636049-housfy-20230418-2LMrDvgUxt-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/636049/636049-housfy-20230221-vEe55MbLFG-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/636049/636049-housfy-20230620-EGvmqNlBY7-420x280.jpg"
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/636049/636049-housfy-20230629-b4n6r2UAmQ-420x280.jpg"
     ],
     "numberOfBedrooms": 3,
     "numberOfBathrooms": 2,
@@ -659,7 +659,7 @@
     },
     "operationTypeCode": "sale",
     "isVisible": true,
-    "description": "Espléndido piso en l\u0027Eixample.\r\n\r\nCompra tu nuevo hogar SIN INTERMEDIARIOS, directamente con el PROPIETARIO sin tener que pagar más del precio de venta. \r\n\r\nHomy vende piso completamente a estrenar en l\u0027Eixample, Barcelona, una vivienda luminosa, con balcón y ubicada en un entorno idóneo para disfrutarlo.\r\nEste espléndido piso fue construido en el 1955, con ITE en 2015. \r\n\r\nCaracterísticas:\r\n\r\n- Sus 94 m2 ofrecen un espacio moderno y de concepto abierto. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Esta vivienda cuenta con 3 habitaciones, 1 baño y 1 aseo, perfecto para una familia.\r\n- Agradable comedor amplio y luminoso, creando un precioso y único espacio con salida a balcón.\r\n- Con una ventajosa cocina a estrenar que junto con el lavadero tienen salida a una TERRAZA de uso privativo de 18 m2.\r\n\r\nEl inmueble se entrega reformado. (Home Staging.)\r\nSobre la situación de el piso se sitúa en Barcelona (Barcelona).\r\nCon todos los servicios que puedas necesitar para facilitar tus días en todo momento.\r\n\r\nAbstenerse agencias.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. \r\nPara más información, visítenos en housfy.com. \r\nAICAT número: 7922",
+    "description": "Espléndido piso en l\u0027Eixample.\r\n\r\nCompra tu nuevo hogar SIN INTERMEDIARIOS, directamente con el PROPIETARIO sin tener que pagar más por tu nuevo hogar.\r\n\r\nHomy vende piso completamente a estrenar en l\u0027Eixample, Barcelona, una vivienda luminosa, con balcón y ubicada en un entorno idóneo para disfrutarlo.\r\nEste espléndido piso fue construido en el 1955, con ITE en 2015. \r\n\r\nCaracterísticas:\r\n\r\n- Sus 94 m2 ofrecen un espacio moderno y de concepto abierto. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Esta vivienda cuenta con 3 habitaciones, 1 baño y 1 aseo, perfecto para una familia.\r\n- Agradable comedor amplio y luminoso, creando un precioso y único espacio con salida a balcón.\r\n- Con una ventajosa cocina a estrenar que junto con el lavadero tienen salida a una TERRAZA de uso privativo de 18 m2.\r\n\r\nEl inmueble se entrega reformado. (Home Staging.)\r\nSobre la situación de el piso se sitúa en Barcelona (Barcelona).\r\nCon todos los servicios que puedas necesitar para facilitar tus días en todo momento.\r\n\r\nAbstenerse agencias.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda vender la propiedad por su cuenta. \r\nPara más información, visítenos en housfy.com. \r\nAICAT número: 7922",
     "tags": [
       23,
       25,
@@ -684,7 +684,7 @@
       "currency": "EUR"
     },
     "priceSize": {
-      "amount": 465333,
+      "amount": 371276,
       "currency": "EUR"
     },
     "priceChangePercentage": "-2.79",
