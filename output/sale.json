@@ -6,7 +6,7 @@
     "providerPropertyUrl": "https://housfy.com/comprar-bajo/barcelona/calle-joan-daustria-707425",
     "providerPropertyTitle": "Perfecto bajo en Sant Martí",
     "publishedDate": "2023-06-19T14:17:10Z",
-    "relevance": 300,
+    "relevance": 1693307530,
     "typeId": 5,
     "typeCode": "bajo",
     "locationId": 1793,
@@ -60,16 +60,16 @@
     "latitude": 41.39355087,
     "longitude": 2.19042897,
     "price": {
-      "amount": 25000000,
+      "amount": 24500000,
       "currency": "EUR"
     },
     "priceSize": {
-      "amount": 454545,
+      "amount": 445454,
       "currency": "EUR"
     },
-    "priceChangePercentage": "-5.66",
+    "priceChangePercentage": "-2",
     "isNew": false,
-    "isPriceUpdated": false,
+    "isPriceUpdated": true,
     "isReserved": false,
     "isSold": false
   },
