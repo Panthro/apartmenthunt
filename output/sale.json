@@ -18,6 +18,7 @@
     },
     "size": 90,
     "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/720394/720394-housfy-20230827-Jr5znVA56X-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/720394/720394-housfy-20230827-uzFtTns5Vo-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/720394/720394-housfy-20230827-ADBohLRME9-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/720394/720394-housfy-20230827-mE9IqPLdLp-420x280.jpg",
@@ -44,9 +45,8 @@
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/720394/720394-housfy-20230827-qPcLi9fPeD-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/720394/720394-housfy-20230827-oCYCiT11lu-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/720394/720394-housfy-20230827-TDwJDVLmhS-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/720394/720394-housfy-20230827-Jr5znVA56X-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/720394/720394-housfy-20230827-vYfrEoYLKv-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/720394/720394-housfy-20230905-KCgirhIK5S-420x280.jpg"
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/720394/720394-housfy-20230905-8jpKzxjOoS-420x280.jpg"
     ],
     "numberOfBedrooms": 4,
     "numberOfBathrooms": 2,
