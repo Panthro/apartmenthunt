@@ -6,7 +6,7 @@
     "providerPropertyUrl": "https://housfy.com/alquilar-piso/barcelona/carrer-de-josep-pla-643600",
     "providerPropertyTitle": "Maravilloso piso piscina en Sant Martí",
     "publishedDate": "2023-09-08T10:45:52Z",
-    "relevance": 1694169952,
+    "relevance": 1694596804,
     "typeId": 2,
     "typeCode": "piso",
     "locationId": 1789,
@@ -93,15 +93,16 @@
     "latitude": 41.40887833,
     "longitude": 2.2154901,
     "price": {
-      "amount": 390000,
+      "amount": 420000,
       "currency": "EUR"
     },
     "priceSize": {
-      "amount": 2074,
+      "amount": 2234,
       "currency": "EUR"
     },
+    "priceChangePercentage": "7.69",
     "isNew": true,
-    "isPriceUpdated": false,
+    "isPriceUpdated": true,
     "isReserved": false,
     "isSold": false
   },
@@ -189,7 +190,7 @@
     },
     "priceChangePercentage": "20",
     "isNew": false,
-    "isPriceUpdated": true,
+    "isPriceUpdated": false,
     "isReserved": false,
     "isSold": false
   },
