@@ -6,7 +6,7 @@
     "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/cl-coll-i-vehi-724625",
     "providerPropertyTitle": "Estupendo piso en Sant Martí",
     "publishedDate": "2023-09-01T08:04:24Z",
-    "relevance": 1695293557,
+    "relevance": 1695314868,
     "typeId": 2,
     "typeCode": "piso",
     "locationId": 1791,
@@ -43,7 +43,7 @@
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/724625/724625-housfy-20230831-zNniscdKlJ-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/724625/724625-housfy-20230831-wEOtOaGHTC-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/724625/724625-housfy-20230831-L6LTKJAaZl-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/724625/724625-housfy-20230901-7OOa8v4q2S-420x280.jpg"
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/724625/724625-housfy-20230921-HesZLj99EW-420x280.jpg"
     ],
     "numberOfBedrooms": 3,
     "numberOfBathrooms": 1,
@@ -55,7 +55,7 @@
     },
     "operationTypeCode": "sale",
     "isVisible": true,
-    "description": "Homy Capital tiene en su cartera activa este inmueble en Sant Martí, Barcelona. \r\n\r\nEl inmueble de 80m², se encuentra en una primera planta real. Está distribuido en salón comedor, 3 habitaciones dos de ellas con salida a balcón; 1 habitación doble, 1 habitación individual y 1 despacho, cocina americana con galería y un baño completo con plato de ducha. Está equipado con suelo de gres en el baño y parquet en el resto de las estancias.\r\n\r\nLa finca de 1900, está ubicada a escasos metros del Parque Campo del Arpa y próxima a zonas verdes, escuelas, comercios y cuenta con muy buena comunicación tanto en transporte público como en transporte propio.\r\n\r\nAbstenerse agencias\r\n\r\nPosibilidad de asesoramiento con bróker financiero gratuito. Pregúntanos sin compromiso.",
+    "description": "**** OFERTA FLASH DISPONIBLE HASTA 30/09/2023 ****                                                                                                            \r\n\r\nHomy Capital tiene en su cartera activa este inmueble en Sant Martí, Barcelona. \r\n\r\nEl inmueble de 80m², se encuentra en una primera planta real. Está distribuido en salón comedor, 3 habitaciones dos de ellas con salida a balcón; 1 habitación doble, 1 habitación individual y 1 despacho, cocina americana con galería y un baño completo con plato de ducha. Está equipado con suelo de gres en el baño y parquet en el resto de las estancias.\r\n\r\nLa finca de 1900, está ubicada a escasos metros del Parque Campo del Arpa y próxima a zonas verdes, escuelas, comercios y cuenta con muy buena comunicación tanto en transporte público como en transporte propio.\r\n\r\nAbstenerse agencias\r\n\r\nPosibilidad de asesoramiento con bróker financiero gratuito. Pregúntanos sin compromiso.",
     "tags": [
       23,
       25
@@ -73,14 +73,14 @@
     "latitude": 41.41455841,
     "longitude": 2.18349147,
     "price": {
-      "amount": 30500000,
+      "amount": 29900000,
       "currency": "EUR"
     },
     "priceSize": {
-      "amount": 381250,
+      "amount": 373750,
       "currency": "EUR"
     },
-    "priceChangePercentage": "-2.87",
+    "priceChangePercentage": "-1.97",
     "isNew": false,
     "isPriceUpdated": true,
     "isReserved": false,
