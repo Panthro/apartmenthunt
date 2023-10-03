@@ -6,7 +6,7 @@
     "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/cl-coll-i-vehi-724625",
     "providerPropertyTitle": "Estupendo piso en Sant Martí",
     "publishedDate": "2023-09-01T08:04:24Z",
-    "relevance": 1695314868,
+    "relevance": 1696351590,
     "typeId": 2,
     "typeCode": "piso",
     "locationId": 1791,
@@ -83,14 +83,14 @@
     "latitude": 41.41455841,
     "longitude": 2.18349147,
     "price": {
-      "amount": 29900000,
+      "amount": 32000000,
       "currency": "EUR"
     },
     "priceSize": {
-      "amount": 373750,
+      "amount": 400000,
       "currency": "EUR"
     },
-    "priceChangePercentage": "-1.97",
+    "priceChangePercentage": "7.02",
     "isNew": false,
     "isPriceUpdated": true,
     "isReserved": false,
