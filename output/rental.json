@@ -11,12 +11,12 @@
     "typeCode": "piso",
     "locationId": 1792,
     "sizes": {
-      "size": 121,
-      "sizeBuiltWithoutCommonElements": 121,
-      "sizeBuilt": 121,
-      "sizeUseful": 121
+      "size": 131,
+      "sizeBuiltWithoutCommonElements": 131,
+      "sizeBuilt": 131,
+      "sizeUseful": 131
     },
-    "size": 121,
+    "size": 131,
     "photos": [
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/736567/736567-housfy-20231011-DB0vtuactZ-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/736567/736567-housfy-20231011-xjK522SmGP-420x280.jpg",
@@ -65,7 +65,7 @@
     },
     "operationTypeCode": "rental",
     "isVisible": true,
-    "description": "Housfy alquila piso en Sant Martí, Barcelona, una vivienda luminosa y ubicada en un entorno idóneo para disfrutarlo.\r\nSus 121 m2 ofrecen un espacio moderno y de concepto abierto.\r\n\r\nDetalles del inmueble:\r\n- Maravilloso piso de 121 m2 en El Clot. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- La vivienda dispone de 4 habitaciones, 1 baño y 1 aseo, perfecto para una familia.\r\n- Fabuloso salón con amplio espacio de luz natural, un lugar perfecto para descansar en los ratos libres.\r\n- Cocina totalmente equipada con todo lo necesario.\r\n- Calefacción y Aire acondicionado.\r\n- Exterior.\r\n- Posibilidad de plaza de garaje por 120€\r\n- Un mes de fianza más dos meses de garantía adicional.\r\n\r\n\r\nSobre la ubicación, si escoges este barrio para vivir tendrás todos los servicios esenciales que necesitarás para tu nueva vida. A escasos metros encontramos: centros educativos, centros de salud, parques, equipamientos deportivos y supermercados, farmacias, entre otros.\r\n\r\nNo lo dudes más y contacta con nosotros para agendar una visita, conseguiremos la vivienda de tus sueños.\r\n\r\nSobre nosotros:Housfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda alquilar la propiedad por su cuenta. Para más información, visítenos en housfy. com. AICAT número: 7922.",
+    "description": "Housfy alquila piso en Sant Martí, Barcelona, una vivienda luminosa y ubicada en un entorno idóneo para disfrutarlo.\r\nSus 121 m2 ofrecen un espacio moderno y de concepto abierto.\r\n\r\nDetalles del inmueble:\r\n- Maravilloso piso de 131 m2 en El Clot. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- La vivienda dispone de 4 habitaciones, 1 baño y 1 aseo, perfecto para una familia.\r\n- Fabuloso salón con amplio espacio de luz natural, un lugar perfecto para descansar en los ratos libres.\r\n- Cocina totalmente equipada con todo lo necesario.\r\n- Calefacción y Aire acondicionado.\r\n- Exterior.\r\n- Posibilidad de plaza de garaje por 120€\r\n- Un mes de fianza más dos meses de garantía adicional.\r\n\r\n- Club Social ubicado en la misma finca con cafeteria, pistas de paddel, fronton, jardin para los mas pequeños, etc..\r\nSobre la ubicación, si escoges este barrio para vivir tendrás todos los servicios esenciales que necesitarás para tu nueva vida. A escasos metros encontramos: centros educativos, centros de salud, parques, equipamientos deportivos y supermercados, farmacias, entre otros.\r\n\r\nNo lo dudes más y contacta con nosotros para agendar una visita, conseguiremos la vivienda de tus sueños.\r\n\r\nSobre nosotros:Housfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda alquilar la propiedad por su cuenta. Para más información, visítenos en housfy. com. AICAT número: 7922.",
     "tags": [
       23,
       26,
@@ -90,7 +90,7 @@
       "currency": "EUR"
     },
     "priceSize": {
-      "amount": 1570,
+      "amount": 1450,
       "currency": "EUR"
     },
     "priceChangePercentage": "-13.64",
