@@ -13,8 +13,8 @@
     "sizes": {
       "size": 51,
       "sizeBuiltWithoutCommonElements": 51,
-      "sizeBuilt": 56,
-      "sizeUseful": 56
+      "sizeBuilt": 53,
+      "sizeUseful": 51
     },
     "size": 51,
     "photos": [
@@ -35,10 +35,9 @@
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/736561/736561-housfy-20231019-1nx37GCvVH-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/736561/736561-housfy-20231019-nNQgSDmtn8-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/736561/736561-housfy-20231019-EVTwJhCrjW-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/736561/736561-housfy-20231019-edNJYWb7Wd-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/736561/736561-housfy-20231026-cTEolsGwWt-420x280.jpg"
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/736561/736561-housfy-20231027-j08Uqcl4ZR-420x280.jpg"
     ],
-    "numberOfBedrooms": 2,
+    "numberOfBedrooms": 3,
     "numberOfBathrooms": 1,
     "userName": "Housfy Real Estate",
     "userPhone": {
@@ -48,11 +47,10 @@
     },
     "operationTypeCode": "sale",
     "isVisible": true,
-    "description": "Housfy vende fantástico piso en Eixample.\r\nEste piso fue construido en 1930. \r\n\r\nCaracterísticas:\r\n- Fenomenal piso de 56 m2 en La Sagrada Família. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Esta vivienda cuenta con 2 habitaciones y 1 baño, muy bien acomodadas.\r\n- Confortable salón-comedor. \r\n- Exterior.\r\n- Ascensor.\r\n- Terraza.\r\n- Mobiliario a negociar con el propietario.\r\n- Cocina equipada con lo necesario para el día a día.\r\n\r\nSobre la ubicación, si escoges este barrio para vivir tendrás todos los servicios esenciales que necesitarás para tu nueva vida. A escasos metros encontramos: centros educativos, centros de salud, parques, equipamientos deportivos y supermercados, farmacias, entre otros.\r\n\r\nNo lo dudes más y contacta con nosotros para agendar una visita, conseguiremos la vivienda de tus sueños.\r\n\r\nEl precio de venta no incluye gastos de la compraventa como notaría, registro, impuestos, ni tampoco honorarios agencia. Esta publicación no es vinculante. Consulta siempre la nota simple con Housfy antes de formalizar la compraventa.\r\n\r\nSobre nosotros\r\n\r\nHousfy es la plataforma integral de servicios inmobiliarios. Nuestra combinación de expertos y tecnología pone al alcance de todo el mundo servicios cómodos, claros y seguros. AICAT número: 7922\r\n\r\nNos encargamos de la gestión y asesoramiento de la compra. ¡Olvídate de todo! Hacemos los trámites por ti. Y, si además necesitas financiación, ponemos a tu disposición un bróker hipotecario para ayudarte a conseguir las mejores condiciones para tu perfil económico.\r\n\r\n¿Tienes alguna duda? Pregúntanos sin compromiso o visítanos en housfy.com.",
+    "description": "Fantástico piso en Eixample                                              \r\n\r\nHousfy vende fantástico piso en Eixample. Este piso fue construido en 1930. \r\n\r\nCaracterísticas:\r\n- Fenomenal piso de 53 m2 en La Sagrada Família. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- Esta vivienda cuenta con un comedor con cocina office, 3 habitaciones y 1 baño\r\n- Exterior a \" pati d´illa\"\r\n- Ascensor.\r\n- Mobiliario a negociar con el propietario.\r\n- Cocina muy luminosa y  equipada con lo necesario para el día a día.\r\n\r\nSobre la ubicación, si escoges este barrio para vivir tendrás todos los servicios esenciales que necesitarás para tu nueva vida. A escasos metros encontramos: centros educativos, centros de salud, parques, equipamientos deportivos y supermercados, farmacias, entre otros.\r\n\r\nNo lo dudes más y contacta con nosotros para agendar una visita, conseguiremos la vivienda de tus sueños.\r\n\r\nEl precio de venta no incluye gastos de la compraventa como notaría, registro, impuestos, ni tampoco honorarios agencia. Esta publicación no es vinculante. Consulta siempre la nota simple con Housfy antes de formalizar la compraventa.\r\n\r\nSobre nosotros\r\n\r\nHousfy es la plataforma integral de servicios inmobiliarios. Nuestra combinación de expertos y tecnología pone al alcance de todo el mundo servicios cómodos, claros y seguros. AICAT número: 7922\r\n\r\nNos encargamos de la gestión y asesoramiento de la compra. ¡Olvídate de todo! Hacemos los trámites por ti. Y, si además necesitas financiación, ponemos a tu disposición un bróker hipotecario para ayudarte a conseguir las mejores condiciones para tu perfil económico.\r\n\r\n¿Tienes alguna duda? Pregúntanos sin compromiso o visítanos en housfy.com.",
     "tags": [
       23,
       26,
-      32,
       33
     ],
     "canScheduleVisits": false,
