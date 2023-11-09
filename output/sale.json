@@ -99,12 +99,12 @@
     "typeCode": "piso",
     "locationId": 1792,
     "sizes": {
-      "size": 58,
-      "sizeBuiltWithoutCommonElements": 58,
+      "size": 64,
+      "sizeBuiltWithoutCommonElements": 64,
       "sizeBuilt": 64,
-      "sizeUseful": 64
+      "sizeUseful": 58
     },
-    "size": 58,
+    "size": 64,
     "photos": [
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/740713/740713-housfy-20231106-sV5no2JLEa-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/740713/740713-housfy-20231106-Ga8kfL2pk0-420x280.jpg",
@@ -126,7 +126,7 @@
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/740713/740713-housfy-20231107-gbjEo4s612-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/740713/740713-housfy-20231107-I8wIZzohLh-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/740713/740713-housfy-20231106-yXxpbBI7uP-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/740713/740713-housfy-20231108-FWr6qDPhdt-420x280.jpg"
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/740713/740713-housfy-20231109-ZZcixTG1We-420x280.jpg"
     ],
     "numberOfBedrooms": 2,
     "numberOfBathrooms": 1,
@@ -162,7 +162,7 @@
       "currency": "EUR"
     },
     "priceSize": {
-      "amount": 405172,
+      "amount": 367187,
       "currency": "EUR"
     },
     "isNew": true,
