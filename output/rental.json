@@ -6,7 +6,7 @@
     "providerPropertyUrl": "https://housfy.com/alquilar-piso/barcelona/calle-de-espronceda-736567",
     "providerPropertyTitle": "Perfecto piso en Sant Martí",
     "publishedDate": "2023-10-16T11:10:03Z",
-    "relevance": 200,
+    "relevance": 1700050457,
     "typeId": 2,
     "typeCode": "piso",
     "locationId": 1792,
@@ -87,16 +87,16 @@
     "latitude": 41.41324234,
     "longitude": 2.19392991,
     "price": {
-      "amount": 190000,
+      "amount": 180000,
       "currency": "EUR"
     },
     "priceSize": {
-      "amount": 1450,
+      "amount": 1374,
       "currency": "EUR"
     },
-    "priceChangePercentage": "-13.64",
+    "priceChangePercentage": "-5.26",
     "isNew": false,
-    "isPriceUpdated": false,
+    "isPriceUpdated": true,
     "isReserved": false,
     "isSold": false
   }
