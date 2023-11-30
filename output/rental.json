@@ -69,7 +69,7 @@
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/745362/745362-housfy-20231125-9zTbatH1wY-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/745362/745362-housfy-20231125-7VbM2WBrYP-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/745362/745362-housfy-20231125-dX1qvlXn8o-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/745362/745362-housfy-20231126-Woyn3xNsyV-420x280.jpg"
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/745362/745362-housfy-20231128-LWAOFhLtxl-420x280.jpg"
     ],
     "numberOfBedrooms": 3,
     "numberOfBathrooms": 1,
@@ -210,7 +210,7 @@
     },
     "priceChangePercentage": "-5.26",
     "isNew": false,
-    "isPriceUpdated": true,
+    "isPriceUpdated": false,
     "isReserved": false,
     "isSold": false
   }
