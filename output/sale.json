@@ -137,7 +137,7 @@
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/744231/744231-housfy-20231129-5AL3Gp6VqJ-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/744231/744231-housfy-20231129-VVLcKDN66H-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/744231/744231-housfy-20231129-TMll3VJryO-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/744231/744231-housfy-20231207-PIdX00Ydon-420x280.jpg"
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/744231/744231-housfy-20231213-FGsNy9EtCd-420x280.jpg"
     ],
     "numberOfBedrooms": 3,
     "numberOfBathrooms": 1,
@@ -161,8 +161,8 @@
     "neighborhoodLocationName": "El Clot",
     "streetName": "Carrer del dos de Maig",
     "streetNumber": "202",
-    "floor": "01",
-    "door": "04",
+    "floor": ".",
+    "door": ".",
     "floorDoorLabel": "",
     "latitude": 41.40585327,
     "longitude": 2.18405962,
