@@ -710,6 +710,82 @@
     "isReserved": false,
     "isSold": false
   },
+  "4cdbd625-d9c8-4327-8b8f-410fa46707d2": {
+    "uuid": "4cdbd625-d9c8-4327-8b8f-410fa46707d2",
+    "providerCode": "housfy",
+    "providerPropertyId": 753892,
+    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-del-rossello-753892",
+    "providerPropertyTitle": "Acogedor piso en Eixample",
+    "publishedDate": "2023-12-15T09:16:26Z",
+    "relevance": 200,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1748,
+    "sizes": {
+      "size": 37,
+      "sizeBuiltWithoutCommonElements": 37,
+      "sizeBuilt": 41,
+      "sizeUseful": 37
+    },
+    "size": 37,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/753892/753892-housfy-20231214-iDXZtceTY5-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/753892/753892-housfy-20231214-x8gD23oAya-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/753892/753892-housfy-20231214-49TeGADuUi-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/753892/753892-housfy-20231214-BswF7Zpw8E-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/753892/753892-housfy-20231214-j0WM3YxUG3-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/753892/753892-housfy-20231214-lD8MNAVlsh-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/753892/753892-housfy-20231214-Yzu2DGF4dD-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/753892/753892-housfy-20231214-Gh1KDcTuew-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/753892/753892-housfy-20231214-NMwxb9b33a-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/753892/753892-housfy-20231214-VFSQITTeL2-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/753892/753892-housfy-20231214-Kh4TUIKD7W-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/753892/753892-housfy-20231214-Q2DnECDQKB-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/753892/753892-housfy-20231214-KhjXuJYFlw-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/753892/753892-housfy-20231214-eYbkO82obT-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/753892/753892-housfy-20231215-UZVGSWsfUl-420x280.jpg"
+    ],
+    "numberOfBedrooms": 1,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "Housfy vende encantador piso en Eixample, Barcelona. Una vivienda luminosa y ubicada en un entorno idóneo para disfrutarlo.\r\nEste piso fue construido en el año 1940 .\r\n\r\nCaracterísticas:\r\n- Fabuloso piso de 37 m2 en La Sagrada Família. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- La vivienda dispone de 1 habitación y 1 baño, .\r\n- Acogedor y luminoso salón creando un espacio único.\r\n- Con una cocina en buen estado equipada con todo lo necesario. \r\n- Exterior.\r\n\r\nSobre la ubicación, si escoges este barrio para vivir tendrás todos los servicios esenciales que necesitarás para tu nueva vida. A escasos metros encontramos: centros educativos, centros de salud, parques, equipamientos deportivos y supermercados, farmacias, entre otros.\r\n\r\nNo lo dudes más y contacta con nosotros para agendar una visita, conseguiremos la vivienda de tus sueños.\r\n\r\nEl precio de venta no incluye gastos de la compraventa como notaría, registro, impuestos, ni tampoco honorarios agencia. Esta publicación no es vinculante. Consulta siempre la nota simple con Housfy antes de formalizar la compraventa.\r\n\r\nSobre nosotros\r\n\r\nHousfy es la plataforma integral de servicios inmobiliarios. Nuestra combinación de expertos y tecnología pone al alcance de todo el mundo servicios cómodos, claros y seguros. AICAT número: 7922\r\n\r\nNos encargamos de la gestión y asesoramiento de la compra. ¡Olvídate de todo! Hacemos los trámites por ti. Y, si además necesitas financiación, ponemos a tu disposición un bróker hipotecario para ayudarte a conseguir las mejores condiciones para tu perfil económico.\r\n\r\n¿Tienes alguna duda? Pregúntanos sin compromiso o visítanos en housfy.com.",
+    "tags": [
+      23,
+      26
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Eixample",
+    "neighborhoodLocationName": "La Sagrada Família",
+    "streetName": "Carrer del Rosselló",
+    "streetNumber": "442",
+    "floor": "03",
+    "door": "01",
+    "floorDoorLabel": "",
+    "latitude": 41.40709686,
+    "longitude": 2.17598295,
+    "price": {
+      "amount": 21900000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 591891,
+      "currency": "EUR"
+    },
+    "priceChangePercentage": "-4.37",
+    "isNew": false,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
+  },
   "4b5c6850-de90-4ce4-9279-feff721766d2": {
     "uuid": "4b5c6850-de90-4ce4-9279-feff721766d2",
     "providerCode": "housfy",
@@ -796,82 +872,6 @@
       "amount": 453333,
       "currency": "EUR"
     },
-    "isNew": false,
-    "isPriceUpdated": false,
-    "isReserved": false,
-    "isSold": false
-  },
-  "4cdbd625-d9c8-4327-8b8f-410fa46707d2": {
-    "uuid": "4cdbd625-d9c8-4327-8b8f-410fa46707d2",
-    "providerCode": "housfy",
-    "providerPropertyId": 753892,
-    "providerPropertyUrl": "https://housfy.com/comprar-piso/barcelona/carrer-del-rossello-753892",
-    "providerPropertyTitle": "Acogedor piso en Eixample",
-    "publishedDate": "2023-12-15T09:16:26Z",
-    "relevance": 200,
-    "typeId": 2,
-    "typeCode": "piso",
-    "locationId": 1748,
-    "sizes": {
-      "size": 37,
-      "sizeBuiltWithoutCommonElements": 37,
-      "sizeBuilt": 41,
-      "sizeUseful": 37
-    },
-    "size": 37,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/753892/753892-housfy-20231214-iDXZtceTY5-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/753892/753892-housfy-20231214-x8gD23oAya-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/753892/753892-housfy-20231214-49TeGADuUi-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/753892/753892-housfy-20231214-BswF7Zpw8E-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/753892/753892-housfy-20231214-j0WM3YxUG3-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/753892/753892-housfy-20231214-lD8MNAVlsh-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/753892/753892-housfy-20231214-Yzu2DGF4dD-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/753892/753892-housfy-20231214-Gh1KDcTuew-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/753892/753892-housfy-20231214-NMwxb9b33a-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/753892/753892-housfy-20231214-VFSQITTeL2-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/753892/753892-housfy-20231214-Kh4TUIKD7W-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/753892/753892-housfy-20231214-Q2DnECDQKB-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/753892/753892-housfy-20231214-KhjXuJYFlw-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/753892/753892-housfy-20231214-eYbkO82obT-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/753892/753892-housfy-20231215-UZVGSWsfUl-420x280.jpg"
-    ],
-    "numberOfBedrooms": 1,
-    "numberOfBathrooms": 1,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "sale",
-    "isVisible": true,
-    "description": "Housfy vende encantador piso en Eixample, Barcelona. Una vivienda luminosa y ubicada en un entorno idóneo para disfrutarlo.\r\nEste piso fue construido en el año 1940 .\r\n\r\nCaracterísticas:\r\n- Fabuloso piso de 37 m2 en La Sagrada Família. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- La vivienda dispone de 1 habitación y 1 baño, .\r\n- Acogedor y luminoso salón creando un espacio único.\r\n- Con una cocina en buen estado equipada con todo lo necesario. \r\n- Exterior.\r\n\r\nSobre la ubicación, si escoges este barrio para vivir tendrás todos los servicios esenciales que necesitarás para tu nueva vida. A escasos metros encontramos: centros educativos, centros de salud, parques, equipamientos deportivos y supermercados, farmacias, entre otros.\r\n\r\nNo lo dudes más y contacta con nosotros para agendar una visita, conseguiremos la vivienda de tus sueños.\r\n\r\nEl precio de venta no incluye gastos de la compraventa como notaría, registro, impuestos, ni tampoco honorarios agencia. Esta publicación no es vinculante. Consulta siempre la nota simple con Housfy antes de formalizar la compraventa.\r\n\r\nSobre nosotros\r\n\r\nHousfy es la plataforma integral de servicios inmobiliarios. Nuestra combinación de expertos y tecnología pone al alcance de todo el mundo servicios cómodos, claros y seguros. AICAT número: 7922\r\n\r\nNos encargamos de la gestión y asesoramiento de la compra. ¡Olvídate de todo! Hacemos los trámites por ti. Y, si además necesitas financiación, ponemos a tu disposición un bróker hipotecario para ayudarte a conseguir las mejores condiciones para tu perfil económico.\r\n\r\n¿Tienes alguna duda? Pregúntanos sin compromiso o visítanos en housfy.com.",
-    "tags": [
-      23,
-      26
-    ],
-    "canScheduleVisits": false,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Eixample",
-    "neighborhoodLocationName": "La Sagrada Família",
-    "streetName": "Carrer del Rosselló",
-    "streetNumber": "442",
-    "floor": "03",
-    "door": "01",
-    "floorDoorLabel": "",
-    "latitude": 41.40709686,
-    "longitude": 2.17598295,
-    "price": {
-      "amount": 21900000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 591891,
-      "currency": "EUR"
-    },
-    "priceChangePercentage": "-4.37",
     "isNew": false,
     "isPriceUpdated": false,
     "isReserved": false,
