@@ -453,7 +453,7 @@
     "uuid": "9cc217dc-7a49-40bc-bc9a-3cb9ac730621",
     "providerCode": "housfy",
     "providerPropertyId": 720394,
-    "providerPropertyUrl": "https://housfy.com/venta-duplex/p/barcelona/cl-edison-720394",
+    "providerPropertyUrl": "https://housfy.com/venta-duplex/p/barcelona/carrer-dedison-720394",
     "providerPropertyTitle": "Maravilloso duplex en Sant Martí",
     "publishedDate": "2023-08-31T09:13:41Z",
     "relevance": 300,
@@ -496,7 +496,7 @@
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/720394/720394-housfy-20230827-oCYCiT11lu-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/720394/720394-housfy-20230827-TDwJDVLmhS-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/720394/720394-housfy-20230827-vYfrEoYLKv-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/720394/720394-housfy-20230905-8jpKzxjOoS-420x280.jpg"
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/720394/720394-housfy-20240125-Trk9XTK0fd-420x280.jpg"
     ],
     "numberOfBedrooms": 4,
     "numberOfBathrooms": 2,
@@ -515,7 +515,7 @@
     "cityLocationName": "Barcelona",
     "districtLocationName": "Sant Martí",
     "neighborhoodLocationName": "El Clot",
-    "streetName": "CL EDISON,",
+    "streetName": "Carrer d\u0027Edison",
     "streetNumber": "4-6",
     "floor": "00",
     "door": "01",
