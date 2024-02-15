@@ -348,7 +348,7 @@
       "amount": 446153,
       "currency": "EUR"
     },
-    "isNew": true,
+    "isNew": false,
     "isPriceUpdated": false,
     "isReserved": false,
     "isSold": false
