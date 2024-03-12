@@ -1,93 +1,4 @@
 {
-  "7f88deef-c313-479c-b5f2-aad7f1a1f361": {
-    "uuid": "7f88deef-c313-479c-b5f2-aad7f1a1f361",
-    "providerCode": "housfy",
-    "providerPropertyId": 764902,
-    "providerPropertyUrl": "https://housfy.com/venta-pisos/p/barcelona/carrer-del-ferrocarril-764902",
-    "providerPropertyTitle": "Genial piso en Poble Nou",
-    "publishedDate": "2024-03-11T09:37:12Z",
-    "relevance": 1710159809,
-    "typeId": 2,
-    "typeCode": "piso",
-    "locationId": 1794,
-    "sizes": {
-      "size": 44,
-      "sizeBuiltWithoutCommonElements": 44,
-      "sizeBuilt": 46,
-      "sizeUseful": 44
-    },
-    "size": 44,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/764902/764902-housfy-20240309-DaWAbryXxS-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/764902/764902-housfy-20240309-hLHZwuo7zO-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/764902/764902-housfy-20240309-N4v9nIEZQ2-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/764902/764902-housfy-20240309-hhpbs57OqT-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/764902/764902-housfy-20240309-C1KhKQQeMd-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/764902/764902-housfy-20240309-uydSPZxFeI-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/764902/764902-housfy-20240309-MI0jkrhfLz-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/764902/764902-housfy-20240309-GtWDkKHVB5-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/764902/764902-housfy-20240309-MFooNOevVo-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/764902/764902-housfy-20240309-meILUmJVOW-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/764902/764902-housfy-20240309-6dIaCeQTwA-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/764902/764902-housfy-20240309-dCUK01hdB5-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/764902/764902-housfy-20240309-GaZKhZzvoz-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/764902/764902-housfy-20240309-isYoMq69zS-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/764902/764902-housfy-20240309-XEKAj1fuGB-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/764902/764902-housfy-20240309-QfSGMRgQtQ-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/764902/764902-housfy-20240309-1VxEk2HeAp-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/764902/764902-housfy-20240309-MA5KRYrTWZ-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/764902/764902-housfy-20240309-WfeXR5ctAR-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/764902/764902-housfy-20240309-36v3YHf6m3-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/764902/764902-housfy-20240309-9OSoOE3cYi-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/764902/764902-housfy-20240309-GprSrN7ssN-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/764902/764902-housfy-20240309-69vvFcUNGJ-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/764902/764902-housfy-20240309-VpkfgNcgz5-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/764902/764902-housfy-20240309-I1Tqkc819y-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/764902/764902-housfy-20240309-IZ3ZFw8FEJ-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/764902/764902-housfy-20240309-saxddJrHHG-420x280.jpg"
-    ],
-    "numberOfBedrooms": 2,
-    "numberOfBathrooms": 1,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "sale",
-    "isVisible": true,
-    "description": "Housfy vende encantador piso en Poble Nou, Barcelona. Una vivienda luminosa y ubicada en un entorno idóneo para disfrutarlo.\r\nEste piso fue construido en el año 1860.\r\n\r\nDetalles del inmueble:\r\n- Encantador piso de 46 m2 en El Poblenou. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- La vivienda dispone de 2 habitaciones y 1 baño.\r\n- Cómodo salón amplio y luminoso, un lugar perfecto para descansar en los ratos libres.\r\n- El piso cuenta también con trastero.\r\n- Con una útil cocina.\r\n- Exterior.\r\n\r\nSobre la ubicación, si escoges este barrio para vivir tendrás todos los servicios esenciales que necesitarás para tu nueva vida. A escasos metros encontramos: centros educativos, centros de salud, parques, equipamientos deportivos y supermercados, farmacias, entre otros.\r\n\r\nNo lo dudes más y contacta con nosotros para agendar una visita, conseguiremos la vivienda de tus sueños.\r\n\r\nEl precio de venta no incluye gastos de la compraventa como notaría, registro, impuestos, ni tampoco honorarios agencia. Esta publicación no es vinculante. Consulta siempre la nota simple con Housfy antes de formalizar la compraventa.\r\n\r\nSobre nosotros\r\n\r\nHousfy es la plataforma integral de servicios inmobiliarios. Nuestra combinación de expertos y tecnología pone al alcance de todo el mundo servicios cómodos, claros y seguros. AICAT número: 7922\r\n\r\nNos encargamos de la gestión y asesoramiento de la compra. ¡Olvídate de todo! Hacemos los trámites por ti. Y, si además necesitas financiación, ponemos a tu disposición un bróker hipotecario para ayudarte a conseguir las mejores condiciones para tu perfil económico.",
-    "tags": [
-      23,
-      26,
-      31
-    ],
-    "canScheduleVisits": false,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Sant Martí",
-    "neighborhoodLocationName": "El Poblenou",
-    "streetName": "Carrer del Ferrocarril",
-    "streetNumber": "12",
-    "floor": "3",
-    "door": "01",
-    "floorDoorLabel": "",
-    "latitude": 41.39905548,
-    "longitude": 2.20639396,
-    "price": {
-      "amount": 13550000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 307954,
-      "currency": "EUR"
-    },
-    "priceChangePercentage": "-9.06",
-    "isNew": true,
-    "isPriceUpdated": true,
-    "isReserved": false,
-    "isSold": false
-  },
   "3bafe49a-bd9e-448f-833a-d675504025c2": {
     "uuid": "3bafe49a-bd9e-448f-833a-d675504025c2",
     "providerCode": "housfy",
@@ -562,7 +473,7 @@
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/761574/761574-housfy-20240201-PzxVvPcsop-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/761574/761574-housfy-20240201-CwmU42OEvY-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/761574/761574-housfy-20240129-TznpfabM1H-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/761574/761574-housfy-20240308-aGt6NbR7QQ-420x280.jpg"
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/761574/761574-housfy-20240312-aOrfFY54og-420x280.jpg"
     ],
     "numberOfBedrooms": 2,
     "numberOfBathrooms": 1,
@@ -574,7 +485,7 @@
     },
     "operationTypeCode": "sale",
     "isVisible": true,
-    "description": "Housfy vende piso reformado con balcón.\r\n\r\nSe vende piso en Sant Martí, Barcelona. Una vivienda luminosa y ubicada en un entorno idóneo para disfrutarlo.\r\nEste piso fue construido en el año 1968.\r\n                                                                                                  \r\nCaracterísticas:\r\n\r\n- Fantástico piso de 65 m2 en El Clot. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- La vivienda dispone de 2 habitaciones y 1 baño.\r\n- Acogedor y luminoso salón con muchas posibilidades.\r\n- Con una cocina equipada y totalmente reformada. \r\n- Terraza.\r\n- Armarios empotrados.\r\n- Exterior.\r\n- Ascensor.\r\n\r\nPiso totalmente reformado a estrenar. Entrando a la vivienda nos encontramos con un amplio distribuidor, que a su vez da acceso a una primera habitación, el baño y la cocina. Siguiendo hacia el salón comedor, tenemos un espacio amplio y muy luminoso, con diferentes posibilidades de distribución y salida al balcón (orientación suroeste). Finalmente la habitación principal, también muy luminosa y con la misma orientación.\r\n\r\nSobre la ubicación, si escoges este barrio para vivir tendrás todos los servicios esenciales que necesitarás para tu nueva vida. A escasos metros encontramos: centros educativos, centros de salud, parques, equipamientos deportivos y supermercados, farmacias, entre otros.\r\n\r\nNo lo dudes más y contacta con nosotros para agendar una visita, conseguiremos la vivienda de tus sueños.\r\n\r\nEl precio de venta no incluye gastos de la compraventa como notaría, registro, impuestos, ni tampoco honorarios agencia. Esta publicación no es vinculante. Consulta siempre la nota simple con Housfy antes de formalizar la compraventa.\r\n\r\nSobre nosotros\r\n\r\nHousfy es la plataforma integral de servicios inmobiliarios. Nuestra combinación de expertos y tecnología pone al alcance de todo el mundo servicios cómodos, claros y seguros. AICAT número: 7922\r\n\r\nNos encargamos de la gestión y asesoramiento de la compra. ¡Olvídate de todo! Hacemos los trámites por ti. Y, si además necesitas financiación, ponemos a tu disposición un bróker hipotecario para ayudarte a conseguir las mejores condiciones para tu perfil económico.\r\n\r\n¿Tienes alguna duda? Pregúntanos sin compromiso o visítanos en housfy.com.",
+    "description": "Housfy vende piso reformado con balcón\r\n\r\nSe vende piso en Sant Martí, Barcelona. Una vivienda luminosa y ubicada en un entorno idóneo para disfrutarlo.\r\nEste piso fue construido en el año 1968.\r\n                                                                                                  \r\nCaracterísticas:\r\n\r\n- Fantástico piso de 65 m2 en El Clot. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- La vivienda dispone de 2 habitaciones y 1 baño.\r\n- Acogedor y luminoso salón con muchas posibilidades.\r\n- Con una cocina equipada y totalmente reformada. \r\n- Terraza.\r\n- Armarios empotrados.\r\n- Exterior.\r\n- Ascensor.\r\n\r\nPiso totalmente reformado a estrenar. Entrando a la vivienda nos encontramos con un amplio distribuidor, que a su vez da acceso a una primera habitación, el baño y la cocina. Siguiendo hacia el salón comedor, tenemos un espacio amplio y muy luminoso, con diferentes posibilidades de distribución y salida al balcón (orientación suroeste). Finalmente la habitación principal, también muy luminosa y con la misma orientación.\r\n\r\nSobre la ubicación, si escoges este barrio para vivir tendrás todos los servicios esenciales que necesitarás para tu nueva vida. A escasos metros encontramos: centros educativos, centros de salud, parques, equipamientos deportivos y supermercados, farmacias, entre otros.\r\n\r\nNo lo dudes más y contacta con nosotros para agendar una visita, conseguiremos la vivienda de tus sueños.\r\n\r\nEl precio de venta no incluye gastos de la compraventa como notaría, registro, impuestos, ni tampoco honorarios agencia. Esta publicación no es vinculante. Consulta siempre la nota simple con Housfy antes de formalizar la compraventa.\r\n\r\nSobre nosotros\r\n\r\nHousfy es la plataforma integral de servicios inmobiliarios. Nuestra combinación de expertos y tecnología pone al alcance de todo el mundo servicios cómodos, claros y seguros. AICAT número: 7922\r\n\r\nNos encargamos de la gestión y asesoramiento de la compra. ¡Olvídate de todo! Hacemos los trámites por ti. Y, si además necesitas financiación, ponemos a tu disposición un bróker hipotecario para ayudarte a conseguir las mejores condiciones para tu perfil económico.\r\n\r\n¿Tienes alguna duda? Pregúntanos sin compromiso o visítanos en housfy.com.",
     "tags": [
       23,
       25,
