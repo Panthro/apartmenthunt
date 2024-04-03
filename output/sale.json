@@ -1,4 +1,85 @@
 {
+  "f8f4fe79-677f-4da3-bba1-48c9a8a41bec": {
+    "uuid": "f8f4fe79-677f-4da3-bba1-48c9a8a41bec",
+    "providerCode": "housfy",
+    "providerPropertyId": 780402,
+    "providerPropertyUrl": "https://housfy.com/venta-pisos/p/barcelona/carrer-de-valencia-780402",
+    "providerPropertyTitle": "Oportunidad Valencia / Castillejos",
+    "publishedDate": "2024-04-02T12:00:20Z",
+    "relevance": 1712059220,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1748,
+    "sizes": {
+      "size": 60,
+      "sizeBuiltWithoutCommonElements": 60,
+      "sizeBuilt": 75,
+      "sizeUseful": 55
+    },
+    "size": 60,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/780402/780402-housfy-20240326-zPuVT2Xd8J-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/780402/780402-housfy-20240326-IkxNK04K5d-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/780402/780402-housfy-20240326-gTYVXVbcMM-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/780402/780402-housfy-20240326-v1dvWnAnoV-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/780402/780402-housfy-20240326-8UNJThusxk-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/780402/780402-housfy-20240403-M2qFyjfree-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/780402/780402-housfy-20240326-Y3YLq3AkAN-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/780402/780402-housfy-20240403-zRpzw4r2ek-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/780402/780402-housfy-20240326-ZKC6Qh5CKv-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/780402/780402-housfy-20240326-k0kPZIlpAc-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/780402/780402-housfy-20240403-tKMx1Un7ii-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/780402/780402-housfy-20240326-wlP5Tuv28O-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/780402/780402-housfy-20240326-5riR85tSXt-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/780402/780402-housfy-20240326-HKuwaswwl2-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/780402/780402-housfy-20240403-Cu6ePE2yCx-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/780402/780402-housfy-20240326-Tk6bTP9Ms0-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/780402/780402-housfy-20240326-TufPjyJrK9-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/780402/780402-housfy-20240326-6PJgeJhbK3-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/780402/780402-housfy-20240326-VL9sgLUiqK-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/780402/780402-housfy-20240403-H1uxA4jNvN-420x280.jpg"
+    ],
+    "numberOfBedrooms": 3,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "Housfy vende piso para inversión en Barcelona. Una vivienda luminosa y ubicada en un entorno idóneo para disfrutarlo.\r\nEste piso fue construido en el año 1930.\r\n\r\nDispone de ascensor\r\nPlanta Baja (Vivienda con Cédula de Habitabilidad)\r\nEstado de origen, necesita una reforma integral.\r\n\r\nCaracterísticas:\r\n\r\n- Vivienda de 50 m² + 35 m² de patio exterior\r\n- Dispone de dos dormitorios (uno doble, uno individual) y un despacho.\r\n- Distribución muy flexible (tabiques).\r\n- Baño independiente\r\n- Cocina independiente con buena luminosidad\r\n- Patio exterior de 30 m²\r\n- Patio interior de 5 m²\r\n\r\nWe speak english, on parle français, parlem català.\r\n\r\n AICAT número: 7922",
+    "tags": [
+      23,
+      26,
+      32
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Eixample",
+    "neighborhoodLocationName": "La Sagrada Família",
+    "streetName": "Carrer de València",
+    "streetNumber": "507",
+    "floor": "Bxs",
+    "door": "01",
+    "floorDoorLabel": "",
+    "latitude": 41.40555954,
+    "longitude": 2.1801033,
+    "price": {
+      "amount": 19000000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 316666,
+      "currency": "EUR"
+    },
+    "isNew": true,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
+  },
   "c619b404-dbd3-4086-8a07-748962ba06d2": {
     "uuid": "c619b404-dbd3-4086-8a07-748962ba06d2",
     "providerCode": "housfy",
