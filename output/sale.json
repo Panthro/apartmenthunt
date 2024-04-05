@@ -1,85 +1,4 @@
 {
-  "f8f4fe79-677f-4da3-bba1-48c9a8a41bec": {
-    "uuid": "f8f4fe79-677f-4da3-bba1-48c9a8a41bec",
-    "providerCode": "housfy",
-    "providerPropertyId": 780402,
-    "providerPropertyUrl": "https://housfy.com/venta-pisos/p/barcelona/carrer-de-valencia-780402",
-    "providerPropertyTitle": "Oportunidad Valencia / Castillejos",
-    "publishedDate": "2024-04-02T12:00:20Z",
-    "relevance": 1712059220,
-    "typeId": 2,
-    "typeCode": "piso",
-    "locationId": 1748,
-    "sizes": {
-      "size": 60,
-      "sizeBuiltWithoutCommonElements": 60,
-      "sizeBuilt": 75,
-      "sizeUseful": 55
-    },
-    "size": 60,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/780402/780402-housfy-20240326-zPuVT2Xd8J-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/780402/780402-housfy-20240326-IkxNK04K5d-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/780402/780402-housfy-20240326-gTYVXVbcMM-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/780402/780402-housfy-20240326-v1dvWnAnoV-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/780402/780402-housfy-20240326-8UNJThusxk-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/780402/780402-housfy-20240403-M2qFyjfree-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/780402/780402-housfy-20240326-Y3YLq3AkAN-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/780402/780402-housfy-20240403-zRpzw4r2ek-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/780402/780402-housfy-20240326-ZKC6Qh5CKv-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/780402/780402-housfy-20240326-k0kPZIlpAc-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/780402/780402-housfy-20240403-tKMx1Un7ii-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/780402/780402-housfy-20240326-wlP5Tuv28O-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/780402/780402-housfy-20240326-5riR85tSXt-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/780402/780402-housfy-20240326-HKuwaswwl2-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/780402/780402-housfy-20240403-Cu6ePE2yCx-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/780402/780402-housfy-20240326-Tk6bTP9Ms0-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/780402/780402-housfy-20240403-cpYj236BaR-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/780402/780402-housfy-20240326-6PJgeJhbK3-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/780402/780402-housfy-20240326-VL9sgLUiqK-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/780402/780402-housfy-20240403-H1uxA4jNvN-420x280.jpg"
-    ],
-    "numberOfBedrooms": 3,
-    "numberOfBathrooms": 1,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "sale",
-    "isVisible": true,
-    "description": "Housfy vende piso para inversión en Barcelona. Una vivienda luminosa y ubicada en un entorno idóneo para disfrutarlo.\r\nEste piso fue construido en el año 1930.\r\n\r\nDispone de ascensor\r\nPlanta Baja (Vivienda con Cédula de Habitabilidad)\r\nEstado de origen, necesita una reforma integral.\r\n\r\nCaracterísticas:\r\n\r\n- Vivienda de 50 m² + 35 m² de patio exterior\r\n- Dispone de dos dormitorios (uno doble, uno individual) y un despacho.\r\n- Distribución muy flexible (tabiques).\r\n- Baño independiente\r\n- Cocina independiente con buena luminosidad\r\n- Patio exterior de 30 m²\r\n- Patio interior de 5 m²\r\n\r\nWe speak english, on parle français, parlem català.\r\n\r\n AICAT número: 7922",
-    "tags": [
-      23,
-      26,
-      32
-    ],
-    "canScheduleVisits": false,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Eixample",
-    "neighborhoodLocationName": "La Sagrada Família",
-    "streetName": "Carrer de València",
-    "streetNumber": "507",
-    "floor": "Bxs",
-    "door": "01",
-    "floorDoorLabel": "",
-    "latitude": 41.40555954,
-    "longitude": 2.1801033,
-    "price": {
-      "amount": 19000000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 316666,
-      "currency": "EUR"
-    },
-    "isNew": true,
-    "isPriceUpdated": false,
-    "isReserved": false,
-    "isSold": false
-  },
   "c619b404-dbd3-4086-8a07-748962ba06d2": {
     "uuid": "c619b404-dbd3-4086-8a07-748962ba06d2",
     "providerCode": "housfy",
@@ -345,85 +264,6 @@
     "isReserved": false,
     "isSold": false
   },
-  "0115aadd-bb3e-4c16-9842-2062c9dc1811": {
-    "uuid": "0115aadd-bb3e-4c16-9842-2062c9dc1811",
-    "providerCode": "housfy",
-    "providerPropertyId": 761574,
-    "providerPropertyUrl": "https://housfy.com/venta-pisos/p/barcelona/carrer-de-lope-de-vega-761574",
-    "providerPropertyTitle": "Piso a estrenar en Clot",
-    "publishedDate": "2024-01-31T10:03:02Z",
-    "relevance": 300,
-    "typeId": 2,
-    "typeCode": "piso",
-    "locationId": 1792,
-    "sizes": {
-      "size": 65,
-      "sizeBuiltWithoutCommonElements": 65,
-      "sizeBuilt": 65,
-      "sizeUseful": 60
-    },
-    "size": 65,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/761574/761574-housfy-20240201-GXEUjHgZ2m-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/761574/761574-housfy-20240201-SHBN8krgwx-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/761574/761574-housfy-20240129-cgw2dgrZ70-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/761574/761574-housfy-20240201-8riUCpVldz-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/761574/761574-housfy-20240201-KmM8E34frL-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/761574/761574-housfy-20240129-s9jaBYuY2K-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/761574/761574-housfy-20240201-bVR9mPTLsd-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/761574/761574-housfy-20240129-3cxLgHIuvN-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/761574/761574-housfy-20240129-CdhcHuSlzb-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/761574/761574-housfy-20240129-HiIIsFFDoa-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/761574/761574-housfy-20240129-n92CsiDiO9-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/761574/761574-housfy-20240201-r7jnn3kamg-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/761574/761574-housfy-20240129-L2zTy7idjq-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/761574/761574-housfy-20240201-PzxVvPcsop-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/761574/761574-housfy-20240201-CwmU42OEvY-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/761574/761574-housfy-20240129-TznpfabM1H-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/761574/761574-housfy-20240402-6JceSc1uD4-420x280.jpg"
-    ],
-    "numberOfBedrooms": 2,
-    "numberOfBathrooms": 1,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "sale",
-    "isVisible": true,
-    "description": "Housfy vende piso reformado con balcón\r\n\r\nSe vende piso en Sant Martí, Barcelona. Una vivienda luminosa y ubicada en un entorno idóneo para disfrutarlo.\r\nEste piso fue construido en el año 1968.\r\n                                                                                                  \r\nCaracterísticas:\r\n\r\n- Fantástico piso de 65 m2 en El Clot. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- La vivienda dispone de 2 habitaciones y 1 baño.\r\n- Acogedor y luminoso salón con muchas posibilidades.\r\n- Con una cocina equipada y totalmente reformada. \r\n- Terraza.\r\n- Armarios empotrados.\r\n- Exterior.\r\n- Ascensor.\r\n\r\nPiso totalmente reformado a estrenar. Entrando a la vivienda nos encontramos con un amplio distribuidor, que a su vez da acceso a una primera habitación, el baño y la cocina. Siguiendo hacia el salón comedor, tenemos un espacio amplio y muy luminoso, con diferentes posibilidades de distribución y salida al balcón (orientación suroeste). Finalmente la habitación principal, también muy luminosa y con la misma orientación.\r\n\r\nSobre la ubicación, si escoges este barrio para vivir tendrás todos los servicios esenciales que necesitarás para tu nueva vida. A escasos metros encontramos: centros educativos, centros de salud, parques, equipamientos deportivos y supermercados, farmacias, entre otros.\r\n\r\nNo lo dudes más y contacta con nosotros para agendar una visita, conseguiremos la vivienda de tus sueños.\r\n\r\nEl precio de venta no incluye gastos de la compraventa como notaría, registro, impuestos, ni tampoco honorarios agencia. Esta publicación no es vinculante. Consulta siempre la nota simple con Housfy antes de formalizar la compraventa.\r\n\r\nSobre nosotros\r\n\r\nHousfy es la plataforma integral de servicios inmobiliarios. Nuestra combinación de expertos y tecnología pone al alcance de todo el mundo servicios cómodos, claros y seguros. AICAT número: 7922\r\n\r\nNos encargamos de la gestión y asesoramiento de la compra. ¡Olvídate de todo! Hacemos los trámites por ti. Y, si además necesitas financiación, ponemos a tu disposición un bróker hipotecario para ayudarte a conseguir las mejores condiciones para tu perfil económico.\r\n\r\n¿Tienes alguna duda? Pregúntanos sin compromiso o visítanos en housfy.com.",
-    "tags": [
-      23,
-      25,
-      26,
-      32
-    ],
-    "canScheduleVisits": false,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Sant Martí",
-    "neighborhoodLocationName": "El Clot",
-    "streetName": "Carrer de Lope de Vega",
-    "streetNumber": "290",
-    "floor": "05",
-    "door": "03",
-    "floorDoorLabel": "",
-    "latitude": 41.41247559,
-    "longitude": 2.19308019,
-    "price": {
-      "amount": 29000000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 446153,
-      "currency": "EUR"
-    },
-    "isNew": false,
-    "isPriceUpdated": false,
-    "isReserved": false,
-    "isSold": false
-  },
   "32f32cbd-0cca-40c3-9150-b62c67e993ba": {
     "uuid": "32f32cbd-0cca-40c3-9150-b62c67e993ba",
     "providerCode": "housfy",
@@ -500,6 +340,85 @@
     },
     "priceSize": {
       "amount": 444642,
+      "currency": "EUR"
+    },
+    "isNew": false,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
+  },
+  "0115aadd-bb3e-4c16-9842-2062c9dc1811": {
+    "uuid": "0115aadd-bb3e-4c16-9842-2062c9dc1811",
+    "providerCode": "housfy",
+    "providerPropertyId": 761574,
+    "providerPropertyUrl": "https://housfy.com/venta-pisos/p/barcelona/carrer-de-lope-de-vega-761574",
+    "providerPropertyTitle": "Piso a estrenar en Clot",
+    "publishedDate": "2024-01-31T10:03:02Z",
+    "relevance": 300,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1792,
+    "sizes": {
+      "size": 65,
+      "sizeBuiltWithoutCommonElements": 65,
+      "sizeBuilt": 65,
+      "sizeUseful": 60
+    },
+    "size": 65,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/761574/761574-housfy-20240201-GXEUjHgZ2m-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/761574/761574-housfy-20240201-SHBN8krgwx-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/761574/761574-housfy-20240129-cgw2dgrZ70-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/761574/761574-housfy-20240201-8riUCpVldz-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/761574/761574-housfy-20240201-KmM8E34frL-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/761574/761574-housfy-20240129-s9jaBYuY2K-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/761574/761574-housfy-20240201-bVR9mPTLsd-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/761574/761574-housfy-20240129-3cxLgHIuvN-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/761574/761574-housfy-20240129-CdhcHuSlzb-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/761574/761574-housfy-20240129-HiIIsFFDoa-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/761574/761574-housfy-20240129-n92CsiDiO9-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/761574/761574-housfy-20240201-r7jnn3kamg-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/761574/761574-housfy-20240129-L2zTy7idjq-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/761574/761574-housfy-20240201-PzxVvPcsop-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/761574/761574-housfy-20240201-CwmU42OEvY-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/761574/761574-housfy-20240129-TznpfabM1H-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/761574/761574-housfy-20240402-6JceSc1uD4-420x280.jpg"
+    ],
+    "numberOfBedrooms": 2,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "Housfy vende piso reformado con balcón\r\n\r\nSe vende piso en Sant Martí, Barcelona. Una vivienda luminosa y ubicada en un entorno idóneo para disfrutarlo.\r\nEste piso fue construido en el año 1968.\r\n                                                                                                  \r\nCaracterísticas:\r\n\r\n- Fantástico piso de 65 m2 en El Clot. (Los metros cuadrados están verificados con la Dirección General de Catastro)\r\n- La vivienda dispone de 2 habitaciones y 1 baño.\r\n- Acogedor y luminoso salón con muchas posibilidades.\r\n- Con una cocina equipada y totalmente reformada. \r\n- Terraza.\r\n- Armarios empotrados.\r\n- Exterior.\r\n- Ascensor.\r\n\r\nPiso totalmente reformado a estrenar. Entrando a la vivienda nos encontramos con un amplio distribuidor, que a su vez da acceso a una primera habitación, el baño y la cocina. Siguiendo hacia el salón comedor, tenemos un espacio amplio y muy luminoso, con diferentes posibilidades de distribución y salida al balcón (orientación suroeste). Finalmente la habitación principal, también muy luminosa y con la misma orientación.\r\n\r\nSobre la ubicación, si escoges este barrio para vivir tendrás todos los servicios esenciales que necesitarás para tu nueva vida. A escasos metros encontramos: centros educativos, centros de salud, parques, equipamientos deportivos y supermercados, farmacias, entre otros.\r\n\r\nNo lo dudes más y contacta con nosotros para agendar una visita, conseguiremos la vivienda de tus sueños.\r\n\r\nEl precio de venta no incluye gastos de la compraventa como notaría, registro, impuestos, ni tampoco honorarios agencia. Esta publicación no es vinculante. Consulta siempre la nota simple con Housfy antes de formalizar la compraventa.\r\n\r\nSobre nosotros\r\n\r\nHousfy es la plataforma integral de servicios inmobiliarios. Nuestra combinación de expertos y tecnología pone al alcance de todo el mundo servicios cómodos, claros y seguros. AICAT número: 7922\r\n\r\nNos encargamos de la gestión y asesoramiento de la compra. ¡Olvídate de todo! Hacemos los trámites por ti. Y, si además necesitas financiación, ponemos a tu disposición un bróker hipotecario para ayudarte a conseguir las mejores condiciones para tu perfil económico.\r\n\r\n¿Tienes alguna duda? Pregúntanos sin compromiso o visítanos en housfy.com.",
+    "tags": [
+      23,
+      25,
+      26,
+      32
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Sant Martí",
+    "neighborhoodLocationName": "El Clot",
+    "streetName": "Carrer de Lope de Vega",
+    "streetNumber": "290",
+    "floor": "05",
+    "door": "03",
+    "floorDoorLabel": "",
+    "latitude": 41.41247559,
+    "longitude": 2.19308019,
+    "price": {
+      "amount": 29000000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 446153,
       "currency": "EUR"
     },
     "isNew": false,
