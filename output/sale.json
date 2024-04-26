@@ -6,7 +6,7 @@
     "providerPropertyUrl": "https://housfy.com/venta-pisos/p/barcelona/carrer-taulat-682391",
     "providerPropertyTitle": "Admirable piso en Sant Martí",
     "publishedDate": "2023-04-28T13:58:30Z",
-    "relevance": 1712823679,
+    "relevance": 400,
     "typeId": 2,
     "typeCode": "piso",
     "locationId": 1794,
@@ -93,7 +93,7 @@
     },
     "priceChangePercentage": "-1.9",
     "isNew": false,
-    "isPriceUpdated": true,
+    "isPriceUpdated": false,
     "isReserved": false,
     "isSold": false
   },
