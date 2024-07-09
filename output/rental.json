@@ -13,7 +13,7 @@
     "sizes": {
       "size": 79,
       "sizeBuiltWithoutCommonElements": 79,
-      "sizeBuilt": 91,
+      "sizeBuilt": 79,
       "sizeUseful": 79
     },
     "size": 79,
@@ -67,11 +67,11 @@
     "neighborhoodLocationName": "La Sagrada Família",
     "streetName": "Carrer dels Enamorats",
     "streetNumber": "85",
-    "floor": "2º",
-    "door": "4ª",
+    "floor": "02",
+    "door": "04",
     "floorDoorLabel": "",
-    "latitude": 41.40592957,
-    "longitude": 2.18271661,
+    "latitude": 41.40592194,
+    "longitude": 2.18265224,
     "price": {
       "amount": 130000,
       "currency": "EUR"
