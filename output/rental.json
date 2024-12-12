@@ -11,16 +11,17 @@
     "typeCode": "piso",
     "locationId": 1789,
     "sizes": {
-      "size": 124,
-      "sizeBuiltWithoutCommonElements": 124,
-      "sizeBuilt": 124,
-      "sizeUseful": 124
+      "size": 188,
+      "sizeBuiltWithoutCommonElements": 188,
+      "sizeBuilt": 188,
+      "sizeUseful": 188
     },
-    "size": 124,
+    "size": 188,
     "photos": [
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/643600/643600-housfy-20230331-6wgXd0BWUZ-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/643600/643600-housfy-20230331-OkqcOjgTQ6-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/643600/643600-housfy-20230221-fYBt0I7FeY-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/643600/643600-housfy-20230221-1pUb41NT16-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/643600/643600-housfy-20230331-OkqcOjgTQ6-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/643600/643600-housfy-20230331-ktAG3kcyup-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/643600/643600-housfy-20230331-DEU45uwdcJ-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/643600/643600-housfy-20230331-WHKpuGl3Dz-420x280.jpg",
@@ -41,7 +42,6 @@
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/643600/643600-housfy-20230221-AQxYSy9bCg-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/643600/643600-housfy-20230221-zl3IP9Ibqk-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/643600/643600-housfy-20230221-bKXT1U7Khs-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/643600/643600-housfy-20230221-1pUb41NT16-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/643600/643600-housfy-20230221-dm2qBi2Zhp-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/643600/643600-housfy-20230221-KYnt431mtb-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/643600/643600-housfy-20230221-yffr2wUgsL-420x280.jpg",
@@ -55,7 +55,6 @@
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/643600/643600-housfy-20230221-yS4AGk4pA9-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/643600/643600-housfy-20230221-cILr1oXIsL-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/643600/643600-housfy-20230221-wlXWnMHmay-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/643600/643600-housfy-20241122-7Cr0is5J8X-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/643600/643600-housfy-20230221-HdePOoKBbC-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/643600/643600-housfy-20241122-twi10Fgaph-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/643600/643600-housfy-20241122-Oz2p3WtH9O-420x280.jpg",
@@ -66,7 +65,8 @@
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/643600/643600-housfy-20241122-lcu62mIe1P-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/643600/643600-housfy-20241122-rQXr0Ta6yN-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/643600/643600-housfy-20241122-FDYDY4eKLf-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/643600/643600-housfy-20241122-HEibJH2PDG-420x280.jpg"
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/643600/643600-housfy-20241122-HEibJH2PDG-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/643600/643600-housfy-20241212-O9e7Q8eJJC-420x280.jpg"
     ],
     "numberOfBedrooms": 4,
     "numberOfBathrooms": 3,
@@ -107,7 +107,7 @@
       "currency": "EUR"
     },
     "priceSize": {
-      "amount": 3459,
+      "amount": 2281,
       "currency": "EUR"
     },
     "priceChangePercentage": "2.14",
