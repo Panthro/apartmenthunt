@@ -6,7 +6,7 @@
     "providerPropertyUrl": "https://housfy.com/venta-pisos/p/barcelona/clot-830699",
     "providerPropertyTitle": "Precioso piso en el corazon de El Clot",
     "publishedDate": "2024-11-22T09:03:18Z",
-    "relevance": 1739356866,
+    "relevance": 1739875824,
     "typeId": 2,
     "typeCode": "piso",
     "locationId": 1792,
@@ -83,10 +83,10 @@
       "currency": "EUR"
     },
     "priceSize": {
-      "amount": 406172,
+      "amount": 395061,
       "currency": "EUR"
     },
-    "priceChangePercentage": "-3.24",
+    "priceChangePercentage": "-2.74",
     "isNew": false,
     "isPriceUpdated": true,
     "isReserved": false,
