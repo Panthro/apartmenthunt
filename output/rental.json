@@ -123,7 +123,7 @@
     "providerPropertyUrl": "https://housfy.com/alquiler-pisos/p/barcelona/carrer-de-pallars-831977",
     "providerPropertyTitle": "Admirable piso en Sant Martí",
     "publishedDate": "2024-12-17T10:38:22Z",
-    "relevance": 900,
+    "relevance": 2,
     "typeId": 2,
     "typeCode": "piso",
     "locationId": 1789,
@@ -207,16 +207,16 @@
     "latitude": 41.41101456,
     "longitude": 2.21116114,
     "price": {
-      "amount": 240000,
+      "amount": 220000,
       "currency": "EUR"
     },
     "priceSize": {
-      "amount": 3157,
+      "amount": 2894,
       "currency": "EUR"
     },
-    "priceChangePercentage": "-14.29",
+    "priceChangePercentage": "-8.33",
     "isNew": false,
-    "isPriceUpdated": false,
+    "isPriceUpdated": true,
     "isReserved": false,
     "isSold": false
   }
