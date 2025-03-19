@@ -158,5 +158,91 @@
     "isPriceUpdated": false,
     "isReserved": false,
     "isSold": false
+  },
+  "e7b83dee-c9d8-44e0-adc4-ef7730e1d9da": {
+    "uuid": "e7b83dee-c9d8-44e0-adc4-ef7730e1d9da",
+    "providerCode": "housfy",
+    "providerPropertyId": 852050,
+    "providerPropertyUrl": "https://housfy.com/venta-pisos/p/barcelona/cl-arago-852050",
+    "publishedDate": "2025-03-19T15:56:05Z",
+    "relevance": 2,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1792,
+    "sizes": {
+      "size": 43,
+      "sizeBuiltWithoutCommonElements": 43,
+      "sizeBuilt": 51,
+      "sizeUseful": 43
+    },
+    "size": 43,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/852050/852050-housfy-20250308-HE6GAoODgP-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/852050/852050-housfy-20250308-n8RA92HEIO-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/852050/852050-housfy-20250308-y1QXS5sjZ9-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/852050/852050-housfy-20250308-TcurNi1Cy7-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/852050/852050-housfy-20250308-u26yEUbo8k-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/852050/852050-housfy-20250308-JSYCPd4zzr-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/852050/852050-housfy-20250308-Ji3zXOwO9l-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/852050/852050-housfy-20250308-29ntnlsmTE-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/852050/852050-housfy-20250308-BxeuKmpSZO-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/852050/852050-housfy-20250308-rrd3xeBCS4-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/852050/852050-housfy-20250308-QaNMW1BnIz-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/852050/852050-housfy-20250308-rk0IhqiSMD-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/852050/852050-housfy-20250308-YyWA2L09qx-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/852050/852050-housfy-20250308-QjlvTV3K5q-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/852050/852050-housfy-20250308-2TMHlyuXDi-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/852050/852050-housfy-20250308-rRIcgRu6Vq-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/852050/852050-housfy-20250308-BdNzKDxR1O-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/852050/852050-housfy-20250308-XxgmV4szP0-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/852050/852050-housfy-20250308-iOZk5byUTD-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/852050/852050-housfy-20250308-V8gQbp0P8H-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/852050/852050-housfy-20250308-mZrmLzXP0k-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/852050/852050-housfy-20250308-sXULMQDgNb-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/852050/852050-housfy-20250308-GPU4uSYyVN-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/852050/852050-housfy-20250308-z4rHZ4Nkuw-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/852050/852050-housfy-20250308-5SBW6wlSGt-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/852050/852050-housfy-20250308-h005lwPeb5-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/852050/852050-housfy-20250319-qnU5nb8IxS-420x280.jpg"
+    ],
+    "numberOfBedrooms": 3,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "Carrer d\u0027Aragó / Carrer de la Independència\r\n\r\nHousfy vende finca construida en 1930\r\nDispone de ascensor\r\nPiso en quinta planta real\r\n\r\nCaracterísticas del inmueble:\r\n\r\n- Vivienda de 53 m² con balcón\r\n- Dispone de 3 habitaciones dobles exteriores con acceso a los balcones\r\n- Un baño independiente\r\n- Cocina independiente\r\n\r\n\r\nWe speak english, on parle français, parlem català\r\nAICAT 7922\r\n\r\nEste piso se encuentra en una ubicación privilegiada, en la intersección de la calle Aragón con la calle Independencia, en el corazón de Barcelona. Está situado en una quinta planta real, lo que permite disfrutar de una excelente luminosidad natural en todas las estancias del hogar. Las tres habitaciones son exteriores, lo que proporciona vistas despejadas y acceso directo a los balcones, ideales para aprovechar la luz y el aire fresco.\r\n\r\nEl inmueble necesita reforma, lo que ofrece la oportunidad de adaptarlo a tus necesidades y gustos personales. A pesar de ser una propiedad a reformar, la distribución y la ubicación hacen de este piso una excelente opción para quienes buscan un proyecto de renovación con gran potencial. Ideal para aquellos que deseen vivir en una zona céntrica y bien comunicada, cerca de todos los servicios, comercios y transportes públicos que ofrece la ciudad ((autobuses, metro y TRAM). \r\n\r\nNo lo dudes más y contacta con nosotros para agendar una visita, conseguiremos la vivienda de tus sueños.\r\n\r\nEl precio de venta no incluye gastos de la compraventa como notaría, registro, impuestos, ni tampoco honorarios agencia. Esta publicación no es vinculante. Consulta siempre la nota simple con Housfy antes de formalizar la compraventa.\r\n\r\nSobre nosotros.\r\n\r\nHousfy es la plataforma integral de servicios inmobiliarios. Nuestra combinación de expertos y tecnología pone al alcance de todo el mundo servicios cómodos, claros y seguros. AICAT número: 7922.\r\n\r\nNos encargamos de la gestión y asesoramiento de la compra. ¡Olvídate de todo! Hacemos los trámites por ti. Y, si además necesitas financiación, ponemos a tu disposición un bróker hipotecario para ayudarte a conseguir las mejores condiciones para tu perfil económico.\r\n\r\n¿Tienes alguna duda? Pregúntanos sin compromiso o visítanos en housfy. com.",
+    "tags": [
+      23,
+      26
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Sant Martí",
+    "neighborhoodLocationName": "El Clot",
+    "streetName": "Cl. Arago",
+    "streetNumber": "556",
+    "floor": "05",
+    "door": "03",
+    "floorDoorLabel": "",
+    "latitude": 41.4066391,
+    "longitude": 2.1844964,
+    "price": {
+      "amount": 22500000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 523255,
+      "currency": "EUR"
+    },
+    "isNew": true,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
   }
 }
