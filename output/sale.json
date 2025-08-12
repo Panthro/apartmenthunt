@@ -207,7 +207,7 @@
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/904743/904743-housfy-20250803-i7NYLWbfLL-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/904743/904743-housfy-20250803-hcAJt3QK1Q-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/904743/904743-housfy-20250803-MnsopmRkz3-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/904743/904743-housfy-20250805-8c2y7OT0tt-420x280.jpg"
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/904743/904743-housfy-20250812-gdCWM6u0x6-420x280.jpg"
     ],
     "numberOfBedrooms": 1,
     "numberOfBathrooms": 1,
@@ -232,7 +232,7 @@
     "neighborhoodLocationName": "El Poblenou",
     "streetName": "Carrer de Taulat",
     "streetNumber": "131",
-    "floor": "+1",
+    "floor": "8",
     "door": "02",
     "floorDoorLabel": "",
     "latitude": 41.40019226,
