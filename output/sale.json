@@ -1,4 +1,83 @@
 {
+  "7879d84e-cdec-451b-b267-4e0ec639543f": {
+    "uuid": "7879d84e-cdec-451b-b267-4e0ec639543f",
+    "providerCode": "housfy",
+    "providerPropertyId": 922509,
+    "providerPropertyUrl": "https://housfy.com/venta-pisos/p/barcelona/carrer-del-doctor-trueta-922509",
+    "providerPropertyTitle": "Fantástico piso en Poblenou Sant Martí",
+    "publishedDate": "2025-09-16T09:25:23Z",
+    "relevance": 1759739941,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1794,
+    "sizes": {
+      "size": 53,
+      "sizeBuiltWithoutCommonElements": 53,
+      "sizeBuilt": 53,
+      "sizeUseful": 53
+    },
+    "size": 53,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/922509/922509-housfy-20250916-qSkji4NrKR-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/922509/922509-housfy-20250916-lT56RGVP1U-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/922509/922509-housfy-20250916-UZlF8XJURV-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/922509/922509-housfy-20250916-tmV7hHvYih-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/922509/922509-housfy-20250916-zmN55a2iAM-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/922509/922509-housfy-20250916-G2US2tlM5c-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/922509/922509-housfy-20250916-OqflmxfqK2-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/922509/922509-housfy-20250916-2uHhzGxYLZ-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/922509/922509-housfy-20250916-lSsRuocKVe-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/922509/922509-housfy-20250916-B5TbsFknOs-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/922509/922509-housfy-20250916-JTIfY4kTDj-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/922509/922509-housfy-20250916-IJcdDR04Oo-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/922509/922509-housfy-20250916-vk5owEfzgE-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/922509/922509-housfy-20250916-y90zq6xlo9-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/922509/922509-housfy-20250916-a4zIOkqSco-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/922509/922509-housfy-20250916-Kk29hMfqXp-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/922509/922509-housfy-20250916-ELTFAdMotX-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/922509/922509-housfy-20250916-YEgMSPSwJt-420x280.jpg"
+    ],
+    "numberOfBedrooms": 2,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "Housfy vende fantástico piso en Poblenou distrito Sant Martí.\r\n\r\nHousfy pone a la venta un encantador piso en Poblenou, distrito de Sant Martí.\r\n\r\nEn el corazón del dinámico barrio de Poblenou, en Barcelona, encontramos esta luminosa vivienda ubicada en un entorno ideal para disfrutar tanto del día a día como del ambiente del distrito.\r\n\r\nConstruido en 1950, este piso de 53 m² perfectamente distribuidos ofrece un espacio amplio, abierto y lleno de luz natural, con un carácter único que lo convierte en una gran oportunidad.\r\n\r\nCaracterísticas principales:\r\n\r\n-Piso de 53 m² en El Poblenou (superficie verificada por la Dirección General del Catastro).\r\n\r\n-Cuenta con 2 habitaciones y 1 baño, cómodos y bien aprovechados.\r\n\r\n-Salón funcional y acogedor, perfecto para relajarse y disfrutar en familia.\r\n\r\n-Dispone de armario empotrado que optimiza el espacio.\r\n\r\n-Incluye trastero, ideal para almacenamiento adicional.\r\n\r\n-Finca con ascensor.\r\n\r\n-Reformado\r\n\r\n-Suelos de parqué.\r\n\r\n-Cocina equipada y con lavadero independiente.\r\n\r\nUbicación:\r\n\r\n-Situado en el barrio de Poblenou, dentro del distrito de Sant Martí, disfrutarás de una zona con todos los servicios a tu alcance: comercios, restaurantes, transporte público y espacios verdes que hacen la vida diaria más cómoda y agradable.\r\n\r\nCon todos los servicios que puedas necesitar para facilitar tus días en todo momento.\r\n\r\nNo lo dudes más y contacta con nosotros para agendar una visita, conseguiremos la vivienda de tus sueños.\r\n\r\nEl precio de venta no incluye gastos de la compraventa como notaría, registro, impuestos, ni tampoco honorarios agencia. Esta publicación no es vinculante. \r\n\r\nSobre nosotros.\r\n\r\nHousfy es la plataforma integral de servicios inmobiliarios. Nuestra combinación de expertos y tecnología pone al alcance de todo el mundo servicios cómodos, claros y seguros. AICAT número: 7922.\r\n\r\nNos encargamos de la gestión y asesoramiento de la compra. ¡Olvídate de todo! Hacemos los trámites por ti. Y, si además necesitas financiación, ponemos a tu disposición un bróker hipotecario para ayudarte a conseguir las mejores condiciones para tu perfil económico.\r\n\r\n¿Tienes alguna duda? Pregúntanos sin compromiso o visítanos en housfy.com.",
+    "tags": [
+      26,
+      29
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Sant Martí",
+    "neighborhoodLocationName": "El Poblenou",
+    "streetName": "Carrer del Doctor Trueta",
+    "streetNumber": "182",
+    "floor": "02",
+    "door": "02",
+    "floorDoorLabel": "",
+    "latitude": 41.3969574,
+    "longitude": 2.20161986,
+    "price": {
+      "amount": 24400000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 460377,
+      "currency": "EUR"
+    },
+    "priceChangePercentage": "-4.31",
+    "isNew": false,
+    "isPriceUpdated": true,
+    "isReserved": false,
+    "isSold": false
+  },
   "31596db1-5dce-4688-860d-8d2b780ef52d": {
     "uuid": "31596db1-5dce-4688-860d-8d2b780ef52d",
     "providerCode": "housfy",
@@ -425,84 +504,6 @@
       "currency": "EUR"
     },
     "priceChangePercentage": "-2.86",
-    "isNew": false,
-    "isPriceUpdated": false,
-    "isReserved": false,
-    "isSold": false
-  },
-  "7879d84e-cdec-451b-b267-4e0ec639543f": {
-    "uuid": "7879d84e-cdec-451b-b267-4e0ec639543f",
-    "providerCode": "housfy",
-    "providerPropertyId": 922509,
-    "providerPropertyUrl": "https://housfy.com/venta-pisos/p/barcelona/carrer-del-doctor-trueta-922509",
-    "providerPropertyTitle": "Fantástico piso en Poblenou Sant Martí",
-    "publishedDate": "2025-09-16T09:25:23Z",
-    "relevance": 200,
-    "typeId": 2,
-    "typeCode": "piso",
-    "locationId": 1794,
-    "sizes": {
-      "size": 53,
-      "sizeBuiltWithoutCommonElements": 53,
-      "sizeBuilt": 53,
-      "sizeUseful": 53
-    },
-    "size": 53,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/922509/922509-housfy-20250916-qSkji4NrKR-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/922509/922509-housfy-20250916-lT56RGVP1U-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/922509/922509-housfy-20250916-UZlF8XJURV-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/922509/922509-housfy-20250916-tmV7hHvYih-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/922509/922509-housfy-20250916-zmN55a2iAM-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/922509/922509-housfy-20250916-G2US2tlM5c-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/922509/922509-housfy-20250916-OqflmxfqK2-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/922509/922509-housfy-20250916-2uHhzGxYLZ-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/922509/922509-housfy-20250916-lSsRuocKVe-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/922509/922509-housfy-20250916-B5TbsFknOs-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/922509/922509-housfy-20250916-JTIfY4kTDj-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/922509/922509-housfy-20250916-IJcdDR04Oo-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/922509/922509-housfy-20250916-vk5owEfzgE-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/922509/922509-housfy-20250916-y90zq6xlo9-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/922509/922509-housfy-20250916-a4zIOkqSco-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/922509/922509-housfy-20250916-Kk29hMfqXp-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/922509/922509-housfy-20250916-ELTFAdMotX-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/922509/922509-housfy-20250916-YEgMSPSwJt-420x280.jpg"
-    ],
-    "numberOfBedrooms": 2,
-    "numberOfBathrooms": 1,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "sale",
-    "isVisible": true,
-    "description": "Housfy vende fantástico piso en Poblenou distrito Sant Martí.\r\n\r\nHousfy pone a la venta un encantador piso en Poblenou, distrito de Sant Martí.\r\n\r\nEn el corazón del dinámico barrio de Poblenou, en Barcelona, encontramos esta luminosa vivienda ubicada en un entorno ideal para disfrutar tanto del día a día como del ambiente del distrito.\r\n\r\nConstruido en 1950, este piso de 53 m² perfectamente distribuidos ofrece un espacio amplio, abierto y lleno de luz natural, con un carácter único que lo convierte en una gran oportunidad.\r\n\r\nCaracterísticas principales:\r\n\r\n-Piso de 53 m² en El Poblenou (superficie verificada por la Dirección General del Catastro).\r\n\r\n-Cuenta con 2 habitaciones y 1 baño, cómodos y bien aprovechados.\r\n\r\n-Salón funcional y acogedor, perfecto para relajarse y disfrutar en familia.\r\n\r\n-Dispone de armario empotrado que optimiza el espacio.\r\n\r\n-Incluye trastero, ideal para almacenamiento adicional.\r\n\r\n-Finca con ascensor.\r\n\r\n-Reformado\r\n\r\n-Suelos de parqué.\r\n\r\n-Cocina equipada y con lavadero independiente.\r\n\r\nUbicación:\r\n\r\n-Situado en el barrio de Poblenou, dentro del distrito de Sant Martí, disfrutarás de una zona con todos los servicios a tu alcance: comercios, restaurantes, transporte público y espacios verdes que hacen la vida diaria más cómoda y agradable.\r\n\r\nCon todos los servicios que puedas necesitar para facilitar tus días en todo momento.\r\n\r\nNo lo dudes más y contacta con nosotros para agendar una visita, conseguiremos la vivienda de tus sueños.\r\n\r\nEl precio de venta no incluye gastos de la compraventa como notaría, registro, impuestos, ni tampoco honorarios agencia. Esta publicación no es vinculante. \r\n\r\nSobre nosotros.\r\n\r\nHousfy es la plataforma integral de servicios inmobiliarios. Nuestra combinación de expertos y tecnología pone al alcance de todo el mundo servicios cómodos, claros y seguros. AICAT número: 7922.\r\n\r\nNos encargamos de la gestión y asesoramiento de la compra. ¡Olvídate de todo! Hacemos los trámites por ti. Y, si además necesitas financiación, ponemos a tu disposición un bróker hipotecario para ayudarte a conseguir las mejores condiciones para tu perfil económico.\r\n\r\n¿Tienes alguna duda? Pregúntanos sin compromiso o visítanos en housfy.com.",
-    "tags": [
-      26,
-      29
-    ],
-    "canScheduleVisits": false,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Sant Martí",
-    "neighborhoodLocationName": "El Poblenou",
-    "streetName": "Carrer del Doctor Trueta",
-    "streetNumber": "182",
-    "floor": "02",
-    "door": "02",
-    "floorDoorLabel": "",
-    "latitude": 41.3969574,
-    "longitude": 2.20161986,
-    "price": {
-      "amount": 25500000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 481132,
-      "currency": "EUR"
-    },
     "isNew": false,
     "isPriceUpdated": false,
     "isReserved": false,
