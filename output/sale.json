@@ -166,7 +166,7 @@
       "amount": 520000,
       "currency": "EUR"
     },
-    "isNew": true,
+    "isNew": false,
     "isPriceUpdated": false,
     "isReserved": false,
     "isSold": false
