@@ -6,7 +6,7 @@
     "providerPropertyUrl": "https://housfy.com/venta-pisos/p/barcelona/carrer-napols-903346",
     "providerPropertyTitle": "Estupendo piso en Eixample",
     "publishedDate": "2025-08-01T11:49:52Z",
-    "relevance": 900,
+    "relevance": 1768846918,
     "typeId": 2,
     "typeCode": "piso",
     "locationId": 1744,
@@ -70,16 +70,16 @@
     "latitude": 41.394207,
     "longitude": 2.18063283,
     "price": {
-      "amount": 33000000,
+      "amount": 31000000,
       "currency": "EUR"
     },
     "priceSize": {
-      "amount": 375000,
+      "amount": 352272,
       "currency": "EUR"
     },
-    "priceChangePercentage": "-2.94",
+    "priceChangePercentage": "-6.06",
     "isNew": false,
-    "isPriceUpdated": false,
+    "isPriceUpdated": true,
     "isReserved": false,
     "isSold": false
   },
