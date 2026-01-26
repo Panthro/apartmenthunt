@@ -257,6 +257,65 @@
     "isReserved": false,
     "isSold": false
   },
+  "00870003-ef55-43ae-8520-067ddec0fcac": {
+    "uuid": "00870003-ef55-43ae-8520-067ddec0fcac",
+    "providerCode": "housfy",
+    "providerPropertyId": 952911,
+    "providerPropertyUrl": "https://housfy.com/venta-garajes/p/barcelona/carrer-del-pisto-952911",
+    "providerPropertyTitle": "Fenomenal garaje en Sant Martí",
+    "publishedDate": "2025-12-23T10:30:33Z",
+    "relevance": 700,
+    "typeId": 8,
+    "typeCode": "garaje",
+    "locationId": 1791,
+    "sizes": {
+      "size": 31,
+      "sizeBuiltWithoutCommonElements": 31,
+      "sizeBuilt": 31,
+      "sizeUseful": 31
+    },
+    "size": 31,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/952911/952911-housfy-20251222-Qhq0OuFgp8-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/952911/952911-housfy-20251222-wtEpNp5Ez9-420x280.jpg"
+    ],
+    "numberOfBedrooms": 1,
+    "numberOfBathrooms": 0,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "Housfy vende plaza de garaje en Sant Martí.\r\n\r\nSe vende plaza de garaje en El Camp de l\u0027Arpa del Clot, concretamente en el complejo entre las calles Muntanya 83 y Pistó 6, Barcelona.  Esta plaza de garaje fue construida en el año 1997.\r\n\r\nCaracterísticas del inmueble:\r\n\r\nEspléndido garaje de 10 m2. \r\nPlaza de aparcamiento ideal para coches pequeños y motocicletas\r\nBuen acceso mediante rampa y puerta automática.\r\nAscensor en la finca.\r\nInterior.\r\n\r\nRespecto a la ubicación, se sitúa en Barcelona, municipio de Barcelona.\r\nUbicado en una zona con alta demanda de aparcamiento, cerca de todos los servicios y con excelente comunicación por transporte público.\r\n\r\nNo lo dudes más y contacta con nosotros para agendar una visita, conseguiremos la propiedad que necesitas.\r\n\r\nEl precio de venta no incluye gastos de la compraventa como notaría, registro, impuestos, ni tampoco honorarios agencia. Esta publicación no es vinculante. Consulta siempre la nota simple con Housfy antes de formalizar la compraventa.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es la plataforma integral de servicios inmobiliarios. Nuestra combinación de expertos y tecnología pone al alcance de todo el mundo servicios cómodos, claros y seguros. AICAT número: 7922.\r\n\r\nNos encargamos de la gestión y asesoramiento de la compra. ¡Olvídate de todo! Hacemos los trámites por ti. Y, si además necesitas financiación, ponemos a tu disposición un bróker hipotecario para ayudarte a conseguir las mejores condiciones para tu perfil económico.\r\n\r\n¿Tienes alguna duda? Pregúntanos sin compromiso o visítanos en housfy.com.",
+    "tags": [],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Sant Martí",
+    "neighborhoodLocationName": "El Camp de l\u0027Arpa del Clot",
+    "streetName": "Carrer del Pistó",
+    "streetNumber": "6",
+    "floor": "P4",
+    "door": "3",
+    "floorDoorLabel": "",
+    "latitude": 41.41188431,
+    "longitude": 2.18395686,
+    "price": {
+      "amount": 1800000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 58064,
+      "currency": "EUR"
+    },
+    "isNew": false,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
+  },
   "7ba241fa-6482-42c5-bc11-48e5bf489c1c": {
     "uuid": "7ba241fa-6482-42c5-bc11-48e5bf489c1c",
     "providerCode": "housfy",
