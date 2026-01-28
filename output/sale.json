@@ -265,17 +265,17 @@
     "providerPropertyUrl": "https://housfy.com/venta-garajes/p/barcelona/carrer-del-pisto-952911",
     "providerPropertyTitle": "Fenomenal garaje en Sant Martí",
     "publishedDate": "2025-12-23T10:30:33Z",
-    "relevance": 700,
+    "relevance": 800,
     "typeId": 8,
     "typeCode": "garaje",
     "locationId": 1791,
     "sizes": {
-      "size": 31,
-      "sizeBuiltWithoutCommonElements": 31,
-      "sizeBuilt": 31,
-      "sizeUseful": 31
+      "size": 10,
+      "sizeBuiltWithoutCommonElements": 10,
+      "sizeBuilt": 10,
+      "sizeUseful": 10
     },
-    "size": 31,
+    "size": 10,
     "photos": [
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/952911/952911-housfy-20251222-Qhq0OuFgp8-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/952911/952911-housfy-20251222-wtEpNp5Ez9-420x280.jpg"
@@ -309,7 +309,7 @@
       "currency": "EUR"
     },
     "priceSize": {
-      "amount": 58064,
+      "amount": 180000,
       "currency": "EUR"
     },
     "isNew": false,
