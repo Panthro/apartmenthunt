@@ -66,7 +66,7 @@
     "providerPropertyUrl": "https://housfy.com/venta-pisos/p/barcelona/gran-via-de-les-corts-catalanes-972460",
     "providerPropertyTitle": "Piso con plaza de garaje incluida en el precio",
     "publishedDate": "2026-04-01T08:26:48Z",
-    "relevance": 700,
+    "relevance": 800,
     "typeId": 2,
     "typeCode": "piso",
     "locationId": 1798,
@@ -78,8 +78,8 @@
     },
     "size": 79,
     "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/972460/972460-housfy-20260518-kSYnyDb5aA-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/972460/972460-housfy-20260428-BJJckFNSXy-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/972460/972460-housfy-20260518-kSYnyDb5aA-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/972460/972460-housfy-20260331-NIs6G8qA3t-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/972460/972460-housfy-20260331-RyRetXqwfo-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/972460/972460-housfy-20260428-D6umyAqQlX-420x280.jpg",
@@ -111,10 +111,10 @@
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/972460/972460-housfy-20260331-pTkrWMxYNL-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/972460/972460-housfy-20260331-BHqNfgPxsH-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/972460/972460-housfy-20260331-EJGSGkLGOI-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/972460/972460-housfy-20260331-VQQZXwQ2vs-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/972460/972460-housfy-20260331-mxtMDLZhot-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/972460/972460-housfy-20260331-VQQZXwQ2vs-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/972460/972460-housfy-20260331-A9Fe4BZNd1-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/972460/972460-housfy-20260518-kGobfj5UbV-420x280.jpg"
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/972460/972460-housfy-20260519-prfC5rblwe-420x280.jpg"
     ],
     "numberOfBedrooms": 3,
     "numberOfBathrooms": 1,
