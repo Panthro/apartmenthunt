@@ -1,4 +1,64 @@
 {
+  "00870003-ef55-43ae-8520-067ddec0fcac": {
+    "uuid": "00870003-ef55-43ae-8520-067ddec0fcac",
+    "providerCode": "housfy",
+    "providerPropertyId": 952911,
+    "providerPropertyUrl": "https://housfy.com/venta-garajes/p/barcelona/carrer-del-pisto-952911",
+    "providerPropertyTitle": "Fenomenal garaje en Sant Martí",
+    "publishedDate": "2025-12-23T10:30:33Z",
+    "relevance": 1781688589,
+    "typeId": 8,
+    "typeCode": "garaje",
+    "locationId": 1791,
+    "sizes": {
+      "size": 10,
+      "sizeBuiltWithoutCommonElements": 10,
+      "sizeBuilt": 10,
+      "sizeUseful": 10
+    },
+    "size": 10,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/952911/952911-housfy-20251222-Qhq0OuFgp8-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/952911/952911-housfy-20251222-wtEpNp5Ez9-420x280.jpg"
+    ],
+    "numberOfBedrooms": 0,
+    "numberOfBathrooms": 0,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "Housfy vende plaza de garaje en Sant Martí.\r\n\r\nSe vende plaza de garaje en El Camp de l\u0027Arpa del Clot, concretamente en el complejo entre las calles Muntanya 83 y Pistó 6, Barcelona.  Esta plaza de garaje fue construida en el año 1997.\r\n\r\nCaracterísticas del inmueble:\r\n\r\nEspléndido garaje de 10 m2. \r\nPlaza de aparcamiento ideal para coches pequeños y motocicletas\r\nBuen acceso mediante rampa y puerta automática.\r\nAscensor en la finca.\r\n\r\n\r\nRespecto a la ubicación, se sitúa en Barcelona, municipio de Barcelona.\r\nUbicado en una zona con alta demanda de aparcamiento, cerca de todos los servicios y con excelente comunicación por transporte público.\r\n\r\nNo lo dudes más y contacta con nosotros para agendar una visita, conseguiremos la propiedad que necesitas.\r\n\r\nEl precio de venta no incluye gastos de la compraventa como notaría, registro, impuestos, ni tampoco honorarios agencia. Esta publicación no es vinculante. Consulta siempre la nota simple con Housfy antes de formalizar la compraventa.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es la plataforma integral de servicios inmobiliarios. Nuestra combinación de expertos y tecnología pone al alcance de todo el mundo servicios cómodos, claros y seguros. AICAT número: 7922.\r\n\r\nNos encargamos de la gestión y asesoramiento de la compra. ¡Olvídate de todo! Hacemos los trámites por ti. Y, si además necesitas financiación, ponemos a tu disposición un bróker hipotecario para ayudarte a conseguir las mejores condiciones para tu perfil económico.\r\n\r\n¿Tienes alguna duda? Pregúntanos sin compromiso o visítanos en housfy.com.",
+    "tags": [],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Sant Martí",
+    "neighborhoodLocationName": "El Camp de l\u0027Arpa del Clot",
+    "streetName": "Carrer del Pistó",
+    "streetNumber": "6",
+    "floor": "P4",
+    "door": "3",
+    "floorDoorLabel": "",
+    "latitude": 41.41188431,
+    "longitude": 2.18395686,
+    "price": {
+      "amount": 1500000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 150000,
+      "currency": "EUR"
+    },
+    "priceChangePercentage": "-6.25",
+    "isNew": false,
+    "isPriceUpdated": true,
+    "isReserved": false,
+    "isSold": false
+  },
   "8fadd0e5-338a-4bfa-ba64-da2f876a927f": {
     "uuid": "8fadd0e5-338a-4bfa-ba64-da2f876a927f",
     "providerCode": "housfy",
@@ -185,15 +245,15 @@
     },
     "size": 79,
     "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/972460/972460-housfy-20260416-3Ka5nZFoNk-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/972460/972460-housfy-20260428-D6umyAqQlX-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/972460/972460-housfy-20260416-3Ka5nZFoNk-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/972460/972460-housfy-20260428-BJJckFNSXy-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/972460/972460-housfy-20260331-NIs6G8qA3t-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/972460/972460-housfy-20260518-kSYnyDb5aA-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/972460/972460-housfy-20260331-RyRetXqwfo-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/972460/972460-housfy-20260331-M8N5F2HUfS-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/972460/972460-housfy-20260331-dWhO1t9Pka-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/972460/972460-housfy-20260331-PctdE4zKlF-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/972460/972460-housfy-20260331-dWhO1t9Pka-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/972460/972460-housfy-20260331-ex3DnY8OPs-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/972460/972460-housfy-20260331-KiyVd1wpdw-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/972460/972460-housfy-20260331-xfOAOsTQt0-420x280.jpg",
@@ -221,7 +281,7 @@
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/972460/972460-housfy-20260331-VQQZXwQ2vs-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/972460/972460-housfy-20260331-mxtMDLZhot-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/972460/972460-housfy-20260331-A9Fe4BZNd1-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/972460/972460-housfy-20260616-ZrJRvL4ix1-420x280.jpg"
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/972460/972460-housfy-20260617-bS5CnEaAM6-420x280.jpg"
     ],
     "numberOfBedrooms": 3,
     "numberOfBathrooms": 1,
@@ -264,66 +324,6 @@
     "isReserved": false,
     "isSold": false
   },
-  "00870003-ef55-43ae-8520-067ddec0fcac": {
-    "uuid": "00870003-ef55-43ae-8520-067ddec0fcac",
-    "providerCode": "housfy",
-    "providerPropertyId": 952911,
-    "providerPropertyUrl": "https://housfy.com/venta-garajes/p/barcelona/carrer-del-pisto-952911",
-    "providerPropertyTitle": "Fenomenal garaje en Sant Martí",
-    "publishedDate": "2025-12-23T10:30:33Z",
-    "relevance": 600,
-    "typeId": 8,
-    "typeCode": "garaje",
-    "locationId": 1791,
-    "sizes": {
-      "size": 10,
-      "sizeBuiltWithoutCommonElements": 10,
-      "sizeBuilt": 10,
-      "sizeUseful": 10
-    },
-    "size": 10,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/952911/952911-housfy-20251222-Qhq0OuFgp8-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/952911/952911-housfy-20251222-wtEpNp5Ez9-420x280.jpg"
-    ],
-    "numberOfBedrooms": 0,
-    "numberOfBathrooms": 0,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "sale",
-    "isVisible": true,
-    "description": "Housfy vende plaza de garaje en Sant Martí.\r\n\r\nSe vende plaza de garaje en El Camp de l\u0027Arpa del Clot, concretamente en el complejo entre las calles Muntanya 83 y Pistó 6, Barcelona.  Esta plaza de garaje fue construida en el año 1997.\r\n\r\nCaracterísticas del inmueble:\r\n\r\nEspléndido garaje de 10 m2. \r\nPlaza de aparcamiento ideal para coches pequeños y motocicletas\r\nBuen acceso mediante rampa y puerta automática.\r\nAscensor en la finca.\r\n\r\n\r\nRespecto a la ubicación, se sitúa en Barcelona, municipio de Barcelona.\r\nUbicado en una zona con alta demanda de aparcamiento, cerca de todos los servicios y con excelente comunicación por transporte público.\r\n\r\nNo lo dudes más y contacta con nosotros para agendar una visita, conseguiremos la propiedad que necesitas.\r\n\r\nEl precio de venta no incluye gastos de la compraventa como notaría, registro, impuestos, ni tampoco honorarios agencia. Esta publicación no es vinculante. Consulta siempre la nota simple con Housfy antes de formalizar la compraventa.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es la plataforma integral de servicios inmobiliarios. Nuestra combinación de expertos y tecnología pone al alcance de todo el mundo servicios cómodos, claros y seguros. AICAT número: 7922.\r\n\r\nNos encargamos de la gestión y asesoramiento de la compra. ¡Olvídate de todo! Hacemos los trámites por ti. Y, si además necesitas financiación, ponemos a tu disposición un bróker hipotecario para ayudarte a conseguir las mejores condiciones para tu perfil económico.\r\n\r\n¿Tienes alguna duda? Pregúntanos sin compromiso o visítanos en housfy.com.",
-    "tags": [],
-    "canScheduleVisits": false,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Sant Martí",
-    "neighborhoodLocationName": "El Camp de l\u0027Arpa del Clot",
-    "streetName": "Carrer del Pistó",
-    "streetNumber": "6",
-    "floor": "P4",
-    "door": "3",
-    "floorDoorLabel": "",
-    "latitude": 41.41188431,
-    "longitude": 2.18395686,
-    "price": {
-      "amount": 1600000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 160000,
-      "currency": "EUR"
-    },
-    "priceChangePercentage": "-5.88",
-    "isNew": false,
-    "isPriceUpdated": false,
-    "isReserved": false,
-    "isSold": false
-  },
   "645e78bf-95bf-49b4-b00b-7dce9fef9876": {
     "uuid": "645e78bf-95bf-49b4-b00b-7dce9fef9876",
     "providerCode": "housfy",
@@ -343,10 +343,10 @@
     },
     "size": 70,
     "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/980790/980790-housfy-20260524-fIoxWqxY65-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/980790/980790-housfy-20260524-5HOHuOUOLO-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/980790/980790-housfy-20260524-BPltbwMGYH-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/980790/980790-housfy-20260524-fIoxWqxY65-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/980790/980790-housfy-20260524-VpnDhGTPID-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/980790/980790-housfy-20260524-BPltbwMGYH-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/980790/980790-housfy-20260524-nyVqEnrvo1-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/980790/980790-housfy-20260524-CwpwWqBHVh-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/980790/980790-housfy-20260524-BjNPSuSJ9W-420x280.jpg",
@@ -359,19 +359,19 @@
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/980790/980790-housfy-20260524-fteteGi3vY-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/980790/980790-housfy-20260524-rPqnqoRA1U-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/980790/980790-housfy-20260524-xcTw290KcU-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/980790/980790-housfy-20260524-yO8TOsz3Pl-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/980790/980790-housfy-20260524-rBSUTd4iFQ-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/980790/980790-housfy-20260524-jTU2vu2y5p-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/980790/980790-housfy-20260524-yO8TOsz3Pl-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/980790/980790-housfy-20260524-5yVr9OMgd3-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/980790/980790-housfy-20260524-jTU2vu2y5p-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/980790/980790-housfy-20260524-VwkZbpCjPe-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/980790/980790-housfy-20260524-1dnfUP8Z0a-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/980790/980790-housfy-20260524-1VBJjEYOqA-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/980790/980790-housfy-20260524-Ok0pKF9T1Q-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/980790/980790-housfy-20260524-aGHC96xwsr-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/980790/980790-housfy-20260524-AKrHfvxYu7-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/980790/980790-housfy-20260524-aGHC96xwsr-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/980790/980790-housfy-20260528-oUAEyfbBmd-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/980790/980790-housfy-20260529-xAGyuufMpo-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/980790/980790-housfy-20260616-U8EYepnZXL-420x280.jpg"
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/980790/980790-housfy-20260617-gETyu0H1Su-420x280.jpg"
     ],
     "numberOfBedrooms": 2,
     "numberOfBathrooms": 1,
