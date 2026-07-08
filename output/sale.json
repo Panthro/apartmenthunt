@@ -496,7 +496,7 @@
     "providerPropertyUrl": "https://housfy.com/venta-pisos/p/barcelona/calle-selva-de-mar-980790",
     "providerPropertyTitle": "Piso exterior y Luminoso en Diagonal Mar",
     "publishedDate": "2026-05-28T11:47:34Z",
-    "relevance": 700,
+    "relevance": 800,
     "typeId": 2,
     "typeCode": "piso",
     "locationId": 1789,
@@ -508,8 +508,8 @@
     },
     "size": 70,
     "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/980790/980790-housfy-20260524-BPltbwMGYH-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/980790/980790-housfy-20260524-5HOHuOUOLO-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/980790/980790-housfy-20260524-BPltbwMGYH-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/980790/980790-housfy-20260524-fIoxWqxY65-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/980790/980790-housfy-20260524-VpnDhGTPID-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/980790/980790-housfy-20260524-BjNPSuSJ9W-420x280.jpg",
@@ -536,7 +536,7 @@
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/980790/980790-housfy-20260524-AKrHfvxYu7-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/980790/980790-housfy-20260528-oUAEyfbBmd-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/980790/980790-housfy-20260529-xAGyuufMpo-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/980790/980790-housfy-20260706-0jaWt57zU2-420x280.jpg"
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/980790/980790-housfy-20260708-WLtF1TV2bF-420x280.jpg"
     ],
     "numberOfBedrooms": 2,
     "numberOfBathrooms": 1,
