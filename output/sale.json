@@ -323,7 +323,7 @@
     "providerPropertyUrl": "https://housfy.com/venta-pisos/p/barcelona/carrer-de-pere-iv-986492",
     "providerPropertyTitle": "Encantador piso reformado con espectaculares vistas a la Torre Glòries – Pere IV, Barcelona",
     "publishedDate": "2026-06-25T13:38:31Z",
-    "relevance": 200,
+    "relevance": 800,
     "typeId": 2,
     "typeCode": "piso",
     "locationId": 1793,
@@ -357,11 +357,11 @@
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/986492/986492-housfy-20260616-ym89eJV8tX-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/986492/986492-housfy-20260616-V8CpjwL0lP-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/986492/986492-housfy-20260616-rgpLnbWaUP-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/986492/986492-housfy-20260616-FDJ3GuSZhR-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/986492/986492-housfy-20260616-UUKtoNJ87C-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/986492/986492-housfy-20260616-P1gfszC21Y-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/986492/986492-housfy-20260616-FDJ3GuSZhR-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/986492/986492-housfy-20260616-34RoGLu5bU-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/986492/986492-housfy-20260714-j9kUQI582o-420x280.jpg"
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/986492/986492-housfy-20260616-P1gfszC21Y-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/986492/986492-housfy-20260715-0maMNWtd5m-420x280.jpg"
     ],
     "numberOfBedrooms": 1,
     "numberOfBathrooms": 1,
