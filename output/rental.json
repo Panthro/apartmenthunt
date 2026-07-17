@@ -1,1 +1,92 @@
-{}
+{
+  "0cbd9d76-8a6a-443f-b303-99238d021b99": {
+    "uuid": "0cbd9d76-8a6a-443f-b303-99238d021b99",
+    "providerCode": "housfy",
+    "providerPropertyId": 988751,
+    "providerPropertyUrl": "https://housfy.com/alquiler-pisos/p/barcelona/carrer-darago-988751",
+    "publishedDate": "2026-07-14T15:28:36Z",
+    "relevance": 1784291465,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1748,
+    "sizes": {
+      "size": 86,
+      "sizeBuiltWithoutCommonElements": 86,
+      "sizeBuilt": 86,
+      "sizeUseful": 86
+    },
+    "size": 86,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/988751/988751-housfy-20260713-3bw1IoVyel-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/988751/988751-housfy-20260713-M5RSGQDoAH-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/988751/988751-housfy-20260713-TTZ6q2Kip0-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/988751/988751-housfy-20260713-gcYMmmlbMH-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/988751/988751-housfy-20260713-mtQwEphTC5-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/988751/988751-housfy-20260713-ErwzI9li2b-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/988751/988751-housfy-20260713-1Xi1MQgNTr-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/988751/988751-housfy-20260713-wqCkQ3rPpI-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/988751/988751-housfy-20260713-PHuNFWfY2F-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/988751/988751-housfy-20260713-gcZiVLTIF9-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/988751/988751-housfy-20260713-G51GV7wacQ-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/988751/988751-housfy-20260713-QuONp2fD1H-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/988751/988751-housfy-20260713-3h5RrFZRmr-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/988751/988751-housfy-20260713-wpK3a4XumB-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/988751/988751-housfy-20260713-HxdVXfwQFX-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/988751/988751-housfy-20260713-WSkchWCrSJ-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/988751/988751-housfy-20260713-WBjt6SieLz-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/988751/988751-housfy-20260713-5jjrkrEllB-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/988751/988751-housfy-20260713-TDqbBUXxE2-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/988751/988751-housfy-20260713-cl8P2nolU5-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/988751/988751-housfy-20260713-DHDegAaGOF-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/988751/988751-housfy-20260713-aXUetTNESj-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/988751/988751-housfy-20260713-1b3V81F7vp-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/988751/988751-housfy-20260713-EDYko5RpQ7-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/988751/988751-housfy-20260713-fVwpw1VaHO-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/988751/988751-housfy-20260713-ahNnVISPWl-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/988751/988751-housfy-20260717-7XtPcSzMBa-420x280.jpg"
+    ],
+    "numberOfBedrooms": 3,
+    "numberOfBathrooms": 2,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "rental",
+    "isVisible": true,
+    "description": "Housfy alquila 🏡 piso, consta de 86 m² (verificados con la Dirección General de Catastro). Construido en el año: 2016, ubicado en  Eixample de  Barcelona.\r\n\r\nDistribución de estancias\r\n- Amplio Salón-comedor exterior \r\n-Cocina equipada con todos los electrodomésticos.  Maquina de osmosis instalada,\r\n- 3 habitaciones (1 suit) \r\n- 2 balos completos , 1 con  ducha y otro con bañera \r\n\r\nCaracterísticas específicas\r\n-Ascensor\r\n-Amueblado\r\n- Calefacción por suelo radiante de agua \r\n- Aire Acondicionado por conductos , regulados en cada estancia .\r\n- Maquina de renovación de aire instalada \r\n- Ventas con doble cámara aislante oscilobatientes  \r\n- Persianas motorizadas \r\n- Plaza de aparcamiento  en el mismo edificio \r\n\r\nSituado en un edificio muy familiar , muy tranquilo  y con todos los servicios próximos  y metro Encantes y Clot \r\n-Servicios dados de alta:  SI \r\n-Esta propiedad cuenta con Cédula de habitabilidad:  CHB05509116054\r\n-Número de registro CE: GQF9K5ZM5\r\n\r\nImporte mensual (  2.169, ) euros:\r\n- (2090,81  ) euros mensuales en concepto de renta\r\n- (  73.,83 ) euros mensuales en concepto de IBI (anual / semestral).\r\n- (5,68) euros mensuales en concepto de IBI parking   (anual / semestral).\r\n\r\nCondiciones adicionales:\r\n1 mes de fianza (    2090 euros ) + 2 meses (    4.180euros ) de garantía adicional.\r\n- Forma de actualización de la renta: IPC y, en su defecto el que sea aplicable según normativa vigente (a día de hoy, IRAV).\r\n- Plazo del arrendamiento: 1 año prorrogable obligatoriamente por plazos anuales hasta que el arrendamiento alcance una duración mínima de 5 años, de conformidad con el art.9 LAU (7 años en caso de que el arrendador sea  persona jurídica)\r\n\r\nZona y entorno\r\nEsta propiedad se encuentra en el barrio de La Sagrada Família, Barcelona. \r\n\r\n[A los efectos del artículo 17.6 y 17.7 de la Ley de Arrendamientos Urbanos se hacen constar los siguientes datos:\r\n- Vivienda situada en zona de mercado residencial tensionado (relación publicada en el BOE de 15 de marzo por el Ministerio de la Vivienda y Agenda Urbana): SÍ\r\n- Condición del arrendador GRAN TENEDOR: NO\r\n- Índice de precios de referencia publicado por el \"Ministerio de la Vivienda y Agenda Urbana\":  1.011,35€ y 1.362,31€\r\n- Situación dentro de los últimos 5 años: ALQUILADO\r\n En caso de que estuviera alquilado, datos del contrato anterior de vivienda habitual\r\n-FECHA: 2026-01\r\n-RENTA: 2100€\r\n- Fecha prevista de disponibilidad del inmueble: ]\r\n\r\nAviso legal (alquiler)\r\nHousfy es una plataforma tecnológica que ofrece al propietario/a todos los servicios necesarios para que pueda alquilar la propiedad por su cuenta. Para tu seguridad, nunca cobramos honorarios ni reservas de inmuebles en alquiler antes de la firma del contrato de reserva. Para más información, visítanos en housfy.com. AICAT número: 7922.\r\n\r\nSobre nosotros\r\nHousfy es la plataforma integral de servicios inmobiliarios. Nuestra combinación de expertos y tecnología pone al alcance de todo el mundo servicios cómodos, claros y seguros. AICAT número: 7922. Para tu seguridad, nunca cobramos honorarios ni reservas de inmuebles en alquiler antes de la firma del contrato de reserva.\r\n\r\n¿Quieres visitarla? Contacta con Housfy y agenda tu visita sin compromiso. Más información en: housfy.com",
+    "tags": [
+      23,
+      24,
+      26,
+      31,
+      33
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Eixample",
+    "neighborhoodLocationName": "La Sagrada Família",
+    "streetName": "Carrer d\u0027Aragó",
+    "streetNumber": "499",
+    "floor": "01",
+    "door": "D",
+    "floorDoorLabel": "",
+    "latitude": 41.40494156,
+    "longitude": 2.18125129,
+    "price": {
+      "amount": 216900,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 2522,
+      "currency": "EUR"
+    },
+    "priceChangePercentage": "-0.48",
+    "isNew": true,
+    "isPriceUpdated": true,
+    "isReserved": false,
+    "isSold": false
+  }
+}
