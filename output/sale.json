@@ -84,155 +84,6 @@
     "isReserved": false,
     "isSold": false
   },
-  "00870003-ef55-43ae-8520-067ddec0fcac": {
-    "uuid": "00870003-ef55-43ae-8520-067ddec0fcac",
-    "providerCode": "housfy",
-    "providerPropertyId": 952911,
-    "providerPropertyUrl": "https://housfy.com/venta-garajes/p/barcelona/carrer-del-pisto-952911",
-    "providerPropertyTitle": "Fenomenal garaje en Sant Martí",
-    "publishedDate": "2025-12-23T10:30:33Z",
-    "relevance": 1781688589,
-    "typeId": 8,
-    "typeCode": "garaje",
-    "locationId": 1791,
-    "sizes": {
-      "size": 10,
-      "sizeBuiltWithoutCommonElements": 10,
-      "sizeBuilt": 10,
-      "sizeUseful": 10
-    },
-    "size": 10,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/952911/952911-housfy-20251222-Qhq0OuFgp8-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/952911/952911-housfy-20251222-wtEpNp5Ez9-420x280.jpg"
-    ],
-    "numberOfBedrooms": 0,
-    "numberOfBathrooms": 0,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "sale",
-    "isVisible": true,
-    "description": "Housfy vende plaza de garaje en Sant Martí.\r\n\r\nSe vende plaza de garaje en El Camp de l\u0027Arpa del Clot, concretamente en el complejo entre las calles Muntanya 83 y Pistó 6, Barcelona.  Esta plaza de garaje fue construida en el año 1997.\r\n\r\nCaracterísticas del inmueble:\r\n\r\nEspléndido garaje de 10 m2. \r\nPlaza de aparcamiento ideal para coches pequeños y motocicletas\r\nBuen acceso mediante rampa y puerta automática.\r\nAscensor en la finca.\r\n\r\n\r\nRespecto a la ubicación, se sitúa en Barcelona, municipio de Barcelona.\r\nUbicado en una zona con alta demanda de aparcamiento, cerca de todos los servicios y con excelente comunicación por transporte público.\r\n\r\nNo lo dudes más y contacta con nosotros para agendar una visita, conseguiremos la propiedad que necesitas.\r\n\r\nEl precio de venta no incluye gastos de la compraventa como notaría, registro, impuestos, ni tampoco honorarios agencia. Esta publicación no es vinculante. Consulta siempre la nota simple con Housfy antes de formalizar la compraventa.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es la plataforma integral de servicios inmobiliarios. Nuestra combinación de expertos y tecnología pone al alcance de todo el mundo servicios cómodos, claros y seguros. AICAT número: 7922.\r\n\r\nNos encargamos de la gestión y asesoramiento de la compra. ¡Olvídate de todo! Hacemos los trámites por ti. Y, si además necesitas financiación, ponemos a tu disposición un bróker hipotecario para ayudarte a conseguir las mejores condiciones para tu perfil económico.\r\n\r\n¿Tienes alguna duda? Pregúntanos sin compromiso o visítanos en housfy.com.",
-    "tags": [],
-    "canScheduleVisits": false,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Sant Martí",
-    "neighborhoodLocationName": "El Camp de l\u0027Arpa del Clot",
-    "streetName": "Carrer del Pistó",
-    "streetNumber": "6",
-    "floor": "P4",
-    "door": "3",
-    "floorDoorLabel": "",
-    "latitude": 41.41188431,
-    "longitude": 2.18395686,
-    "price": {
-      "amount": 1500000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 150000,
-      "currency": "EUR"
-    },
-    "priceChangePercentage": "-6.25",
-    "isNew": false,
-    "isPriceUpdated": false,
-    "isReserved": false,
-    "isSold": false
-  },
-  "00d2126a-50b0-4019-91a1-cafe686d8fd6": {
-    "uuid": "00d2126a-50b0-4019-91a1-cafe686d8fd6",
-    "providerCode": "housfy",
-    "providerPropertyId": 986492,
-    "providerPropertyUrl": "https://housfy.com/venta-pisos/p/barcelona/carrer-de-pere-iv-986492",
-    "providerPropertyTitle": "Encantador piso reformado con espectaculares vistas a la Torre Glòries – Pere IV, Barcelona",
-    "publishedDate": "2026-06-25T13:38:31Z",
-    "relevance": 900,
-    "typeId": 2,
-    "typeCode": "piso",
-    "locationId": 1793,
-    "sizes": {
-      "size": 50,
-      "sizeBuiltWithoutCommonElements": 50,
-      "sizeBuilt": 50,
-      "sizeUseful": 46
-    },
-    "size": 50,
-    "photos": [
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/986492/986492-housfy-20260616-eNHsgCIC5r-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/986492/986492-housfy-20260616-VVR2lxh2VB-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/986492/986492-housfy-20260616-Tsr1czCxbV-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/986492/986492-housfy-20260616-MP28dI4bgA-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/986492/986492-housfy-20260616-dBiEcuVqnj-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/986492/986492-housfy-20260616-1Hl7aTYC5v-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/986492/986492-housfy-20260616-phOxr3rb5v-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/986492/986492-housfy-20260616-bKyQ4xbt7G-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/986492/986492-housfy-20260616-ACnndZ4s21-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/986492/986492-housfy-20260616-gsfG6dA3W9-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/986492/986492-housfy-20260616-xlgpR9vxLd-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/986492/986492-housfy-20260616-aCUOUcDTuD-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/986492/986492-housfy-20260616-xzatD3pcCA-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/986492/986492-housfy-20260616-qioH7c5K8t-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/986492/986492-housfy-20260616-cbqE2q5C5s-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/986492/986492-housfy-20260616-8PE2RUeuZW-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/986492/986492-housfy-20260616-ePwBWNjVAH-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/986492/986492-housfy-20260616-WDfedYSnFN-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/986492/986492-housfy-20260616-Yww0pReBpG-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/986492/986492-housfy-20260616-ym89eJV8tX-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/986492/986492-housfy-20260616-V8CpjwL0lP-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/986492/986492-housfy-20260616-rgpLnbWaUP-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/986492/986492-housfy-20260616-UUKtoNJ87C-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/986492/986492-housfy-20260616-FDJ3GuSZhR-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/986492/986492-housfy-20260616-P1gfszC21Y-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/986492/986492-housfy-20260616-34RoGLu5bU-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/986492/986492-housfy-20260917-AwkkjTOWjs-420x280.jpg"
-    ],
-    "numberOfBedrooms": 1,
-    "numberOfBathrooms": 1,
-    "userName": "Housfy Real Estate",
-    "userPhone": {
-      "countryCode": "+34",
-      "phone": "936555672",
-      "internationalPhone": "+34936555672"
-    },
-    "operationTypeCode": "sale",
-    "isVisible": true,
-    "description": "¡Una auténtica joya en las alturas del Poblenou/Sant Martí!\r\n\r\n Si buscas un piso con personalidad, luz a raudales y vistas despejadas, este cuarto piso real te va a enamorar. Situado en una finca regia de 1900 completamente rehabilitada (con ascensor), ofrece además la tranquilidad de tener todas las derramas de la ITE pagadas por el propietario.\r\n\r\nDistribución y encanto: El piso ha sido completamente reformado con un gusto exquisito, aprovechando al máximo cada rincón para crear un hogar acogedor y funcional.\r\nTambién es ideal para inversores que quieran rentabilizar su activo desde el primer día. Posibilidad de alquilarlo a precio libre para ocio/vacaciones, o también alquiler de larga estancia. \r\n\r\nZona de día: Consta de un precioso salón-comedor con cocina americana totalmente equipada. El gran atractivo de este espacio son sus grandes ventanales, que inundan la estancia de luz natural y ofrecen unas vistas panorámicas espectaculares de Barcelona, destacando la icónica Torre Glòries (antigua Torre Agbar).\r\n\r\nZona de noche: 1 habitación doble, independiente y muy acogedora.\r\nBaño: 1 baño completo de diseño moderno y funcional.\r\n\r\nExtras y zonas comunes:\r\nConfort: Climatizado con dos splits de aire acondicionado (frío/calor) estratégicamente colocados para una temperatura perfecta.\r\nSuelos: Parquet de alta calidad que aporta calidez a toda la vivienda.\r\n\r\nTerraza comunitaria: El edificio dispone de una magnífica terraza comunitaria, el lugar ideal para subir a relajarse, tender o disfrutar del clima de Barcelona.\r\n\r\nUn piso idílico, listo para entrar a vivir con las maletas. ¡Ven a ver las vistas en persona!\r\n\r\nAviso legal  \r\nEl precio de venta no incluye gastos de la compraventa como notaría, registro, impuestos, ni tampoco honorarios agencia. Esta publicación no es vinculante. Consulta siempre la nota simple con Housfy antes de formalizar la compraventa.\r\n\r\nSobre nosotros :\r\n\r\nHousfy es la plataforma integral de servicios inmobiliarios. Nuestra combinación de expertos y tecnología pone al alcance de todo el mundo servicios cómodos, claros y seguros. AICAT número: 7922.  \r\nNos encargamos de la gestión y asesoramiento de la compra. ¡Olvídate de todo! Hacemos los trámites por ti. Y, si además necesitas financiación, ponemos a tu disposición un bróker hipotecario para ayudarte a conseguir las mejores condiciones para tu perfil económico.\r\n\r\n¿Quieres visitarla? Contacta con Housfy y agenda tu visita sin compromiso. Más información en: housfy.com",
-    "tags": [
-      23,
-      26,
-      33
-    ],
-    "canScheduleVisits": false,
-    "stateLocationName": "Barcelona",
-    "cityLocationName": "Barcelona",
-    "districtLocationName": "Sant Martí",
-    "neighborhoodLocationName": "El Parc i la Llacuna del Poblenou",
-    "streetName": "Carrer de Pere IV",
-    "streetNumber": "121",
-    "floor": "4º",
-    "door": "2º",
-    "floorDoorLabel": "",
-    "latitude": 41.40055084,
-    "longitude": 2.19563842,
-    "price": {
-      "amount": 31500000,
-      "currency": "EUR"
-    },
-    "priceSize": {
-      "amount": 630000,
-      "currency": "EUR"
-    },
-    "priceChangePercentage": "-1.25",
-    "isNew": false,
-    "isPriceUpdated": false,
-    "isReserved": false,
-    "isSold": false
-  },
   "645e78bf-95bf-49b4-b00b-7dce9fef9876": {
     "uuid": "645e78bf-95bf-49b4-b00b-7dce9fef9876",
     "providerCode": "housfy",
@@ -283,7 +134,7 @@
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/980790/980790-housfy-20260803-Dvi6ZHUJIN-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/980790/980790-housfy-20260529-xAGyuufMpo-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/980790/980790-housfy-20260528-oUAEyfbBmd-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/980790/980790-housfy-20261001-kb9dmUmpCQ-420x280.jpg"
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/980790/980790-housfy-20261001-PyV6DLgAgH-420x280.jpg"
     ],
     "numberOfBedrooms": 2,
     "numberOfBathrooms": 1,
@@ -295,7 +146,7 @@
     },
     "operationTypeCode": "sale",
     "isVisible": true,
-    "description": "Housfy vende 🏡 luminoso piso ubicado en Barcelona, el cuál consta de 70 metros útiles (verificados con la Dirección General de Catastro). Construido en el año: 1965.\r\n\r\nDistribución de estancias  \r\n-Salón-comedor  \r\n-2 Dormitorios  \r\n-1 Baño  \r\n-Cocina equipada  \r\n\r\nCaracterísticas específicas  \r\n-Cédula de habitabilidad  \r\n-Ascensor  \r\n-Armario  \r\n-Aire acondicionado  \r\n-Trastero  \r\n-Electrodomésticos  \r\n-Parquet  \r\n-Balcón  \r\n-Zonas comunitarias  \r\n-Vistas a la montaña  \r\n-Lavadero  \r\n\r\nZona y entorno  \r\nRespecto a la ubicación, se sitúa en Barcelona, municipio de Barcelona. Esta propiedad se encuentra cerca de transporte público.\r\n\r\nAviso legal  \r\nEl precio de venta no incluye gastos de la compraventa como notaría, registro, impuestos, ni tampoco honorarios agencia. Esta publicación no es vinculante. Consulta siempre la nota simple con Housfy antes de formalizar la compraventa.\r\n\r\nSobre nosotros  \r\nHousfy es la plataforma integral de servicios inmobiliarios. Nuestra combinación de expertos y tecnología pone al alcance de todo el mundo servicios cómodos, claros y seguros. AICAT número: 7922. Nos encargamos de la gestión y asesoramiento de la compra. ¡Olvídate de todo! Hacemos los trámites por ti. Y, si además necesitas financiación, ponemos a tu disposición un bróker hipotecario para ayudarte a conseguir las mejores condiciones para tu perfil económico.\r\n\r\n¿Quieres visitarla? Contacta con Housfy y agenda tu visita sin compromiso. Más información en: housfy.com",
+    "description": "Housfy vende 🏡 luminoso piso ubicado en Barcelona, el cuál consta de 70 metros útiles (verificados con la Dirección General de Catastro). Construido en el año: 1965.\r\n\r\nDistribución de estancias  \r\n-Salón-comedor  \r\n-2 Dormitorios  \r\n-1 Baño  \r\n-Cocina equipada  \r\n\r\nCaracterísticas específicas  \r\n-Cédula de habitabilidad  \r\n-Ascensor  \r\n-Armario  \r\n-Aire acondicionado  \r\n-Trastero  \r\n-Electrodomésticos  \r\n-Parquet  \r\n-Balcón  \r\n-Zonas comunitarias  \r\n-Vistas a la montaña  \r\n-Lavadero  \r\n\r\nZona y entorno  \r\nRespecto a la ubicación, se sitúa en Barcelona, municipio de Barcelona. Esta propiedad se encuentra cerca de transporte público.\r\n\r\nAviso legal  \r\nEl precio de venta no incluye gastos de la compraventa como notaría, registro, impuestos, ni tampoco honorarios agencia. Esta publicación no es vinculante. Consulta siempre la nota simple con Housfy antes de formalizar la compraventa.\r\n\r\nSobre nosotros  \r\nHousfy es la plataforma integral de servicios inmobiliarios. Nuestra combinación de expertos y tecnología pone al alcance de todo el mundo servicios cómodos, claros y seguros. AICAT número: 7922. Nos encargamos de la gestión y asesoramiento de la compra. ¡Olvídate de todo! Hacemos los trámites por ti. Y, si además necesitas financiación, ponemos a tu disposición un bróker hipotecario para ayudarte a conseguir las mejores condiciones para tu perfil económico.\r\n\r\n¿Quieres visitarla? Contacta con Housfy y agenda tu visita sin compromiso. Más información en: housfy.com\r\n\r\nEn cumplimiento de la Ley 8/2026 en Cataluña, el certificado de presencia o ausencia de amianto se encuentra en proceso de tramitación.",
     "tags": [
       23,
       26
@@ -371,7 +222,7 @@
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/992158/992158-housfy-20260812-CreCc4thoX-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/992158/992158-housfy-20260806-TouGkLDqUt-420x280.jpg",
       "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/992158/992158-housfy-20260819-qurCLAQHKq-420x280.jpg",
-      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/992158/992158-housfy-20260925-dieRAKzK7H-420x280.jpg"
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/992158/992158-housfy-20261001-8SqMZ6rlFZ-420x280.jpg"
     ],
     "numberOfBedrooms": 2,
     "numberOfBathrooms": 1,
@@ -383,7 +234,7 @@
     },
     "operationTypeCode": "sale",
     "isVisible": true,
-    "description": "Si buscas una vivienda diferente, lista para entrar a vivir y con la posibilidad de adaptarla a tus necesidades, esta propiedad en calle Marina te sorprenderá.\r\n\r\nUbicada en una segunda planta real con ascensor, esta vivienda ha sido reformada y actualmente ofrece un atractivo diseño tipo loft, con una distribución abierta que potencia la luz natural y la sensación de amplitud.\r\n\r\nUno de sus grandes valores es su versatilidad: originalmente disponía de dos dormitorios (uno de ellos doble), una distribución que puede recuperarse fácilmente, convirtiéndola en una excelente opción tanto para quienes buscan un hogar como para quienes piensan en una inversión con gran potencial.\r\n\r\nDispone de aire acondicionado, lo que garantiza el máximo confort durante todo el año.\r\n\r\nUno de los grandes atractivos de esta vivienda es, sin duda, su magnífica ubicación en la calle Marina. Una zona que combina a la perfección la vida urbana de Barcelona con la proximidad al mar.\r\n\r\nEl piso se encuentra a pocos minutos andando de la Vila Olímpica y a escasas cinco calles de la playa, permitiendo disfrutar del litoral barcelonés prácticamente a pie. Una ubicación ideal tanto para quienes buscan vivir cerca del mar como para quienes valoran tener todos los servicios y comodidades al alcance.\r\n\r\nLa zona cuenta además con una gran variedad de restaurantes, cafeterías, comercios y servicios, y ofrece un ambiente dinámico y agradable durante todo el año. A ello se suma su excelente conexión con el resto de la ciudad mediante transporte público y su cercanía a zonas tan emblemáticas como el Puerto Olímpico, el paseo marítimo y el Parc de la Ciutadella.\r\n\r\nVivir aquí significa tener Barcelona y el Mediterráneo a tu alcance, en una de las zonas más atractivas y consolidadas de la ciudad.\r\n\r\nUna vivienda con personalidad, lista para disfrutar desde el primer día y con el valor añadido de poder transformarla según tus necesidades.\r\n\r\nAviso legal\r\nEl precio de venta no incluye gastos de la compraventa como notaría, registro, impuestos, ni tampoco honorarios agencia. Esta publicación no es vinculante. Consulta siempre la nota simple con Housfy antes de formalizar la compraventa.\r\n\r\nSobre nosotros\r\nHousfy es la plataforma integral de servicios inmobiliarios. Nuestra combinación de expertos y tecnología pone al alcance de todo el mundo servicios cómodos, claros y seguros. AICAT número: 7922. Nos encargamos de la gestión y asesoramiento de la compra. ¡Olvídate de todo! Hacemos los trámites por ti. Y, si además necesitas financiación, ponemos a tu disposición un bróker hipotecario para ayudarte a conseguir las mejores condiciones para tu perfil económico.\r\n\r\n¿Quieres visitarla? Contacta con Housfy y agenda tu visita sin compromiso. Más información en: housfy.com",
+    "description": "Si buscas una vivienda diferente, lista para entrar a vivir y con la posibilidad de adaptarla a tus necesidades, esta propiedad en calle Marina te sorprenderá.\r\n\r\nUbicada en una segunda planta real con ascensor, esta vivienda ha sido reformada y actualmente ofrece un atractivo diseño tipo loft, con una distribución abierta que potencia la luz natural y la sensación de amplitud.\r\n\r\nUno de sus grandes valores es su versatilidad: originalmente disponía de dos dormitorios (uno de ellos doble), una distribución que puede recuperarse fácilmente, convirtiéndola en una excelente opción tanto para quienes buscan un hogar como para quienes piensan en una inversión con gran potencial.\r\n\r\nDispone de aire acondicionado, lo que garantiza el máximo confort durante todo el año.\r\n\r\nUno de los grandes atractivos de esta vivienda es, sin duda, su magnífica ubicación en la calle Marina. Una zona que combina a la perfección la vida urbana de Barcelona con la proximidad al mar.\r\n\r\nEl piso se encuentra a pocos minutos andando de la Vila Olímpica y a escasas cinco calles de la playa, permitiendo disfrutar del litoral barcelonés prácticamente a pie. Una ubicación ideal tanto para quienes buscan vivir cerca del mar como para quienes valoran tener todos los servicios y comodidades al alcance.\r\n\r\nLa zona cuenta además con una gran variedad de restaurantes, cafeterías, comercios y servicios, y ofrece un ambiente dinámico y agradable durante todo el año. A ello se suma su excelente conexión con el resto de la ciudad mediante transporte público y su cercanía a zonas tan emblemáticas como el Puerto Olímpico, el paseo marítimo y el Parc de la Ciutadella.\r\n\r\nVivir aquí significa tener Barcelona y el Mediterráneo a tu alcance, en una de las zonas más atractivas y consolidadas de la ciudad.\r\n\r\nUna vivienda con personalidad, lista para disfrutar desde el primer día y con el valor añadido de poder transformarla según tus necesidades.\r\n\r\nAviso legal\r\nEl precio de venta no incluye gastos de la compraventa como notaría, registro, impuestos, ni tampoco honorarios agencia. Esta publicación no es vinculante. Consulta siempre la nota simple con Housfy antes de formalizar la compraventa.\r\n\r\nSobre nosotros\r\nHousfy es la plataforma integral de servicios inmobiliarios. Nuestra combinación de expertos y tecnología pone al alcance de todo el mundo servicios cómodos, claros y seguros. AICAT número: 7922. Nos encargamos de la gestión y asesoramiento de la compra. ¡Olvídate de todo! Hacemos los trámites por ti. Y, si además necesitas financiación, ponemos a tu disposición un bróker hipotecario para ayudarte a conseguir las mejores condiciones para tu perfil económico.\r\n\r\n¿Quieres visitarla? Contacta con Housfy y agenda tu visita sin compromiso. Más información en: housfy.com\r\n\r\nEn cumplimiento de la Ley 8/2026 en Cataluña, el certificado de presencia o ausencia de amianto se encuentra en proceso de tramitación.",
     "tags": [
       26,
       29
@@ -409,6 +260,155 @@
       "currency": "EUR"
     },
     "priceChangePercentage": "-1.72",
+    "isNew": false,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
+  },
+  "00d2126a-50b0-4019-91a1-cafe686d8fd6": {
+    "uuid": "00d2126a-50b0-4019-91a1-cafe686d8fd6",
+    "providerCode": "housfy",
+    "providerPropertyId": 986492,
+    "providerPropertyUrl": "https://housfy.com/venta-pisos/p/barcelona/carrer-de-pere-iv-986492",
+    "providerPropertyTitle": "Encantador piso reformado con espectaculares vistas a la Torre Glòries – Pere IV, Barcelona",
+    "publishedDate": "2026-06-25T13:38:31Z",
+    "relevance": 600,
+    "typeId": 2,
+    "typeCode": "piso",
+    "locationId": 1793,
+    "sizes": {
+      "size": 50,
+      "sizeBuiltWithoutCommonElements": 50,
+      "sizeBuilt": 50,
+      "sizeUseful": 46
+    },
+    "size": 50,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/986492/986492-housfy-20260616-eNHsgCIC5r-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/986492/986492-housfy-20260616-VVR2lxh2VB-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/986492/986492-housfy-20260616-Tsr1czCxbV-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/986492/986492-housfy-20260616-MP28dI4bgA-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/986492/986492-housfy-20260616-dBiEcuVqnj-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/986492/986492-housfy-20260616-1Hl7aTYC5v-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/986492/986492-housfy-20260616-phOxr3rb5v-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/986492/986492-housfy-20260616-bKyQ4xbt7G-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/986492/986492-housfy-20260616-ACnndZ4s21-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/986492/986492-housfy-20260616-gsfG6dA3W9-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/986492/986492-housfy-20260616-xlgpR9vxLd-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/986492/986492-housfy-20260616-aCUOUcDTuD-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/986492/986492-housfy-20260616-xzatD3pcCA-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/986492/986492-housfy-20260616-qioH7c5K8t-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/986492/986492-housfy-20260616-cbqE2q5C5s-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/986492/986492-housfy-20260616-8PE2RUeuZW-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/986492/986492-housfy-20260616-ePwBWNjVAH-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/986492/986492-housfy-20260616-WDfedYSnFN-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/986492/986492-housfy-20260616-Yww0pReBpG-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/986492/986492-housfy-20260616-ym89eJV8tX-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/986492/986492-housfy-20260616-V8CpjwL0lP-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/986492/986492-housfy-20260616-rgpLnbWaUP-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/986492/986492-housfy-20260616-UUKtoNJ87C-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/986492/986492-housfy-20260616-FDJ3GuSZhR-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/986492/986492-housfy-20260616-P1gfszC21Y-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/986492/986492-housfy-20260616-34RoGLu5bU-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/986492/986492-housfy-20261001-TQ9ICjl90r-420x280.jpg"
+    ],
+    "numberOfBedrooms": 1,
+    "numberOfBathrooms": 1,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "¡Una auténtica joya en las alturas del Poblenou/Sant Martí!\r\n\r\n Si buscas un piso con personalidad, luz a raudales y vistas despejadas, este cuarto piso real te va a enamorar. Situado en una finca regia de 1900 completamente rehabilitada (con ascensor), ofrece además la tranquilidad de tener todas las derramas de la ITE pagadas por el propietario.\r\n\r\nDistribución y encanto: El piso ha sido completamente reformado con un gusto exquisito, aprovechando al máximo cada rincón para crear un hogar acogedor y funcional.\r\nTambién es ideal para inversores que quieran rentabilizar su activo desde el primer día. Posibilidad de alquilarlo a precio libre para ocio/vacaciones, o también alquiler de larga estancia. \r\n\r\nZona de día: Consta de un precioso salón-comedor con cocina americana totalmente equipada. El gran atractivo de este espacio son sus grandes ventanales, que inundan la estancia de luz natural y ofrecen unas vistas panorámicas espectaculares de Barcelona, destacando la icónica Torre Glòries (antigua Torre Agbar).\r\n\r\nZona de noche: 1 habitación doble, independiente y muy acogedora.\r\nBaño: 1 baño completo de diseño moderno y funcional.\r\n\r\nExtras y zonas comunes:\r\nConfort: Climatizado con dos splits de aire acondicionado (frío/calor) estratégicamente colocados para una temperatura perfecta.\r\nSuelos: Parquet de alta calidad que aporta calidez a toda la vivienda.\r\n\r\nTerraza comunitaria: El edificio dispone de una magnífica terraza comunitaria, el lugar ideal para subir a relajarse, tender o disfrutar del clima de Barcelona.\r\n\r\nUn piso idílico, listo para entrar a vivir con las maletas. ¡Ven a ver las vistas en persona!\r\n\r\nAviso legal  \r\nEl precio de venta no incluye gastos de la compraventa como notaría, registro, impuestos, ni tampoco honorarios agencia. Esta publicación no es vinculante. Consulta siempre la nota simple con Housfy antes de formalizar la compraventa.\r\n\r\nSobre nosotros :\r\n\r\nHousfy es la plataforma integral de servicios inmobiliarios. Nuestra combinación de expertos y tecnología pone al alcance de todo el mundo servicios cómodos, claros y seguros. AICAT número: 7922.  \r\nNos encargamos de la gestión y asesoramiento de la compra. ¡Olvídate de todo! Hacemos los trámites por ti. Y, si además necesitas financiación, ponemos a tu disposición un bróker hipotecario para ayudarte a conseguir las mejores condiciones para tu perfil económico.\r\n\r\n¿Quieres visitarla? Contacta con Housfy y agenda tu visita sin compromiso. Más información en: housfy.com\r\n\r\nEn cumplimiento de la Ley 8/2026 en Cataluña, el certificado de presencia o ausencia de amianto se encuentra en proceso de tramitación.",
+    "tags": [
+      23,
+      26,
+      33
+    ],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Sant Martí",
+    "neighborhoodLocationName": "El Parc i la Llacuna del Poblenou",
+    "streetName": "Carrer de Pere IV",
+    "streetNumber": "121",
+    "floor": "4º",
+    "door": "2º",
+    "floorDoorLabel": "",
+    "latitude": 41.40055084,
+    "longitude": 2.19563842,
+    "price": {
+      "amount": 31500000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 630000,
+      "currency": "EUR"
+    },
+    "priceChangePercentage": "-1.25",
+    "isNew": false,
+    "isPriceUpdated": false,
+    "isReserved": false,
+    "isSold": false
+  },
+  "00870003-ef55-43ae-8520-067ddec0fcac": {
+    "uuid": "00870003-ef55-43ae-8520-067ddec0fcac",
+    "providerCode": "housfy",
+    "providerPropertyId": 952911,
+    "providerPropertyUrl": "https://housfy.com/venta-garajes/p/barcelona/carrer-del-pisto-952911",
+    "providerPropertyTitle": "Fenomenal garaje en Sant Martí",
+    "publishedDate": "2025-12-23T10:30:33Z",
+    "relevance": 2,
+    "typeId": 8,
+    "typeCode": "garaje",
+    "locationId": 1791,
+    "sizes": {
+      "size": 10,
+      "sizeBuiltWithoutCommonElements": 10,
+      "sizeBuilt": 10,
+      "sizeUseful": 10
+    },
+    "size": 10,
+    "photos": [
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/952911/952911-housfy-20251222-Qhq0OuFgp8-420x280.jpg",
+      "https://s3-eu-west-1.amazonaws.com/housfy/prod/property-img/952911/952911-housfy-20251222-wtEpNp5Ez9-420x280.jpg"
+    ],
+    "numberOfBedrooms": 0,
+    "numberOfBathrooms": 0,
+    "userName": "Housfy Real Estate",
+    "userPhone": {
+      "countryCode": "+34",
+      "phone": "936555672",
+      "internationalPhone": "+34936555672"
+    },
+    "operationTypeCode": "sale",
+    "isVisible": true,
+    "description": "Housfy vende plaza de garaje en Sant Martí.\r\n\r\nSe vende plaza de garaje en El Camp de l\u0027Arpa del Clot, concretamente en el complejo entre las calles Muntanya 83 y Pistó 6, Barcelona.  Esta plaza de garaje fue construida en el año 1997.\r\n\r\nCaracterísticas del inmueble:\r\n\r\nEspléndido garaje de 10 m2. \r\nPlaza de aparcamiento ideal para coches pequeños y motocicletas\r\nBuen acceso mediante rampa y puerta automática.\r\nAscensor en la finca.\r\n\r\n\r\nRespecto a la ubicación, se sitúa en Barcelona, municipio de Barcelona.\r\nUbicado en una zona con alta demanda de aparcamiento, cerca de todos los servicios y con excelente comunicación por transporte público.\r\n\r\nNo lo dudes más y contacta con nosotros para agendar una visita, conseguiremos la propiedad que necesitas.\r\n\r\nEl precio de venta no incluye gastos de la compraventa como notaría, registro, impuestos, ni tampoco honorarios agencia. Esta publicación no es vinculante. Consulta siempre la nota simple con Housfy antes de formalizar la compraventa.\r\n\r\nSobre nosotros:\r\n\r\nHousfy es la plataforma integral de servicios inmobiliarios. Nuestra combinación de expertos y tecnología pone al alcance de todo el mundo servicios cómodos, claros y seguros. AICAT número: 7922.\r\n\r\nNos encargamos de la gestión y asesoramiento de la compra. ¡Olvídate de todo! Hacemos los trámites por ti. Y, si además necesitas financiación, ponemos a tu disposición un bróker hipotecario para ayudarte a conseguir las mejores condiciones para tu perfil económico.\r\n\r\n¿Tienes alguna duda? Pregúntanos sin compromiso o visítanos en housfy.com.\r\n\r\nEn cumplimiento de la Ley 8/2026 en Cataluña, el certificado de presencia o ausencia de amianto se encuentra en proceso de tramitación.",
+    "tags": [],
+    "canScheduleVisits": false,
+    "stateLocationName": "Barcelona",
+    "cityLocationName": "Barcelona",
+    "districtLocationName": "Sant Martí",
+    "neighborhoodLocationName": "El Camp de l\u0027Arpa del Clot",
+    "streetName": "Carrer del Pistó",
+    "streetNumber": "6",
+    "floor": "P4",
+    "door": "3",
+    "floorDoorLabel": "",
+    "latitude": 41.41188431,
+    "longitude": 2.18395686,
+    "price": {
+      "amount": 1500000,
+      "currency": "EUR"
+    },
+    "priceSize": {
+      "amount": 150000,
+      "currency": "EUR"
+    },
+    "priceChangePercentage": "-6.25",
     "isNew": false,
     "isPriceUpdated": false,
     "isReserved": false,
